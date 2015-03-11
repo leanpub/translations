@@ -1,0 +1,236 @@
+###
+# Leanpub Text Version 1.0, effective 2012-09-13. Copyright (c) 2010-2012 Ruboss Technology Corporation.
+#
+# Turkish
+# 2 letter code = tr. 3 letter code = tur.
+###
+tr:
+  support:
+    array:
+      last_word_connector: " ve " # Used in to_sentence
+  w_author_earns:
+    one: "Yazar kazanır"
+    other: "Yazarlar kazanır"
+  w_lang_srp: "Serbian"
+  w_lang_swe: "Swedish"
+  w_lang_tur: "Turkish"
+  w_language:
+    one: "lisan"
+    other: "lisanlar"
+  w_other_books_by_this_author:
+    one: "Bu yazarın diğer kitapları"
+    other: "Bu yazarların Diğer kitaplar"
+  w_other_language:
+    one: "other language"
+    other: "other languages"
+  w_share_email_with_author:
+    one: "Email adresinizi de yazarla paylaşınız."
+    other: "Email adresinizi de yazarlarla paylaşınız."
+############################################
+# With plurals above, without plurals below.
+############################################
+  w_100_pc_happiness_guarantee_html: <span class="pc">100%</span> Happiness guarantee
+  w_about_author: "Yazar Hakkında"
+  w_about_authors: "Yazarlar Hakkında"
+  w_about_book: "Kitap Hakkında"
+  w_about_editor: "Editör Hakkında"
+  w_about_editors: "Editörler Hakkında"
+  w_about_the_contributors: "Katkıda Bulunanlar Hakkında"
+  w_about_the_publisher: "Yayımcı Hakkında"
+  w_also_by: "Yazar "
+  w_also_by_the_author: "Yazarı"
+  w_also_by_the_authors: "Yazarları"
+  w_also_by_the_editor: "Editörü"
+  w_also_by_the_editors: "Katkıda Bulunan Editörler"
+  w_and_min_price: "en düşük fiyat"
+  w_author_letting_bundle: "Yazar kitabın fiyatını belirlemenize izin vermektedir! Önerilen fiyat şudur"
+  w_author_letting_you_set_price_html: "Yazar kitap için ödeyeceğiniz fiyatı kendiniz belirleyin istiyor! Önerilen fiyat şudur <strong>%{suggested}</strong>, en düşük fiyat %{minimum}."
+  w_book_dialect: "Kitabın şivesi:"
+  w_book_formats: "Kitabı satın alarak, Pdf, EPUB ve MOBI formatlarına da sahip olacaksınız, bu şekilde bilgisayarınızda, iPad'inizde, Kindle ve diğer ekitap formatlarında okuyabileceksiniz!"
+  w_book_is_done_html: "Yazar bu kitabın olmasını <strong>done</strong>!"
+  w_book_is_translation_html: "Bu kitap çevrilmiştir %{lang} 'den %{orig_book}, orjinal dili %{written_in}."
+  w_book_language: "Dil:"
+  w_book_num_translations_html: "<em>%{orig_book}</em> 'a çevrilmiştir %{num_translations} %{other_langs}."
+  w_book_published_on_leanpub_by: "Kitabı Leanpub'da yayımlayan"
+  w_books_included: "Dahil kitaplar"
+  w_bundle_about_books: "Kitaplar hakkında"
+  w_bundle_about_bundle: "Bohça hakkında"
+  w_bundle_buy_now: "Bohçayı satın al!"
+  w_bundle_description: "Bohça hakkında"
+  w_bundle_separate_price_html: "kitapların ayrı ayrı minimum fiyatı <strong>%{minimum}</strong> ve önerilen fiyatı <strong>%{suggested}</strong>…"
+  w_bundle_share: "Bohçayı paylaş:"
+  w_bundle_suggested_price_html: "Önerilen bohça fiyatı <strong>%{suggested}</strong>, ve minimum bohça fiyatı…"
+  w_bundles_available: "Geçerli bohçalar"
+  w_bundles_included: "Kitap şu bohçalarda da mevcuttur:"
+  w_buy_a_bundle_and_save: Buy a bundle, and save
+  w_buy_as_a_gift: "Hediye olarak al!"
+  w_buy_ebook: "Ekitap al"
+  w_buy_for: "Şu kadara almak istiyorum…"
+  w_buy_now: "Ekitabı alın!"
+  w_buy_now_terse: "Hemen Al"
+  w_buying: "Satın Alınıyor %{book}"
+  w_buying_bundle: "Satın alınıyor %{bundle}"
+  w_by: "Yazarı"
+  w_by_author: "  %{author_string} tarından"
+  w_cause_gets: "Elde edilen kampanya"
+  w_causes_get: "Elde edilen kampanyalar"
+  w_causes_supported: "Desteklenen Kampanyalar"
+  w_cc_me: "Cc me on the email so the author can reply."
+  w_charge_card: "Plastik Kart"
+  w_coming_soon: Coming soon
+  w_comments: "Yorumlar"
+  w_complete: Tamamlandı
+  w_copied_embed_code: "Embed kodu kopyalandı; sayfanızın HTML'sine yapıştırabilirsiniz!"
+  w_copies: "Kopyalar"
+  w_copy_embed: "Kopya embed kodu"
+  w_coupon_code: "Kupon kodu"
+  w_credit_card_help: "Leanpub sadece Visa ve Mastercard desteklemektedir. Serverlarımızda kredi kartı bilgilerinizi saklamıyoruz. Bunun yerine, SSL yardımıyla bu formu ödeme işlemcilerine gönderiyoruz, bu işlem Paypal kadar güvenilirdir."
+  w_credit_card_number: "Card Number"
+  w_debit_card_fee: "Visa yada Mastercard kullanmak istiyorsanız ödeme merkezi tarafından ufak bir kesinti yapılacaktır(10 cent kadar). Bunun sebebi Kanadalı bir firma olmamız ve çoğu Visa ve Mastercard ödeme merkezlerinin Amerika Birleşik Devletleri tabanlı işlem yapmasıdır."
+  w_discuss_this_book_with_the_author: Yazarla kitabı tartışın
+  w_discuss_this_book_with_the_author_and_its_readers: Discuss this book with the author and its %{kind_of_readers}
+  w_download_sample: "Örnek PDF"
+  w_drag_slider_html_click: "Kaydıracı kullanarak ayarlayabilir yada fiyat üzerine tıklayarak girişinizi yapabilirsiniz ($500'a kadar)"
+  w_drag_slider_html_tap: "Kaydıracı kullanarak ayarlayabilir yada fiyat üzerine tıklayarak girişinizi yapabilirsiniz ($500'a kadar)"
+  w_email: "Eposta"
+  w_email_the_author: "Email the Author"
+  w_embargo: "AMBARGO!"
+  w_embargo_message_1: "Haberciler ve kişisel blog sahipleri: Lütfen ambargo kalkana kadar buna ilişkin paylaşım/haberlendirme yapmayınız"
+  w_embargo_message_2: "Zamanlama bilgisine dair lütfen Yazar ile iletişime geçiniz"
+  w_embed_code_copy_instructions: Press (Control/⌘)-C to copy this code to your clipboard
+  w_expiry_date: "Sona eriş tarihi"
+  w_fanfic_always_free: "Fan kurgu kitapları Leanpub'ta her zaman ücretsizdir."
+  w_fanfic_of: "Bu kitap bir fan-kurgu çalışmasıdır %{work} %{author} tarafından."
+  w_feedback: "Geri Bildirim"
+  w_feedback_blurb_html: "Aşağıdaki kitaba yorum yapmayı unutmayınız! Baskı hatası tespitinden, eleştiri yazılarına kadar incelemeleriniz her zaman yararlı olacaktır. %{authors} kitabı kendiniz ve okuyucularınız için geliştirin"
+  w_country_code: "Residing Country"
+  w_first_name: "İsim"
+  w_formats_included: "Formats Included"
+  w_free_sample: Free sample
+  w_free_to: Free to
+  w_free_updates: "Kitabı alarak yazarın tüm Leanpub güncellemelerine dair bilgilendirileceksiniz!"
+  w_get_it_for_free: "Bedavaya sahip olun!"
+  w_get_my_free_book: "Bedava Kitabınızı Alın"
+  w_get_my_free_bundle: "Bedava bohçanızı alın!"
+  w_gift_note: "Hediye Notu"
+  w_gift_note_hint: "Hediyenizle birlikte özel bir not gönderebilir, yada kutuyu boş bırakabilirsiniz."
+  w_give_as_a_gift: "Hediye gönderin!"
+  w_grand_total: "Toplam"
+  w_happiness_guarantee: Mutluluk Garantisi
+  w_happiness_guarantee_book_html: "Eğer bir Leanpub kitabı alırsanız  <strong>tüm güncellemere ücretsiz erişebileceksiniz!</strong> Tüm kitaplar şu formatlarda elde edilebilir <strong>PDF</strong>, <strong>EPUB</strong> (iPad için) ve <strong>MOBI</strong> (Kindle için).Tüm kitaplar <strong>DRM'siz</strong>. Sıfır <strong>risk</strong>, mutlak <strong>memnuniyet garantisi</strong> ile gelir, memnun kalmazsanız paranız iade edilir."
+  w_happiness_guarantee_bundle_html: "Leanpub'dan bir bohça satın almanız durumunda <strong>kitaplara yapılan tüm güncellemelere de ücretsiz sahip olursunuz!</strong> Tüm kitaplar <strong>PDF</strong>, <strong>EPUB</strong> (iPad için) ve <strong>MOBI</strong> (Kindle için) formatında mevcuttur. Tüm kitaplar <strong>DRM'siz</strong>. <strong>Risksiz</strong>, mutlak <strong>memnuniyet garantisi</strong> ile gelir. Memnun kalmazsanız paranız iade edilir"
+  w_happiness_guarantee_days_html: "Ödemenizi takiben <strong>45 gün içerisinde</strong> sorunsuz olarak <strong>100% ödeme iadesi</strong> alabilirsiniz, Tüm Leanpub ürünleri için geçerlidir, yapmanız gereken sadece <strong>iki tıklama</strong>. Geri ödemeleri elle kontrol ediyoruz, görünür olması bir kaç gün alabilir. <a href=\"/terms#returns\">Eksiksiz Anlaşma Metni</a> için tıklayınız."
+  w_happiness_guarantee_title: "Leanpub'da koşulsuz, risksiz, 100% Mutluluk Garantisi vardır"
+  w_if_no_visa_mastercard: "Kredi kartınız Visa veya Mastercard değilse Paypal ile ödeme yapabilirsiniz. Bunun için yukarıdaki sarı düğmeye tıklayınız"
+  w_installment_count: "Bu kitap bir serinin parçası olarak yazılmıştır. Serinin {installments_completed} şu kadarı{installments_planned} hazır durumda"
+  w_installments_completed: Installments completed
+  w_interested_in_book: "Kitap ilginizi mi çekti? İsminizi, eposta adresinizi girerek kitabın basımı tamamlandığında ne kadar fiyat biçebileceğinizi yazar ile paylaşın ve O'na cesaret verin."
+  w_interested_short: "Kitap ilginizi mi çekti? Fiyatı için ne kadar ödemeyi uygun bulduğunuzu yazın, destek olun!"
+  w_lang_ara: "Arapça"
+  w_lang_dut: "Hollandaca"
+  w_lang_eng: "İngilizce"
+  w_lang_fin: "Fince"
+  w_lang_fre: "Fransızca"
+  w_lang_ger: "Almanca"
+  w_lang_heb: "İbranice"
+  w_lang_hrv: "Hırvatça"
+  w_lang_hun: "Macarca"
+  w_lang_ita: "İtalyanca"
+  w_lang_jpn: "Japonca"
+  w_lang_por: "Portekizce"
+  w_lang_rum: "Rumence"
+  w_lang_rus: "Rusça"
+  w_lang_slv: "Slovence"
+  w_lang_spa: "İspanyolca"
+  w_language_options: "Dil Seçenekleri"
+  w_language_options_body: "Bu kitap şu dillerde de mevcut,yahut çeviri aşamasındadır:"
+  w_last_name: "Soy Ad"
+  w_last_updated: Last updated
+  w_last_updated_time: "Last updated: %{updated_at}"
+  w_last_updated_time: "Son Güncelleme: %{updated_at}"
+  w_learn_more: "Daha fazla bilgi"
+  w_library_note: "Kütüphaneler: Kitabın üzerinde hala çalışılmaktadır ve yazarı kütüphanelere dağıtımına henüz izin vermemektedir."
+  w_mailchimp_interested_short: "Interested in this book? Sign up for the author's personal mailing list!"
+  w_minimum: Asgari
+  w_minimum_price2: "En Düşük Fiyat"
+  w_minimum_price: "En Düşük Fiyat:"
+  w_multiple_explanation: "Dostlarınız yada çalışma arkadaşlarınızla paylaşmak için birden fazla kopya satın alabilirsiniz. Birden fazla kopya alıyorsanız yukarıda Yazar ve Toplulukların ne kadar kazandığı ayrı ayrı gösterilmektedir."
+  w_name: "isim"
+  w_set_price_html: "Fiyatınızı verin <small>(Amerikan Doları)</small>"
+  w_name_your_price: Set Your Price
+  w_notify_when: "Basıldığında bana haber ver"
+  w_number: "Adet"
+  w_number_of_copies_purchased: "Satın Kopya Sayısı"
+  w_online: Online
+  w_or: "veya"
+  w_or_click_to: "yada tıklayın"
+  w_pages: "Sayfa"
+  w_pay_by_credit_card: "Kredi kartı ile ödeme"
+  w_pay_by_credit_card_or_click_to_html: "Kredi kartı ile ödeme<small class=\"option\">or click to %{paypal}</small>"
+  w_percent_done_html: "Yazar kitabın <strong>%{percent_complete}%</strong> 'ının bittiğini düşünmektedir!"
+  w_please_wait: "Lütfen Bekleyiniz…"
+  w_publisher_earns: "Yazar kazanır"
+  w_purchase_hint: "Artık Leanpub kitaplarını hediye edebilirsiniz! Kitabı hediye etmek istediğiniz kişinin Eposta adresini vermeniz yeterli. Alıcı kitabı PDF, EPUB ve MOBI formatlarında siteye üye olmadan elde eder.Sadece ücretsiz güncellemelerden yararlanmak istemesi halinde kayıt olunması gerekir. Leanpub harika bir hediye seçimi adresidir. "
+  w_purchase_is_gift: "Bu ürün hediyedir "
+  w_read: Read
+  w_read_online: Read online
+  w_reader: Reader
+  w_reader_count: "Kitabın %{num_readers} okuyucusu var!"
+  w_reader_feedback: "Okuyucu Yorumları"
+  w_readers: Readers
+  w_recipient_email_or_username: "Alıcı Eposta adresi"
+  w_retired: "Emekli"
+  w_royalties_going_to_html: "<strong>%{royalty_percentage}'e</strong> 'i <strong>%{author}'s</strong> royalties are going directly to <strong>%{cause}</strong>."
+  w_share_book: "Kitabı paylaşın"
+  w_share_email: "Eposta adresini paylaşın"
+  w_suggested: Tavsiye Edilen
+  w_suggested_price2: "Önerilen Fiyat"
+  w_suggested_price: "Önerilen Fiyat:"
+  w_teaser_text: Teaser text
+  w_teaser_text_hint: 1–3 sentences to summarize your book and excite your prospective readers.
+  w_these_books_included: "Bu bohçaya şu kitaplar dahildir"
+  w_time_ago: "%{time} ago"
+  w_toc: "İçindekiler"
+  w_token_or_password: "Akont parolası yada 6 haneli giriş kodu"
+  w_total: "Toplam"
+  w_translation: Translation
+  w_translations_available: Translations available
+  w_tweet_just_bought_bundle_text: "Şu bohçayı %{title} yeni aldım"
+  w_tweet_just_bought_text: "Bakın ne aldım %{title}"
+  w_tweet_text: "Okuyun %{title}"
+  w_type_own_amount_click: "Kendi miktarınızı girmek için tıklayın"
+  w_type_own_amount_tap: "Kendi miktarınızı girmek için dokunun"
+  w_type_your_message_to_the_author: "Type your message to the author below"
+  w_unpublished: "Henüz yayımlanmamış"
+  w_unpublished_tweet_text: "Şunu okumayı planlıyorum %{title}"
+  w_updated: Güncellendi
+  w_uses_leanpub_plural: "Bu yazarlar Leanpub'ı kullanarak kişisel yayım yapıyor. Siz de yapabilirsiniz!"
+  w_uses_leanpub_singular_html: "%{author} Leanpub kullanarak kişisel yayımcılık yapıyor, siz de yapabilirsiniz!"
+  w_verification_value: "CVV/CSC"
+  w_verification_value_hint: "CCV, yada kart onaylama numarası kartınızın arka tarafında bulunan ve genellikle 3 veya 4 haneli koddur. CSC veya kart güvenlik şifresi olarak da bilinmektedir."
+  w_very_early_stage_html: "<strong>Leanpub notu:</strong> Kitabın mevcut durumu <strong>yeni başlanmış</strong>. (Şu an <strong>%{pages} sayfa ve %{words} kelime</strong> içermekte.) Şu an satın almayı düşünüyorsanız bu <strong>yazarı cesaretlendirecektir</strong>. (Hemen satın alırsanız kitaba dair gelecek güncellemelere de tabi ki ücretsiz sahip olacaksınız!)"
+  w_view_bundle: "Bohçayı inceleyin"
+  w_whats_bundle: "Bohçalar birden fazla Leanpub kitabını indirimli almanıza yarayan bir sistemdir."
+  w_words: "Kelimeler"
+  w_you_pay: "Siz ödüyorsunuz"
+  w_your_account: "Hesabınız"
+  w_youre_buying: "Satın alıyorsunuz"
+
+#######################
+# Kitap için boşluklar
+#######################
+  p_book_for_sale_at: "Bu kitap şu adreste satılmaktadır \\url{http://leanpub.com/%{slug}}"
+  p_book_for_sale_at_html: "Bu kitap şu adreste satılmaktadır <a href=\"http://leanpub.com/%{slug}\">http://leanpub.com/%{slug}</a>"
+  p_leanpub_empowers_long_html: "Bu bir Leanpub <a href=\"http://leanpub.com\">Leanpub</a> kitabıdır. Leanpub yazar ve yayımcıları Lean Yayımlama sistemi ile destekleyen bir kuruluştur. <a href=\"http://leanpub.com/manifesto\">Lean Yayımlama</a> henüz çalışma aşamasında olan bir kitabı lightweight araçları ile destekleyerek, okuyucu geri dönüşünü sağlayarak kolaylaştıran bir yöntemdir."
+  p_published_on: "Bu versiyon şu tarihte yayımlandı %{published_on}"
+  p_title_page: "Başlık Sayfası"
+  p_toc: "İçindekiler"
+  p_isbn_for: " %{format_type} versiyonu için ISBN"
+  p_tweet_this_book: "Kitabı tweetleyin!"
+  p_tweet_spread_word: "%{author}'a kitabını şu adresten \\href{http://twitter.com}{Twitter} tanıtarak yardımcı olun!"
+  p_tweet_suggested_tweet: "Kitap için önerilen tweet:"
+  p_tweet_suggested_hashtag: "Kitap için önerilen hashtag \\href{https://twitter.com/search?q=%23%{suggested_hashtag}}{\\#%{suggested_hashtag}}."
+  p_tweet_find_out_what: "Kitap için diğerleri ne demiş merak ediyorsanız bağlantıya tıklayarak hashtagları arayabilirsiniz:"
+  p_also_by_multi_authors_title: "Ek olarak"
+  p_also_by_multi_authors_item: " \\href{http://leanpub.com/u/%{username}}{%{name}} kaleminden kitaplar"
+  p_also_by_single_author_title: "Ek olarak \\href{http://leanpub.com/u/%{username}}{%{name}}"

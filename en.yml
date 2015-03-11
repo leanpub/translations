@@ -1,0 +1,256 @@
+###
+# Leanpub Text Version 1.0, effective 2012-09-13. Copyright (c) 2010-2012 Ruboss Technology Corporation.
+#
+# English
+# 2 letter code = en. 3 letter code = eng.
+###
+en:
+  support:
+    array:
+      last_word_connector: " and " # Used in to_sentence
+  w_author_earns:
+    one: "Author earns"
+    other: "Authors earn"
+  w_lang_srp: "Serbian"
+  w_lang_swe: "Swedish"
+  w_lang_tur: "Turkish"
+  w_language:
+    one: "language"
+    other: "languages"
+  w_other_books_by_this_author:
+    one: "Other books by this author"
+    other: "Other books by these authors"
+  w_other_language:
+    one: "other language"
+    other: "other languages"
+  w_share_email_with_author:
+    one: "Also share your email address with the author."
+    other: "Also share your email address with the authors."
+############################################
+# With plurals above, without plurals below.
+############################################
+  w_about_author: "About the Author"
+  w_about_authors: "About the Authors"
+  w_about_book: "About the Book"
+  w_about_editor: "About the Editor"
+  w_about_editors: "About the Editors"
+  w_about_leanpub_bookstore_html: "Leanpub has a wide selection of in-progress and completed books available to browse, purchase, and enjoy."
+  w_about_leanpub_html: "This Book is for Sale Through %{home_anchor}"
+  w_about_leanpub_write_html: "Leanpub is free for authors and publishers to use. We pay authors or publishers 90% royalties minus 50 cents per sale."
+  w_about_leanpub_slogan: "Authors and publishers use Leanpub to publish amazing in-progress and completed books like this one."
+  w_about_the_contributors: "About the Contributors"
+  w_about_the_publisher: "About the Publisher"
+  w_also_by: "Also by"
+  w_also_by_the_author: "Also by the Author"
+  w_also_by_the_authors: "Also by the Authors"
+  w_also_by_the_editor: "Also by the Editor"
+  w_also_by_the_editors: "Also by the Editors"
+  w_and_min_price: "and the minimum price is"
+  w_author_letting_bundle: "The author is letting you set the price you'll pay for this bundle!  The suggested price is"
+  w_author_letting_you_set_price_html: "The author is letting you set the price you'll pay for this book! The suggested price is <strong>%{suggested}</strong>, and the minimum price is %{minimum}."
+  w_book_dialect: "Book Dialect:"
+  w_book_formats: "When you buy this book, you get it in PDF, EPUB and MOBI formats, so you can read it on your computer, iPad, Kindle or other ebook reader!"
+  w_book_is_done_html: "The author considers this book to be <strong>done</strong>!"
+  w_book_is_translation_html: "This book is a translation into %{lang} of %{orig_book}, which was originally written in %{written_in}."
+  w_book_language: "Book language:"
+  w_book_num_translations_html: "<em>%{orig_book}</em> has been translated into %{num_translations} %{other_langs}."
+  w_book_published_on_leanpub_by: "This book is published on Leanpub by"
+  w_book_freshness_timestamp:
+    lt_1_minute: Just now!
+    lt_2_minutes: A minute ago
+    lt_45_minutes: "%{minutes} minutes ago"
+    lt_90_minutes: ~1 hour ago
+    lt_24_hours: "%{hours} hours ago"
+    lt_48_hours: Yesterday
+    lt_30_days: "%{days} days ago"
+    lt_60_days: Last month
+    lt_1_year: "%{months} months ago"
+  w_books_included: "Books Included"
+  w_bundle_about_books: "About the Books"
+  w_bundle_about_bundle: "About the Bundle"
+  w_bundle_buy_now: "Buy the bundle now!"
+  w_bundle_description: "About the Bundle"
+  w_bundle_separate_price_html: "Sold separately, these books have a minimum price of <strong>%{minimum}</strong> and a suggested price of <strong>%{suggested}</strong>…"
+  w_bundle_share: "Share this bundle:"
+  w_bundle_suggested_price_html: "The suggested bundle price is <strong>%{suggested}</strong>, and the minimum bundle price is…"
+  w_bundles_available: "Bundles Available"
+  w_bundles_included: "This book is also available in these bundles:"
+  w_buy_a_bundle_and_save: Buy a bundle and save
+  w_buy_as_a_gift: "Buy as a Gift!"
+  w_buy_ebook: "Buy ebook"
+  w_buy_for: "I'd buy it for…"
+  w_buy_now: "Buy the ebook now!"
+  w_buy_now_terse: "Buy Now"
+  w_buying: "Buying %{book}"
+  w_buying_bundle: "Buying %{bundle}"
+  w_by: "by"
+  w_by_author: " by %{author_string}"
+  w_cause_gets: "Cause gets"
+  w_causes_get: "Causes get"
+  w_causes_supported: "Causes Supported"
+  w_cc_me: "Cc me on the email so the author can reply."
+  w_charge_card: "Charge Card"
+  w_coming_soon: Coming soon
+  w_comments: "Comments"
+  w_complete: Complete
+  w_copied_embed_code: "An embed code has been copied to your clipboard; simply paste it into your website's HTML, and you're done!"
+  w_copies: "Copies"
+  w_copy_embed: "Copy embed code"
+  w_coupon_code: "Coupon Code"
+  w_coupon_price: "Coupon price"
+  w_credit_card_help: "Leanpub accepts Visa and MasterCard only. We do not store your credit card data on our servers. Instead, we send this form securely via SSL to our payment processor, which is as secure as PayPal."
+  w_credit_card_number: "Card Number"
+  w_debit_card_fee: "If you use a Visa or MasterCard debit card, there may be a small fee (typically about 10 cents) which is charged by our payment processor. This is because we are a Canadian merchant, and most Visa or MasterCard debit card transactions we have seen are from the US."
+  w_discuss_this_book_with_the_author: Discuss this book with the author
+  w_discuss_this_book_with_the_author_and_its_readers: "Discuss this book with the author and its %{kind_of_readers}"
+  w_download: Download
+  w_download_sample: "Sample PDF"
+  w_drag_slider_html_click: "Drag the slider, or click the price to type in your own (up to $500)"
+  w_drag_slider_html_tap: "Drag the slider, or tap the price to type in your own (up to $500)"
+  w_email: "Email"
+  w_email_the_author: "Email the Author"
+  w_embargo: "EMBARGO!"
+  w_embargo_message_1: "Journalists and bloggers: please do not publish anything about this until the embargo is lifted!"
+  w_embargo_message_2: "Please contact the author for more information about when this is."
+  w_embed_code_copy_instructions: "Press (Control/⌘)-C to copy this code to your clipboard"
+  w_expiry_date: "Expiry date"
+  w_fanfic_always_free: "Fan fiction books are always free on Leanpub."
+  w_fanfic_of: "This book is fan fiction based on %{work} by %{author}."
+  w_feedback: "Feedback"
+  w_feedback_blurb_html: "Please feel free to post your comments about this book below! From identifying typos to writing reviews, your feedback can help %{authors} improve this book for you and your fellow readers."
+  w_first_name: "First name"
+  w_country_code: "Residing Country"
+  w_formats_included: "Formats Included"
+  w_free_sample: Free sample
+  w_free_to: Free to
+  w_free_updates: "If you buy the book, you get all the author's Leanpub updates to the book for free!"
+  w_get_it_for_free: "Get it, for free!"
+  w_get_my_free_book: "Get Your Free Book!"
+  w_get_my_free_bundle: "Get Your Free Bundle!"
+  w_gift_note: "Gift Note"
+  w_gift_note_hint: "You can send a note along with the gift. Or simply leave this field blank if you wish."
+  w_give_as_a_gift: "Give as a Gift!"
+  w_government_earns: "Government earns (VAT)"
+  w_grand_total: "Grand Total"
+  w_happiness_guarantee: Happiness guarantee
+  w_100_pc_happiness_guarantee_html: <span class="pc">100%</span> Happiness guarantee
+  w_happiness_guarantee_book_html: "If you buy a Leanpub book you get <strong>all the updates to the book for free!</strong> All books are available in <strong>PDF</strong>, <strong>EPUB</strong> (for iPad) and <strong>MOBI</strong> (for Kindle). There is <strong>no DRM</strong>. There is <strong>no risk</strong>, just <strong>guaranteed happiness</strong> or your money back."
+  w_happiness_guarantee_bundle_html: "If you buy a Leanpub bundle you get <strong>all the updates to the books in the bundle for free!</strong> All books are available in <strong>PDF</strong>, <strong>EPUB</strong> (for iPad) and <strong>MOBI</strong> (for Kindle). There is <strong>no DRM</strong>. There is <strong>no risk</strong>, just <strong>guaranteed happiness</strong> or your money back."
+  w_happiness_guarantee_days_html: "Within <strong>45 days of purchase</strong> you can get a <strong>100% refund</strong> on any Leanpub purchase, in <strong>two clicks</strong>. We process the refunds manually, so they may take a few days to show up. <br><a href=\"/terms#returns\">See full terms</a>."
+  w_happiness_guarantee_title: "The Leanpub Unconditional, No Risk, 100% Happiness Guarantee"
+  w_if_buy_ebook: "If you buy this ebook, you get it in all these formats:"
+  w_if_no_visa_mastercard: "If your credit card is not a Visa or a Mastercard, you can still buy this book using PayPal. Just click on the yellow button above."
+  w_installment_count: "This book is being written as serial fiction. %{installments_completed} of %{installments_planned} installments are available."
+  w_installments_completed: Installments completed
+  w_interested_in_book: "Interested in this book? Encourage the author by entering your name, email address, and how much you’d likely pay for the ebook when it's published."
+  w_interested_short: "Interested in this book? Show your support by saying what you'd like to pay for it!"
+  w_lang_ara: "Arabic"
+  w_lang_dut: "Dutch"
+  w_lang_eng: "English"
+  w_lang_fin: "Finnish"
+  w_lang_fre: "French"
+  w_lang_ger: "German"
+  w_lang_hrv: "Croatian"
+  w_lang_hun: "Hungarian"
+  w_lang_ita: "Italian"
+  w_lang_jpn: "Japanese"
+  w_lang_por: "Portuguese"
+  w_lang_rum: "Romanian"
+  w_lang_rus: "Russian"
+  w_lang_slv: "Slovenian"
+  w_lang_spa: "Spanish"
+  w_lang_heb: "Hebrew"
+  w_language_options: "Language options"
+  w_language_options_body: "This book is also available for purchase in (or is currently being translated into) the following languages:"
+  w_last_name: "Last name"
+  w_last_updated: Last updated
+  w_last_updated_time: "Last updated: %{updated_at}"
+  w_learn_more: "Learn more"
+  w_library_note: "Library purchasing agents: This book is in-progress, and the author has requested that it not be purchased by libraries yet."
+  w_mailchimp_interested_short: "Interested in this book? Sign up for the author's personal mailing list!"
+  w_minimum: Minimum
+  w_minimum_price2: "Minimum Price"
+  w_minimum_price: "Minimum price:"
+  w_multiple_explanation: "You can buy multiple copies of a book if you want to share it with friends or coworkers. If you're buying multiple copies, the sliders above show what you pay and what the author(s) and/or cause(s) earn (combined) for each copy."
+  w_name: "Name"
+  w_name_your_price: Set Your Price
+  w_set_price_html: "Set Your Price <small>(USD)</small>"
+  w_notify_when: "Notify Me When This Is Published"
+  w_number: "Number"
+  w_number_of_copies_purchased: "Number of Copies Purchased"
+  w_online: Online
+  w_or: "or"
+  w_or_click_to: "or click to"
+  w_pages: "Pages"
+  w_pay_by_credit_card: "Pay By Credit Card"
+  w_pay_by_credit_card_or_click_to_html: "Pay By Credit Card <small class=\"option\">or click to %{paypal}</small>"
+  w_percent_done_html: "The author considers this book to be about <strong>%{percent_complete}%</strong> complete!"
+  w_please_wait: "Please wait…"
+  w_publisher_earns: "Publisher earns"
+  w_purchase_hint: "You can buy Leanpub books as gifts! You just need the email address or Leanpub username of who you're giving the book to. The recipient will be able to download the book in PDF, EPUB and MOBI without signing up to Leanpub, and they will also be able to sign up to get free updates. Leanpub books make great, sustainable gifts!"
+  w_purchase_is_gift: "This purchase is a gift"
+  w_read: Read
+  w_read_online: Read online
+  w_reader_count: "This book has %{num_readers} readers!"
+  w_reader: Reader
+  w_readers: Readers
+  w_reader_feedback: "Reader Feedback"
+  w_recipient_email_or_username: "Recipient Email or Leanpub Username"
+  w_retired: "Retired"
+  w_return_to_book: "Return to book page"
+  w_return_to_bundle: "Return to bundle page"
+  w_royalties_going_to_html: "<strong>%{royalty_percentage}%</strong> of <strong>%{author}'s</strong> royalties are going directly to <strong>%{cause}</strong>."
+  w_share_book: "Share this book"
+  w_share_email: "Share Email?"
+  w_suggested: Suggested
+  w_suggested_price2: "Suggested Price"
+  w_suggested_price: "Suggested price:"
+  w_teaser_text: Teaser text
+  w_teaser_text_hint: 1–3 sentences to summarize your book and excite your prospective readers.
+  w_these_books_included: "These books are included in this bundle…"
+  w_time_ago: "%{time} ago"
+  w_toc: "Table of Contents"
+  w_token_or_password: "Login Token or Account Password"
+  w_total: "Total"
+  w_translation: Translation
+  w_translations_available: Translations available
+  w_tweet_just_bought_bundle_text: "I just bought the %{title} bundle"
+  w_tweet_just_bought_text: "I just bought %{title}"
+  w_tweet_text: "Read %{title}"
+  w_type_own_amount_click: "Click to type in your own amount"
+  w_type_own_amount_tap: "Tap to type in your own amount"
+  w_type_your_message_to_the_author: "Type your message to the author below"
+  w_unpublished: "Unpublished"
+  w_unpublished_tweet_text: "Looking forward to reading %{title}"
+  w_updated: Updated
+  w_uses_leanpub_plural: "These authors use Leanpub to publish this book independently. You can too!"
+  w_uses_leanpub_singular_html: "%{author} uses Leanpub to publish this book independently. You can too!"
+  w_vat_number: "EU VAT Number"
+  w_verification_value: "CVV/CSC"
+  w_verification_value_hint: "The CVV, or Card Verification Value, is a 3 or 4 digit code on the back of your credit card. It's also called the CSC, or Card Security Code."
+  w_very_early_stage_html: "<strong>Note from Leanpub:</strong> This book appears to be <strong>very early stage</strong>. (It's currently about <strong>%{pages} pages and %{words} words</strong>.) If you are buying it now, you are doing so <strong>primarily to encourage the author</strong>. (If you buy the book, you get all the author's Leanpub updates to the book for free, of course!)"
+  w_view_bundle: "View the Bundle"
+  w_whats_bundle: "A bundle is a bunch of related Leanpub books, available to buy together at a discount."
+  w_words: "Words"
+  w_you_pay: "You pay"
+  w_your_account: "Your Account"
+  w_youre_buying: "You're buying"
+
+#######################
+# Fields for books
+#######################
+  p_book_for_sale_at: "This book is for sale at \\url{http://leanpub.com/%{slug}}"
+  p_book_for_sale_at_html: "This book is for sale at <a href=\"http://leanpub.com/%{slug}\">http://leanpub.com/%{slug}</a>"
+  p_leanpub_empowers_long_html: "This is a <a href=\"http://leanpub.com\">Leanpub</a> book. Leanpub empowers authors and publishers with the Lean Publishing process. <a href=\"http://leanpub.com/manifesto\">Lean Publishing</a> is the act of publishing an in-progress ebook using lightweight tools and many iterations to get reader feedback, pivot until you have the right book and build traction once you do."
+  p_published_on: "This version was published on %{published_on}"
+  p_title_page: "Title Page"
+  p_toc: "Table of Contents"
+  p_isbn_for: "ISBN for %{format_type} version"
+  p_tweet_this_book: "Tweet This Book!"
+  p_tweet_spread_word: "Please help %{author} by spreading the word about this book on \\href{http://twitter.com}{Twitter}!"
+  p_tweet_suggested_tweet: "The suggested tweet for this book is:"
+  p_tweet_suggested_hashtag: "The suggested hashtag for this book is \\href{https://twitter.com/search?q=%23%{suggested_hashtag}}{\\#%{suggested_hashtag}}."
+  p_tweet_find_out_what: "Find out what other people are saying about the book by clicking on this link to search for this hashtag on Twitter:"
+  p_also_by_multi_authors_title: "Also By These Authors"
+  p_also_by_multi_authors_item: "Books by \\href{http://leanpub.com/u/%{username}}{%{name}}"
+  p_also_by_single_author_title: "Also By \\href{http://leanpub.com/u/%{username}}{%{name}}"

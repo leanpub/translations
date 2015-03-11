@@ -1,0 +1,238 @@
+###
+# Leanpub Text Version 1.0, effective 2012-09-13. Copyright (c) 2010-2012 Ruboss Technology Corporation.
+#
+# Hungarian
+# 2 letter code = hu. 3 letter code = hun.
+###
+hu:
+  support:
+    array:
+      last_word_connector: " és " # Used in to_sentence
+  w_author_earns:
+    one: "Szerző jutaléka"
+    other: "Szerzők jutaléka"
+  w_lang_srp: "Serbian"
+  w_lang_swe: "Swedish"
+  w_lang_tur: "Turkish"
+  w_language:
+    one: "nyelv"
+    other: "nyelvek"
+  w_other_books_by_this_author:
+    one: "Egyéb könyvek A szerző"
+    other: "Egyéb könyvek A szerzők"
+  w_other_language:
+    one: "más nyelv"
+    other: "más nyelvek"
+  w_share_email_with_author:
+    one: "Email cím megosztása a szerzővel."
+    other: "Email cím megosztása a szerzőkkel."
+############################################
+# With plurals above, without plurals below.
+############################################
+  p_book_for_sale_at: "Ez a könyv eladó \\url{http://leanpub.com/%{slug}}"
+  p_published_on: "Ez a verzió került közzétételre %{published_on}"
+  w_100_pc_happiness_guarantee_html: <span class="pc">100%</span> Happiness garancia
+  w_about_author: "A szerzőről"
+  w_about_authors: "A szerzőkről"
+  w_about_book: "A könyvről"
+  w_about_editor: "A szerkesztőről"
+  w_about_editors: "A szerkesztőkről"
+  w_about_the_contributors: "A közreműködőkről"
+  w_about_the_publisher: "A kiadóról"
+  w_also_by: "További kiadványok"
+  w_also_by_the_author: "A szerző további kiadványai"
+  w_also_by_the_authors: "A szerzők további kiadványai"
+  w_also_by_the_editor: "A szerkesztő további kiadványai"
+  w_also_by_the_editors: "A szerkesztők további kiadványai"
+  w_and_min_price: "a minimális ár pedig"
+  w_author_letting_bundle: "A szerző engedélyezte, hogy te szabd meg mennyit fizetsz a csomagért! A javasolt összeg"
+  w_author_letting_you_set_price_html: "A szerző engedélyezte, hogy te szabd meg mennyit fizetsz a könyvért! A javasolt összeg <strong>%{suggested}</strong>, a minimális ár pedig %{minimum}."
+  w_book_dialect: "A könyv dialektusa:"
+  w_book_formats: "A könyvet vásárlás után megkapod PDF, EPUB és MOBI formátumban is, vagyis elolvashatod a számítógépeden, iPaden, Kindle-en vagy bármilyen más ebook olvasón!"
+  w_book_is_done_html: "A szerző úgy véli, hogy a könyv <strong>elkészült</strong>!"
+  w_book_is_translation_html: "Ez a kiadás %{lang} nyelvre fordított változata a(z) %{orig_book} könyvnek, melyet eredetileg %{written_in} nyelven írtak."
+  w_book_language: "A könyv nyelve:"
+  w_book_num_translations_html: "<em>%{orig_book}</em> már lefordították %{num_translations} %{other_langs}."
+  w_book_published_on_leanpub_by: "This book is published on Leanpub by"
+  w_books_included: "A csomagban szereplő könyvek"
+  w_bundle_about_books: "A könyvekről"
+  w_bundle_about_bundle: "A csomagról"
+  w_bundle_buy_now: "Vedd meg a csomagot!"
+  w_bundle_description: "A csomagról"
+  w_bundle_separate_price_html: "Az alábbi könyvek minimum ára külön-külön <strong>%{minimum}</strong>, a javasolt áruk pedig <strong>%{suggested}</strong>…"
+  w_bundle_share: "Oszd meg a csomagot!"
+  w_bundle_suggested_price_html: "A csomag javasolt ára <strong>%{suggested}</strong>, a minimális ára pedig…"
+  w_bundles_available: "Elérhető csomagok"
+  w_bundles_included: "Ez a könyv az alábbi csomagokban is elérhető:"
+  w_buy_a_bundle_and_save: Vegyél egy csomag, és mentse
+  w_buy_as_a_gift: "Vedd meg ajándékként!"
+  w_buy_ebook: "Ebook vásárlása"
+  w_buy_for: "Akinek szánom…"
+  w_buy_now: "Megveszem"
+  w_buy_now_terse: "Vedd meg most az ebookot!"
+  w_buying: "%{book} megvétele"
+  w_buying_bundle: "%{bundle} megvétele"
+  w_by: "írta"
+  w_by_author: " írta %{author_string}"
+  w_cause_gets: "Cause gets"
+  w_causes_get: "Causes get"
+  w_causes_supported: "Causes Supported"
+  w_cc_me: "Cc me on the email so the author can reply."
+  w_charge_card: "Fizetés"
+  w_coming_soon: Hamarosan
+  w_comments: "Hozzászólások"
+  w_complete: Teljes
+  w_copied_embed_code: "Az embed kódod a vágólapra került, egyszerűen illeszd be a weboldalad HTML kódjába és készen is vagy!"
+  w_copies: "Példány(ok)"
+  w_copy_embed: "Embed kód másolása"
+  w_coupon_code: "Kuponkód"
+  w_credit_card_help: "A Leanpub kizárólag Visa és MasterCard kártyákat fogad el. Nem tároljuk a bankkártyák adatait a szerverünkön, ehelyett SSL-en keresztül átirányítunk egy biztonságos fizetési oldalra, amely hasonlóan biztonságos, mint a PayPal."
+  w_credit_card_number: "Card Number"
+  w_debit_card_fee: "Amennyiben Visa vagy Mastercard bankkártyát használsz előfordulhat, hogy egy kisebb összeg (megközelítőleg 10 cent) levonásra kerül a kártyádról. Ez azért van, mert a Leanpub egy kanadai kereskedőcég és a legtöbb kártyatranzakció az Egyesült Államokból érkezik."
+  w_discuss_this_book_with_the_author: Fórum a könyv a szerző
+  w_discuss_this_book_with_the_author_and_its_readers: Fórum a könyvet a szerző és a %{kind_of_readers}
+  w_download_sample: "Minta PDF letöltése"
+  w_drag_slider_html_click: "Húzd a csúszkát a megfelelő helyre, vagy kattints az árra és írd be kézzel az összeget (max. 500$)!"
+  w_drag_slider_html_tap: "Húzd a csúszkát a megfelelő helyre, vagy érintsd meg árat és írd be kézzel az összeget (max. 500$)!"
+  w_email: "Email"
+  w_email_the_author: "Email the Author"
+  w_embargo: "EMBARGO!"
+  w_embargo_message_1: "Journalists and bloggers: please do not publish anything about this until the embargo is lifted!"
+  w_embargo_message_2: "Please contact the author for more information about when this is."
+  w_embed_code_copy_instructions: Nyomja (Control/⌘)-C másolni ezt a kódot a vágólapra
+  w_expiry_date: "Lejárat dátuma"
+  w_fanfic_always_free: "A fan fiction könyvek mindig ingyenesek a Leanpubon."
+  w_fanfic_of: "Ez a könyv egy fan fiction kiadvány, amely a(z) %{work} könyvön alapul és %{author} írta."
+  w_feedback: "Feedback"
+  w_feedback_blurb_html: "Please feel free to post your comments about this book below! From identifying typos to writing reviews, your feedback can help %{authors} improve this book for you and your fellow readers."
+  w_country_code: "Residing Country"
+  w_first_name: "Keresztnév"
+  w_formats_included: "Formats Included"
+  w_free_sample: Ingyenes minta
+  w_free_to: Ingyenesen
+  w_free_updates: "Ha megvásárolod a könyvet ingyen megkapod a szerző összes Leanpub frissítését is a könyvhöz!"
+  w_get_it_for_free: "Vedd, ingyen!"
+  w_get_my_free_book: "Kérem az ingyenes könyvem!"
+  w_get_my_free_bundle: "Kérem az ingyenes csomagom!"
+  w_gift_note: "Megjegyzés az ajándékhoz"
+  w_gift_note_hint: "Az ajándék mellé megadhatsz egy üzenetet, de ha nem szeretnél, akkor csak hagyd üresen."
+  w_give_as_a_gift: "Add oda ajándékként!"
+  w_grand_total: "Végösszeg"
+  w_happiness_guarantee: Boldogság garancia
+  w_happiness_guarantee_book_html: "Amennyiben megvásárolsz egy Leanpub kiadványt, annak <strong>összes frissítését ingyen megkapod!</strong> Minden könyvünk elérhető <strong>PDF</strong>, <strong>EPUB</strong> (iPad-hez) and <strong>MOBI</strong> (Kindle-höz) formátumokban. A könyvek <strong>nem tartalmaznak DRM védelmet</strong>. Nincs <strong>kockázat</strong>, csak <strong>garantált boldogság</strong> vagy visszaadjuk a pénzedet."
+  w_happiness_guarantee_bundle_html: "Amennyiben megvásárolsz egy Leanpub csomagot, annak <strong>összes frissítését ingyen megkapod!</strong> Minden könyvünk elérhető <strong>PDF</strong>, <strong>EPUB</strong> (iPad-hez) and <strong>MOBI</strong> (Kindle-höz) formátumokban. A könyvek <strong>nem tartalmaznak DRM védelmet</strong>. Nincs <strong>kockázat</strong>, csak <strong>garantált boldogság</strong> vagy visszaadjuk a pénzedet."
+  w_happiness_guarantee_days_html: "<strong>A vásárlástól számított 45 napon belül</strong>, mindössze <strong>két kattintással</strong> visszakaphatod <strong>a vásárlás összegének 100%-át</strong> bármely Leanpubnál történt vásárlás esetében. A visszafizetéseket kézzel kezeljük, úgyhogy eltelhet néhány napba mire visszajut hozzád az összeg. Kérjük tekintsd át <a href=\"/terms#returns\">részletes felhasználási feltételeinket</a>."
+  w_happiness_guarantee_title: "A Leanpubnál nincs kockázat, csak 100% boldogsággarancia"
+  w_if_buy_ebook: "If you buy this ebook, you get it in all these formats:"
+  w_if_no_visa_mastercard: "Ha nem rendelkezel se Visa, se Mastercarddal még akkor is megvásárolhatod a könyvet PayPalon keresztül. Csak kattints az alábbi sárga gombra!"
+  w_installment_count: "Ez a könyv folytatásos. %{installments_completed}/%{installments_planned} folytatás érhető el."
+  w_installments_completed: Részletben befejeződött
+  w_interested_in_book: "Érdekelne ez a könyv? Bátorítsd az írót azzal, hogy megadod a neved, email címed és hogy mennyit fizetnél az ebookért, ha megjelenik!"
+  w_interested_short: "Érdekelne ez a könyv? Mutasd ki a támogatásodat azzal, hogy elmondod miért fizetnél szívesen!"
+  w_lang_ara: "Arabic"
+  w_lang_dut: "holland"
+  w_lang_eng: "angol"
+  w_lang_fin: "finn"
+  w_lang_fre: "francia"
+  w_lang_ger: "német"
+  w_lang_heb: "héber"
+  w_lang_hrv: "Croatian"
+  w_lang_hun: "magyar"
+  w_lang_ita: "olasz"
+  w_lang_jpn: "japán"
+  w_lang_por: "portugál"
+  w_lang_rum: "román"
+  w_lang_rus: "orosz"
+  w_lang_slv: "szlovén"
+  w_lang_spa: "spanyol"
+  w_language_options: "Nyelvi beállítások"
+  w_language_options_body: "Ez a könyv már le lett fordítva (vagy jelenleg is fordítás alatt áll) az alábbi nyelvekre:"
+  w_last_name: "Vezetéknév"
+  w_last_updated: Last updated
+  w_last_updated_time: "A könyv utolsó frissítésének időpontja: %{updated_at}."
+  w_last_updated_time: "Utolsó frissítés: %{updated_at}"
+  w_learn_more: "Olvass tovább"
+  w_library_note: "Könyvtári beszerzők figyelmébe: Ez a könyv jelenleg írás alatt van és a szerző azt kéri, hogy könyvtárak egyenlőre ne vásárolják még meg."
+  w_mailchimp_interested_short: "Interested in this book? Sign up for the author's personal mailing list!"
+  w_minimum: Minimum
+  w_minimum_price2: "Minimum ár"
+  w_minimum_price: "Minimum ár:"
+  w_multiple_explanation: "A könyvnek egyszerre több példányát is megvásárolhatod, ha meg szeretnéd osztani barátaiddal vagy munkatársaiddal. Amennyiben több példányt vásárolsz a csúszka mutatni fogja mennyit kell fizetned és ebből mennyi részesedést kap a szerző."
+  w_name: "Név"
+  w_set_price_html: "Adj meg egy árat <small>(USD)</small>"
+  w_name_your_price: Nevezze meg ár
+  w_notify_when: "Értesítsetek, ha a könyv megjelenik"
+  w_number: "Telefon"
+  w_number_of_copies_purchased: "Példányszám vásárolt"
+  w_online: Online
+  w_or: "vagy"
+  w_or_click_to: "vagy kattints"
+  w_pages: "Pages"
+  w_pay_by_credit_card: "Fizetés bankkártyával"
+  w_pay_by_credit_card_or_click_to_html: "Fizess bankkártyával vagy <small class=\"option\">kattints %{paypal}</small>"
+  w_percent_done_html: "A szerző úgy véli, hogy a könyv jelenleg <strong>%{percent_complete}%</strong>-on áll!"
+  w_please_wait: "Kérjük várjon…"
+  w_publisher_earns: "Publisher earns"
+  w_purchase_hint: "A Leanpub kiadványok már ajándékként is megvásárolhatóak! Csak a meglepni kívánt személy email címére van szükségünk. A címzett anélkül le tudja majd tölteni a könyvet PDF, EPUB és MOBI formátumban, hogy regisztráln a Leanpubnál, sőt a könyvhöz járó frissítéseket is ingyenesen megkapja! A Leanpub könyvek nagyszerű és időtálló ajándékok!"
+  w_purchase_is_gift: "A jelenlegi vásárlás ajándék lesz"
+  w_read: Olvasás
+  w_read_online: Read Online
+  w_reader: Reader
+  w_reader_count: "Ennek a könyvnek %{num_readers} olvasója van!"
+  w_reader_feedback: "Reader Feedback"
+  w_readers: olvasók
+  w_recipient_email_or_username: "Címzett email címe"
+  w_retired: "Visszavont"
+  w_share_book: "Könyv megosztása"
+  w_share_email: "Megosztás emailben"
+  w_suggested: Javasolt
+  w_suggested_price2: "Javasolt ár"
+  w_suggested_price: "Javasolt ár:"
+  w_teaser_text: Teaser szöveg
+  w_teaser_text_hint: 1-3 mondatban összefoglalni a könyvet, és gerjeszti a leendő olvasók.
+  w_these_books_included: "Az alábbi könyveket tartalmazza a csomag…"
+  w_time_ago: "%{time} óra"
+  w_toc: "Tartalomjegyzék"
+  w_token_or_password: "Token or Password"
+  w_total: "Összesen"
+  w_translation: Translation
+  w_translations_available: fordítások
+  w_tweet_just_bought_bundle_text: "Az előbb vettem meg az alábbi csomagot: %{title}"
+  w_tweet_just_bought_text: "Az előbb vettem meg az alábbi könyvet: %{title}"
+  w_tweet_text: "Olvasd el: %{title}"
+  w_type_own_amount_click: "Kattints, hogy megadhasd az összeget!"
+  w_type_own_amount_tap: "Érintsd meg, hogy megadhasd az összeget!"
+  w_type_your_message_to_the_author: "Type your message to the author below"
+  w_unpublished: "Kiadatlan"
+  w_unpublished_tweet_text: "Már alig várom, hogy elolvashassam az alábbi könyvet: %{title}"
+  w_updated: Frissített
+  w_uses_leanpub_plural: "A szerzők a Leanpubot használják, hogy függetlenül jelentethessék meg a könyvüket. Használd te is!"
+  w_uses_leanpub_singular_html: "%{author} a Leanpubot használja, hogy függetlenül jelentethessék meg a könyvüket. Használd te is!"
+  w_verification_value: "CVV/CSC"
+  w_verification_value_hint: "A CVV (néha CSV) a bankkártya hátoldalán található három vagy négyjegyű kód."
+  w_very_early_stage_html: "<strong>Note from Leanpub:</strong> This book appears to be <strong>very early stage</strong>. (It's currently about <strong>%{pages} pages and %{words} words</strong>.) If you are buying it now, you are doing so <strong>primarily to encourage the author</strong>. (If you buy the book, you get all the author's Leanpub updates to the book for free, of course!)"
+  w_view_bundle: "Csomag megtekintése"
+  w_whats_bundle: "Egy csomag több, kapcsolódó Leanpub könyvet jelent, amelyeket olcsóbban vásárolhatsz meg együtt."
+  w_words: "Words"
+  w_you_pay: "Fizetendő"
+  w_your_account: "Fiókod"
+  w_youre_buying: "Az alábbiakat vásárolod:"
+
+#######################
+# Fields for books
+#######################
+  p_book_for_sale_at: "Ez a könyv megvásárolható: \\url{http://leanpub.com/%{slug}}"
+  p_book_for_sale_at_html: "Ez a könyv megvásárolható: <a href=\"http://leanpub.com/%{slug}\">http://leanpub.com/%{slug}</a>"
+  p_leanpub_empowers_long_html: "This is a <a href=\"http://leanpub.com\">Leanpub</a> book. Leanpub empowers authors and publishers with the Lean Publishing process. <a href=\"http://leanpub.com/manifesto\">Lean Publishing</a> is the act of publishing an in-progress ebook using lightweight tools and many iterations to get reader feedback, pivot until you have the right book and build traction once you do."
+  p_published_on: "Jelen kiadás megjelenésének időpontja: %{published_on}"
+  p_title_page: "Title Page"
+  p_toc: "Tartalomjegyzék"
+  p_isbn_for: "ISBN szám a(z) %{format_type} verzióhoz"
+  p_tweet_this_book: "Twitteld ki a könyvet!"
+  p_tweet_spread_word: "Kérjük segítsd a szerzőt (%{author}) azzal, hogy megosztod a könyvét \\href{http://twitter.com}{Twitter}!"
+  p_tweet_suggested_tweet: "A könyvhöz javasolt twitt szövege:"
+  p_tweet_suggested_hashtag: "A javasolt hashtag: \\href{https://twitter.com/search?q=%23%{suggested_hashtag}}{\\#%{suggested_hashtag}}."
+  p_tweet_find_out_what: "Derítsd ki mit mondtak mások erről a könyvről azzal, hogy rákattintasz a linkre és ezzel rákeresel erre a hashtagre Twitter-en:"
+  p_also_by_multi_authors_title: "A szerzők további könyvei"
+  p_also_by_multi_authors_item: "A szerzők további könyvei: \\href{http://leanpub.com/u/%{username}}{%{name}}"
+  p_also_by_single_author_title: "A szerző további könyvei: \\href{http://leanpub.com/u/%{username}}{%{name}}"
