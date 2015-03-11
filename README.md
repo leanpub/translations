@@ -1,6 +1,6 @@
 # Leanpub Translations
 
-If you wish to make any changes to our translation files you can clone this repo and then make a pull request.
+If you wish to make any changes to our translation files you can fork this repo and then make a pull request.
 
 Thanks!
 
