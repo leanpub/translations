@@ -105,7 +105,7 @@ tr:
   w_feedback_blurb_html: "Aşağıdaki kitaba yorum yapmayı unutmayınız! Baskı hatası tespitinden, eleştiri yazılarına kadar incelemeleriniz her zaman yararlı olacaktır. %{authors} kitabı kendiniz ve okuyucularınız için geliştirin"
   w_country_code: "Residing Country"
   w_first_name: "İsim"
-  w_formats_included: "Formats Included"
+  w_formats_included: "Dahil olan formatlar"
   w_free_sample: Free sample
   w_free_to: Free to
   w_free_updates: "Kitabı alarak yazarın tüm Leanpub güncellemelerine dair bilgilendirileceksiniz!"
@@ -116,7 +116,7 @@ tr:
   w_gift_note_hint: "Hediyenizle birlikte özel bir not gönderebilir, yada kutuyu boş bırakabilirsiniz."
   w_give_as_a_gift: "Hediye gönderin!"
   w_grand_total: "Toplam"
-  w_happiness_guarantee: Mutluluk Garantisi
+  w_happiness_guarantee: 100% Mutluluk Garantisi
   w_happiness_guarantee_book_html: "Eğer bir Leanpub kitabı alırsanız  <strong>tüm güncellemere ücretsiz erişebileceksiniz!</strong> Tüm kitaplar şu formatlarda elde edilebilir <strong>PDF</strong>, <strong>EPUB</strong> (iPad için) ve <strong>MOBI</strong> (Kindle için).Tüm kitaplar <strong>DRM'siz</strong>. Sıfır <strong>risk</strong>, mutlak <strong>memnuniyet garantisi</strong> ile gelir, memnun kalmazsanız paranız iade edilir."
   w_happiness_guarantee_bundle_html: "Leanpub'dan bir bohça satın almanız durumunda <strong>kitaplara yapılan tüm güncellemelere de ücretsiz sahip olursunuz!</strong> Tüm kitaplar <strong>PDF</strong>, <strong>EPUB</strong> (iPad için) ve <strong>MOBI</strong> (Kindle için) formatında mevcuttur. Tüm kitaplar <strong>DRM'siz</strong>. <strong>Risksiz</strong>, mutlak <strong>memnuniyet garantisi</strong> ile gelir. Memnun kalmazsanız paranız iade edilir"
   w_happiness_guarantee_days_html: "Ödemenizi takiben <strong>45 gün içerisinde</strong> sorunsuz olarak <strong>100% ödeme iadesi</strong> alabilirsiniz, Tüm Leanpub ürünleri için geçerlidir, yapmanız gereken sadece <strong>iki tıklama</strong>. Geri ödemeleri elle kontrol ediyoruz, görünür olması bir kaç gün alabilir. <a href=\"/terms#returns\">Eksiksiz Anlaşma Metni</a> için tıklayınız."
@@ -189,7 +189,7 @@ tr:
   w_teaser_text: Teaser text
   w_teaser_text_hint: 1–3 sentences to summarize your book and excite your prospective readers.
   w_these_books_included: "Bu bohçaya şu kitaplar dahildir"
-  w_time_ago: "%{time} ago"
+  w_time_ago: "%{time} Önce"
   w_toc: "İçindekiler"
   w_token_or_password: "Akont parolası yada 6 haneli giriş kodu"
   w_total: "Toplam"
