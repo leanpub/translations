@@ -24,8 +24,8 @@ zh:
     one: "other language"
     other: "other languages"
   w_share_email_with_author:
-    one: "Also share your email address with the author."
-    other: "Also share your email address with the authors."
+    one: "也跟這位作者分享你的 email 地址。"
+    other: "也跟這些作者分享你的 email 地址。"
 ############################################
 # With plurals above, without plurals below.
 ############################################
