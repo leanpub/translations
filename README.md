@@ -16,6 +16,7 @@ To localize Leanpub to a your language or to fix an issue with our existing loca
 Please email hello@leanpub.com if you have any questions!
 
 Thanks!
+
 The Leanpub Team
 
 # Legal Stuff
