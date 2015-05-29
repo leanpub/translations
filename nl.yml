@@ -38,6 +38,8 @@ nl:
   w_about_editors: "Over de redactie"
   w_about_the_contributors: "About the Contributors"
   w_about_the_publisher: "About the Publisher"
+  w_add_bundle_to_cart: "Add Bundle to Cart"
+  w_add_ebook_to_cart: "Add Ebook to cart"
   w_also_by: "Also by"
   w_also_by_the_author: "Ook van deze auteur"
   w_also_by_the_authors: "Ook van deze auteurs"
@@ -45,7 +47,7 @@ nl:
   w_also_by_the_editors: "Ook van deze redactie"
   w_and_min_price: "en de minimumprijs is"
   w_author_letting_bundle: "De auteur laat u de prijs die u betaalt voor deze bundel zelf bepalen! De voorgestelde prijs is"
-  w_author_letting_you_set_price_html: "De auteur laat u de prijs voor dit boek zelf bepalen! De voorgestelde prijs is <strong>%{suggested}</strong> en de minimum prijs is %{minimum}."
+  w_author_letting_you_set_price_html: "De auteur laat u de prijs voor dit boek zelf bepalen! De voorgestelde prijs is <strong class='taxamo-price'>%{suggested}</strong> en de minimum prijs is <span class='taxamo-price'>%{minimum}</span>."
   w_book_dialect: "Boek Dialect:"
   w_book_formats: "Wanneer u dit boek koopt, dan krijgt u het in de formaten PDF, EPUB en MOBI, zodat u het kan lezen op uw computer, iPad, Kindle of elke andere e-booklezer!"
   w_book_is_done_html: "De auteur vindt dit boek <strong>klaar</strong>!"
@@ -58,6 +60,8 @@ nl:
   w_bundle_about_bundle: "Over de bundel"
   w_bundle_buy_now: "Koop nu de bundel!"
   w_bundle_description: "Over de bundel"
+  w_bundle_price: "Bundle Price"
+  w_bundle_royalty_max: "You may not allocate more than 100% royalties"
   w_bundle_separate_price_html: "los verkrijgbaar, deze boeken hebben een minimumprijs van <strong>%{minimum}</strong> en een adviesprijs van <strong>%{suggested}</strong>..."
   w_bundle_share: "Deel deze bundel:"
   w_bundle_suggested_price_html: "De voorgestelde bundel prijs is <strong>%{suggested}</strong>, en de minimale bundel prijs is ..."
@@ -147,12 +151,12 @@ nl:
   w_language_options: "Taal-opties"
   w_language_options_body: "Dit boek is vertaald (of wordt momenteel vertaald) naar de volgende talen:"
   w_last_name: "Achternaam"
-  w_last_updated: Last updated
   w_last_updated_time: "De laatste wijziging aan dit boek was op %{updated_at}."
   w_last_updated_time: "Laatst bijgewerkt: %{updated_at}"
   w_learn_more: "Leer meer"
   w_library_note: "Bibliotheekaankopers: dit boek is in uitvoering en kan op verzoek van de auteur nog niet door bibliotheken gekocht worden."
   w_mailchimp_interested_short: "Interested in this book? Sign up for the author's personal mailing list!"
+  w_matching_bundles: "Matching Leanpub Bundles"
   w_minimum: Minimum
   w_minimum_price2: "Minimum Prijs"
   w_minimum_price: "Minimum prijs:"
@@ -190,6 +194,7 @@ nl:
   w_teaser_text: Teaser tekst
   w_teaser_text_hint: 1-3 zinnen om uw boek te vatten en prikkelen uw potentiële lezers.
   w_these_books_included: "Deze boeken zijn opgenomen in deze bundel ..."
+  w_these_bundles_match: "These published Leanpub bundles match your search."
   w_time_ago: "%{time} geleden"
   w_toc: "Inhoudsopgave"
   w_token_or_password: "Token or Password"

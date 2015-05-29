@@ -37,6 +37,8 @@ it:
   w_about_editors: "Sull'editori"
   w_about_the_contributors: "About the Contributors"
   w_about_the_publisher: "About the Publisher"
+  w_add_bundle_to_cart: "Add Bundle to Cart"
+  w_add_ebook_to_cart: "Add Ebook to cart"
   w_also_by: "Also by"
   w_also_by_the_author: "Anche per l'autore"
   w_also_by_the_authors: "anche da parte degli autori"
@@ -44,7 +46,7 @@ it:
   w_also_by_the_editors: "anche dalla redazione"
   w_and_min_price: "e il prezzo minimo è"
   w_author_letting_bundle: "L'autore è che ti permette di impostare il prezzo che dovrai pagare per questo pacchetto Il prezzo consigliato è!"
-  w_author_letting_you_set_price_html: "L'autore lascia a te la scelta del prezzo da pagare per questo libro. Il prezzo suggerito è di <strong>%{suggested}</strong> e il prezzo minimo è %{minimum}."
+  w_author_letting_you_set_price_html: "L'autore lascia a te la scelta del prezzo da pagare per questo libro. Il prezzo suggerito è di <strong class='taxamo-price'>%{suggested}</strong> e il prezzo minimo è <span class='taxamo-price'>%{minimum}</span>."
   w_book_dialect: "Dialetto del libro:"
   w_book_formats: "Quando compri questo libro, lo puoi avere nei formati PDF, EPUB e MOBI, così lo puoi leggere sul tuo computer, iPad o Kindle o altri lettori"
   w_book_is_done_html: "L'autore ritiene che questo libro <strong>da fare</strong>!"
@@ -57,6 +59,8 @@ it:
   w_bundle_about_bundle: "Informazioni sul Pacchetto"
   w_bundle_buy_now: "Compra il Pacchetto adesso!"
   w_bundle_description: "Informazioni sulla Collezione"
+  w_bundle_price: "Bundle Price"
+  w_bundle_royalty_max: "You may not allocate more than 100% royalties"
   w_bundle_separate_price_html: "Venduti separatamente, questi libri hanno un prezzo minimo di <strong>%{minimum}</strong> e un prezzo suggerito di <strong>%{suggested}</strong>..."
   w_bundle_share: "Condividi questo pacchetto:"
   w_bundle_suggested_price_html: "Il prezzo consigliato del Pacchetto è <strong>%{suggested}</strong>, e il prezzo del pacchetto minimo è ..."
@@ -109,7 +113,6 @@ it:
   w_free_sample: Campione gratuito
   w_free_to: Free to
   w_free_updates: "Se compri il libro, riceverai gratis tutti gli aggiornamenti che l'autore fa in Leanpub!"
-  w_get_it_free: "Scaricalo gratuitamente!"
   w_get_my_free_book: "Scarica il mio libro gratis"
   w_get_my_free_bundle: "Scarica la mia collezione gratis"
   w_gift_note: "Nota regalo"
@@ -145,12 +148,12 @@ it:
   w_language_options: "Lingua opzioni"
   w_language_options_body: "Questo libro è una traduzione in italiano di %{title}, che è stato scritto in inglese. %{title} è stato tradotto in altre 5 lingue"
   w_last_name: "Cognome"
-  w_last_updated: Last updated
   w_last_updated_time: "L'ultimo aggiornamento di questo libro è del %{updated_at}."
   w_last_updated_time: "Ultimo aggiornamento: %{updated_at}"
   w_learn_more: "Clicca per saperne di più"
   w_library_note: "Per acquirenti di biblioteche: il libro è tuttora in sviluppo , e l'autore chiede che non venga ancora acquistato dalle biblioteche"
   w_mailchimp_interested_short: "Interested in this book? Sign up for the author's personal mailing list!"
+  w_matching_bundles: "Matching Leanpub Bundles"
   w_minimum: Minimo
   w_minimum_price2: "Prezzo minimo"
   w_minimum_price: "Prezzo minimo:"
@@ -188,6 +191,7 @@ it:
   w_teaser_text: testo Teaser
   w_teaser_text_hint: 1-3 frasi per riassumere il tuo libro e eccitare i vostri potenziali lettori.
   w_these_books_included: "Questi libri sono inclusi in questo collezione ..."
+  w_these_bundles_match: "These published Leanpub bundles match your search."
   w_time_ago: "%{time} fa"
   w_toc: "Indice"
   w_token_or_password: "Token or Password"

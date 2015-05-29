@@ -38,6 +38,8 @@ sv:
   w_about_editors: "Om redaktörerna"
   w_about_the_contributors: "Om medarbetarna"
   w_about_the_publisher: "Om utgivaren"
+  w_add_bundle_to_cart: "Add Bundle to Cart"
+  w_add_ebook_to_cart: "Add Ebook to cart"
   w_also_by: "Också av"
   w_also_by_the_author: "Också av författaren"
   w_also_by_the_authors: "Också av författarna"
@@ -45,7 +47,7 @@ sv:
   w_also_by_the_editors: "Också av redaktörerna"
   w_and_min_price: "och minimipriset är"
   w_author_letting_bundle: "Författaren låter dig avgöra vad du vill betala för detta paket! Det föreslagna priset är"
-  w_author_letting_you_set_price_html: "Författaren låter dig betala vad du vill för denna bok! Det föreslagna priset är <strong>%{suggested}</strong> och lägstapriset är %{minimum}."
+  w_author_letting_you_set_price_html: "Författaren låter dig betala vad du vill för denna bok! Det föreslagna priset är <strong class='taxamo-price'>%{suggested}</strong> och lägstapriset är <span class='taxamo-price'>%{minimum}</span>."
   w_book_dialect: "Dialekt:"
   w_book_formats: "När du köper den här boken får du den i PDF-, EPUB- och MOBI-format, så du kan läsa den på din dator, iPad, Kindle eller någon annan eboksläsare!"
   w_book_is_done_html: "Författaren anser den här boken vara <strong>färdigskriven</strong>!"
@@ -58,6 +60,8 @@ sv:
   w_bundle_about_bundle: "Om paketet"
   w_bundle_buy_now: "Köp paketet nu!"
   w_bundle_description: "Om paketet"
+  w_bundle_price: "Bundle Price"
+  w_bundle_royalty_max: "You may not allocate more than 100% royalties"
   w_bundle_separate_price_html: "Var för sig har dessa böcker ett lägstapris på <strong>%{minimum}</strong> och ett föreslaget pris på <strong>%{suggested}</strong>…"
   w_bundle_share: "Dela detta paket:"
   w_bundle_suggested_price_html: "Det föreslagna paketpriset är <strong>%{suggested}</strong> och det lägsta paketpriset är…"
@@ -147,12 +151,12 @@ sv:
   w_language_options: "Språkval"
   w_language_options_body: "Denna bok är översatt (eller håller på att översättas) till följande språk:"
   w_last_name: "Efternamn"
-  w_last_updated: Last updated
   w_last_updated_time: "Denna bok uppdaterades senast %{updated_at}."
   w_last_updated_time: "Senast uppdaterad: %{updated_at}"
   w_learn_more: "Läs mer"
   w_library_note: "Biblioteksinköpare: Denna bok är inte färdig och författaren vill inte att den köps in av bibliotek ännu."
   w_mailchimp_interested_short: "Interested in this book? Sign up for the author's personal mailing list!"
+  w_matching_bundles: "Matching Leanpub Bundles"
   w_minimum: Minst
   w_minimum_price2: "Lägstapris"
   w_minimum_price: "Lägstapris:"
@@ -191,6 +195,7 @@ sv:
   w_teaser_text: Teaser text
   w_teaser_text_hint: 1-3 meningar för att sammanfatta din bok och väcka dina potentiella läsare.
   w_these_books_included: "Dessa böcker finns i paketet…"
+  w_these_bundles_match: "These published Leanpub bundles match your search."
   w_time_ago: "%{time} sedan"
   w_toc: "Innehållsförteckning"
   w_token_or_password: "Token or Password"

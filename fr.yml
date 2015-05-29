@@ -38,6 +38,8 @@ fr:
   w_about_editors: "À propos des editeurs"
   w_about_the_contributors: "À propos des contributeurs"
   w_about_the_publisher: "À propos de l'éditeur"
+  w_add_bundle_to_cart: "Add Bundle to Cart"
+  w_add_ebook_to_cart: "Add Ebook to cart"
   w_also_by: "Aussi par"
   w_also_by_the_author: "Autre auteur"
   w_also_by_the_authors: "Autres auteurs"
@@ -45,7 +47,7 @@ fr:
   w_also_by_the_editors: "Autres éditeurs"
   w_and_min_price: "et le prix minimum est de"
   w_author_letting_bundle: "L'auteur vous laisse définir le prix de ce lot. Le prix suggéré est!"
-  w_author_letting_you_set_price_html: "L'auteur vous laisse définir le prix de ce livre ! Le prix conseillé est de <strong>%{suggested}</strong> et le prix minimum de %{minimum}."
+  w_author_letting_you_set_price_html: "L'auteur vous laisse définir le prix de ce livre ! Le prix conseillé est de <strong class='taxamo-price'>%{suggested}</strong> et le prix minimum de <span class='taxamo-price'>%{minimum}</span>."
   w_book_dialect: "Dialecte"
   w_book_formats: "En achetant ce livre, vous pourrez le recevoir aux formats PDF, EPUB ou MOBI de façon à pouvoir le lire sur votre ordinateur, votre iPad, votre Kindle ou tout autre liseuse."
   w_book_is_done_html: "L'auteur considère ce livre <strong>fini</strong>!"
@@ -58,6 +60,8 @@ fr:
   w_bundle_about_bundle: "À propos du lot"
   w_bundle_buy_now: "Acheter maintenant le lot !"
   w_bundle_description: "À propos du lot"
+  w_bundle_price: "Bundle Price"
+  w_bundle_royalty_max: "You may not allocate more than 100% royalties"
   w_bundle_separate_price_html: "Vendu séparément, ces livres ont un prix minimum de <strong>%{minimum}</strong> et un prix suggéré de <strong>%{suggested}</strong>..."
   w_bundle_share: "Partagez ce lot :"
   w_bundle_suggested_price_html: "Le prix proposé est fixé à <strong>%{suggested}</strong>, et le prix minimum du lot est..."
@@ -148,13 +152,11 @@ fr:
   w_language_options: "Langues disponibles"
   w_language_options_body: "Ce livre a été traduit (ou est en cours de traduction) dans les langues suivantes :"
   w_last_name: "Nom"
-  w_last_updated: Dernière mise à jour
-  w_last_updated: Dernière mise à jour
-  w_last_updated_time: "Dernière mise à jour : %{updated_at}"
   w_last_updated_time: "Le livre a été mis à jour pour la dernière fois le %{updated_at}."
   w_learn_more: "En savoir plus"
   w_library_note: "Acheteurs de bibliothèques : ce livre est en cours d'écriture et l'auteur a demandé qu'il ne soit pas encore disponible à l'achat pour les bibliothèques."
   w_mailchimp_interested_short: "Interested in this book? Sign up for the author's personal mailing list!"
+  w_matching_bundles: "Matching Leanpub Bundles"
   w_minimum: Minimum
   w_minimum_price2: "Prix minimum"
   w_minimum_price: "Prix minimum"
@@ -193,6 +195,7 @@ fr:
   w_teaser_text: texte du teaser
   w_teaser_text_hint: 1à 3 phrases pour résumer votre livre et attirer vos lecteurs potentiels.
   w_these_books_included: "Ces livres sont inclus dans ce lot ..."
+  w_these_bundles_match: "These published Leanpub bundles match your search."
   w_time_ago: Il ya %{time}
   w_toc: "Table des matières"
   w_token_or_password: "Jeton or mot de passe"

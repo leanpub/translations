@@ -45,6 +45,8 @@ ro:
   w_about_editors: "Despre editors"
   w_about_the_contributors: "About the Contributors"
   w_about_the_publisher: "About the Publisher"
+  w_add_bundle_to_cart: "Add Bundle to Cart"
+  w_add_ebook_to_cart: "Add Ebook to cart"
   w_also_by: "Also by"
   w_also_by_the_author: "De asemenea, de Autor"
   w_also_by_the_authors: "De asemenea, de către autori"
@@ -52,7 +54,7 @@ ro:
   w_also_by_the_editors: "De asemenea, de către editori"
   w_and_min_price: "și prețul minim este de"
   w_author_letting_bundle: "Autorul este permițându-vă să setați prețul pe care îl veți plăti pentru acest pachet preț recomandat este!"
-  w_author_letting_you_set_price_html: "Autorul îți dă voie să setezi tu prețul pe care vrei să-l plătești pentru carte! Prețul sugerat este <strong>%{suggested}</strong> iar prețul minim este %{minimum}."
+  w_author_letting_you_set_price_html: "Autorul îți dă voie să setezi tu prețul pe care vrei să-l plătești pentru carte! Prețul sugerat este <strong class='taxamo-price'>%{suggested}</strong> iar prețul minim este <span class='taxamo-price'>%{minimum}</span>."
   w_book_dialect: "Cartea Dialect:"
   w_book_formats: "Când cumperi această carte, o primești în format PDF, EPUB și MOBI, ca să o poți citi pe calculator, iPad, Kindle sau alte cititoare de cărți electronice."
   w_book_is_done_html: "Autorul consideră că această carte să fie făcut!"
@@ -65,6 +67,8 @@ ro:
   w_bundle_about_bundle: "Despre Bundle"
   w_bundle_buy_now: "Cumpărați acum pachetul!"
   w_bundle_description: "Despre Bundle"
+  w_bundle_price: "Bundle Price"
+  w_bundle_royalty_max: "You may not allocate more than 100% royalties"
   w_bundle_separate_price_html: "Comercializat separat, aceste cărți au un preț minim de <strong>%{minimum}</strong> si un pret sugerat de <strong>%{suggested}</strong> ..."
   w_bundle_share: "Trimiteți acest pachet:"
   w_bundle_suggested_price_html: "Prețul Pachetul propus este% <strong>%{suggested}</strong>, iar prețul minim este pachetul ..."
@@ -152,12 +156,12 @@ ro:
   w_language_options: "Limbă opțiuni"
   w_language_options_body: "Această carte a fost tradus (sau este în curs de traducere) în următoarele limbi:"
   w_last_name: "Prenume"
-  w_last_updated: Last updated
   w_last_updated_time: "Această carte a fost updatata ultima dată pe %{updated_at}."
   w_last_updated_time: "Ultima actualizare: %{updated_at}"
   w_learn_more: "Mai multe informații"
   w_library_note: "Agenți de achiziții pentru biblioteci: Această carte se află în evoluție, autorul a solicitat să nu fie cumpărată încă de biblioteci."
   w_mailchimp_interested_short: "Interested in this book? Sign up for the author's personal mailing list!"
+  w_matching_bundles: "Matching Leanpub Bundles"
   w_minimum: minim
   w_minimum_price2: "Preț minim"
   w_minimum_price: "Pret minim:"
@@ -195,6 +199,7 @@ ro:
   w_teaser_text: Text Teaser
   w_teaser_text_hint: 1-3 propoziții pentru a rezuma cartea dvs. și excita de cititori potențiali.
   w_these_books_included: "Aceste cărți sunt incluse în acest pachet ..."
+  w_these_bundles_match: "These published Leanpub bundles match your search."
   w_time_ago: "%{time} în urmă"
   w_toc: "Cuprins"
   w_token_or_password: "Token or Password"

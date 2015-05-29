@@ -47,6 +47,8 @@ sr:
   w_about_editors: "О уредницима"
   w_about_the_contributors: "О сарадницима"
   w_about_the_publisher: "О издавачу"
+  w_add_bundle_to_cart: "Add Bundle to Cart"
+  w_add_ebook_to_cart: "Add Ebook to cart"
   w_also_by: "Такође од"
   w_also_by_the_author: "Од истог аутора"
   w_also_by_the_authors: "Од истих аутора"
@@ -54,7 +56,7 @@ sr:
   w_also_by_the_editors: "Од истих уредника"
   w_and_min_price: "и најнижа цена је"
   w_author_letting_bundle: "Аутор Вам оставља могућност да сами одредите колико бисте платили овај комплет!  Препоручена цена је"
-  w_author_letting_you_set_price_html: "Аутор Вам оставља могућност да сами одредите колико бисте платили ову књигу! Препоручена цена је <strong>%{suggested}</strong>, а најнижа цена је %{minimum}."
+  w_author_letting_you_set_price_html: "Аутор Вам оставља могућност да сами одредите колико бисте платили ову књигу! Препоручена цена је <strong class='taxamo-price'>%{suggested}</strong>, а најнижа цена је <span class='taxamo-price'>%{minimum}</span>."
   w_book_dialect: "Дијалекат:"
   w_book_formats: "Куповином ове књиге, добијате је у PDF, EPUB и MOBI форматима, тако да је можете читати на свом рачунару, iPad-у, Kindle или другом програму за е-књиге!"
   w_book_is_done_html: "Аутор сматра да је ова књига <strong>завршена</strong>!"
@@ -67,6 +69,8 @@ sr:
   w_bundle_about_bundle: "О комплету"
   w_bundle_buy_now: "Купите комплет!"
   w_bundle_description: "О комплету"
+  w_bundle_price: "Bundle Price"
+  w_bundle_royalty_max: "You may not allocate more than 100% royalties"
   w_bundle_separate_price_html: "Купљене посебно, ове књиге имају минималну цену од <strong>%{minimum}</strong> а препоручена цена је <strong>%{suggested}</strong>…"
   w_bundle_share: "Подели комплет:"
   w_bundle_suggested_price_html: "Препоручена цена за комплет је <strong>%{suggested}</strong>, а минимална цена је…"
@@ -156,12 +160,12 @@ sr:
   w_language_options: "Језичке опције"
   w_language_options_body: "Ова књига је преведена (или се тренутно преводи) на следеће језике:"
   w_last_name: "Презиме"
-  w_last_updated: Last updated
   w_last_updated_time: "Last updated: %{updated_at}"
   w_last_updated_time: "Ова књига је последњи пут ажурирана дана %{updated_at}."
   w_learn_more: "Сазнај више"
   w_library_note: "Агентима набавке за библиотеке: Ова књига је у процесу писања, и аутор је затражио да библиотеке још увек не купују књигу."
   w_mailchimp_interested_short: "Interested in this book? Sign up for the author's personal mailing list!"
+  w_matching_bundles: "Matching Leanpub Bundles"
   w_minimum: Minimum
   w_minimum_price2: "Минимална цена"
   w_minimum_price: "Минимална цена:"
@@ -199,6 +203,7 @@ sr:
   w_teaser_text: Teaser text
   w_teaser_text_hint: 1–3 sentences to summarize your book and excite your prospective readers.
   w_these_books_included: "Ове књиге су укључене у комплет…"
+  w_these_bundles_match: "These published Leanpub bundles match your search."
   w_time_ago: "%{time} ago"
   w_toc: "Садржај"
   w_token_or_password: "Token or Password"
