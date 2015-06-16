@@ -48,26 +48,26 @@ en:
   w_also_by_the_editor: "Juga oleh Editor ini"
   w_also_by_the_editors: "Juga oleh para Editor ini"
   w_and_min_price: "dan harga minimumnya adalah"
-  w_author_letting_bundle: "The author is letting you set the price you'll pay for this bundle!  The suggested price is"
-  w_author_letting_you_set_price_html: "The author is letting you set the price you'll pay for this book! The suggested price is <strong class='taxamo-price'>%{suggested}</strong>, and the minimum price is <span class='taxamo-price'>%{minimum}</span>."
-  w_book_dialect: "Book Dialect:"
-  w_book_formats: "When you buy this book, you get it in PDF, EPUB and MOBI formats, so you can read it on your computer, iPad, Kindle or other ebook reader!"
-  w_book_is_done_html: "The author considers this book to be <strong>done</strong>!"
-  w_book_is_translation_html: "This book is a translation into %{lang} of %{orig_book}, which was originally written in %{written_in}."
-  w_book_language: "Book language:"
-  w_book_num_translations_html: "<em>%{orig_book}</em> has been translated into %{num_translations} %{other_langs}."
-  w_book_published_on_leanpub_by: "This book is published on Leanpub by"
+  w_author_letting_bundle: "Penulis ini mengizinkan Anda menentukan harga yang akan Anda bayar untuk bundel ini! Harga yang disarankan adalah"
+  w_author_letting_you_set_price_html: "Penulis ini mengizinkan Anda menentukan harga yang akan Anda bayar untuk buku ini! Harga yang disarankan adalah <strong class='taxamo-price'>%{suggested}</strong>, dan harga minimum adalah <span class='taxamo-price'>%{minimum}</span>."
+  w_book_dialect: "Dialek Buku:"
+  w_book_formats: "Setelah membeli buku ini, Anda mendapatkannya dalam format PDF, EPUB, dan MOBI, sehingga Anda bisa membacanya di komputer, iPad, Kindle, atau ebook reader lainnya!"
+  w_book_is_done_html: "Penulis ini menganggap bahwa buku ini <strong>jadi</strong>!"
+  w_book_is_translation_html: "Buku ini adalah terjemahan ke %{lang} dari %{orig_book}, yang aslinya ditulis dalam %{written_in}."
+  w_book_language: "Bahasa buku:"
+  w_book_num_translations_html: "<em>%{orig_book}</em> telah diterjemahkan ke %{num_translations} %{other_langs}."
+  w_book_published_on_leanpub_by: "Buku ini diterbitkan di Leanpub oleh"
   w_book_freshness_timestamp:
-    lt_1_minute: Just now!
-    lt_2_minutes: A minute ago
-    lt_45_minutes: "%{minutes} minutes ago"
-    lt_90_minutes: ~1 hour ago
-    lt_24_hours: "%{hours} hours ago"
-    lt_48_hours: Yesterday
-    lt_30_days: "%{days} days ago"
-    lt_60_days: Last month
-    lt_1_year: "%{months} months ago"
-  w_books_included: "Books Included"
+    lt_1_minute: Baru saja!
+    lt_2_minutes: Semenit yang lalu
+    lt_45_minutes: "%{minutes} menit yang lalu"
+    lt_90_minutes: ~1 jam yang lalu
+    lt_24_hours: "%{hours} jam yang lalu"
+    lt_48_hours: Kemarin
+    lt_30_days: "%{days} hari yang lalu"
+    lt_60_days: Sebulan yang lalu
+    lt_1_year: "%{months} bulan yang lalu"
+  w_books_included: "Buku-buku yang Disertakan"
   w_bundle_about_books: "About the Books"
   w_bundle_about_bundle: "About the Bundle"
   w_bundle_buy_now: "Buy the bundle now!"
