@@ -1,0 +1,271 @@
+###
+# Leanpub Text Version 1.0, effective 2012-09-13. Copyright (c) 2010-2012 Ruboss Technology Corporation.
+#
+# Indonesian
+# 2 letter code = id. 3 letter code = ind.
+###
+en:
+  support:
+    array:
+      last_word_connector: " dan " # Used in to_sentence
+  w_author_earns:
+    one: "Penulis mendapatkan"
+    other: "Para penulis mendapatkan"
+  w_lang_srp: "Serbia"
+  w_lang_swe: "Swedia"
+  w_lang_tur: "Turki"
+  w_language:
+    one: "bahasa"
+    other: "bahasa-bahasa"
+  w_other_books_by_this_author:
+    one: "Buku lainnya dari penulis ini"
+    other: "Buku lainnya dari para penulis ini"
+  w_other_language:
+    one: "bahasa lainnya"
+    other: "bahasa-bahasa lainnya"
+  w_share_email_with_author:
+    one: "Juga bagikan alamat email Anda dengan penulis."
+    other: "Juga bagikan alamat email Anda dengan para penulis."
+############################################
+# With plurals above, without plurals below.
+############################################
+  w_about_author: "Tentang Penulis"
+  w_about_authors: "Tentang Para Penulis"
+  w_about_book: "Tentang Buku"
+  w_about_editor: "Tentang Editor"
+  w_about_editors: "Tentang Para Editor"
+  w_about_leanpub_bookstore_html: "Leanpub memiliki sejumlah besar buku dalam-proses dan jadi yang bisa ditelusuri, dibeli, dan dinikmati."
+  w_about_leanpub_html: "Buku ini Dijual di %{home_anchor}"
+  w_about_leanpub_write_html: "Leanpub bebas dimanfaatkan oleh penulis dan penerbit. Kami membayar penulis dan penerbit 90% royalti minus 50 sen per penjualan."
+  w_about_leanpub_slogan: "Penulis dan penerbit menggunakan Leanpub untuk menerbitkan buku-buku bagus dalam-proses dan jadi seperti ini."
+  w_about_the_contributors: "Tentang para Kontributor"
+  w_about_the_publisher: "Tentang para Penerbit"
+  w_add_bundle_to_cart: "Tambahkan Bundel ke Troli"
+  w_add_ebook_to_cart: "Tambahkan Ebook ke Troli"
+  w_also_by: "Juga oleh"
+  w_also_by_the_author: "Juga oleh Penulis ini"
+  w_also_by_the_authors: "Juga oleh para Penulis ini"
+  w_also_by_the_editor: "Juga oleh Editor ini"
+  w_also_by_the_editors: "Juga oleh para Editor ini"
+  w_and_min_price: "dan harga minimumnya adalah"
+  w_author_letting_bundle: "Penulis ini mengizinkan Anda menentukan harga yang akan Anda bayar untuk bundel ini! Harga yang disarankan adalah"
+  w_author_letting_you_set_price_html: "Penulis ini mengizinkan Anda menentukan harga yang akan Anda bayar untuk buku ini! Harga yang disarankan adalah <strong class='taxamo-price'>%{suggested}</strong>, dan harga minimum adalah <span class='taxamo-price'>%{minimum}</span>."
+  w_book_dialect: "Dialek Buku:"
+  w_book_formats: "Setelah membeli buku ini, Anda mendapatkannya dalam format PDF, EPUB, dan MOBI, sehingga Anda bisa membacanya di komputer, iPad, Kindle, atau ebook reader lainnya!"
+  w_book_is_done_html: "Penulis ini menganggap bahwa buku ini <strong>jadi</strong>!"
+  w_book_is_translation_html: "Buku ini adalah terjemahan ke %{lang} dari %{orig_book}, yang aslinya ditulis dalam %{written_in}."
+  w_book_language: "Bahasa buku:"
+  w_book_num_translations_html: "<em>%{orig_book}</em> telah diterjemahkan ke %{num_translations} %{other_langs}."
+  w_book_published_on_leanpub_by: "Buku ini diterbitkan di Leanpub oleh"
+  w_book_freshness_timestamp:
+    lt_1_minute: Baru saja!
+    lt_2_minutes: Semenit yang lalu
+    lt_45_minutes: "%{minutes} menit yang lalu"
+    lt_90_minutes: ~1 jam yang lalu
+    lt_24_hours: "%{hours} jam yang lalu"
+    lt_48_hours: Kemarin
+    lt_30_days: "%{days} hari yang lalu"
+    lt_60_days: Sebulan yang lalu
+    lt_1_year: "%{months} bulan yang lalu"
+  w_books_included: "Buku-buku yang Disertakan"
+  w_bundle_about_books: "Tentang Buku-buku Ini"
+  w_bundle_about_bundle: "Tentang Bundel Ini"
+  w_bundle_buy_now: "Beli bundel ini sekarang!"
+  w_bundle_description: "Tentang Bundel Ini"
+  w_bundle_price: "Harga Bundel"
+  w_bundle_royalty_max: "Anda tidak boleh mengalokasikan lebih dari 100% royalti"
+  w_bundle_separate_price_html: "Jika dijual terpisah, buku-buku ini memiliki harga minimum <strong>%{minimum}</strong> dan harga yang disarankan <strong>%{suggested}</strong>…"
+  w_bundle_share: "Bagikan bundel ini:"
+  w_bundle_suggested_price_html: "Harga bundel yang disarankan adalah <strong>%{suggested}</strong>, dan harga minimum bundel adalah…"
+  w_bundles_available: "Tersedia Bundel-bundel"
+  w_bundles_included: "Buku ini juga tersedia dalam bundel berikut:"
+  w_buy_a_bundle_and_save: Beli bundel dan berhemat
+  w_buy_as_a_gift: "Beli sebagai Kado!"
+  w_buy_ebook: "Beli ebook"
+  w_buy_for: "Saya membelinya untuk…"
+  w_buy_now: "Beli ebook ini sekarang!"
+  w_buy_now_terse: "Beli Sekarang"
+  w_buying: "Membeli %{book}"
+  w_buying_bundle: "Membeli %{bundle}"
+  w_by: "oleh"
+  w_by_author: " oleh %{author_string}"
+  w_cause_gets: "Gerakan memperoleh"
+  w_causes_get: "Gerakan-gerakan memperoleh"
+  w_causes_supported: "Gerakan-gerakan yang Didukung"
+  w_cc_me: "Tembuskan ke saya di email agar penulis bisa membalasnya."
+  w_charge_card: "Bebankan Kartu"
+  w_coming_soon: Segera hadir
+  w_comments: "Komentar"
+  w_complete: Selesai
+  w_copied_embed_code: "Kode embed telah tersalin ke papan klip Anda; cukup tempelkan ke HTML website Anda, beres!"
+  w_copies: "Salinan"
+  w_copy_embed: "Salin kode embed"
+  w_coupon_code: "Kode Kupon"
+  w_coupon_price: "Harga kupon"
+  w_credit_card_help: "Leanpub hanya menerima Visa dan MasterCard. Kami tidak menyimpan kartu kredit Anda dalam server kami. Namun, kami mengirimkan form ini secara aman via SSL ke payment processor kami, yang seaman PayPal."
+  w_credit_card_number: "Nomor Kartu"
+  w_debit_card_fee: "Jika Anda menggunakan kartu debit Visa atau MasterCard, mungkin akan ada fee kecil (biasanya sekitar 10 sen) yang dibebankan oleh payment processor kami. Hal ini dikarenakan kami adalah merchant dari Kanada, dan kebanyakan transaksi kartu dedit Visa atau MasterCard yang kami lihat berasal dari AS."
+  w_discuss_this_book_with_the_author: Diskusikan buku ini dengan penulisnya
+  w_discuss_this_book_with_the_author_and_its_readers: "Diskusikan buku ini dengan penulisnya dan %{kind_of_readers}"
+  w_download: Unduh
+  w_download_sample: "PDF Sampel"
+  w_drag_slider_html_click: "Seret slider, atau klik harga untuk menuliskannya sendiri (hingga $500)"
+  w_drag_slider_html_tap: "Seret slider, atau ketuk harga untuk menuliskannya sendiri (up to $500)"
+  w_email: "Email"
+  w_email_the_author: "Kirim Email ke Penulis"
+  w_embargo: "EMBARGO!"
+  w_embargo_message_1: "Jurnalis dan blogger: mohon jangan mempublikasikan apapun mengenai ini sampai embargo dicabut!"
+  w_embargo_message_2: "Mohon hubungi penulis untuk info lebih lanjut mengenai waktunya."
+  w_embed_code_copy_instructions: "Klik (Control/⌘)-C untuk menyalin kode ini ke papan klip"
+  w_expiry_date: "Kadaluwarsa"
+  w_fanfic_always_free: "Buku-buku fan fiction selalu gratis di Leanpub."
+  w_fanfic_of: "Buku ini adalah fan fiction dari %{work} karya %{author}."
+  w_feedback: "Masukan"
+  w_feedback_blurb_html: "Silakan memposkan komentar Anda mengenai buku ini di bawah ini! Mulai dari temuan typo hingga memberi ulasan, masukan Anda bisa membantu %{authors} memperbaiki buku ini untuk Anda dan para pembaca lainnya."
+  w_first_name: "Nama depan"
+  w_country_code: "Warga Negara"
+  w_formats_included: "Format yang Termuat"
+  w_free_sample: Sampel gratis
+  w_free_to: Bebas untuk
+  w_free_updates: "Jika Anda membeli buku ini, Anda memperoleh pembaruan buku dari penulis via Leanpub secara cuma-cuma!"
+  w_get_it_for_free: "Dapatkan, gratis!"
+  w_get_my_free_book: "Dapatkan Buku Gratis!"
+  w_get_my_free_bundle: "Dapatkan Bundel Gratis!"
+  w_gift_note: "Catatan Kado"
+  w_gift_note_hint: "Anda bisa menuliskan catatan untuk menyertai kado. Anda juga boleh mengosongkan bidang ini."
+  w_give_as_a_gift: "Berikan sebagai Kado!"
+  w_government_earns: "Pemerintah memperoleh (VAT)"
+  w_grand_total: "Jumlah Total"
+  w_happiness_guarantee: Jaminan kepuasan
+  w_100_pc_happiness_guarantee_html: Jaminan kepuasan <span class="pc">100%</span>
+  w_happiness_guarantee_book_html: "Dengan membeli buku Leanpub, Anda akan mendapatkan <strong>seluruh pembaruan atas buku secara cuma-cuma!</strong> Semua buku tersedia dalam format <strong>PDF</strong>, <strong>EPUB</strong> (untuk iPad) dan <strong>MOBI</strong> (untuk Kindle). Semua buku <strong>bebas DRM</strong>. Semua buku <strong>bebas resiko</strong>, dengan <strong>jaminan kepuasan</strong> atau uang kembali."
+  w_happiness_guarantee_bundle_html: "Dengan membeli bundel Leanpub, Anda akan mendapatkan <strong>seluruh pembaruan atas buku dalam bundel secara cuma-cuma!</strong> Semua buku tersedia dalam format <strong>PDF</strong>, <strong>EPUB</strong> (untuk iPad) dan <strong>MOBI</strong> (untuk Kindle). Semua buku <strong>bebas DRM</strong>. Semua buku <strong>bebas resiko</strong>, dengan <strong>jaminan kepuasan</strong> atau uang kembali."
+  w_happiness_guarantee_days_html: "Dalam <strong>45 hari sesudah pembelian</strong> Anda bisa memperoleh <strong>100% refund</strong> atas pembelian di Leanpub dengan <strong>dua klik</strong>. Kami memproses refund secara manual, sehingga mungkin butuh beberapa hari sampai selesai. <br><a href=\"/terms#returns\">Lihat ketentuan lengkap</a>"
+  w_happiness_guarantee_title: "Jaminan Kepuasan 100%, Bebas Resiko, Tanpa Syarat ala Leanpub"
+  w_if_buy_ebook: "Jika Anda membeli ebook ini, Anda memperoleh semua format berikut:"
+  w_if_no_visa_mastercard: "Jika kartu kredit Anda bukan Visa atau Mastercard, Anda masih bisa membeli buku ini dengan PayPal. Klik saja tombol kuning di atas."
+  w_installment_count: "Buku ini ditulis sebagai serial fiksi. %{installments_completed} dari %{installments_planned} seri telah tersedia."
+  w_installments_completed: Seri telah lengkap
+  w_interested_in_book: "Tertarik dengan buku ini? Dukung penulisnya dengan menuliskan nama, email, dan berapa harga yang sedia Anda bayarkan jika buku tersebut diterbitkan."
+  w_interested_short: "Tertarik dengan buku ini? Tunjukkan dukungan Anda dengan menyebutkan harga yang sedia Anda bayarkan untuknya!"
+  w_lang_ara: "Arab"
+  w_lang_dut: "Belanda"
+  w_lang_eng: "Inggris"
+  w_lang_fin: "Finlandia"
+  w_lang_fre: "Prancis"
+  w_lang_ger: "Jerman"
+  w_lang_hrv: "Kroasia"
+  w_lang_hun: "Hungaria"
+  w_lang_ita: "Italia"
+  w_lang_jpn: "Jepang"
+  w_lang_por: "Portugis"
+  w_lang_rum: "Rumania"
+  w_lang_rus: "Rusia"
+  w_lang_slv: "Slovenia"
+  w_lang_spa: "Spanyol"
+  w_lang_heb: "Ibrani"
+  w_language_options: "Pilihan bahasa"
+  w_language_options_body: "Buku ini juga tersedia untuk dibeli dalam (atau tengah diterjemahkan ke) bahasa-bahasa berikut:"
+  w_last_name: "Nama belakang"
+  w_last_updated_time: "Diperbarui pada: %{updated_at}"
+  w_learn_more: "Pelajari selengkapnya"
+  w_library_note: "Agen pengadaan buku perpustakaan: Buku ini masih dalam-proses, dan penulisnya meminta agar jangan dulu dijual ke perpustakaan."
+  w_mailchimp_interested_short: "Tertarik dengan buku ini? Mendaftarlah ke milis pribadi penulisnya!"
+  w_matching_bundles: "Bundel Leanpub yang Cocok"
+  w_minimum: Minimum
+  w_minimum_price2: "Harga Minimum"
+  w_minimum_price: "Harga minimum:"
+  w_multiple_explanation: "Anda bisa membeli sekaligus beberapa eksemplar buku jika Anda hendak membagikannya ke sahabat atau rekan kerja. Jika Anda membeli beberapa eksemplar, slider di atas akan menampilkan jumlah yang akan Anda bayarkan dan yang akan diperoleh penulis atau gerakan (terpadu) dari tiap eksemplar."
+  w_name: "Nama"
+  w_name_your_price: Tentukan Harga Anda
+  w_set_price_html: "Tentukan Harga Anda <small>(USD)</small>"
+  w_notify_when: "Beritahu Saya Saat Ini Diterbitkan"
+  w_number: "Jumlah"
+  w_number_of_copies_purchased: "Jumlah Eksemplar yang Dibeli"
+  w_online: Online
+  w_or: "atau"
+  w_or_click_to: "atau klik untuk"
+  w_pages: "Halaman"
+  w_pay_by_credit_card: "Bayar dengan Kartu Kredit"
+  w_pay_by_credit_card_or_click_to_html: "Bayar dengan Kartu Kredit <small class=\"option\">atau klik untuk %{paypal}</small>"
+  w_percent_done_html: "Penulis menganggap buku ini telah <strong>%{percent_complete}%</strong> jadi!"
+  w_please_wait: "Mohon tunggu…"
+  w_publisher_earns: "Penerbit memperoleh"
+  w_purchase_hint: "Anda bisa membeli buku-buku Leanpub sebagai kado! Anda hanya butuh alamat email atau username Leanpub milik si penerima kado. Ia akan bisa mengunduh buku itu dalam format PDF, EPUB dan MOBI tanpa harus mendaftar ke Leanpub, dan jika mendaftar akan bisa memperoleh pembaruan buku secara cuma-cuma. Buku-buku Leanpub adalah kado yang luar biasa dan tahan lama!"
+  w_purchase_is_gift: "Pembelian ini sebagai kado"
+  w_read: Baca
+  w_read_online: Baca secara online
+  w_reader_count: "Buku ini memiliki %{num_readers} pembaca!"
+  w_reader: Pembaca
+  w_readers: Para pembaca
+  w_reader_feedback: "Masukan Pembaca"
+  w_recipient_email_or_username: "Email atau Username Leanpub Penerima"
+  w_retired: "Diberhentikan"
+  w_return_to_book: "Kembali ke laman buku"
+  w_return_to_bundle: "Kembali ke laman bundel"
+  w_royalties_going_to_html: "<strong>%{royalty_percentage}%</strong> dari royalti <strong>%{author}'s</strong> langsung diberikan untuk <strong>%{cause}</strong>."
+  w_share_book: "Bagikan buku ini"
+  w_share_email: "Bagikan Email?"
+  w_suggested: Disarankan
+  w_suggested_price2: "Harga yang Disarankan"
+  w_suggested_price: "Harga yang disarankan:"
+  w_teaser_text: Teks promo
+  w_teaser_text_hint: 1–3 kalimat guna mendeskripsikan buku Anda dan menarik calon pembaca.
+  w_these_books_included: "Buku-buku ini termuat dalam bundle ini…"
+  w_these_bundles_match: "Bundel-bundel Leanpub berikut cocok dengan pencarian Anda."
+  w_time_ago: "%{time} yang lalu"
+  w_toc: "Daftar Isi"
+  w_token_or_password: "Token Login atau Password Akun"
+  w_total: "Total"
+  w_translation: Terjemahan
+  w_translations_available: Terjemahan yang tersedia
+  w_tweet_just_bought_bundle_text: "Saya baru saja membeli bundel %{title}"
+  w_tweet_just_bought_text: "Saya baru saja membeli %{title}"
+  w_tweet_text: "Baca %{title}"
+  w_type_own_amount_click: "Klik untuk menuliskan jumlah Anda sendiri"
+  w_type_own_amount_tap: "Ketuk untuk menuliskan jumlah Anda sendiri"
+  w_type_your_message_to_the_author: "Tuliskan pesan Anda untuk penulis di bawah ini"
+  w_unpublished: "Belum diterbitkan"
+  w_unpublished_tweet_text: "Ingin segera membaca %{title}"
+  w_updated: Diperbarui
+  w_uses_leanpub_plural: "Para penulis ini menggunakan Leanpub untuk menerbitkan buku ini secara independen. Anda juga bisa!"
+  w_uses_leanpub_singular_html: "%{author} menggunakan Leanpub untuk menerbitkan buku ini secara independen. Anda juga bisa!"
+  w_vat_number: "EU VAT Number"
+  w_verification_value: "CVV/CSC"
+  w_verification_value_hint: "Angka CVV, atau Card Verification Value, adalah 3 atau 4 digit kode di sisi belakang kartu kredit Anda. Ia disebut juga CSC, atau Card Security Code."
+  w_very_early_stage_html: "<strong>Catatan dari Leanpub:</strong> Buku ini nampaknya berada dalam <strong>tahap sangat dini</strong>. (Saat ini memiliki sekitar <strong>%{pages} halaman dan %{words} kata</strong>.) Jika Anda membelinya sekarang, Anda melakukannya <strong>terutama untuk mendorong semangat penulis</strong>. (Jika Anda membeli buku ini, Anda akan memperoleh seluruh update buku via Leanpub secara cuma-cuma, tentu saja!)"
+  w_view_bundle: "Tampilkan Bundel"
+  w_whats_bundle: "Bundel adalah serumpun buku-buku Leanpub, yang bisa dibeli sekaligus dengan potongan harga."
+  w_words: "Kata"
+  w_you_pay: "Anda membayar"
+  w_your_account: "Akun Anda"
+  w_youre_buying: "Anda membeli"
+
+#######################
+# Fields for books
+#######################
+  p_book_for_sale_at: "Buku ini dijual di \\url{http://leanpub.com/%{slug}}"
+  p_book_for_sale_at_html: "Buku ini dijual di <a href=\"http://leanpub.com/%{slug}\">http://leanpub.com/%{slug}</a>"
+  p_leanpub_empowers_long_html: "Ini adalah sebuah buku <a href=\"http://leanpub.com\">Leanpub</a>. Leanpub memberdayakan penulis dan penerbit dengan proses Lean Publishing. <a href=\"http://leanpub.com/manifesto\">Lean Publishing</a> adalah model penerbitan ebook dalam-proses menggunakan piranti ringan dan sejumlah iterasi untuk memperoleh masukan dari pembaca, menerapkan pivot hingga Anda dapat mewujudkan komposisi buku yang pas dan menarik."
+  p_published_on: "Versi ini diterbitkan pada %{published_on}"
+  p_title_page: "Halaman Judul"
+  p_toc: "Daftar Isi"
+  p_isbn_for: "ISBN untuk versi %{format_type}"
+  p_tweet_this_book: "Tweet Buku Ini!"
+  p_tweet_spread_word: "Bantulah %{author} dengan mewartakan buku ini via \\href{http://twitter.com}{Twitter}!"
+  p_tweet_suggested_tweet: "Tweet yang disarankan untuk buku ini adalah:"
+  p_tweet_suggested_hashtag: "Tagar yang disarankan untuk buku ini adalah \\href{https://twitter.com/search?q=%23%{suggested_hashtag}}{\\#%{suggested_hashtag}}."
+  p_tweet_find_out_what: "Temukan kata orang tentang buku ini dengan mengklik tautan ini untuk menampilkan tagar ini di Twitter:"
+  p_also_by_multi_authors_title: "Juga Oleh Penulis Berikut"
+  p_also_by_multi_authors_item: "Buku-buku oleh \\href{http://leanpub.com/u/%{username}}{%{name}}"
+  p_also_by_single_author_title: "Juga Oleh \\href{http://leanpub.com/u/%{username}}{%{name}}"
+
+#######################
+# Kaminari Pagination
+#######################
+  views:
+    pagination:
+      first: "Pertama"
+      previous: "Sebelumnya"
+      next: "Berikutnya"
+      last: "Terakhir"
