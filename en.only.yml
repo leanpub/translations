@@ -344,7 +344,7 @@ en:
   w_book_style_hint: "Selecting one of the book styles above will set the options below. You can then customize them if you want."
   w_book_style_hint: "This determines the look and feel of your book. You can change this at any time."
   w_book_style_label: "Book Style"
-  w_book_subtitle_hint: "This is optional. If present, it shows up on your book landing page and on your auto-generated cover page (unless you provide a cover image)."
+  w_book_subtitle_hint: "This is optional. If present, it shows up on your book landing page, on your auto-generated cover page (unless you provide a cover image), and on the page in your book where we show title and copyright information."
   w_book_subtitle_label: "Book Subtitle (optional)"
   w_book_successfully_updated: "Book was successfully updated."
   w_book_thankyou_message_html: "Thank You Message <span class='help-block'><span class='characters'></span> characters remaining</span>"
