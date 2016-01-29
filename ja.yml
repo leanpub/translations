@@ -1,5 +1,6 @@
 ###
-# Leanpub Text Version 1.0, effective 2012-09-13. Copyright (c) 2010-2012 Ruboss Technology Corporation.
+# Leanpub website text portions.
+# Copyright (c) 2010-2015 Ruboss Technology Corporation.
 #
 # Japanese
 # 2 letter code = ja. 3 letter code = jpn.
@@ -39,7 +40,7 @@ ja:
   w_about_the_contributors: "協力者について"
   w_about_the_publisher: "出版社について"
   w_add_bundle_to_cart: "Add Bundle to Cart"
-  w_add_ebook_to_cart: "Add Ebook to cart"
+  w_add_ebook_to_cart: "Add Ebook to Cart"
   w_also_by: "別の共著者"
   w_also_by_the_author: "別の共著者"
   w_also_by_the_authors: "別の共著者"
@@ -85,6 +86,7 @@ ja:
   w_coming_soon: "まもなく"
   w_comments: "コメント"
   w_complete: "執筆完了"
+  w_complete_amount: "この本は %{percent_complete}％完全です"
   w_copied_embed_code: "埋め込み用のコードをクリップボードにコピーしました。このコードをウェブサイトに貼り付ければ設定完了です！"
   w_copies: "冊数"
   w_copy_embed: "埋め込みコードをコピー"
@@ -92,6 +94,7 @@ ja:
   w_credit_card_help: "LeanpubではVisaとMasterCardをご利用できます。当社は自社サーバーにクレジットカード情報を保存しません。代わりにPayPalと同様に安全な、支払い処理業者にSSLを介し、フォームを送信します。"
   w_credit_card_number: "Card Number"
   w_debit_card_fee: "VisaもしくはMasterCardのデビットカードを使う場合、少額の手数料（10セント程度）が発生する場合があります。この理由は多くの支払い処理業者がアメリカにあり、カナダにあるLeanpubと国籍が異なるためです。"
+  w_discuss_this_book: "Discuss this Book"
   w_discuss_this_book_with_the_author: "本書について著者と議論しましょう"
   w_discuss_this_book_with_the_author_and_its_readers: "本書について著者や他の読者と議論しましょう" # kind_of_readers does not fit well
   w_download_sample: "サンプルPDFをダウンロード"
@@ -99,6 +102,7 @@ ja:
   w_drag_slider_html_tap: "スライダをドラッグするか、価格をクリックし、値段を入力してください。（最大500ドル）"
   w_email: "メールアドレス"
   w_email_the_author: "著者にメールする"
+  w_email_the_authors: "Email the Author(s)"
   w_embargo: "報道規制中です！"
   w_embargo_message_1: "ジャーナリストやブロガーのみなさんへ: 規制が解かれるまで本書に関する情報を公開しないでください！"
   w_embargo_message_2: "規制解除時期に関する詳しい情報は著者にご確認ください。"
@@ -132,6 +136,7 @@ ja:
   w_installments_completed: "冊まで執筆済み"
   w_interested_in_book: "本書に興味をお持ちですか？名前、メールアドレス、希望金額を登録して、著者を応援しましょう。"
   w_interested_short: "本書に興味をお持ちですか？購入したい方は希望購入金額を教えてください！"
+  w_lang_afr: "Afrikaans"
   w_lang_ara: "アラビア語"
   w_lang_dut: "オランダ語"
   w_lang_eng: "英語"
@@ -143,6 +148,7 @@ ja:
   w_lang_hun: "ハンガリー語"
   w_lang_ita: "イタリア語"
   w_lang_jpn: "日本語"
+  w_lang_pol: "Polish"
   w_lang_por: "ポルトガル語"
   w_lang_rum: "ルーマニア語"
   w_lang_rus: "ロシア語"
@@ -155,6 +161,7 @@ ja:
   w_last_updated_time: "本書は%{updated_at}に更新されました。"
   w_learn_more: "もっと詳しく"
   w_library_note: "図書館の購買担当者の方へ：本書の内容は更新中です。また、著者は図書館への販売を希望していません。"
+  w_license: License
   w_mailchimp_interested_short: "Interested in this book? Sign up for the author's personal mailing list!"
   w_matching_bundles: "Matching Leanpub Bundles"
   w_minimum: "最低価格"
@@ -169,6 +176,7 @@ ja:
   w_online: "オンライン"
   w_or: "もしくは"
   w_or_click_to: "もしくは、"
+  w_packages: "Packages"
   w_pages: "ページ"
   w_pay_by_credit_card: "カードによるお支払い"
   w_pay_by_credit_card_or_click_to_html: "クレジットカード払い <small class=\"option\">または%{paypal}</small>"
@@ -224,8 +232,8 @@ ja:
 #######################
 # Fields for books
 #######################
-  p_toc: "目次"
   p_isbn_for: "第%{format_type}版のISBN"
+  p_toc: "目次"
   p_tweet_this_book: "Twitterでシェアしませんか？"
   p_tweet_spread_word: "本書に関するコメントを\\href{http://twitter.com}{Twitter}でシェアして%{author}を応援してください！"
   p_tweet_suggested_tweet: "本書をシェアする際のお薦めツイートはこちらです：  "

@@ -1,5 +1,6 @@
 ###
-# Leanpub Text Version 1.0, effective 2012-09-13. Copyright (c) 2010-2012 Ruboss Technology Corporation.
+# Leanpub website text portions.
+# Copyright (c) 2010-2015 Ruboss Technology Corporation.
 #
 # German
 # 2 letter code = de. 3 letter code = ger.
@@ -42,7 +43,7 @@ de:
   w_about_the_contributors: "Über die Mitwirkenden"
   w_about_the_publisher: "Über den Verlag"
   w_add_bundle_to_cart: "Add Bundle to Cart"
-  w_add_ebook_to_cart: "Add Ebook to cart"
+  w_add_ebook_to_cart: "Add Ebook to Cart"
   w_also_by: "Ebenfalls von"
   w_also_by_the_author: "Ebenfalls von diesem Autor"
   w_also_by_the_authors: "Ebenfalls von diesen Autoren"
@@ -54,7 +55,7 @@ de:
   w_book_dialect: "Buch-Dialekt:"
   w_book_formats: "Wenn du dieses Buch kaufst, erhälst du es in den Formaten PDF, EPUB und MOBI, so kannst du es auf deinem Computer, iPad, Kindle oder einem anderem eBook-Reader lesen!"
   w_book_is_done_html: "Der Autor betrachtet dieses Buch als <strong>fertiggestellt</strong>!"
-  w_book_is_translation_html: "Dieses Buch ist eine Übersetzung ins %{lang} von %{orig_book}, welches ursprünglich im %{written_in}n verfasst wurde."
+  w_book_is_translation_html: "Dieses Buch ist eine Übersetzung ins Deutsche von %{orig_book}, das ursprünglich in %{written_in} Sprache verfasst wurde."
   w_book_language: "Sprache des Buches:"
   w_book_num_translations_html: "<em>%{orig_book}</em> wurde in %{num_translations} %{other_langs} übersetzt."
   w_book_published_on_leanpub_by: "Dieses Buch wurde auf Leanpub veröffentlicht, von"
@@ -99,6 +100,7 @@ de:
   w_coming_soon: In Kürze
   w_comments: "Kommentare"
   w_complete: "Vollständig"
+  w_complete_amount: "Dieses Buch ist %{percent_complete}% vollständig"
   w_copied_embed_code: "Ein Code zum einbetten wurde in deine Zwischenablage kopiert. Füge in einfach ins HTML deiner website ein und du bist fertig!"
   w_copies: "Kopien"
   w_copy_embed: "Code zum Einbetten kopieren"
@@ -107,6 +109,7 @@ de:
   w_credit_card_help: "Leanpub akzeptiert ausschließlich Visa und MasterCard. Wir speichern deine Kreditkartendaten nicht auf unseren Servern. Stattdessen senden wir dieses Formular über eine sichere SSL-Verbindung, an unseren Zahlungsdienstleister, welcher so zuverlässig ist, wie PayPal."
   w_credit_card_number: "Karten Nummer"
   w_debit_card_fee: "Wenn du eine Visa- oder MasterCard-Kreditkarte verwendest, wird möglicherweise eine kleine Gebühr durch unseren Zahlungsdienstleister erhoben (üblicherweise etwa 10 Cent). Dies liegt daran, dass wir ein kanadisches Unternehmen sind und die meisten Visa- und MasterCard-Kreditkartenzahlungen aus den Vereinigten Staaten getätigt werden."
+  w_discuss_this_book: "Discuss this Book"
   w_discuss_this_book_with_the_author: "Diskutiere dieses Buch mit dem Autor"
   w_discuss_this_book_with_the_author_and_its_readers: "Diskutiere dieses Buch mit dem Autor und seinen %{kind_of_readers}"
   w_download: Herunterladen
@@ -115,6 +118,7 @@ de:
   w_drag_slider_html_tap: "Verwende den Regler, oder tippe auf den Preis, um deinen eigenen einzugeben (max. 500 USD)"
   w_email: "Email"
   w_email_the_author: "Schreib dem Autor eine Email"
+  w_email_the_authors: "Email the Author(s)"
   w_embargo: "EMBARGO!"
   w_embargo_message_1: "Journalisten und Blogger: bitte veröffentlichen Sie keine Informationen über dieses Buch, bis das Embargo beendet wird!"
   w_embargo_message_2: "Bitte wenden Sie sich an den Autor, um weitere Informationen zum Termin zu erhalten."
@@ -150,6 +154,7 @@ de:
   w_installments_completed: Teile dieser Reihe sind fertiggestellt
   w_interested_in_book: "Bist du an diesem Buch interessiert? Motiviere den Autor, indem du deinen Namen und deine Email-Adresse hinterlässt und ihm verrätst, wieviel du möglicherweise für sein Buch bezahlen würdest, wenn es als eBook erscheint."
   w_interested_short: "Bist du an diesem Buch interessiert? Zeige deine Unterstützung, und teile dem Autor mit, was du zu zahlen bereit wärst!"
+  w_lang_afr: "Afrikaans"
   w_lang_ara: "Arabisch"
   w_lang_dut: "Niederländisch"
   w_lang_eng: "Englisch"
@@ -160,6 +165,7 @@ de:
   w_lang_hun: "Ungarisch"
   w_lang_ita: "Italienisch"
   w_lang_jpn: "Japanisch"
+  w_lang_pol: "Polnisch"
   w_lang_por: "Portugiesisch"
   w_lang_rum: "Rumänisch"
   w_lang_rus: "Russisch"
@@ -172,6 +178,7 @@ de:
   w_last_updated_time: "Zuletzt aktualisiert: %{updated_at}"
   w_learn_more: "Mehr erfahren"
   w_library_note: "Büchereien: Dieses Buch befindet sich noch in der Entwicklung, daher bittet der Autor darum, dieses Buch noch nicht in den Bestand einer Bibliothek aufzunehmen."
+  w_license: License
   w_mailchimp_interested_short: "Bist du an diesem Buch interessiert? Melde dich für den persönlichen Email-Newsletter des Autors an!"
   w_matching_bundles: "Matching Leanpub Bundles"
   w_minimum: Minimal
@@ -187,6 +194,7 @@ de:
   w_online: Online
   w_or: "oder"
   w_or_click_to: "oder klicke, für"
+  w_packages: "Packages"
   w_pages: "Seiten"
   w_pay_by_credit_card: "Mit Kreditkarte bezahlen"
   w_pay_by_credit_card_or_click_to_html: "Mit Kreditkarte bezahlen <small class=\"option\">oder klicken, für %{paypal}</small>"

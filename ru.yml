@@ -1,5 +1,6 @@
 ###
-# Leanpub Text Version 1.0, effective 2012-09-13. Copyright (c) 2010-2012 Ruboss Technology Corporation.
+# Leanpub website text portions.
+# Copyright (c) 2010-2015 Ruboss Technology Corporation.
 #
 # Russian
 # 2 letter code = ru. 3 letter code = rus.
@@ -49,7 +50,7 @@ ru:
   w_about_the_contributors: "О соавторах"
   w_about_the_publisher: "Об издателе"
   w_add_bundle_to_cart: "Add Bundle to Cart"
-  w_add_ebook_to_cart: "Add Ebook to cart"
+  w_add_ebook_to_cart: "Add Ebook to Cart"
   w_also_by: "Ещё от"
   w_also_by_the_author: "Другие книги автора"
   w_also_by_the_authors: "Другие книги авторов"
@@ -95,6 +96,7 @@ ru:
   w_coming_soon: "Скоро будет доступна"
   w_comments: "Комментарии"
   w_complete: "Завершена"
+  w_complete_amount: "Эта книга является на %{percent_complete}%"
   w_copied_embed_code: "Код для вставки был скопирован в буфер обмена. Просто вставьте его в HTML код вашего сайта и в общем-то всё!"
   w_copies: "Копии"
   w_copy_embed: "Скопировать код"
@@ -102,6 +104,7 @@ ru:
   w_credit_card_help: "Leanpub принимает к оплате только карты Visa и MasterCard. Мы не храним данные ваших кредитных карт на нашем сервере. Вместо этого, мы отправляем эту форму по безопасному SSL-соединению нашей платежной системе, которая так же безопасная, как и PayPal."
   w_credit_card_number: "Номер на карте"
   w_debit_card_fee: "Если вы используете карту Visa или дебетовую MasterCard, с вас будет дополнительная списана небольшая комиссия (обычно около 10 центов) нашей платежной системы. Это происходит потому, что мы находимся в Канаде, а большинство процессинговых центров Visa и MasterCard — в США."
+  w_discuss_this_book: "Discuss this Book"
   w_discuss_this_book_with_the_author: Обсудить эту книгу с автором
   w_discuss_this_book_with_the_author_and_its_readers: Обсудить эту книгу с автором и %{kind_of_readers}
   w_download_sample: "Скачать образец в PDF"
@@ -109,6 +112,7 @@ ru:
   w_drag_slider_html_tap: "Перетащите ползунок или нажмите на цену, чтобы ввести собственную (не более $500)"
   w_email: "Адрес электронной почты"
   w_email_the_author: "Написать сообщение автору"
+  w_email_the_authors: "Email the Author(s)"
   w_embargo: "ЭМБАРГО!"
   w_embargo_message_1: "Журналистам и блоггерам: пожалуйста, не публикуйте никаких материалов об этом товаре, пока данное эмбарго не будет снято!"
   w_embargo_message_2: "Пожалуйста, свяжитесь с автором для получения более детальной информации."
@@ -142,6 +146,7 @@ ru:
   w_installments_completed: Платеж завершен
   w_interested_in_book: "Вам интересна эта книга? Тогда оставьте адрес вашей электронной почты для связи и укажите стоимость, которую вы готовы за неё заплатить."
   w_interested_short: "Желаете приобрести книгу и поддержать тем самым авторов? Укажите стоимость, которую вы готовы за неё заплатить, когда она будет опубликована."
+  w_lang_afr: "Afrikaans"
   w_lang_ara: "Арабский"
   w_lang_dut: "Голландский"
   w_lang_eng: "Английский"
@@ -153,6 +158,7 @@ ru:
   w_lang_hun: "Венгерский"
   w_lang_ita: "Итальянский"
   w_lang_jpn: "Японский"
+  w_lang_pol: "Polish"
   w_lang_por: "Португальский"
   w_lang_rum: "Румынский"
   w_lang_rus: "Русский"
@@ -165,6 +171,7 @@ ru:
   w_last_updated_time: "Дата публикации: %{updated_at}."
   w_learn_more: "Узнать больше"
   w_library_note: "Для покупателей из библиотек: эта книга ещё не дописана, поэтому автор просит, чтобы книгу пока не покупали для библиотек."
+  w_license: License
   w_mailchimp_interested_short: "Вам интересна эта книга? Тогда подпишитесь на персональную рассылку автора, чтобы первым узнать о всех обновлениях!"
   w_matching_bundles: "Matching Leanpub Bundles"
   w_minimum: Минимум
@@ -180,6 +187,7 @@ ru:
   w_online: Интернет
   w_or: "или"
   w_or_click_to: "или нажмите на"
+  w_packages: "Packages"
   w_pages: "Страницы"
   w_pay_by_credit_card: "Оплата кредитной картой"
   w_pay_by_credit_card_or_click_to_html: "Оплата кредитной картой <small class=\"option\"> или нажмите, чтобы %{paypal}</small>"

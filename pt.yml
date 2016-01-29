@@ -1,5 +1,6 @@
 ###
-# Leanpub Text Version 1.0, effective 2012-09-13. Copyright (c) 2010-2012 Ruboss Technology Corporation.
+# Leanpub website text portions.
+# Copyright (c) 2010-2015 Ruboss Technology Corporation.
 #
 # Portuguese
 # 2 letter code = pt. 3 letter code = por.
@@ -39,7 +40,7 @@ pt:
   w_about_the_contributors: "Sobre os Colaboradores"
   w_about_the_publisher: "Sobre a Editora"
   w_add_bundle_to_cart: "Add Bundle to Cart"
-  w_add_ebook_to_cart: "Add Ebook to cart"
+  w_add_ebook_to_cart: "Add Ebook to Cart"
   w_also_by: "Também por"
   w_also_by_the_author: "Também do Autor"
   w_also_by_the_authors: "Também dos Autores"
@@ -85,6 +86,7 @@ pt:
   w_coming_soon: Em breve
   w_comments: "Comentários"
   w_complete: Complete
+  w_complete_amount: "Este livro é %{percent_complete}% concluída"
   w_copied_embed_code: "Um código de incorporação foi copiado para a área de transferência, basta colá-lo no HTML do seu site, e está pronto!"
   w_copies: "Cópias"
   w_copy_embed: "Copiar o código de incorporação"
@@ -92,6 +94,7 @@ pt:
   w_credit_card_help: "O Leanpub aceita somente cartões Visa e MasterCard. Nós não guardamos os seus dados de cartão de crédito em nossos servidores. Ao invés disso, nós enviamos este formulário de forma segura via SSL para o nosso processador de pagamentos, que é tão seguro como o PayPal."
   w_credit_card_number: "Card Number"
   w_debit_card_fee: "Se você usar um cartão de débito Visa MasterCard, pode haver uma pequena taxa (tipicamente cerca de 10 centavos de dólar), que é cobrada pelo nosso processador de pagamentos. Isso acontece porque nós somos uma empresa canadense, e a maioria das transações de débito Visa ou MasterCard são dos EUA."
+  w_discuss_this_book: "Discuss this Book"
   w_discuss_this_book_with_the_author: Discuta este livro com o autor
   w_discuss_this_book_with_the_author_and_its_readers: Discuta este livro com o autor e sua %{kind_of_readers}
   w_download_sample: "Download de um PDF de amostra"
@@ -99,6 +102,7 @@ pt:
   w_drag_slider_html_tap: "Arraste a barra de rolagem ou toque o valor para digitar o seu próprio (até $500)"
   w_email: "E-mail"
   w_email_the_author: "Envie um E-mail para o autor"
+  w_email_the_authors: "Email the Author(s)"
   w_embargo: "EMBARGO!"
   w_embargo_message_1: "Jornalistas e blogueiros: por favor, não publiquem nada sobre isso até o embargo ser removido!"
   w_embargo_message_2: "Por favor, entrem em contato com o autor para saber quando isso acontecerá."
@@ -132,6 +136,7 @@ pt:
   w_installments_completed: Parcelas concluída
   w_interested_in_book: "Interessado neste livro? Incentive o autor digitando o seu nome, endereço de e-mail, e quanto você provavelmente pagaria pelo ebook quando for publicado."
   w_interested_short: "Interessado neste livro? Mostre o seu apoio dizendo quanto você gostaria de pagar por ele!"
+  w_lang_afr: "Afrikaans"
   w_lang_ara: "Arabic"
   w_lang_dut: "Holandês"
   w_lang_eng: "Inglês"
@@ -143,6 +148,7 @@ pt:
   w_lang_hun: "Húngaro"
   w_lang_ita: "Italiano"
   w_lang_jpn: "Japonês"
+  w_lang_pol: "Polish"
   w_lang_por: "Português"
   w_lang_rum: "Romeno"
   w_lang_rus: "Russo"
@@ -155,6 +161,7 @@ pt:
   w_last_updated_time: "Última actualização: %{updated_at}"
   w_learn_more: "Saiba mais"
   w_library_note: "Agentes de compra de bibliotecas: Este livro está sendo escrito e o autor pediu que ainda não seja comprado por bibliotecas."
+  w_license: License
   w_mailchimp_interested_short: "Interested in this book? Sign up for the author's personal mailing list!"
   w_matching_bundles: "Matching Leanpub Bundles"
   w_minimum: Mínimo
@@ -170,6 +177,7 @@ pt:
   w_online: Online
   w_or: "ou"
   w_or_click_to: "ou clicar para"
+  w_packages: "Packages"
   w_pages: "Páginas"
   w_pay_by_credit_card: "Pagar com cartão de crédito"
   w_pay_by_credit_card_or_click_to_html: "Pagar com cartão de crédito <small class=\"option\">ou clique para %{paypal}</small>"
@@ -196,7 +204,7 @@ pt:
   w_these_books_included: "Esses livros estão incluídos neste pacote..."
   w_these_bundles_match: "These published Leanpub bundles match your search."
   w_time_ago: "%{time} atrás"
-  w_toc: "Índice analítico"
+  w_toc: "Sumário"
   w_token_or_password: "Token ou Senha"
   w_total: "Total"
   w_translation: Translation
@@ -230,8 +238,8 @@ pt:
   p_leanpub_empowers_long_html: "Esse é um livro <a href=\"http://leanpub.com\">Leanpub</a>. A Leanpub dá poderes aos autores e editores a partir do processo de Publicação Lean. <a href=\"http://leanpub.com/manifesto\">Publicação Lean</a> é a ação de publicar um ebook em desenvolvimento com ferramentas leves e muitas iterações para conseguir feedbacks dos leitores, pivotar até que você tenha o livro ideal e então conseguir tração."
   p_published_on: "Essa versão foi publicada em %{published_on}"
   p_title_page: "Folha de Rosto"
-  p_toc: "Sumário"
   p_isbn_for: "ISBN da versão %{format_type}"
+  p_toc: "Sumário"
   p_tweet_this_book: "Tweet Sobre Esse Livro!"
   p_tweet_spread_word: "Por favor ajude %{author} a divulgar esse livro no \\href{http://twitter.com}{Twitter}!"
   p_tweet_suggested_tweet: "O tweet sugerido para esse livro é:"

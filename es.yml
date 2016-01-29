@@ -1,5 +1,6 @@
 ###
-# Leanpub Text Version 1.0, effective 2012-09-13. Copyright (c) 2010-2012 Ruboss Technology Corporation.
+# Leanpub website text portions.
+# Copyright (c) 2010-2015 Ruboss Technology Corporation.
 #
 # Spanish
 # 2 letter code = es. 3 letter code = spa.
@@ -38,7 +39,8 @@ es:
   w_about_the_contributors: "Sobre los contribuidores"
   w_about_the_publisher: "Sobre el publicador"
   w_add_bundle_to_cart: "Add Bundle to Cart"
-  w_add_ebook_to_cart: "Add Ebook to cart"
+  w_add_ebook_to_cart: "Añadir Ebook al carrito"
+  w_add_to_wish_list: "Añadir a la lista de deseos"
   w_also_by: "También por"
   w_also_by_the_author: "También por el autor"
   w_also_by_the_authors: "También por los autores"
@@ -90,20 +92,26 @@ es:
   w_coming_soon: Disponible pronto
   w_comments: "Comentarios"
   w_complete: Completo
+  w_complete_amount: "Este libro está  %{percent_complete}% completo"
   w_copied_embed_code: "Se ha copiado en el portapapeles un código de inserción; péguelo en el HTML de su web, ¡y ya está!"
   w_copies: "Copias"
   w_copy_embed: "Copiar código de inserción"
+  w_country_code: "País de residencia"
   w_coupon_code: "Código promocional"
   w_credit_card_help: "Leanpub acepta Visa y MasterCard solo. No almacenamos datos de su tarjeta de crédito en nuestros servidores. En lugar de ello, los datos del formulario se envían de forma segura a través de SSL a nuestro procesador de pagos, que es tan seguro como PayPal."
   w_credit_card_number: "Número de tarjeta"
+  w_credit_card_number: "Card Number"
   w_debit_card_fee: "Si utiliza una tarjeta Visa o MasterCard de débito, puede haber una pequeña cuota (normalmente unos 10 centavos de dólar) que se cobra por nuestro procesador de pagos. Esto se debe a que es un comerciante canadiense, y la mayoría de Visa o MasterCard transacciones con tarjeta de débito que hemos visto son de los EE.UU."
+  w_discuss_this_book: "Discuss this Book"
   w_discuss_this_book_with_the_author: Hable sobre este libro con el autor
   w_discuss_this_book_with_the_author_and_its_readers: Hable sobre este libro con el autor y sus %{kind_of_readers}
+  w_download: "Descargar"
   w_download_sample: "Descargar el PDF de ejemplo"
   w_drag_slider_html_click: "Arrastre la barra de desplazamiento o haga clic en el precio, para establecer el suyo propio (hasta $500)"
   w_drag_slider_html_tap: "Arrastre la barra de desplazamiento o pulse en el precio, para establecer el suyo propio (hasta $500)"
   w_email: "Email"
   w_email_the_author: "Escribe al autor"
+  w_email_the_authors: "Escribe al autor / los autores"
   w_embargo: "¡EMBARGO!"
   w_embargo_message_1: "Periodistas y blogueros: por favor no publiquen nada sobre esto hasta que finalice el embargo."
   w_embargo_message_2: "Por favor contactae con el autor para más información sobre cuándo ocurrirá eso"
@@ -114,7 +122,6 @@ es:
   w_feedback: "Feedback"
   w_feedback_blurb_html: "¡Anímese a dejar sus comentarios sobre este libro abajo! Desde señalar faltas ortográficas hasta escribir tus propias reseñas, sus comentarios pueden ayudar a %{authors} a mejorar el libro para usted y el resto de lectores."
   w_first_name: "Nombre"
-  w_country_code: "País de residencia"
   w_formats_included: "Formatos incluídos"
   w_free_sample: Muestra gratuita
   w_free_to: Gratis para
@@ -131,12 +138,13 @@ es:
   w_happiness_guarantee_bundle_html: "Si compra un paquete Leanpub ¡obtiene <strong>todos los cambios a los libros en el paquete de forma gratuita</strong>! Todos los libros están disponibles en <strong>PDF</strong>, <strong>EPUB</strong> (para iPad) y <strong>MOBI</strong> (para Kindle). No hay <strong>DRM</strong>. <strong>Sin riesgo</strong>, tan solo <strong>felicidad garantizada</ strong > o le devolvemos su dinero."
   w_happiness_guarantee_days_html: "Durante los primeros <strong>45 días de compra</strong>, puede obtener un reembolso del <strong>100%</strong> de cualquier compra Leanpub, en <strong>dos clics</strong>. Nosotros procesamos las restituciones a la mano, así que hacen tomar unos días en aparecer. Vea <a href=\"/terms#returns\">términos completos</a>."
   w_happiness_guarantee_title: "Leanpub incondicional, sin riesgo, 100% de felicidad garantizada"
-  w_if_buy_ebook: "Si compra este libro, lo obtiene en todos estos tres formatos:"
+  w_if_buy_ebook: "Si compra este libro, lo obtiene en todos estos formatos:"
   w_if_no_visa_mastercard: "Si su tarjeta de crédito no es Visa o Mastercard, aun puede comprar este libro usando Paypal. Haga clic en el botón amarillo de arriba."
   w_installment_count: "Este libro está escrito como ficción serial %{installments_planned} de %{installments_completed} cuotas están disponibles."
   w_installments_completed: Entrega completada
   w_interested_in_book: "¿Interesado en este libro? Anime al autor introduciendo su nombre, dirección de correo electrónico, y la cantidad que probablemente pagaría por el libro electrónico cuando se publique."
   w_interested_short: "¿Interesado en este libro Mostrar su apoyo diciendo lo que te gustaría que pagar por ello?"
+  w_lang_afr: "Afrikaans"
   w_lang_ara: "Arábico"
   w_lang_dut: "Holandés"
   w_lang_eng: "Inglés"
@@ -148,6 +156,7 @@ es:
   w_lang_hun: "Húngaro"
   w_lang_ita: "Italiano"
   w_lang_jpn: "Japonés"
+  w_lang_pol: "Polaco"
   w_lang_por: "Portugués"
   w_lang_rum: "Rumano"
   w_lang_rus: "Ruso"
@@ -157,9 +166,9 @@ es:
   w_language_options_body: "Este libro ha sido traducido (o está en proceso de traducción) en los siguientes idiomas:"
   w_last_name: "Apellido"
   w_last_updated_time: "Este libro ha sido actualizada por última vez el %{updated_at}."
-  w_last_updated_time: "Última actualización: %{updated_at}"
   w_learn_more: "Más información"
   w_library_note: "Agentes de compra de editoriales: Este libro está en progreso, y el autor ha solicitado que aun no sea comprado por editoriales."
+  w_license: License
   w_mailchimp_interested_short: "¿Interesado en el libro? ¡Suscríbase a la lista de correo personal del autor!"
   w_matching_bundles: "Paquetes de Leanpub relacionados"
   w_minimum: Mínimo
@@ -169,12 +178,14 @@ es:
   w_name: "Nombre"
   w_set_price_html: "Introduzca su precio <small>(USD)</small>"
   w_name_your_price: Establezca su precio
+  w_name_your_price: Set Your Price
   w_notify_when: "Avíseme cuando este se ha publicado"
   w_number: "Número"
   w_number_of_copies_purchased: "Número de copias comprados"
   w_online: Online
   w_or: "o"
   w_or_click_to: "o haga clic en"
+  w_packages: "Packages"
   w_pages: "Pages"
   w_pay_by_credit_card: "Pagar con tarjeta de crédito"
   w_pay_by_credit_card_or_click_to_html: "Pagar con tarjeta ded crédito <small class=\"option\">o clic para %{paypal}</small>"
@@ -185,12 +196,14 @@ es:
   w_purchase_is_gift: "Esta compra es un regalo"
   w_read: Leer
   w_read_online: Leer en línea
+  w_read_online: Read online
   w_reader: Lector
   w_reader_count: "¡Este libro tiene %{num_readers} lectores!"
   w_reader_feedback: "Comentarios del lector"
   w_readers: Lectores
   w_recipient_email_or_username: "Correo electrónico del destinatario"
   w_retired: "Retirado"
+  w_retired: "Retired"
   w_share_book: "Comparta este libro"
   w_share_email: "Compartir por correo electrónico"
   w_suggested: Sugerido

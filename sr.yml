@@ -1,5 +1,6 @@
 ###
-# Leanpub Text Version 1.0, effective 2012-09-13. Copyright (c) 2010-2012 Ruboss Technology Corporation.
+# Leanpub website text portions.
+# Copyright (c) 2010-2015 Ruboss Technology Corporation.
 #
 # Serbian
 # 2 letter code = sr. 3 letter code = srp.
@@ -48,7 +49,7 @@ sr:
   w_about_the_contributors: "О сарадницима"
   w_about_the_publisher: "О издавачу"
   w_add_bundle_to_cart: "Add Bundle to Cart"
-  w_add_ebook_to_cart: "Add Ebook to cart"
+  w_add_ebook_to_cart: "Add Ebook to Cart"
   w_also_by: "Такође од"
   w_also_by_the_author: "Од истог аутора"
   w_also_by_the_authors: "Од истих аутора"
@@ -93,7 +94,8 @@ sr:
   w_charge_card: "Наплати са картице"
   w_coming_soon: Coming soon
   w_comments: "Коментари"
-  w_complete: Complete
+  w_complete: "комплетан"
+  w_complete_amount: "Ова књига је %{percent_complete}% завршена"
   w_copied_embed_code: "Уграђени КОД је копиран на Ваш clipboard, довољно је да га залепите на HTML Ваше интернет странице и то је то!"
   w_copies: "количина"
   w_copy_embed: "копирај уграђени КОД"
@@ -101,6 +103,7 @@ sr:
   w_credit_card_help: "Leanpub прима само Visa и MasterCard картице. Не чувамо податке са Ваше картице на нашим серверима. Уместо тога, шаљемо овај формулар путем сигурног SSL до нашег процесора за плаћања, који је сигуран колико и PayPal."
   w_credit_card_number: "Card Number"
   w_debit_card_fee: "Ако користите Visa или MasterCard дебитне картице, постоји могућност да ће Вам бити наплаћена мала накнада (обично око 10 центи) коју зарачунава наш наплатни процесор. Ово је услед тога што смо ми канадска фирма а највећи део трансакција Visa или MasterCard дебитних картица које смо до сада сусретали су из САД-а."
+  w_discuss_this_book: "Discuss this Book"
   w_discuss_this_book_with_the_author: Discuss this book with the author
   w_discuss_this_book_with_the_author_and_its_readers: Discuss this book with the author and its %{kind_of_readers}
   w_download_sample: "Преузми узорак у PDF-у"
@@ -108,6 +111,7 @@ sr:
   w_drag_slider_html_tap: "Повуците по скали или куцните на цену да укуцате сопствену (највише до $500)"
   w_email: "Email"
   w_email_the_author: "Email the Author"
+  w_email_the_authors: "Email the Author(s)"
   w_embargo: "EMBARGO!"
   w_embargo_message_1: "Journalists and bloggers: please do not publish anything about this until the embargo is lifted!"
   w_embargo_message_2: "Please contact the author for more information about when this is."
@@ -141,6 +145,7 @@ sr:
   w_installments_completed: Installments completed
   w_interested_in_book: "Заинтересовани сте за ову књигу? Охрабрите аутора тако што ћете уписати своје име, email адресу, и колико бисте били вољни да платите за е-књигу када буде објављена."
   w_interested_short: "Заинтересовани сте за ову књигу? Пружите подршку тако што ћете рећи колико бисте били вољни да платите за њу!"
+  w_lang_afr: "Afrikaans"
   w_lang_ara: "Arabic"
   w_lang_dut: "Холандски"
   w_lang_eng: "Енглески"
@@ -152,6 +157,7 @@ sr:
   w_lang_hun: "Мађарски"
   w_lang_ita: "Италијански"
   w_lang_jpn: "Јапански"
+  w_lang_pol: "Polish"
   w_lang_por: "Португалски"
   w_lang_rum: "Румунски"
   w_lang_rus: "Руски"
@@ -164,6 +170,7 @@ sr:
   w_last_updated_time: "Ова књига је последњи пут ажурирана дана %{updated_at}."
   w_learn_more: "Сазнај више"
   w_library_note: "Агентима набавке за библиотеке: Ова књига је у процесу писања, и аутор је затражио да библиотеке још увек не купују књигу."
+  w_license: License
   w_mailchimp_interested_short: "Interested in this book? Sign up for the author's personal mailing list!"
   w_matching_bundles: "Matching Leanpub Bundles"
   w_minimum: Minimum
@@ -179,6 +186,7 @@ sr:
   w_online: Online
   w_or: "или"
   w_or_click_to: "или кликните за"
+  w_packages: "Packages"
   w_pages: "Pages"
   w_pay_by_credit_card: "Платите кредитном картицом"
   w_pay_by_credit_card_or_click_to_html: "Платите кредитном картицом <small class=\"option\">или кликните за %{paypal}</small>"

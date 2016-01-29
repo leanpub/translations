@@ -1,5 +1,6 @@
 ###
-# Leanpub Text Version 1.0, effective 2012-09-13. Copyright (c) 2010-2012 Ruboss Technology Corporation.
+# Leanpub website text portions.
+# Copyright (c) 2010-2015 Ruboss Technology Corporation.
 #
 # Hebrew
 # 2 letter code = he. 3 letter code = heb.
@@ -37,7 +38,7 @@ he:
   w_about_the_contributors: "אודות המשתתפים"
   w_about_the_publisher: "אודות המוציא לאור"
   w_add_bundle_to_cart: "Add Bundle to Cart"
-  w_add_ebook_to_cart: "Add Ebook to cart"
+  w_add_ebook_to_cart: "Add Ebook to Cart"
   w_also_by: "עוד מאת"
   w_also_by_the_author: "עוד מאת הסופר/ת"
   w_also_by_the_authors: "עוד מאת הסופרים"
@@ -83,6 +84,7 @@ he:
   w_coming_soon: Coming soon
   w_comments: "תגובות"
   w_complete: Complete
+  w_complete_amount: "ספר זה הוא  %{percent_complete}% מלא"
   w_copied_embed_code: "קוד EMBED הועתק ללוח שלכם. כל שעליכם לעשות הוא להדביק אותו ל- HTML של האתר שלכם, וזהו!"
   w_copies: "עותקים"
   w_copy_embed: "העתיקו קוד הטבעה (embed)"
@@ -90,6 +92,7 @@ he:
   w_credit_card_help: "Leanpub מכבדים כרטיסי ויזה ומאסטרכארד בלבד. אנו לא שומרים את פרטי כרטיס האשראי שלכם בשרתים שלנו. במקום זאת, אנחנו שולחים את פרטי האשראי באופן מאובטח ב- SSL ישירות לספק הסליקה שלנו, והוא מאובטח באותה מידה כמו PayPal."
   w_credit_card_number: "Card Number"
   w_debit_card_fee: "אם אתם משתמשים בכרטיס ויזה או מאסטרקארד, ייתכן ותצטרכו לשלם עמלה קטנה (בדרך כלל בסביבות ה- 10 סנט), סכום זה נגבה על ידי ספק הסליקה שלנו. זה בגלל שאנחנו חברה קנדית, ורוב העסקאות של ויזה או מאסטרקארד שראינו מקורם בארה\"ב."
+  w_discuss_this_book: "Discuss this Book"
   w_discuss_this_book_with_the_author: Discuss this book with the author
   w_discuss_this_book_with_the_author_and_its_readers: Discuss this book with the author and its %{kind_of_readers}
   w_download_sample: "הורידו קובץ PDF לדוגמא"
@@ -97,6 +100,7 @@ he:
   w_drag_slider_html_tap: "גררו את הסליידר, או הקישו על המחיר כדי להקליד את המחיר שתרצו לשלם (עד 500$)"
   w_email: "דואר אלקטרוני"
   w_email_the_author: "Email the Author"
+  w_email_the_authors: "Email the Author(s)"
   w_embargo: "EMBARGO!"
   w_embargo_message_1: "Journalists and bloggers: please do not publish anything about this until the embargo is lifted!"
   w_embargo_message_2: "Please contact the author for more information about when this is."
@@ -130,6 +134,7 @@ he:
   w_installments_completed: Installments completed
   w_interested_in_book: "מתעניינים בספר הזה? עודדו את הסופר/ת על ידי הכנסת שמכם, כתובת האימייל שלכם וציון הסכום שהייתם מוכנים לשלם בעד הספר אם כשהספר ייצא לאור. (אין שום התחייבות מצידכם, פשוט יעזור לנו לדעת כמה אתם חושבים שהספר הזה שווה)."
   w_interested_short: "מתעניינים בספר הזה? הביעו את התמיכה שלכם ואמרו לסופר/ת כמה הייתם מוכנים לשלם עבורו! (אין שום התחייבות מצידכם, פשוט נשמח לדעת)"
+  w_lang_afr: "Afrikaans"
   w_lang_ara: "Arabic"
   w_lang_dut: "הולנדית"
   w_lang_eng: "אנגלית"
@@ -141,6 +146,7 @@ he:
   w_lang_hun: "הונגרית"
   w_lang_ita: "איטלקית"
   w_lang_jpn: "יפנית"
+  w_lang_pol: "Polish"
   w_lang_por: "פורטוגזית"
   w_lang_rum: "רומנית"
   w_lang_rus: "רוסית"
@@ -155,6 +161,7 @@ he:
   w_last_updated_time: "ספר זה עודכן לאחרונה ב %{updated_at}."
   w_learn_more: "פרטים נוספים"
   w_library_note: "נציגי ספריות: ספר זה עדיין בשלבי כתיבה, והסופר/ת ביקש/ה שספריות לא ירכשו אותו עדיין."
+  w_license: License
   w_mailchimp_interested_short: "Interested in this book? Sign up for the author's personal mailing list!"
   w_matching_bundles: "Matching Leanpub Bundles"
   w_minimum: Minimum
@@ -170,6 +177,7 @@ he:
   w_online: Online
   w_or: "או"
   w_or_click_to: "או הקליקו ל"
+  w_packages: "Packages"
   w_pages: "Pages"
   w_pay_by_credit_card: "תשלום באמצעות כרטיס אשראי"
   w_pay_by_credit_card_or_click_to_html: "תשלום באמצעות כרטיס אשראי <small class=\"option\">או הקליקו ל%{paypal}</small>"

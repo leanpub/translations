@@ -1,5 +1,6 @@
 ###
-# Leanpub Text Version 1.0, effective 2012-09-13. Copyright (c) 2010-2012 Ruboss Technology Corporation.
+# Leanpub website text portions.
+# Copyright (c) 2010-2015 Ruboss Technology Corporation.
 #
 # Afrikaans
 # 2 letter code = af. 3 letter code = afr.
@@ -97,6 +98,7 @@ af:
   w_coming_soon: Binnekort
   w_comments: "Kommentaar"
   w_complete: Voltooid
+  w_complete_amount: "Hierdie boek is %{percent_complete}% voltooi"
   w_copied_embed_code: "'n Inplaaskode is na die knipbord gekopieër; plak dit in u webwerf se HTML, en siedaar!"
   w_copies: "Kopieë"
   w_copy_embed: "Kopieër inplaaskode"
@@ -105,6 +107,7 @@ af:
   w_credit_card_help: "Leanpub aanvaar net Visa en MasterCard. Ons stoor nie u kredietkaatdata op ons stelsels nie. Instede daarvan, stuur ons hierdie vorm veilig via SSL na ons betalingsverwerker, wat net so veilig soos PayPal is."
   w_credit_card_number: "Kaartnommer"
   w_debit_card_fee: "In geval van 'n Visa- of MasterCarddebietkaat, mag ons betalingsverwerker 'n klein fooitjie (tipies rondom 10 sent) vra. Dis omrede ons 'n Kanadese handelaar is en meeste Visa- of MasterCarddebietkaarttransaksies wat ons sien, uit die VSA kom."
+  w_discuss_this_book: "Discuss this Book"
   w_discuss_this_book_with_the_author: Bespreek hierdie boek met die outeur
   w_discuss_this_book_with_the_author_and_its_readers: "Bespreek hierdie boek met die outeur en sy %{kind_of_readers}"
   w_download: Aflaai
@@ -113,6 +116,7 @@ af:
   w_drag_slider_html_tap: "Trek die skaalknop, of tik die prys om u eie in te tik (tot en met $500)"
   w_email: "E-pos"
   w_email_the_author: "E-pos die outeur"
+  w_email_the_authors: "Email the Author(s)"
   w_embargo: "SANKSIES!"
   w_embargo_message_1: "Joernaliste en webbloggers: moet asb. nie oets hieroor publiseer, totdat die sanksies gelig is nie!"
   w_embargo_message_2: "Kontak asb. die outeur vir meer inligtig oor wanneer dit is."
@@ -148,6 +152,7 @@ af:
   w_installments_completed: Voltooide aflewerings
   w_interested_in_book: "Geïnteresseerd in hierdie boek? Moedig die outeur aan deur u naam en e-posadres in te vul asook hoeveel u waarskynlik bereid sal wees om vir hierdie e-boek te betaal wanneer die gepubliseer word."
   w_interested_short: "Geïnteresseerd in hierdie boek? Wys u ondersteuning en sê hoeveel u bereid is om te betaal!"
+  w_lang_afr: "Afrikaans"
   w_lang_ara: "Arabies"
   w_lang_dut: "Nederlands"
   w_lang_eng: "Engels"
@@ -158,6 +163,7 @@ af:
   w_lang_hun: "Hongaars"
   w_lang_ita: "Italiaans"
   w_lang_jpn: "Japanees"
+  w_lang_pol: "Inval"
   w_lang_por: "Portugees"
   w_lang_rum: "Romeens"
   w_lang_rus: "Russies"
@@ -170,6 +176,7 @@ af:
   w_last_updated_time: "Laaste opdatering %{updated_at}"
   w_learn_more: "Leer meer"
   w_library_note: "Biblioteekagente: Hierdie boek is in-wording en die outeur het versoek dat dit nog nie aan biblioteke beskikbaar gemaak word ter aankoop nie."
+  w_license: License
   w_mailchimp_interested_short: "Geïnteresseerd in hierdie boek? Teken in op die outeur se persoonlike e-poslys!"
   w_matching_bundles: "Passende Leanpubbundels"
   w_minimum: Minimum
@@ -185,6 +192,7 @@ af:
   w_online: Aanlyn
   w_or: "of"
   w_or_click_to: "of kliek vir"
+  w_packages: "Packages"
   w_pages: "Bladsye"
   w_pay_by_credit_card: "Betaal met kredietkaart"
   w_pay_by_credit_card_or_click_to_html: "Betaal met kredietkaart <small class=\"option\">of kliek vir %{paypal}</small>"

@@ -1,5 +1,6 @@
 ###
-# Leanpub Text Version 1.0, effective 2012-09-13. Copyright (c) 2010-2012 Ruboss Technology Corporation.
+# Leanpub website text portions.
+# Copyright (c) 2010-2015 Ruboss Technology Corporation.
 #
 # Turkish
 # 2 letter code = tr. 3 letter code = tur.
@@ -10,7 +11,7 @@ tr:
       last_word_connector: " ve " # Used in to_sentence
   w_author_earns:
     one: "Yazar kazanır"
-    other: "Yazarlar kazanır"
+    other: "Yazarın kazandığı"
   w_language:
     one: "lisan"
     other: "lisanlar"
@@ -35,7 +36,7 @@ tr:
   w_about_the_contributors: "Katkıda Bulunanlar Hakkında"
   w_about_the_publisher: "Yayımcı Hakkında"
   w_add_bundle_to_cart: "Demeti Sepete Ekle"
-  w_add_ebook_to_cart: "E-kitabı Sepete Ekle"
+  w_add_ebook_to_cart: "Kitabı alışveriş sepetine ekle"
   w_also_by: "Ayrıca"
   w_also_by_the_author: "Yazarın Ayrıca"
   w_also_by_the_authors: "Yazarların Ayrıca"
@@ -81,6 +82,7 @@ tr:
   w_coming_soon: "Çok Yakında"
   w_comments: "Yorumlar"
   w_complete: "Tamamlandı"
+  w_complete_amount: "Bu kitap,% %{percent_complete} tamamlandı"
   w_copied_embed_code: "Yerleştirme (embed) kodu kopyalanmıştır; bunu web sayfanızın HTML koduna yapıştırmanız yeterli olacaktır!"
   w_copies: "Kopyalar"
   w_copy_embed: "Yerleştirme (embed) kodunu kopyala"
@@ -89,11 +91,14 @@ tr:
   w_debit_card_fee: "Eğer Visa veya MasterCard banka kartı kullanırsanız, ödeme sistemi tarafından küçük bir ekstra ücret (10 cent civarında) eklenebilir. Bunun sebebi de, bizler Kanada merkezli bir sistem kullanmaktayız, ve çoğu Visa/MasterCard banka kartlarının A.B.D. merkezli olduğunu görmekteyiz."
   w_download_sample: "Örnek PDF indir"
   w_credit_card_number: "Kredi Kartı Numarası"
+  w_discuss_this_book: "Discuss this Book"
+  w_discuss_this_book: "Kitapla ilgili tartışın"
   w_discuss_this_book_with_the_author: "Bu kitabı yazarla tartışabilirsiniz"
   w_discuss_this_book_with_the_author_and_its_readers: "Bu kitabı yazarla ve %{kind_of_readers} okuyucusuyla tartışabilirsiniz"
   w_drag_slider_html_click: "Fiyat belirleyicisini kullanın, veya belirlediğiniz fiyatı girmek için tıklayınız (üst limit $500)"
   w_drag_slider_html_tap: "Fiyat belirleyicisini kullanın, veya belirlediğiniz fiyatı girmek için tıklayınız (üst limit $500)"
   w_email: "Eposta"
+  w_email_the_authors: "Yazar(lar)a e-posta gönderin"
   w_expiry_date: "Son kullanma tarihi"
   w_fanfic_always_free: "Kurgusal roman tarzı kitaplar, Leanpub'ta her zaman ücretsizdir."
   w_fanfic_of: "Bu kitap kurgusal roman olup, %{work} bazında %{author} tarafındandır."
@@ -127,6 +132,7 @@ tr:
   w_free_to: "İçin ücretsiz"
   w_happiness_guarantee: "%100 Mutluluk Garantisi"
   w_installments_completed: "Tamamlanan yüklemeler"
+  w_lang_afr: "Afrikaans"
   w_lang_ara: "Arapça"
   w_lang_dut: "Hollandaca"
   w_lang_eng: "İngilizce"
@@ -138,6 +144,7 @@ tr:
   w_lang_hun: "Macarca"
   w_lang_ita: "İtalyanca"
   w_lang_jpn: "Japonca"
+  w_lang_pol: "Polish"
   w_lang_por: "Portekizce"
   w_lang_rum: "Rumence"
   w_lang_rus: "Rusça"
@@ -152,6 +159,7 @@ tr:
   w_last_updated_time: "Bu kitabın son güncelleme zamanı %{updated_at}."
   w_learn_more: "Daha fazlası için"
   w_library_note: "Kitap satın alımcılar: Bu kitap halen yazım aşamasındadır, ve yazarın isteği üzerine henüz satışa çıkarılmamıştır."
+  w_license: License
   w_minimum_price2: "En düşük fiyat"
   w_minimum_price: "En düşük fiyat:"
   w_multiple_explanation: "Bu kitabın birden fazla kopyasını satın alarak arkadaşlarınızla da paylaşabilirsiniz. Birden fazla kopya satın alıyorsanız, yukardaki fiyat göstergeleri ödemek isteğiniz miktarı ve yazarın buna istinaden kazancını göstermektedir."
@@ -181,6 +189,7 @@ tr:
   w_name_your_price: "Fiyatı belirleyin"
   w_number_of_copies_purchased: "Satın Alınan Adet Sayısı"
   w_online: "Online"
+  w_packages: "Paketler"
   w_pages: "Sayfa"
   w_publisher_earns: "Yayıncının kazancı"
   w_read: "Oku"
@@ -226,11 +235,11 @@ tr:
 #######################
 # Fields for books
 #######################
-  p_book_for_sale_at: "Bu kitap \url{http://leanpub.com/%{slug}} adresinde satıştadır."
+  p_book_for_sale_at: "Bu kitap \\url{http://leanpub.com/%{slug}} adresinde satıştadır."
   p_book_for_sale_at_html: "Bu kitap <a href=\"http://leanpub.com/%{slug}\">http://leanpub.com/%{slug}</a> adresinde satıştadır."
   p_published_on: "Bu versiyon, %{published_on} tarihinde yayınlanmıştır"
-  p_toc: "İçindekiler"
   p_isbn_for: "%{format_type} versiyonun ISBN kodu"
+  p_toc: "İçindekiler"
   p_tweet_this_book: "Bu Kitabı Tweet'le!"
   p_tweet_spread_word: "Yazara, %{author}, destek olmak için bu kitabı \\href{http://twitter.com}{Twitter} 'da paylaşın!"
   p_tweet_suggested_tweet: "Bu kitap için önerilen tweet:"

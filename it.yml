@@ -1,5 +1,6 @@
 ###
-# Leanpub Text Version 1.0, effective 2012-09-13. Copyright (c) 2010-2012 Ruboss Technology Corporation.
+# Leanpub website text portions.
+# Copyright (c) 2010-2015 Ruboss Technology Corporation.
 #
 # Italian
 # 2 letter code = it. 3 letter code = ita.
@@ -84,6 +85,7 @@ it:
   w_coming_soon: Coming soon
   w_comments: "Commenti"
   w_complete: Complete
+  w_complete_amount: "Questo libro è completo al %{percent_complete}%"
   w_copied_embed_code: "Il codice è stato copiato negli Appunti: basta incollarlo nel codice HTML del tuo sito web, ed il gioco è fatto!"
   w_copies: "Copie"
   w_copy_embed: "Copia codice embed"
@@ -91,6 +93,7 @@ it:
   w_credit_card_help: "Leanpub accetta Visa e MasterCard ma non memorizza direttamente i dati della carta di credito sui suoi server. Al contrario ci avvaliamo  di un servizio esterno a cui spediamo in modo sicuro tramite SSL il pagamento..."
   w_credit_card_number: "Numero carta"
   w_debit_card_fee: "Se si utilizza una carta di debito Visa o MasterCard, ci può essere una piccola tassa (di solito circa 10 centesimi) che tratterremo per il pagamento. Questo poiché siamo un commerciante canadese, e la maggior parte delle Visa o MasterCard provengono dagli Stati Uniti."
+  w_discuss_this_book: "Discuss this Book"
   w_discuss_this_book_with_the_author: Discuti questo libro con l'autore
   w_discuss_this_book_with_the_author_and_its_readers: discutere di questo libro con l'autore e il suo %{kind_of_readers}
   w_download_sample: "Scarica un PDF di esempio"
@@ -98,6 +101,7 @@ it:
   w_drag_slider_html_tap: "Trascinare, oppure fare clic sul prezzo per digitare valore desiderato (fino a $ 500)"
   w_email: "Email"
   w_email_the_author: "Invia una mail all'autore"
+  w_email_the_authors: "Email the Author(s)"
   w_embargo: "EMBARGO!"
   w_embargo_message_1: "Journalists and bloggers: please do not publish anything about this until the embargo is lifted!"
   w_embargo_message_2: "Please contact the author for more information about when this is."
@@ -129,6 +133,7 @@ it:
   w_installment_count: "Questo libro è stato scritto come fiction seriale. %{installments_completed} di {%installments_planned} episodi sono disponibili."
   w_installments_completed: Rate completate
   w_interested_in_book: "Vi interessa questo libro? Mostrate il vostro sostegno dicendo quanto vi piacerebbe pagare per esso!"
+  w_lang_afr: "Afrikaans"
   w_lang_ara: "arabo"
   w_lang_dut: "olandese"
   w_lang_eng: "inglese"
@@ -140,6 +145,7 @@ it:
   w_lang_hun: "ungherese"
   w_lang_ita: "italiana"
   w_lang_jpn: "giapponese"
+  w_lang_pol: "Polish"
   w_lang_por: "portoghese"
   w_lang_rum: "rumeno"
   w_lang_rus: "russo"
@@ -152,6 +158,7 @@ it:
   w_last_updated_time: "Ultimo aggiornamento: %{updated_at}"
   w_learn_more: "Clicca per saperne di più"
   w_library_note: "Per acquirenti di biblioteche: il libro è tuttora in sviluppo , e l'autore chiede che non venga ancora acquistato dalle biblioteche"
+  w_license: License
   w_mailchimp_interested_short: "Interested in this book? Sign up for the author's personal mailing list!"
   w_matching_bundles: "Matching Leanpub Bundles"
   w_minimum: Minimo
@@ -167,6 +174,7 @@ it:
   w_online: online
   w_or: "o"
   w_or_click_to: "o fare clic per"
+  w_packages: "Packages"
   w_pages: "Pagine"
   w_pay_by_credit_card: "Paga con carta di credito"
   w_pay_by_credit_card_or_click_to_html: "pagamento con carta di credito <small class = \" opzione \">oppure clicca qui per %{paypal}</small>"

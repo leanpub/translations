@@ -1,5 +1,6 @@
 ###
-# Leanpub Text Version 1.0, effective 2012-09-13. Copyright (c) 2010-2012 Ruboss Technology Corporation.
+# Leanpub website text portions.
+# Copyright (c) 2010-2015 Ruboss Technology Corporation.
 #
 # Arabic
 # 2 letter code = ar. 3 letter code = ara.
@@ -58,7 +59,7 @@ ar:
   w_about_the_contributors: "نبذه عن المساهمين"
   w_about_the_publisher: "نبذه عن الناشر"
   w_add_bundle_to_cart: "Add Bundle to Cart"
-  w_add_ebook_to_cart: "Add Ebook to cart"
+  w_add_ebook_to_cart: "Add Ebook to Cart"
   w_also_by: "أيضا بواسطة"
   w_also_by_the_author: "أيضا بواسطة المؤلف"
   w_also_by_the_authors: "أيضا بواسطة المؤلفين"
@@ -104,6 +105,7 @@ ar:
   w_coming_soon: Coming soon
   w_comments: "تعليقات"
   w_complete: Complete
+  w_complete_amount: "هذا الكتاب هو %{percent_complete}% كاملة"
   w_copied_embed_code: "تم نسخ الكود فى الذاكره المؤقته, ببساطه قم بلصقه فى أى صفحة إتش تى إم إل خاصه بموقعك"
   w_copies: "نُسخ"
   w_copy_embed: "نسخ الكود المٌتضمن"
@@ -111,6 +113,7 @@ ar:
   w_credit_card_help: "لين بوب يقبل فيزا و ماستر كارد فقط. نحن لا نٌخزن بيانات بطاقتك الإئتمانيه الخاصه بك على خوادمنا. فإننا نرسل هذا النموذج بشكل آمن عبر SSL لمعاجة الدفع لدينا, و هى آمنه جدا كما هو الحال مع باى بال"
   w_credit_card_number: "Card Number"
   w_debit_card_fee: "إذا كنت تستخدم بطاقة الخصم فيزا أو ماستركارد, قد يكون هناك رسوم رمزيه حوالى 10 سنت التى يتقاضها معالج الدفع لدينا. هذا لأننا تاجر كندى, و معظم الرسوم كانت على المعاملات التى تمت على بطاقات الخصم فيزا و ماستركارد الصادره من الولايات المتحده الأمريكيه."
+  w_discuss_this_book: "Discuss this Book"
   w_discuss_this_book_with_the_author: Discuss this book with the author
   w_discuss_this_book_with_the_author_and_its_readers: Discuss this book with the author and its %{kind_of_readers}
   w_download_sample: "تحميل عينه PDF"
@@ -118,6 +121,7 @@ ar:
   w_drag_slider_html_tap: "إسحب المؤشر, أو إنقر فوق السعر لتكتب السعر الخاص بك (بمبلغ يصل الى 500)"
   w_email: "بريدك الإلكترونى"
   w_email_the_author: "Email the Author"
+  w_email_the_authors: "Email the Author(s)"
   w_embargo: "محظور!"
   w_embargo_message_1: "اذا كنت مدون او صحفي٬ فضلا لا تنشر اي شئ حتي يتم رفع الحظر!"
   w_embargo_message_2: "يرجي الاتصال بالمؤلف للحصول علي مزيد من المعلومات."
@@ -151,6 +155,7 @@ ar:
   w_installments_completed: Installments completed
   w_interested_in_book: "مهتم بهذا الكتاب؟ قم بتشجيع المؤلف بإدخال إسمك و عنوان بريدك الإلكترونى, و كم تحب أن تدفع فى هذا الكتاب الإلكترونى عندما يتم نشره."
   w_interested_short: "مهتم بهذا الكتاب؟ أظهر دعمك و أخبرنا كم تريد أن تدفع ثمنا لهذا الكتاب!"
+  w_lang_afr: "Afrikaans"
   w_lang_ara: "العربية"
   w_lang_dut: "الهولندية"
   w_lang_eng: "الإنجليزية"
@@ -162,6 +167,7 @@ ar:
   w_lang_hun: "المجرية"
   w_lang_ita: "الإيطالية"
   w_lang_jpn: "اليابانية"
+  w_lang_pol: "البولندية"
   w_lang_por: "البرتغالية"
   w_lang_rum: "الرومانية"
   w_lang_rus: "الروسية"
@@ -173,6 +179,7 @@ ar:
   w_last_updated_time: "أخر تحديث لهذا الكتاب كان فى %{updated_at}."
   w_learn_more: "معرفة المزيد"
   w_library_note: "وكلاء الشراء للمكتبات : هذا الكتاب قيد التنفيذ, و المؤلف قد طلب أنه لا يمكن شراؤه من قِبل المكتبات حتى الآن."
+  w_license: License
   w_mailchimp_interested_short: "Interested in this book? Sign up for the author's personal mailing list!"
   w_matching_bundles: "Matching Leanpub Bundles"
   w_minimum: Minimum
@@ -188,6 +195,7 @@ ar:
   w_online: "Online"
   w_or: "أو"
   w_or_click_to: "أو إضغط لكى"
+  w_packages: "Packages"
   w_pages: "عدد الصفحات"
   w_pay_by_credit_card: "الدفع بواسطة بطاقة الإئتمان"
   w_pay_by_credit_card_or_click_to_html: "الدفع بواسطة بطاقة الإئتمان <small class=\"option\">أو إضغط لكى %{paypal}</small>"
@@ -249,8 +257,8 @@ ar:
   p_leanpub_empowers_long_html: "This is a <a href=\"http://leanpub.com\">Leanpub</a> book. Leanpub empowers authors and publishers with the Lean Publishing process. <a href=\"http://leanpub.com/manifesto\">Lean Publishing</a> is the act of publishing an in-progress ebook using lightweight tools and many iterations to get reader feedback, pivot until you have the right book and build traction once you do."
   p_published_on: "هذه النسخه نٌشرت فى %{published_on}"
   p_title_page: "عنوان الصفحة"
-  p_toc: "قائمة المحتويات"
   p_isbn_for: "ISBN for %{format_type} version"
+  p_toc: "قائمة المحتويات"
   p_tweet_this_book: "نشر الكتاب عبر تويتر!"
   p_tweet_spread_word: "رجاء مساعدة %{author} من خلال كتابة كلمه عن هذا الكتاب على \\href{http://twitter.com}{Twitter}!"
   p_tweet_suggested_tweet: "التغريدة المقترحه لهذا الكتاب:"

@@ -1,5 +1,6 @@
 ###
-# Leanpub Text Version 1.0, effective 2012-09-13. Copyright (c) 2010-2012 Ruboss Technology Corporation.
+# Leanpub website text portions.
+# Copyright (c) 2010-2015 Ruboss Technology Corporation.
 #
 # Hungarian
 # 2 letter code = hu. 3 letter code = hun.
@@ -40,7 +41,7 @@ hu:
   w_about_the_contributors: "A közreműködőkről"
   w_about_the_publisher: "A kiadóról"
   w_add_bundle_to_cart: "Add Bundle to Cart"
-  w_add_ebook_to_cart: "Add Ebook to cart"
+  w_add_ebook_to_cart: "Add Ebook to Cart"
   w_also_by: "További kiadványok"
   w_also_by_the_author: "A szerző további kiadványai"
   w_also_by_the_authors: "A szerzők további kiadványai"
@@ -86,6 +87,7 @@ hu:
   w_coming_soon: Hamarosan
   w_comments: "Hozzászólások"
   w_complete: Teljes
+  w_complete_amount: "Ez a könyv %{percent_complete}% kész"
   w_copied_embed_code: "Az embed kódod a vágólapra került, egyszerűen illeszd be a weboldalad HTML kódjába és készen is vagy!"
   w_copies: "Példány(ok)"
   w_copy_embed: "Embed kód másolása"
@@ -93,6 +95,7 @@ hu:
   w_credit_card_help: "A Leanpub kizárólag Visa és MasterCard kártyákat fogad el. Nem tároljuk a bankkártyák adatait a szerverünkön, ehelyett SSL-en keresztül átirányítunk egy biztonságos fizetési oldalra, amely hasonlóan biztonságos, mint a PayPal."
   w_credit_card_number: "Card Number"
   w_debit_card_fee: "Amennyiben Visa vagy Mastercard bankkártyát használsz előfordulhat, hogy egy kisebb összeg (megközelítőleg 10 cent) levonásra kerül a kártyádról. Ez azért van, mert a Leanpub egy kanadai kereskedőcég és a legtöbb kártyatranzakció az Egyesült Államokból érkezik."
+  w_discuss_this_book: "Discuss this Book"
   w_discuss_this_book_with_the_author: Fórum a könyv a szerző
   w_discuss_this_book_with_the_author_and_its_readers: Fórum a könyvet a szerző és a %{kind_of_readers}
   w_download_sample: "Minta PDF letöltése"
@@ -100,6 +103,7 @@ hu:
   w_drag_slider_html_tap: "Húzd a csúszkát a megfelelő helyre, vagy érintsd meg árat és írd be kézzel az összeget (max. 500$)!"
   w_email: "Email"
   w_email_the_author: "Email the Author"
+  w_email_the_authors: "Email the Author(s)"
   w_embargo: "EMBARGO!"
   w_embargo_message_1: "Journalists and bloggers: please do not publish anything about this until the embargo is lifted!"
   w_embargo_message_2: "Please contact the author for more information about when this is."
@@ -133,6 +137,7 @@ hu:
   w_installments_completed: Részletben befejeződött
   w_interested_in_book: "Érdekelne ez a könyv? Bátorítsd az írót azzal, hogy megadod a neved, email címed és hogy mennyit fizetnél az ebookért, ha megjelenik!"
   w_interested_short: "Érdekelne ez a könyv? Mutasd ki a támogatásodat azzal, hogy elmondod miért fizetnél szívesen!"
+  w_lang_afr: "Afrikaans"
   w_lang_ara: "Arabic"
   w_lang_dut: "holland"
   w_lang_eng: "angol"
@@ -144,6 +149,7 @@ hu:
   w_lang_hun: "magyar"
   w_lang_ita: "olasz"
   w_lang_jpn: "japán"
+  w_lang_pol: "Polish"
   w_lang_por: "portugál"
   w_lang_rum: "román"
   w_lang_rus: "orosz"
@@ -156,6 +162,7 @@ hu:
   w_last_updated_time: "Utolsó frissítés: %{updated_at}"
   w_learn_more: "Olvass tovább"
   w_library_note: "Könyvtári beszerzők figyelmébe: Ez a könyv jelenleg írás alatt van és a szerző azt kéri, hogy könyvtárak egyenlőre ne vásárolják még meg."
+  w_license: License
   w_mailchimp_interested_short: "Interested in this book? Sign up for the author's personal mailing list!"
   w_matching_bundles: "Matching Leanpub Bundles"
   w_minimum: Minimum
@@ -171,6 +178,7 @@ hu:
   w_online: Online
   w_or: "vagy"
   w_or_click_to: "vagy kattints"
+  w_packages: "Packages"
   w_pages: "Pages"
   w_pay_by_credit_card: "Fizetés bankkártyával"
   w_pay_by_credit_card_or_click_to_html: "Fizess bankkártyával vagy <small class=\"option\">kattints %{paypal}</small>"
@@ -231,7 +239,7 @@ hu:
   p_leanpub_empowers_long_html: "This is a <a href=\"http://leanpub.com\">Leanpub</a> book. Leanpub empowers authors and publishers with the Lean Publishing process. <a href=\"http://leanpub.com/manifesto\">Lean Publishing</a> is the act of publishing an in-progress ebook using lightweight tools and many iterations to get reader feedback, pivot until you have the right book and build traction once you do."
   p_published_on: "Jelen kiadás megjelenésének időpontja: %{published_on}"
   p_title_page: "Title Page"
-  p_toc: "Tartalomjegyzék"
+  p_toc: "Sadržaj"
   p_isbn_for: "ISBN szám a(z) %{format_type} verzióhoz"
   p_tweet_this_book: "Twitteld ki a könyvet!"
   p_tweet_spread_word: "Kérjük segítsd a szerzőt (%{author}) azzal, hogy megosztod a könyvét \\href{http://twitter.com}{Twitter}!"

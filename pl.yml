@@ -1,27 +1,41 @@
 ###
-# Leanpub Text Version 1.0, effective 2012-09-13. Copyright (c) 2010-2012 Ruboss Technology Corporation.
+# Leanpub website text portions.
+# Copyright (c) 2010-2015 Ruboss Technology Corporation.
 #
-# English
-# 2 letter code = en. 3 letter code = eng.
+# Polish
+# 2 letter code = pl. 3 letter code = pol.
 ###
 pl:
   support:
     array:
-      last_word_connector: " and " # Used in to_sentence
+      last_word_connector: " i " # Used in to_sentence
   w_author_earns:
     one: "Author earns"
+    few: "Authors earn"
+    many: "Authors earn"
     other: "Authors earn"
   w_lang_srp: "Serbian"
   w_lang_swe: "Swedish"
   w_lang_tur: "Turkish"
   w_language:
     one: "language"
+    few: "languages"
+    many: "languages"
     other: "languages"
+  w_other_books_by_this_author:
+    one: "Other books by this author"
+    few: "Other books by these authors"
+    many: "Other books by these authors"
+    other: "Other books by these authors"
   w_other_language:
     one: "other language"
+    few: "other languages"
+    many: "other languages"
     other: "other languages"
   w_share_email_with_author:
     one: "Also share your email address with the author."
+    few: "Also share your email address with the authors."
+    many: "Also share your email address with the authors."
     other: "Also share your email address with the authors."
 ############################################
 # With plurals above, without plurals below.
@@ -34,7 +48,7 @@ pl:
   w_about_the_contributors: "About the Contributors"
   w_about_the_publisher: "About the Publisher"
   w_add_bundle_to_cart: "Add Bundle to Cart"
-  w_add_ebook_to_cart: "Add Ebook to cart"
+  w_add_ebook_to_cart: "Add Ebook to Cart"
   w_also_by: "Also by"
   w_also_by_the_author: "Also by the Author"
   w_also_by_the_authors: "Also by the Authors"
@@ -77,6 +91,8 @@ pl:
   w_cc_me: "Cc me on the email so the author can reply."
   w_charge_card: "Charge Card"
   w_comments: "Comments"
+  w_complete: Complete
+  w_complete_amount: "Ta książka jest w %{percent_complete}% kompletne"
   w_copied_embed_code: "An embed code has been copied to your clipboard; simply paste it into your website's HTML, and you're done!"
   w_copies: "Copies"
   w_copy_embed: "Copy embed code"
@@ -84,11 +100,13 @@ pl:
   w_credit_card_help: "Leanpub accepts Visa and MasterCard only. We do not store your credit card data on our servers. Instead, we send this form securely via SSL to our payment processor, which is as secure as PayPal."
   w_credit_card_number: "Card Number"
   w_debit_card_fee: "If you use a Visa or MasterCard debit card, there may be a small fee (typically about 10 cents) which is charged by our payment processor. This is because we are a Canadian merchant, and most Visa or MasterCard debit card transactions we have seen are from the US."
+  w_discuss_this_book: "Discuss this Book"
   w_download_sample: "Sample PDF"
   w_drag_slider_html_click: "Drag the slider, or click the price to type in your own (up to $500)"
   w_drag_slider_html_tap: "Drag the slider, or tap the price to type in your own (up to $500)"
   w_email: "Email"
   w_email_the_author: "Email the Author"
+  w_email_the_authors: "Email the Author(s)"
   w_embargo: "EMBARGO!"
   w_embargo_message_1: "Journalists and bloggers: please do not publish anything about this until the embargo is lifted!"
   w_embargo_message_2: "Please contact the author for more information about when this is."
@@ -117,6 +135,7 @@ pl:
   w_installment_count: "This book is being written as serial fiction. %{installments_completed} of %{installments_planned} installments are available."
   w_interested_in_book: "Interested in this book? Encourage the author by entering your name, email address, and how much you’d likely pay for the ebook when it's published."
   w_interested_short: "Interested in this book? Show your support by saying what you'd like to pay for it!"
+  w_lang_afr: "Afrikaans"
   w_lang_ara: "Arabic"
   w_lang_dut: "Dutch"
   w_lang_eng: "English"
@@ -127,6 +146,7 @@ pl:
   w_lang_hun: "Hungarian"
   w_lang_ita: "Italian"
   w_lang_jpn: "Japanese"
+  w_lang_pol: "Polish"
   w_lang_por: "Portuguese"
   w_lang_rum: "Romanian"
   w_lang_rus: "Russian"
@@ -139,6 +159,7 @@ pl:
   w_last_updated_time: "Last updated: %{updated_at}"
   w_learn_more: "Learn more"
   w_library_note: "Library purchasing agents: This book is in-progress, and the author has requested that it not be purchased by libraries yet."
+  w_license: License
   w_minimum_price2: "Minimum Price"
   w_mailchimp_interested_short: "Interested in this book? Sign up for the author's personal mailing list!"
   w_matching_bundles: "Matching Leanpub Bundles"
@@ -151,6 +172,7 @@ pl:
   w_number_of_copies_purchased: "Number of Copies Purchased"
   w_or: "or"
   w_or_click_to: "or click to"
+  w_packages: "Packages"
   w_pages: "Pages"
   w_pay_by_credit_card: "Pay By Credit Card"
   w_pay_by_credit_card_or_click_to_html: "Pay By Credit Card <small class=\"option\">or click to %{paypal}</small>"
@@ -170,7 +192,7 @@ pl:
   w_suggested_price: "Suggested price:"
   w_these_books_included: "These books are included in this bundle…"
   w_these_bundles_match: "These published Leanpub bundles match your search."
-  w_toc: "Table of Contents"
+  w_toc: "Spis treści"
   w_token_or_password: "Login Token or Account Password"
   w_total: "Total"
   w_tweet_just_bought_bundle_text: "I just bought the %{title} bundle"
@@ -196,18 +218,17 @@ pl:
 #######################
 # Fields for books
 #######################
-  p_book_for_sale_at: "This book is for sale at \\url{http://leanpub.com/%{slug}}"
-  p_book_for_sale_at_html: "This book is for sale at <a href=\"http://leanpub.com/%{slug}\">http://leanpub.com/%{slug}</a>"
+  p_book_for_sale_at: "Ta książka jest do kupienia \\url{http://leanpub.com/%{slug}}"
+  p_book_for_sale_at_html: "Ta książka jest do kupienia <a href=\"http://leanpub.com/%{slug}\">http://leanpub.com/%{slug}</a>"
   p_leanpub_empowers_long_html: "This is a <a href=\"http://leanpub.com\">Leanpub</a> book. Leanpub empowers authors and publishers with the Lean Publishing process. <a href=\"http://leanpub.com/manifesto\">Lean Publishing</a> is the act of publishing an in-progress ebook using lightweight tools and many iterations to get reader feedback, pivot until you have the right book and build traction once you do."
-  p_published_on: "This version was published on %{published_on}"
+  p_published_on: "Wersja opublikowana %{published_on}"
   p_title_page: "Title Page"
-  p_toc: "Table of Contents"
-  p_isbn_for: "ISBN for %{format_type} version"
-  p_tweet_this_book: "Tweet This Book!"
-  p_tweet_spread_word: "Please help %{author} by spreading the word about this book on \\href{http://twitter.com}{Twitter}!"
-  p_tweet_suggested_tweet: "The suggested tweet for this book is:"
-  p_tweet_suggested_hashtag: "The suggested hashtag for this book is \\href{https://twitter.com/search?q=%23%{suggested_hashtag}}{\\#%{suggested_hashtag}}."
-  p_tweet_find_out_what: "Find out what other people are saying about the book by clicking on this link to search for this hashtag on Twitter:"
-  p_also_by_multi_authors_title: "Also By These Authors"
-  p_also_by_multi_authors_item: "Books by \\href{http://leanpub.com/u/%{username}}{%{name}}"
+  p_isbn_for: "ISBN wersja %{format_type}"
+  p_tweet_this_book: "Tweet'nij tę książkę"
+  p_tweet_spread_word: "Proszę pomóż %{author}  rozpowszechniać informację o tej książce na \\href{http://twitter.com}{Twitter'ze}!"
+  p_tweet_suggested_tweet: "Sugerowany tweet o tej książce to:"
+  p_tweet_suggested_hashtag: "Sugerowany tag do tej książki to \\href{https://twitter.com/search?q=%23%{suggested_hashtag}}{\\#%{suggested_hashtag}}."
+  p_tweet_find_out_what: "Sprawdź co inni ludzie mówią o tej książce i kliknij na ten link, żeby poszukać tego tagu na Twitter'ze:"
+  p_also_by_multi_authors_title: "Inne pozycje tych autorów"
+  p_also_by_multi_authors_item: "Książki autorstwa \\href{http://leanpub.com/u/%{username}}{%{name}}"
   p_also_by_single_author_title: "Also By \\href{http://leanpub.com/u/%{username}}{%{name}}"

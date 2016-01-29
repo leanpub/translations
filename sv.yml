@@ -1,5 +1,6 @@
 ###
-# Leanpub Text Version 1.0, effective 2012-09-13. Copyright (c) 2010-2012 Ruboss Technology Corporation.
+# Leanpub website text portions.
+# Copyright (c) 2010-2015 Ruboss Technology Corporation.
 #
 # Swedish
 # 2 letter code = sv. 3 letter code = swe.
@@ -39,7 +40,7 @@ sv:
   w_about_the_contributors: "Om medarbetarna"
   w_about_the_publisher: "Om utgivaren"
   w_add_bundle_to_cart: "Add Bundle to Cart"
-  w_add_ebook_to_cart: "Add Ebook to cart"
+  w_add_ebook_to_cart: "Add Ebook to Cart"
   w_also_by: "Också av"
   w_also_by_the_author: "Också av författaren"
   w_also_by_the_authors: "Också av författarna"
@@ -84,7 +85,8 @@ sv:
   w_charge_card: "Dra från kort"
   w_coming_soon: Kommer snart
   w_comments: "Kommentarer"
-  w_complete: Complete
+  w_complete: "färdigt"
+  w_complete_amount: "Den här boken är %{percent_complete}% färdigt"
   w_copied_embed_code: "En kodsnutt har kopierats till ditt klippbord; klistra in den i din webbsidas HTML så är allt klart!"
   w_copies: "Kopior"
   w_copy_embed: "Kopiera kod"
@@ -92,6 +94,7 @@ sv:
   w_credit_card_help: "Leanpub tar bara Visa och MasterCard. Vi lagrar inte dina kreditkortsdetaljer på vår server. Vi skickar istället det här formuläret via SSL till vår betalningstjänst, som är lika säker som PayPal."
   w_credit_card_number: "Card Number"
   w_debit_card_fee: "Om du betalar med Visa eller MasterCard kan det tillkomma en liten avgift (kring 10 cent) till vår betaltjänst. Det beror på att vi har en kanadensisk shop, medan de flesta kreditkortstransaktionerna verkar ske från USA."
+  w_discuss_this_book: "Discuss this Book"
   w_discuss_this_book_with_the_author: Diskutera den här boken med författaren
   w_discuss_this_book_with_the_author_and_its_readers: Diskutera den här boken med författaren och dess %{kind_of_readers}
   w_download_sample: "Ladda ner ett smakprov som PDF"
@@ -99,6 +102,7 @@ sv:
   w_drag_slider_html_tap: "Dra i linjalen, eller knacka på priset för att skriva i ditt eget (upp till $500)"
   w_email: "Epost"
   w_email_the_author: "Email the Author"
+  w_email_the_authors: "Email the Author(s)"
   w_embargo: "EMBARGO!"
   w_embargo_message_1: "Journalists and bloggers: please do not publish anything about this until the embargo is lifted!"
   w_embargo_message_2: "Please contact the author for more information about when this is."
@@ -132,6 +136,7 @@ sv:
   w_installments_completed: avbetalningar slutförts
   w_interested_in_book: "Intresserad av den här boken? Uppmuntra författaren genom att fylla i ditt namn, epostadress och hur mycket du vill betala för boken när den publiceras."
   w_interested_short: "Intresserad av den här boken? Visa ditt stöd genom att berätta vad du skulle betala för den!"
+  w_lang_afr: "Afrikaans"
   w_lang_ara: "Arabic"
   w_lang_dut: "Holländska"
   w_lang_eng: "Engelska"
@@ -143,6 +148,7 @@ sv:
   w_lang_hun: "Ungerska"
   w_lang_ita: "Italienska"
   w_lang_jpn: "Japanska"
+  w_lang_pol: "Polish"
   w_lang_por: "Portugisiska"
   w_lang_rum: "Rumänska"
   w_lang_rus: "Ryska"
@@ -155,6 +161,7 @@ sv:
   w_last_updated_time: "Senast uppdaterad: %{updated_at}"
   w_learn_more: "Läs mer"
   w_library_note: "Biblioteksinköpare: Denna bok är inte färdig och författaren vill inte att den köps in av bibliotek ännu."
+  w_license: License
   w_mailchimp_interested_short: "Interested in this book? Sign up for the author's personal mailing list!"
   w_matching_bundles: "Matching Leanpub Bundles"
   w_minimum: Minst
@@ -170,6 +177,7 @@ sv:
   w_online: Online
   w_or: "eller"
   w_or_click_to: "eller klicka till"
+  w_packages: "Packages"
   w_pages: "Sidor"
   w_pay_by_credit_card: "Betala med kort"
   w_pay_by_credit_card_or_click_to_html: "Betala med kort <small class=\"option\">eller klicka till %{paypal}</small>"
