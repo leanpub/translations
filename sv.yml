@@ -1,6 +1,6 @@
 ###
 # Leanpub website text portions.
-# Copyright (c) 2010-2015 Ruboss Technology Corporation.
+# Copyright (c) 2010-2016 Ruboss Technology Corporation.
 #
 # Swedish
 # 2 letter code = sv. 3 letter code = swe.
@@ -146,8 +146,10 @@ sv:
   w_lang_heb: "Hebreiska"
   w_lang_hrv: "Croatian"
   w_lang_hun: "Ungerska"
+  w_lang_ind: "Indonesian"
   w_lang_ita: "Italienska"
   w_lang_jpn: "Japanska"
+  w_lang_nob: "Norwegian Bokmål"
   w_lang_pol: "Polish"
   w_lang_por: "Portugisiska"
   w_lang_rum: "Rumänska"
@@ -239,7 +241,6 @@ sv:
   p_leanpub_empowers_long_html: "This is a <a href=\"http://leanpub.com\">Leanpub</a> book. Leanpub empowers authors and publishers with the Lean Publishing process. <a href=\"http://leanpub.com/manifesto\">Lean Publishing</a> is the act of publishing an in-progress ebook using lightweight tools and many iterations to get reader feedback, pivot until you have the right book and build traction once you do."
   p_published_on: "Denna version publicerades den %{published_on}"
   p_title_page: "Title Page"
-  p_toc: "Innehållsförtecking"
   p_isbn_for: "ISBN för %{format_type}"
   p_tweet_this_book: "Twittra denna bok!"
   p_tweet_spread_word: "Hjälp %{author} genom att berätta om den här boken på \\href{http://twitter.com}{Twitter}!"

@@ -1,6 +1,6 @@
 ###
 # Leanpub website text portions.
-# Copyright (c) 2010-2015 Ruboss Technology Corporation.
+# Copyright (c) 2010-2016 Ruboss Technology Corporation.
 #
 # Polish
 # 2 letter code = pl. 3 letter code = pol.
@@ -144,8 +144,10 @@ pl:
   w_lang_ger: "German"
   w_lang_hrv: "Croatian"
   w_lang_hun: "Hungarian"
+  w_lang_ind: "Indonesian"
   w_lang_ita: "Italian"
   w_lang_jpn: "Japanese"
+  w_lang_nob: "Norwegian Bokmål"
   w_lang_pol: "Polish"
   w_lang_por: "Portuguese"
   w_lang_rum: "Romanian"

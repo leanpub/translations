@@ -1,6 +1,6 @@
 ###
 # Leanpub website text portions.
-# Copyright (c) 2010-2015 Ruboss Technology Corporation.
+# Copyright (c) 2010-2016 Ruboss Technology Corporation.
 #
 # English
 # 2 letter code = en. 3 letter code = eng.
@@ -162,8 +162,10 @@ en:
   w_lang_ger: "German"
   w_lang_hrv: "Croatian"
   w_lang_hun: "Hungarian"
+  w_lang_ind: "Indonesian"
   w_lang_ita: "Italian"
   w_lang_jpn: "Japanese"
+  w_lang_nob: "Norwegian Bokmål"
   w_lang_pol: "Polish"
   w_lang_por: "Portuguese"
   w_lang_rum: "Romanian"
@@ -207,6 +209,9 @@ en:
   w_reader_count: "This book has %{num_readers} readers!"
   w_reader: Reader
   w_readers: Readers
+  w_edition: Edition
+  w_editions: Editions
+  w_total_readers: Total Readers
   w_reader_feedback: "Reader Feedback"
   w_recipient_email_or_username: "Recipient Email or Leanpub Username"
   w_retired: "Retired"

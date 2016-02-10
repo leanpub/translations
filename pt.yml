@@ -1,6 +1,6 @@
 ###
 # Leanpub website text portions.
-# Copyright (c) 2010-2015 Ruboss Technology Corporation.
+# Copyright (c) 2010-2016 Ruboss Technology Corporation.
 #
 # Portuguese
 # 2 letter code = pt. 3 letter code = por.
@@ -146,8 +146,10 @@ pt:
   w_lang_heb: "hebraico"
   w_lang_hrv: "Croatian"
   w_lang_hun: "Húngaro"
+  w_lang_ind: "Indonesian"
   w_lang_ita: "Italiano"
   w_lang_jpn: "Japonês"
+  w_lang_nob: "Norwegian Bokmål"
   w_lang_pol: "Polish"
   w_lang_por: "Português"
   w_lang_rum: "Romeno"
@@ -239,7 +241,6 @@ pt:
   p_published_on: "Essa versão foi publicada em %{published_on}"
   p_title_page: "Folha de Rosto"
   p_isbn_for: "ISBN da versão %{format_type}"
-  p_toc: "Sumário"
   p_tweet_this_book: "Tweet Sobre Esse Livro!"
   p_tweet_spread_word: "Por favor ajude %{author} a divulgar esse livro no \\href{http://twitter.com}{Twitter}!"
   p_tweet_suggested_tweet: "O tweet sugerido para esse livro é:"

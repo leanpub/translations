@@ -1,6 +1,6 @@
 ###
 # Leanpub website text portions.
-# Copyright (c) 2010-2015 Ruboss Technology Corporation.
+# Copyright (c) 2010-2016 Ruboss Technology Corporation.
 #
 # Italian
 # 2 letter code = it. 3 letter code = ita.
@@ -143,8 +143,10 @@ it:
   w_lang_heb: "ebraico"
   w_lang_hrv: "croato"
   w_lang_hun: "ungherese"
+  w_lang_ind: "Indonesian"
   w_lang_ita: "italiana"
   w_lang_jpn: "giapponese"
+  w_lang_nob: "Norwegian Bokmål"
   w_lang_pol: "Polish"
   w_lang_por: "portoghese"
   w_lang_rum: "rumeno"

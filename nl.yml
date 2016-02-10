@@ -1,6 +1,6 @@
 ###
 # Leanpub website text portions.
-# Copyright (c) 2010-2015 Ruboss Technology Corporation.
+# Copyright (c) 2010-2016 Ruboss Technology Corporation.
 #
 # Dutch
 # 2 letter code = nl. 3 letter code = dut.
@@ -28,7 +28,7 @@ nl:
 # With plurals above, without plurals below.
 ############################################
   p_book_for_sale_at: "Dit boek is te koop bij \\url{http://leanpub.com/%{slug}}"
--  p_leanpub_empowers_long_html: "Dit is een <a href=\"http://leanpub.com\">Leanpub</a> boek. Leanpub stelt auteurs en uitgevers in staat om volgens het Lean uitgeefproces te werken. <a href=\"http://leanpub.com/manifesto\">Lean Publishing</a> is het uitgeven van een boek dat nog onderhanden is met lichtgewicht gereedschap en vele iteraties om feedback te krijgen van de lezers. Op deze manier kun je aanpassingen maken tot je het juiste boek hebt, en als je zover bent helpt het om te zorgen dat je een positie krijgt in de markt."
+  p_leanpub_empowers_long_html: "Dit is een <a href=\"http://leanpub.com\">Leanpub</a> boek. Leanpub stelt auteurs en uitgevers in staat om volgens het Lean uitgeefproces te werken. <a href=\"http://leanpub.com/manifesto\">Lean Publishing</a> is het uitgeven van een boek dat nog onderhanden is met lichtgewicht gereedschap en vele iteraties om feedback te krijgen van de lezers. Op deze manier kun je aanpassingen maken tot je het juiste boek hebt, en als je zover bent helpt het om te zorgen dat je een positie krijgt in de markt."
   p_published_on: "Deze versie is gepubliceerd op %{published_on}"
   p_title_page: "Titelblad"
   w_100_pc_happiness_guarantee_html: <span class="pc">100%</span> Geluk garantie
@@ -146,8 +146,10 @@ nl:
   w_lang_heb: "Hebreeuws"
   w_lang_hrv: "Croatian"
   w_lang_hun: "Hongaars"
+  w_lang_ind: "Indonesian"
   w_lang_ita: "Italiaans"
   w_lang_jpn: "Japans"
+  w_lang_nob: "Norwegian Bokmål"
   w_lang_pol: "Polish"
   w_lang_por: "Portugees"
   w_lang_rum: "Roemeens"

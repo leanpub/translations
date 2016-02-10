@@ -1,6 +1,6 @@
 ###
 # Leanpub website text portions.
-# Copyright (c) 2010-2015 Ruboss Technology Corporation.
+# Copyright (c) 2010-2016 Ruboss Technology Corporation.
 #
 # Afrikaans
 # 2 letter code = af. 3 letter code = afr.
@@ -161,8 +161,10 @@ af:
   w_lang_ger: "Duits"
   w_lang_hrv: "Kroaties"
   w_lang_hun: "Hongaars"
+  w_lang_ind: "Indonesian"
   w_lang_ita: "Italiaans"
   w_lang_jpn: "Japanees"
+  w_lang_nob: "Norwegian Bokmål"
   w_lang_pol: "Inval"
   w_lang_por: "Portugees"
   w_lang_rum: "Romeens"
@@ -257,7 +259,6 @@ af:
   p_leanpub_empowers_long_html: "Hierdie is 'n boek van <a href=\"http://leanpub.com\">Leanpub</a>. Leanpub bemagtig outeurs en uitgewers d.m.v. die Lean Publikasieproses. <a href=\"http://leanpub.com/manifesto\">Lean Publikasies</a> is die metodiek van publisering and in-wordende e-boeke d.m.v. liggewig methodes en vele iterasies om leserterugvoer te bekom, en te spil totdat die regte boek vorendag kom en sodoende momentum te verkry."
   p_published_on: "Hierdie weergawe was vrygestel op %{published_on}"
   p_title_page: "Titelbladsy"
-  p_toc: "Inhoudsopgawe"
   p_isbn_for: "ISBN vir %{format_type} weergawe"
   p_tweet_this_book: "Tweet hierdie boek!"
   p_tweet_spread_word: "Help asb. %{author} deur die woord te versprei oor hierdie boek op \\href{http://twitter.com}{Twitter}!"

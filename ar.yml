@@ -1,6 +1,6 @@
 ###
 # Leanpub website text portions.
-# Copyright (c) 2010-2015 Ruboss Technology Corporation.
+# Copyright (c) 2010-2016 Ruboss Technology Corporation.
 #
 # Arabic
 # 2 letter code = ar. 3 letter code = ara.
@@ -165,8 +165,10 @@ ar:
   w_lang_heb: "العبرية"
   w_lang_hrv: "الكرواتية"
   w_lang_hun: "المجرية"
+  w_lang_ind: "Indonesian"
   w_lang_ita: "الإيطالية"
   w_lang_jpn: "اليابانية"
+  w_lang_nob: "Norwegian Bokmål"
   w_lang_pol: "البولندية"
   w_lang_por: "البرتغالية"
   w_lang_rum: "الرومانية"
@@ -258,7 +260,6 @@ ar:
   p_published_on: "هذه النسخه نٌشرت فى %{published_on}"
   p_title_page: "عنوان الصفحة"
   p_isbn_for: "ISBN for %{format_type} version"
-  p_toc: "قائمة المحتويات"
   p_tweet_this_book: "نشر الكتاب عبر تويتر!"
   p_tweet_spread_word: "رجاء مساعدة %{author} من خلال كتابة كلمه عن هذا الكتاب على \\href{http://twitter.com}{Twitter}!"
   p_tweet_suggested_tweet: "التغريدة المقترحه لهذا الكتاب:"

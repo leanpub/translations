@@ -1,6 +1,6 @@
 ###
 # Leanpub website text portions.
-# Copyright (c) 2010-2015 Ruboss Technology Corporation.
+# Copyright (c) 2010-2016 Ruboss Technology Corporation.
 #
 # Finnish
 # 2 letter code = fi. 3 letter code = fin.
@@ -146,8 +146,10 @@ fi:
   w_lang_heb: "Heprea"
   w_lang_hrv: "Croatian"
   w_lang_hun: "Unkari"
+  w_lang_ind: "Indonesian"
   w_lang_ita: "Italia"
   w_lang_jpn: "Japani"
+  w_lang_nob:: "Norwegian Bokmål"
   w_lang_pol: "Polish"
   w_lang_por: "Portugali"
   w_lang_rum: "Romania"
