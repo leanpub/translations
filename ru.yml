@@ -62,7 +62,7 @@ ru:
   w_book_dialect: "Диалект, на котором написана книга:"
   w_book_formats: "После покупки этой книги, вы сможете скачать ещё в PDF, EPUB и MOBI форматах. Так что вы сможете читать её на вашем компьютере, iPad, Kindle, да и на любом другом устройстве для чтения электронных книг тоже!"
   w_book_is_done_html: "По мнению автора этой книги, она полностью завершена!"
-  w_book_is_translation_html: "Эта публикация является переводом книги %{orig_book} на %{lang}  язык."
+  w_book_is_translation_html: "Эта публикация является переводом книги %{orig_book} на %{lang} язык."
   w_book_language: "Язык книги"
   w_book_num_translations_html: "Эта книга была переведена на %{num_translations} %{other_langs}."
   w_book_published_on_leanpub_by: "Эта книга была опубликована на Leanpub автором"
