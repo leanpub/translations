@@ -2,9 +2,11 @@
 # Leanpub website text portions.
 # Copyright (c) 2010-2016 Ruboss Technology Corporation.
 #
-# Norwegian
+# Norwegian (inclusive code)
+# This is in Nynorsk. We are fixing our language support;
+# in the meantime this is a copy-paste of the nn.yml file.
 # 2 letter code = no. 3 letter code = nor.
-# To the best of our knowledge, this text is in Nynorsk. The Bokmål version is in nb.yml.
+# The Bokmål version is in nb.yml.
 ###
 "no":
   support:
@@ -156,6 +158,7 @@
   w_lang_srp: "Serbisk"
   w_lang_swe: "Svensk"
   w_lang_tur: "Tyrkisk"
+  w_lang_nno: "Nynorsk"
   w_lang_nob: "Norwegian Bokmål"
   w_lang_nor: "Norsk"
   w_language_options: "Språkalternativer"

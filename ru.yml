@@ -62,7 +62,7 @@ ru:
   w_book_dialect: "Диалект, на котором написана книга:"
   w_book_formats: "После покупки этой книги, вы сможете скачать ещё в PDF, EPUB и MOBI форматах. Так что вы сможете читать её на вашем компьютере, iPad, Kindle, да и на любом другом устройстве для чтения электронных книг тоже!"
   w_book_is_done_html: "По мнению автора этой книги, она полностью завершена!"
-  w_book_is_translation_html: "Эта публикация является переводом книги %{orig_book} на %{lang})."
+  w_book_is_translation_html: "Эта публикация является переводом книги %{orig_book} на %{lang}  язык."
   w_book_language: "Язык книги"
   w_book_num_translations_html: "Эта книга была переведена на %{num_translations} %{other_langs}."
   w_book_published_on_leanpub_by: "Эта книга была опубликована на Leanpub автором"
@@ -159,6 +159,7 @@ ru:
   w_lang_ind: "Indonesian"
   w_lang_ita: "Итальянский"
   w_lang_jpn: "Японский"
+  w_lang_nno: "Nynorsk"
   w_lang_nob: "Norwegian Bokmål"
   w_lang_pol: "Polish"
   w_lang_por: "Португальский"
@@ -176,7 +177,7 @@ ru:
   w_license: License
   w_mailchimp_interested_short: "Вам интересна эта книга? Тогда подпишитесь на персональную рассылку автора, чтобы первым узнать о всех обновлениях!"
   w_matching_bundles: "Подходящие комплекты на Leanpub"
-  w_minimum: Минимум
+  w_minimum: Минимальная
   w_minimum_price2: "Минимальная цена"
   w_minimum_price: "Минимальная цена"
   w_multiple_explanation: "Вы можете купить сразу несколько экземпляров книги, например, чтобы поделиться ею с друзьями или коллегами. Если вы покупаете несколько копий, ползунки выше показывают, сколько вы платите и сколько получает автор за каждую книгу."
