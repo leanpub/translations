@@ -86,7 +86,7 @@ pt:
   w_coming_soon: Em breve
   w_comments: "Comentários"
   w_complete: Complete
-  w_complete_amount: "Este livro é %{percent_complete}% concluída"
+  w_complete_amount: "Este livro está %{percent_complete}% concluído"
   w_copied_embed_code: "Um código de incorporação foi copiado para a área de transferência, basta colá-lo no HTML do seu site, e está pronto!"
   w_copies: "Cópias"
   w_copy_embed: "Copiar o código de incorporação"

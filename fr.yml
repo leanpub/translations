@@ -30,10 +30,6 @@ fr:
 ############################################
 # With plurals above, without plurals below.
 ############################################
-  p_book_for_sale_at: "Ce livre est en vente à \\url{http://leanpub.com/%{slug}}"
-  p_leanpub_empowers_long_html: "Ce livre est publié par <a href=\"http://leanpub.com\">Leanpub</a> book. Leanpub permet aux auteurs et aux éditeurs de bénéficier du Lean Publishing. <a href=\"http://leanpub.com/manifesto\">Lean Publishing</a> consiste à publier à l'aide d'outils très simples de nombreuses itérations d'un livre électronique en cours de rédaction, d'obtenir des retours et commentaires des lecteurs afin d'améliorer le livre."
-  p_published_on: "Version a été publiée le% {published_on}"
-  p_title_page: "Page de titre"
   w_100_pc_happiness_guarantee_html: "Satisfaction <span class=\"pc\">100%</span> garantie"
   w_about_author: "À propos de l'auteur"
   w_about_authors: "À propos des auteurs"
@@ -250,3 +246,21 @@ fr:
   w_you_pay: "Vous payez"
   w_your_account: "Votre compte"
   w_youre_buying: "Vous achetez"
+#######################
+# Fields for books
+#######################
+  p_book_for_sale_at: "Ce livre est en vente à \\url{http://leanpub.com/%{slug}}"
+  p_book_for_sale_at_html: "Ce livre est en vente à <a href=\"http://leanpub.com/%{slug}\">http://leanpub.com/%{slug}</a>"
+  p_leanpub_empowers_long_html: "Ce livre est publié par <a href=\"http://leanpub.com\">Leanpub</a> book. Leanpub permet aux auteurs et aux éditeurs de bénéficier du Lean Publishing. <a href=\"http://leanpub.com/manifesto\">Lean Publishing</a> consiste à publier à l'aide d'outils très simples de nombreuses itérations d'un livre électronique en cours de rédaction, d'obtenir des retours et commentaires des lecteurs afin d'améliorer le livre."
+  p_published_on: "Version a été publiée le %{published_on}"
+  p_title_page: "Page de titre"
+  p_isbn_for: "ISBN pour la version %{format_type}"
+  p_tweet_this_book: "Tweet ce livre!"
+  p_tweet_spread_word: "S'il vous plaît aider %{author} en parlant de ce livre sur \\href{http://twitter.com}{Twitter}!"
+  p_tweet_suggested_tweet: "Le tweet suggéré pour ce livre est:"
+  p_tweet_suggested_hashtag: "Le hashtag suggéré pour ce livre est \\href{https://twitter.com/search?q=%23%{suggested_hashtag}}{\\#%{suggested_hashtag}}."
+  p_tweet_find_out_what: "Découvrez ce que les gens disent à propos du livre en cliquant sur ce lien pour rechercher ce hashtag sur Twitter:"
+  p_also_by_multi_authors_title: "Aussi Par Ces Auters"
+  p_also_by_multi_authors_item: "Livres par \\href{http://leanpub.com/u/%{username}}{%{name}}"
+  p_also_by_single_author_title: "Aussi par \\href{http://leanpub.com/u/%{username}}{%{name}}"
+
