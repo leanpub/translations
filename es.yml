@@ -100,11 +100,10 @@ es:
   w_coupon_code: "Código promocional"
   w_credit_card_help: "Leanpub acepta Visa y MasterCard solo. No almacenamos datos de su tarjeta de crédito en nuestros servidores. En lugar de ello, los datos del formulario se envían de forma segura a través de SSL a nuestro procesador de pagos, que es tan seguro como PayPal."
   w_credit_card_number: "Número de tarjeta"
-  w_credit_card_number: "Card Number"
   w_debit_card_fee: "Si utiliza una tarjeta Visa o MasterCard de débito, puede haber una pequeña cuota (normalmente unos 10 centavos de dólar) que se cobra por nuestro procesador de pagos. Esto se debe a que es un comerciante canadiense, y la mayoría de Visa o MasterCard transacciones con tarjeta de débito que hemos visto son de los EE.UU."
-  w_discuss_this_book: "Discuss this Book"
-  w_discuss_this_book_with_the_author: Hable sobre este libro con el autor
-  w_discuss_this_book_with_the_author_and_its_readers: Hable sobre este libro con el autor y sus %{kind_of_readers}
+  w_discuss_this_book: "Comenta el libro"
+  w_discuss_this_book_with_the_author: "Hable con el autor sobre el libro"
+  w_discuss_this_book_with_the_author_and_its_readers: "Hable sobre este libro con el autor y sus %{kind_of_readers}"
   w_download: "Descargar"
   w_download_sample: "Descargar el PDF de ejemplo"
   w_drag_slider_html_click: "Arrastre la barra de desplazamiento o haga clic en el precio, para establecer el suyo propio (hasta $500)"
@@ -115,7 +114,7 @@ es:
   w_embargo: "¡EMBARGO!"
   w_embargo_message_1: "Periodistas y blogueros: por favor no publiquen nada sobre esto hasta que finalice el embargo."
   w_embargo_message_2: "Por favor contactae con el autor para más información sobre cuándo ocurrirá eso"
-  w_embed_code_copy_instructions: Pulse (Control/⌘)-C para copiar este código al portapapeles
+  w_embed_code_copy_instructions: "Pulse (Control/⌘)-C para copiar este código al portapapeles"
   w_expiry_date: "Fecha de caducidad"
   w_fanfic_always_free: "Los libros de fanfic son siempre gratuitos en Leanpub."
   w_fanfic_of: "Este libro es un fanfic basado en %{work} de %{author}."
