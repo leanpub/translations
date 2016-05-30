@@ -122,8 +122,8 @@ es:
   w_feedback_blurb_html: "¡Anímese a dejar sus comentarios sobre este libro abajo! Desde señalar faltas ortográficas hasta escribir tus propias reseñas, sus comentarios pueden ayudar a %{authors} a mejorar el libro para usted y el resto de lectores."
   w_first_name: "Nombre"
   w_formats_included: "Formatos incluídos"
-  w_free_sample: Muestra gratuita
-  w_free_to: Gratis para
+  w_free_sample: "Muestra gratuita"
+  w_free_to: "Gratis para"
   w_free_updates: "¡Si compra el libro, conseguirá todas las actualizaciones de Leanpub del autor para el libro gratis!"
   w_get_it_for_free: "¡Obténgalo gratis!"
   w_get_my_free_book: "Obtener mi libro gratis"
@@ -132,7 +132,7 @@ es:
   w_gift_note_hint: "Puedes ingresar una nota para enviar junto con el regalo o puedes dejarlo en blanco si lo deseas."
   w_give_as_a_gift: "¡Dar como regalo!"
   w_grand_total: "Total general"
-  w_happiness_guarantee: Felicidad garantizada
+  w_happiness_guarantee: "Felicidad garantizada"
   w_happiness_guarantee_book_html: "Si compra un libro Leanpub, ¡obtiene <strong>todas las actualizaciones del libro de forma gratuita</strong>! Todos los libros están disponibles en <strong>PDF</strong>, <strong>EPUB</strong> (para iPad) y <strong>MOBI</strong> (para Kindle). No hay <strong>DRM</strong>. <strong>Sin riesgo</strong>, tan solo <strong>felicidad garantizada</ strong > o le devolvemos su dinero."
   w_happiness_guarantee_bundle_html: "Si compra un paquete Leanpub ¡obtiene <strong>todos los cambios a los libros en el paquete de forma gratuita</strong>! Todos los libros están disponibles en <strong>PDF</strong>, <strong>EPUB</strong> (para iPad) y <strong>MOBI</strong> (para Kindle). No hay <strong>DRM</strong>. <strong>Sin riesgo</strong>, tan solo <strong>felicidad garantizada</ strong > o le devolvemos su dinero."
   w_happiness_guarantee_days_html: "Durante los primeros <strong>45 días de compra</strong>, puede obtener un reembolso del <strong>100%</strong> de cualquier compra Leanpub, en <strong>dos clics</strong>. Nosotros procesamos las restituciones a la mano, así que hacen tomar unos días en aparecer. Vea <a href=\"/terms#returns\">términos completos</a>."
