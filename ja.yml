@@ -52,7 +52,7 @@ ja:
   w_book_dialect: "方言："
   w_book_formats: "この電子書籍はPDF、EPUB、MOBI形式で提供いたします。コンピューターやiPad、Kindleもしくはその他の電子書籍リーダーでお読みいただけます。"
   w_book_is_done_html: "本書は最後まで執筆されています。"
-  w_book_is_translation_html: "本書は%{written_in}で書かれた%{orig_book}を%{lang}に翻訳したものです。"
+  w_book_is_translation_html: "本書は、%{orig_book}の翻訳です。%{written_in}から%{lang}に翻訳されました。"
   w_book_language: "言語："
   w_book_num_translations_html: "<em>%{orig_book}</em>はこの他にも%{num_translations}つの%{other_langs}に翻訳されています。"
   w_book_published_on_leanpub_by: "本書はLeanpubで出版され、次の著者によって執筆されました。"
