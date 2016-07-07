@@ -235,6 +235,7 @@ ja:
 #######################
 # Fields for books
 #######################
+  p_endnotes_title: "Notes"
   p_isbn_for: "第%{format_type}版のISBN"
   p_tweet_this_book: "Twitterでシェアしませんか？"
   p_tweet_spread_word: "本書に関するコメントを\\href{http://twitter.com}{Twitter}でシェアして%{author}を応援してください！"
