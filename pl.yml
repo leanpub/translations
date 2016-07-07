@@ -226,6 +226,7 @@ pl:
   p_leanpub_empowers_long_html: "This is a <a href=\"http://leanpub.com\">Leanpub</a> book. Leanpub empowers authors and publishers with the Lean Publishing process. <a href=\"http://leanpub.com/manifesto\">Lean Publishing</a> is the act of publishing an in-progress ebook using lightweight tools and many iterations to get reader feedback, pivot until you have the right book and build traction once you do."
   p_published_on: "Wersja opublikowana %{published_on}"
   p_title_page: "Title Page"
+  p_endnotes_title: "Notes"
   p_isbn_for: "ISBN wersja %{format_type}"
   p_tweet_this_book: "Tweet'nij tę książkę"
   p_tweet_spread_word: "Proszę pomóż %{author}  rozpowszechniać informację o tej książce na \\href{http://twitter.com}{Twitter'ze}!"

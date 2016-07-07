@@ -28,6 +28,7 @@ nl:
 # With plurals above, without plurals below.
 ############################################
   p_book_for_sale_at: "Dit boek is te koop bij \\url{http://leanpub.com/%{slug}}"
+  p_endnotes_title: "Notes"
   p_leanpub_empowers_long_html: "Dit is een <a href=\"http://leanpub.com\">Leanpub</a> boek. Leanpub stelt auteurs en uitgevers in staat om volgens het Lean uitgeefproces te werken. <a href=\"http://leanpub.com/manifesto\">Lean Publishing</a> is het uitgeven van een boek dat nog onderhanden is met lichtgewicht gereedschap en vele iteraties om feedback te krijgen van de lezers. Op deze manier kun je aanpassingen maken tot je het juiste boek hebt, en als je zover bent helpt het om te zorgen dat je een positie krijgt in de markt."
   p_published_on: "Deze versie is gepubliceerd op %{published_on}"
   p_title_page: "Titelblad"

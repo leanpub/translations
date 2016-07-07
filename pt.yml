@@ -241,6 +241,7 @@ pt:
   p_leanpub_empowers_long_html: "Esse é um livro <a href=\"http://leanpub.com\">Leanpub</a>. A Leanpub dá poderes aos autores e editores a partir do processo de Publicação Lean. <a href=\"http://leanpub.com/manifesto\">Publicação Lean</a> é a ação de publicar um ebook em desenvolvimento com ferramentas leves e muitas iterações para conseguir feedbacks dos leitores, pivotar até que você tenha o livro ideal e então conseguir tração."
   p_published_on: "Essa versão foi publicada em %{published_on}"
   p_title_page: "Folha de Rosto"
+  p_endnotes_title: "Notes"
   p_isbn_for: "ISBN da versão %{format_type}"
   p_tweet_this_book: "Tweet Sobre Esse Livro!"
   p_tweet_spread_word: "Por favor ajude %{author} a divulgar esse livro no \\href{http://twitter.com}{Twitter}!"
