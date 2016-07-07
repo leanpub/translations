@@ -52,7 +52,7 @@ ja:
   w_book_dialect: "方言："
   w_book_formats: "この電子書籍はPDF、EPUB、MOBI形式で提供いたします。コンピューターやiPad、Kindleもしくはその他の電子書籍リーダーでお読みいただけます。"
   w_book_is_done_html: "本書は最後まで執筆されています。"
-  w_book_is_translation_html: "本書は%{written_in}で書かれた%{orig_book}を%{lang}に翻訳したものです。"
+  w_book_is_translation_html: "本書は、%{orig_book}の翻訳です。%{written_in}から%{lang}に翻訳されました。"
   w_book_language: "言語："
   w_book_num_translations_html: "<em>%{orig_book}</em>はこの他にも%{num_translations}つの%{other_langs}に翻訳されています。"
   w_book_published_on_leanpub_by: "本書はLeanpubで出版され、次の著者によって執筆されました。"
@@ -149,6 +149,7 @@ ja:
   w_lang_ind: "Indonesian"
   w_lang_ita: "イタリア語"
   w_lang_jpn: "日本語"
+  w_lang_nno: "Nynorsk"
   w_lang_nob: "Norwegian Bokmål"
   w_lang_pol: "Polish"
   w_lang_por: "ポルトガル語"
@@ -234,6 +235,7 @@ ja:
 #######################
 # Fields for books
 #######################
+  p_endnotes_title: "Notes"
   p_isbn_for: "第%{format_type}版のISBN"
   p_tweet_this_book: "Twitterでシェアしませんか？"
   p_tweet_spread_word: "本書に関するコメントを\\href{http://twitter.com}{Twitter}でシェアして%{author}を応援してください！"

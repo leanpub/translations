@@ -28,6 +28,7 @@ it:
 # With plurals above, without plurals below.
 ############################################
   p_book_for_sale_at: "Questo libro è in vendita presso \\url{http://leanpub.com/%{slug}}"
+  p_endnotes_title: "Notes"
   p_published_on: "Questa versione è stata pubblicata il %{published_on}"
   p_title_page: "Title Page"
   w_100_pc_happiness_guarantee_html: garanzia Felicità <span class="pc">100%</span>
@@ -146,6 +147,7 @@ it:
   w_lang_ind: "Indonesian"
   w_lang_ita: "italiana"
   w_lang_jpn: "giapponese"
+  w_lang_nno: "Nynorsk"
   w_lang_nob: "Norwegian Bokmål"
   w_lang_pol: "Polish"
   w_lang_por: "portoghese"

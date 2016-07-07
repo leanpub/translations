@@ -1,11 +1,12 @@
 ###
 # Leanpub website text portions.
 # Copyright (c) 2010-2016 Ruboss Technology Corporation.
-# Norwegian Bokmål
-# 2 letter code = nb. 3 letter code = nob.
-# The Nynorsk version is in nn.yml.
+#
+# Norwegian Nynorsk
+# 2 letter code = nn. 3 letter code = nno.
+# The Bokmål version is in nb.yml.
 ###
-nb:
+nn:
   support:
     array:
       last_word_connector: " og " # Used in to_sentence
@@ -83,6 +84,7 @@ nb:
   w_coming_soon: "Kommer snart"
   w_comments: "Kommentarer"
   w_complete: "Komplett"
+  w_complete_amount: "Denne boken er %{percent_complete}% fullført"
   w_copied_embed_code: "En del av koden er kopiert til utklippstavlen; lime den inn i nettsidens HTML slik at alt er klart!"
   w_copies: "Kopier"
   w_copy_embed: "Kopier koden"
@@ -90,6 +92,7 @@ nb:
   w_credit_card_help: "Leanpub aksepter kun Visa og MasterCard. Vi lagrer ikke kredittkortopplysninger på vår server. Vi sender i stedet dette skjemaet via SSL til vår betalingstjeneste som er så trygg som PayPal."
   w_credit_card_number: "Kortnummer"
   w_debit_card_fee: "Hvis du betaler med Visa eller MasterCard kan bruke en liten avgift (ca 10 cent) til vår betalt tjeneste. Det er fordi vi har en kanadisk butikk, mens de fleste kredittkorttransaksjoner synes å være fra USA."
+  w_discuss_this_book: "Discuss this Book"
   w_discuss_this_book_with_the_author: "Diskuter denne boken med forfatteren"
   w_discuss_this_book_with_the_author_and_its_readers: "Diskuter denne boken med forfatteren og dens %{kind_of_readers}"
   w_download_sample: "Last ned en prøve PDF"
@@ -97,6 +100,7 @@ nb:
   w_drag_slider_html_tap: "Dra linjalen, eller klikk på prisen for å skrive i din egen (opp til $500)"
   w_email: "Epost"
   w_email_the_author: "E-post til Forfatteren"
+  w_email_the_authors: "Email the Author(s)"
   w_embargo: "EMBARGO!"
   w_embargo_message_1: "Journalister og bloggere: vennligst ikke publisere noe om dette før embargoen løftes!"
   w_embargo_message_2: "Vennligst ta kontakt med forfatteren for mer informasjon om når dette er."
@@ -130,6 +134,7 @@ nb:
   w_installments_completed: "avdrag fullført"
   w_interested_in_book: "Er du interessert i denne boken? Oppmuntre forfatteren ved å fylle inn navn, e-postadresse, og hvor mye du vil betale for boken når den er publisert."
   w_interested_short: "Er du interessert i denne boken? Vis din støtte ved å fortelle oss hva du vil betale for det!"
+  w_lang_afr: "Afrikaans"
   w_lang_ara: "Arabisk"
   w_lang_dut: "Nederlandsk"
   w_lang_eng: "Engelsk"
@@ -142,6 +147,7 @@ nb:
   w_lang_ind: "Indonesian"
   w_lang_ita: "Italiensk"
   w_lang_jpn: "Japansk"
+  w_lang_pol: "Polish"
   w_lang_por: "Portugisisk"
   w_lang_rum: "Rumensk"
   w_lang_rus: "Russisk"
@@ -150,9 +156,9 @@ nb:
   w_lang_srp: "Serbisk"
   w_lang_swe: "Svensk"
   w_lang_tur: "Tyrkisk"
-  w_lang_nno: "Nynorsk"
   w_lang_nob: "Norwegian Bokmål"
   w_lang_nor: "Norsk"
+  w_lang_nno: "Nynorsk"
   w_language_options: "Språkalternativer"
   w_language_options_body: "Denne boken er oversatt (eller blir oversatt) inn i følgende språk:"
   w_last_name: "Etternavn"
@@ -160,6 +166,7 @@ nb:
   w_last_updated_time: "Sist oppdatert: %{updated_at}"
   w_learn_more: "Les mer"
   w_library_note: "Bibliotek Kjøpere: Denne boken er ikke komplett ennå, og forfatteren ikke ønsker det er kjøpt av biblioteket ennå."
+  w_license: License
   w_mailchimp_interested_short: "Er du interessert i denne boken? Registrer deg for forfatterens personlige mailingliste!"
   w_matching_bundles: "Matching Leanpub Bundles"
   w_minimum: "Minst"
@@ -175,6 +182,7 @@ nb:
   w_online: "Online"
   w_or: "eller"
   w_or_click_to: "eller klikk til"
+  w_packages: "Packages"
   w_pages: "Sider"
   w_pay_by_credit_card: "Betal med kort"
   w_pay_by_credit_card_or_click_to_html: "Betal med kort <small class=\"option\">eller klikk til %{paypal}</small>"
@@ -202,7 +210,7 @@ nb:
   w_these_books_included: "Disse bøkene er tilgjengelige i pakken…"
   w_these_bundles_match: "Disse publisert pakker passer din søker."
   w_time_ago: "%{time} siden"
-  w_toc: "Innhold"
+  w_toc: "Innehållsförtecking"
   w_token_or_password: "Token eller Passord"
   w_total: "Totalt"
   w_translation: "Oversettelse"

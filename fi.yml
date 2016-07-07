@@ -28,6 +28,7 @@ fi:
 # With plurals above, without plurals below.
 ############################################
   p_book_for_sale_at: "Tämä kirja on myynnissä \\url{http://leanpub.com/%{slug}}"
+  p_endnotes_title: "Notes"
   p_leanpub_empowers_long_html: "This is a <a href=\"http://leanpub.com\">Leanpub</a> book. Leanpub empowers authors and publishers with the Lean Publishing process. <a href=\"http://leanpub.com/manifesto\">Lean Publishing</a> is the act of publishing an in-progress ebook using lightweight tools and many iterations to get reader feedback, pivot until you have the right book and build traction once you do."
   p_published_on: "Tämä versio julkaistiin %{published_on}"
   p_title_page: "Title Page"
@@ -149,6 +150,7 @@ fi:
   w_lang_ind: "Indonesian"
   w_lang_ita: "Italia"
   w_lang_jpn: "Japani"
+  w_lang_nno: "Nynorsk"
   w_lang_nob:: "Norwegian Bokmål"
   w_lang_pol: "Polish"
   w_lang_por: "Portugali"
