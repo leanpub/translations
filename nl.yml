@@ -82,7 +82,7 @@ nl:
   w_cause_gets: "Goede doel krijgt"
   w_causes_get: "Goede doelen krijgen"
   w_causes_supported: "Gesteunde Goede Doelen"
-  w_cc_me: "Copieer mij in dit bericht zodat de auteur kan antwoorden."
+  w_cc_me: "Kopieer mij in dit bericht zodat de auteur kan antwoorden."
   w_charge_card: "Betaal met creditcard"
   w_coming_soon: Binnenkort
   w_comments: "Reacties"
@@ -95,7 +95,7 @@ nl:
   w_credit_card_help: "Leanpub aanvaardt alleen Visa en Mastercard. We slaan geen credit card gegevens op onze servers op. We sturen u vanaf dit formulier via SSL veilig door naar onze payment processor, dat is net zo veilig als PayPal..."
   w_credit_card_number: "Creditcard Nummer"
   w_debit_card_fee: "Als u met een Visa of MasterCard betaalkaart, kan er een kleine vergoeding (typisch ongeveer 10 cent) afgeboekt worden door onze payment processor. Dit omdat we een Canadees bedrijf zijn, en de meeste Visa of MasterCard transacties met debitkaarten afkomstig zijn uit de VS. "
-  w_discuss_this_book: "Discuss this Book"
+  w_discuss_this_book: "Discussieer dit boek"
   w_discuss_this_book_with_the_author: Bespreek met de auteur van dit boek
   w_discuss_this_book_with_the_author_and_its_readers: Bespreek met de auteur en zijn %{kind_of_readers} dit boek
   w_download_sample: "Download een PDF-voorbeeldbestand"
@@ -181,13 +181,13 @@ nl:
   w_online: Online
   w_or: "of"
   w_or_click_to: "of klik om"
-  w_packages: "Packages"
+  w_packages: "Pakketten"
   w_pages: "Pagina's"
   w_pay_by_credit_card: "Betalen met creditcard"
   w_pay_by_credit_card_or_click_to_html: "betaal met creditcard <small class = \" optie \">or klik op %{paypal}</small>"
   w_percent_done_html: "De auteur vindt dit boek voor ongeveer <strong>%{percent_complete}%</strong> compleet!"
   w_please_wait: "Even geduld..."
-  w_publisher_earns: "Publisher earns"
+  w_publisher_earns: "Publisher verdient"
   w_purchase_hint: "U kunt nu Leanpub boeken als cadeau geven! U heeft alleen het e-mailadres van degene aan wie u het boek wilt geven nodig. De ontvanger zal in staat zal zijn om het boek als PDF, EPUB en MOBI te downloaden zonder bij Leanpub te hoeven inloggen, maar als ze zich wel registreerd kan ze ook eventuele updates ontvangen. Geef een duurzaam cadeau deze december!"
   w_purchase_is_gift: "Deze aankoop is een geschenk"
   w_read: Lees
@@ -209,7 +209,7 @@ nl:
   w_these_bundles_match: "These published Leanpub bundles match your search."
   w_time_ago: "%{time} geleden"
   w_toc: "Inhoudsopgave"
-  w_token_or_password: "Token or Password"
+  w_token_or_password: "Token of wachtwoord"
   w_total: "Totaal"
   w_translation: Vertaling
   w_translations_available: Vertalingen beschikbaar
