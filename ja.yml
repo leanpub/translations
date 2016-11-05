@@ -28,7 +28,7 @@ ja:
 # With plurals above, without plurals below.
 ############################################
   p_book_for_sale_at: "本書はこちらで販売中です \\url{http://leanpub.com/%{slug}}"
-  p_leanpub_empowers_long_html: "本書は <a href=\"http://leanpub.com\">Leanpub</a> の電子書籍です。Leanpubはリーンパブリッシングプロセスで著者や出版社を支援します。 <a href=\"http://leanpub.com/manifesto\">リーンパブリッシング</a> は新しい出版スタイルです。軽量なツールを使って執筆中の電子書籍を出版し、読者のフィードバックをもらいながら魅力的な本に仕上がるまでピボットを繰り返すことができます。"
+  p_leanpub_empowers_long_markdown: "本書は [Leanpub](http://leanpub.com) の電子書籍です。Leanpubはリーンパブリッシングプロセスで著者や出版社を支援します。 [リーンパブリッシング](http://leanpub.com/manifesto) は新しい出版スタイルです。軽量なツールを使って執筆中の電子書籍を出版し、読者のフィードバックをもらいながら魅力的な本に仕上がるまでピボットを繰り返すことができます。"
   p_published_on: "この版は %{published_on} に発行されました。"
   p_title_page: "タイトルページ"
   w_100_pc_happiness_guarantee_html: '<span class="pc">100%</span>満足保証'

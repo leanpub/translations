@@ -251,8 +251,8 @@ fr:
 #######################
   p_book_for_sale_at: "Ce livre est en vente à \\url{http://leanpub.com/%{slug}}"
   p_book_for_sale_at_html: "Ce livre est en vente à <a href=\"http://leanpub.com/%{slug}\">http://leanpub.com/%{slug}</a>"
-  p_leanpub_empowers_long_html: "Ce livre est publié par <a href=\"http://leanpub.com\">Leanpub</a> book. Leanpub permet aux auteurs et aux éditeurs de bénéficier du Lean Publishing. <a href=\"http://leanpub.com/manifesto\">Lean Publishing</a> consiste à publier à l'aide d'outils très simples de nombreuses itérations d'un livre électronique en cours de rédaction, d'obtenir des retours et commentaires des lecteurs afin d'améliorer le livre."
-  p_published_on: "Version a été publiée le %{published_on}"
+  p_leanpub_empowers_long_markdown: "Ce livre est publié par [Leanpub](http://leanpub.com). Leanpub permet aux auteurs et aux éditeurs de bénéficier du Lean Publishing. [Lean Publishing](http://leanpub.com/manifesto) consiste à publier à l'aide d'outils très simples de nombreuses itérations d'un livre électronique en cours de rédaction, d'obtenir des retours et commentaires des lecteurs afin d'améliorer le livre."
+  p_published_on: "Version publiée le %{published_on}"
   p_title_page: "Page de titre"
   p_endnotes_title: "Notes"
   p_isbn_for: "ISBN pour la version %{format_type}"

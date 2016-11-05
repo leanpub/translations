@@ -259,7 +259,7 @@ de:
 #######################
   p_book_for_sale_at: "Dieses Buch wird verkauft, unter \\url{http://leanpub.com/%{slug}}"
   p_book_for_sale_at_html: "Dieses Buch wird verkauft, unter <a href=\"http://leanpub.com/%{slug}\">http://leanpub.com/%{slug}</a>"
-  p_leanpub_empowers_long_html: "Dies ist ein <a href=\"http://leanpub.com\">Leanpub</a>-Buch. Leanpub bietet Autoren und Verlagen, mit Hilfe von Lean-Publishing, neue Möglichkeiten des Publizierens. <a href=\"http://leanpub.com/manifesto\">Lean Publishing</a> bedeutet die wiederholte Veröffentlichung neuer Beta-Versionen eines eBooks unter der Zuhilfenahme schlanker Werkzeuge. Das Feedback der Erstleser hilft dem Autor bei der Finalisierung und der anschließenden Vermarktung des Buches. Lean Publishing unterstützt den Autor darin ein Buch zu schreiben, das auch gelesen wird."
+  p_leanpub_empowers_long_markdown: "Dies ist ein [Leanpub](http://leanpub.com)-Buch. Leanpub bietet Autoren und Verlagen, mit Hilfe von Lean-Publishing, neue Möglichkeiten des Publizierens. [Lean Publishing](http://leanpub.com/manifesto) bedeutet die wiederholte Veröffentlichung neuer Beta-Versionen eines eBooks unter der Zuhilfenahme schlanker Werkzeuge. Das Feedback der Erstleser hilft dem Autor bei der Finalisierung und der anschließenden Vermarktung des Buches. Lean Publishing unterstützt den Autor darin ein Buch zu schreiben, das auch gelesen wird."
   p_published_on: "Diese Version wurde veröffentlicht am %{published_on}"
   p_title_page: "Buch-Cover"
   p_endnotes_title: "Anmerkungen"

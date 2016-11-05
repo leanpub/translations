@@ -212,7 +212,7 @@
   w_these_books_included: "Disse bøkene er tilgjengelige i pakken…"
   w_these_bundles_match: "Disse publisert pakker passer din søker."
   w_time_ago: "%{time} siden"
-  w_toc: "Innehållsförtecking"
+  w_toc: "Innhald"
   w_token_or_password: "Token eller Passord"
   w_total: "Totalt"
   w_translation: "Oversettelse"
@@ -243,7 +243,7 @@
 #######################
   p_book_for_sale_at: "Denne boken er til salgs på \\url{http://leanpub.com/%{slug}}"
   p_book_for_sale_at_html: "Denne boken er til salgs på <a href=\"http://leanpub.com/%{slug}\">http://leanpub.com/%{slug}</a>"
-  p_leanpub_empowers_long_html: "Denne er <a href=\"http://leanpub.com\">Leanpub</a> bok. Leanpub utdanner forfattere og utgivere med Lean Publisering prosessen. <a href=\"http://leanpub.com/manifesto\">Lean Publisering</a> hjelper å publisere en in-progress ebook bruker lette verktøy og mange iterasjoner for å få leseren tilbakemeldinger, pivot til du har den rette boken og bygge interesse når du gjør det."
+  p_leanpub_empowers_long_markdown: "Denne er [Leanpub](http://leanpub.com) bok. Leanpub utdanner forfattere og utgivere med Lean Publisering prosessen. [Lean Publisering](http://leanpub.com/manifesto) hjelper å publisere en in-progress ebook bruker lette verktøy og mange iterasjoner for å få leseren tilbakemeldinger, pivot til du har den rette boken og bygge interesse når du gjør det."
   p_published_on: "Denne versjonen ble publisert på %{published_on}"
   p_title_page: "Tittelside"
   p_endnotes_title: "Notes"

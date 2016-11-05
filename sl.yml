@@ -35,7 +35,7 @@ sl:
 ############################################
   p_book_for_sale_at: "Ta knjiga je naprodaj \\url{http://leanpub.com/%{slug}}"
   p_endnotes_title: "Notes"
-  p_leanpub_empowers_long_html: "This is a <a href=\"http://leanpub.com\">Leanpub</a> book. Leanpub empowers authors and publishers with the Lean Publishing process. <a href=\"http://leanpub.com/manifesto\">Lean Publishing</a> is the act of publishing an in-progress ebook using lightweight tools and many iterations to get reader feedback, pivot until you have the right book and build traction once you do."
+  p_leanpub_empowers_long_markdown: "This is a [Leanpub](http://leanpub.com) book. Leanpub empowers authors and publishers with the Lean Publishing process. [Lean Publishing](http://leanpub.com/manifesto) is the act of publishing an in-progress ebook using lightweight tools and many iterations to get reader feedback, pivot until you have the right book and build traction once you do."
   p_published_on: "Ta izdaja je bila objavljena na %{published_on}"
   p_title_page: "Title Page"
   w_100_pc_happiness_guarantee_html: <span class="pc">100%</span> jamstvo Sreča

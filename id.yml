@@ -252,7 +252,7 @@ id:
 #######################
   p_book_for_sale_at: "Buku ini dijual di \\url{http://leanpub.com/%{slug}}"
   p_book_for_sale_at_html: "Buku ini dijual di <a href=\"http://leanpub.com/%{slug}\">http://leanpub.com/%{slug}</a>"
-  p_leanpub_empowers_long_html: "Ini adalah sebuah buku <a href=\"http://leanpub.com\">Leanpub</a>. Leanpub memberdayakan penulis dan penerbit dengan proses Lean Publishing. <a href=\"http://leanpub.com/manifesto\">Lean Publishing</a> adalah model penerbitan ebook dalam-proses menggunakan piranti ringan dan sejumlah iterasi untuk memperoleh masukan dari pembaca, menerapkan pivot hingga Anda dapat mewujudkan komposisi buku yang pas dan menarik."
+  p_leanpub_empowers_long_markdown: "Ini adalah sebuah buku [Leanpub](http://leanpub.com). Leanpub memberdayakan penulis dan penerbit dengan proses Lean Publishing. [Lean Publishing](http://leanpub.com/manifesto) adalah model penerbitan ebook dalam-proses menggunakan piranti ringan dan sejumlah iterasi untuk memperoleh masukan dari pembaca, menerapkan pivot hingga Anda dapat mewujudkan komposisi buku yang pas dan menarik."
   p_published_on: "Versi ini diterbitkan pada %{published_on}"
   p_title_page: "Halaman Judul"
   p_endnotes_title: "Notes"

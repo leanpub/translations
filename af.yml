@@ -257,7 +257,7 @@ af:
 #######################
   p_book_for_sale_at: "Hierdie boek is te koop by \\url{http://leanpub.com/%{slug}}"
   p_book_for_sale_at_html: "Hierdie boek is te koop by <a href=\"http://leanpub.com/%{slug}\">http://leanpub.com/%{slug}</a>"
-  p_leanpub_empowers_long_html: "Hierdie is 'n boek van <a href=\"http://leanpub.com\">Leanpub</a>. Leanpub bemagtig outeurs en uitgewers d.m.v. die Lean Publikasieproses. <a href=\"http://leanpub.com/manifesto\">Lean Publikasies</a> is die metodiek van publisering and in-wordende e-boeke d.m.v. liggewig methodes en vele iterasies om leserterugvoer te bekom, en te spil totdat die regte boek vorendag kom en sodoende momentum te verkry."
+  p_leanpub_empowers_long_markdown: "Hierdie is 'n boek van [Leanpub](http://leanpub.com). Leanpub bemagtig outeurs en uitgewers d.m.v. die Lean Publikasieproses. [Lean Publikasies](http://leanpub.com/manifesto) is die metodiek van publisering and in-wordende e-boeke d.m.v. liggewig methodes en vele iterasies om leserterugvoer te bekom, en te spil totdat die regte boek vorendag kom en sodoende momentum te verkry."
   p_published_on: "Hierdie weergawe was vrygestel op %{published_on}"
   p_title_page: "Titelbladsy"
   p_endnotes_title: "Notes"

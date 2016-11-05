@@ -251,5 +251,5 @@ tr:
   p_also_by_multi_authors_title: "Bu Yazarlardan Ayrıca"
   p_also_by_multi_authors_item: " \\href{http://leanpub.com/u/%{username}}{%{name}} Kitapları"
   p_also_by_single_author_title: "Ayrıca \\href{http://leanpub.com/u/%{username}}{%{name}} tarafından"
-  p_leanpub_empowers_long_html: "Bu bir <a href=\"http://leanpub.com\">Leanpub</a> kitabıdır. Leanpub, yazar ve yayımcıları Lean Yayımlama sistemi ile destekleyen bir kuruluştur. <a href=\"http://leanpub.com/manifesto\">Lean Yayımlama</a>, henüz çalışma aşamasında olan bir kitabı kullanışlı yollarla destekleyerek, okuyucu geri dönüşünü sağlayan ve prosesi kolaylaştıran bir yöntemdir."
+  p_leanpub_empowers_long_markdown: "Bu bir [Leanpub](http://leanpub.com) kitabıdır. Leanpub, yazar ve yayımcıları Lean Yayımlama sistemi ile destekleyen bir kuruluştur. [Lean Yayımlama](http://leanpub.com/manifesto), henüz çalışma aşamasında olan bir kitabı kullanışlı yollarla destekleyerek, okuyucu geri dönüşünü sağlayan ve prosesi kolaylaştıran bir yöntemdir."
   p_title_page: "Başlık Sayfası"
