@@ -142,7 +142,7 @@ en:
   w_government_earns: "Guvernul câștiă (TVA)"
   w_grand_total: "Total absolut"
   w_happiness_guarantee: "Fericire garantată"
-  w_100_pc_happiness_guarantee_html: <span class="pc">100%</span> Fericire garantată
+  w_100_pc_happiness_guarantee_html: "<span class="pc">100%</span> Fericire garantată"
   w_happiness_guarantee_book_html: "Dacă cumperi o carte Leanpub <strong> primești toate actualizările gratuit!</strong> Toate cărțile sunt disponibile în formatele <strong>PDF</strong>, <strong>EPUB</strong> (for iPad) și <strong>MOBI</strong> (for Kindle). Cărție nu sunt protejate <strong> DRM</strong>. Nu există <strong>nici un risc</strong>, doar <strong>satisfacție garantată </strong> sau primești banii înapoi."
   w_happiness_guarantee_bundle_html: "Dacă cumperi acest pachet Leanpub <strong> toate actualizările cărților din pachet sunt gratuite!</strong> Toate cărțile sunt disponibile în formatele <strong>PDF</strong>, <strong>EPUB</strong> (for iPad) și <strong>MOBI</strong> (for Kindle). Cărție nu sunt protejate <strong> DRM</strong>. Nu există <strong>nici un risc</strong>, doar <strong>satisfacție garantată </strong> sau primești banii înapoi."
   w_happiness_guarantee_days_html: "În primele <strong>45 de zile de la cumpărare</strong> vei putea primi <strong>100% bani înapoi</strong> pentru orice cumpărătură Leanpub, cu numai <strong>două click-uri</strong>. Procesă returnările manual așa că va dura câteva zile până banii vor fi virați in cont. <br><a href=\"/terms#returns\">Vezi toate termenele.</a>"
@@ -158,7 +158,7 @@ en:
   w_lang_dut: "Olandeză"
   w_lang_eng: "Engleză"
   w_lang_fin: "Finlandeză"
-  w_lang_fre: "Franceză
+  w_lang_fre: "Franceză"
   w_lang_ger: "Germană"
   w_lang_hrv: "Croată"
   w_lang_hun: "Ungurește"
@@ -183,7 +183,7 @@ en:
   w_license: "Licență"
   w_mailchimp_interested_short: "Interesat(ă) de această carte? Înscrie-te pe lista de mailuri a autorului"
   w_matching_bundles: "Pachete Leanpub similare"
-  w_minimum: Minim
+  w_minimum: "Minim"
   w_minimum_price2: "Prețul minim"
   w_minimum_price: "Prețul minim:"
   w_multiple_explanation: "Poți cumpăra mai multe copii dacă vrei să distribui cartea prietenilor și colegilor de muncă. Dacă cumperi mai multe copii, barele de mai sus arată cât primește autorul și cauzele pe care le susține penru fiecare copie."
@@ -208,11 +208,11 @@ en:
   w_read: "Citește"
   w_read_online: "Citește online"
   w_reader_count: "Această carte are %{num_readers} de cititori!"
-  w_reader: Cititor
-  w_readers: Cititori
-  w_edition: Ediție
-  w_editions: Ediții
-  w_total_readers: Numărul total de cititori
+  w_reader: "Cititor"
+  w_readers: "Cititori"
+  w_edition: "Ediție"
+  w_editions: "Ediții"
+  w_total_readers: "Numărul total de cititori"
   w_reader_feedback: "Reacțiile cititorilor"
   w_recipient_email_or_username: "Emailul destinatarului sau user-ul Leanpub"
   w_retired: "Retras"
