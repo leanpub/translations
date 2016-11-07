@@ -106,7 +106,7 @@ fr:
   w_discuss_this_book: "Discuter de ce livre"
   w_discuss_this_book_with_the_author: Discuter de ce livre avec l'auteur
   w_discuss_this_book_with_the_author_and_its_readers: Discuter de ce livre avec l'auteur et sa %{kind_of_readers}
-  w_download: Télécharger
+  w_download: "Télécharger"
   w_download_sample: "Télécharger un extrait au format PDF"
   w_drag_slider_html_click: "Faites glisser le curseur ou cliquez sur le prix (jusqu'à 500$)"
   w_drag_slider_html_tap: "Faites glisser le curseur ou cliquez sur le prix (jusqu'à 500$)"
@@ -174,7 +174,7 @@ fr:
   w_last_updated_time: "Le livre a été mis à jour pour la dernière fois le %{updated_at}."
   w_learn_more: "En savoir plus"
   w_library_note: "Acheteurs de bibliothèques : ce livre est en cours d'écriture et l'auteur a demandé qu'il ne soit pas encore disponible à l'achat pour les bibliothèques."
-  w_license: Licence
+  w_license: "Licence"
   w_mailchimp_interested_short: "Interested in this book? Sign up for the author's personal mailing list!"
   w_matching_bundles: "Matching Leanpub Bundles"
   w_minimum: Minimum
