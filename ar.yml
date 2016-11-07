@@ -50,7 +50,7 @@ ar:
 ############################################
 # With plurals above, without plurals below.
 ############################################
-  w_100_pc_happiness_guarantee_html: <span class="pc">100%</span> Happiness guarantee
+  w_100_pc_happiness_guarantee_html: "<span class='pc'>100%</span> Happiness guarantee"
   w_about_author: "نبذه عن المؤلف"
   w_about_authors: "نبذه عن المؤلفين"
   w_about_book: "نبذه عن الكتاب"

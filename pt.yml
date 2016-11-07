@@ -31,7 +31,7 @@ pt:
   p_leanpub_empowers_long_markdown: "Este é um livro [Leanpub](http://leanpub.com). A Leanpub dá poderes aos autores e editores a partir do processo de Publicação Lean. [Publicação Lean](http://leanpub.com/manifesto) é a ação de publicar um ebook em desenvolvimento com ferramentas leves e muitas iterações para conseguir feedbacks dos leitores, pivotar até que você tenha o livro ideal e então conseguir tração."
   p_published_on: "Esta versão foi publicada em %{published_on}"
   p_title_page: "Folha de Rosto"
-  w_100_pc_happiness_guarantee_html: garantia Felicidade <span class="pc">100%</span>
+  w_100_pc_happiness_guarantee_html: "garantia Felicidade <span class='pc'>100%</span>"
   w_about_author: "Sobre o Autor"
   w_about_authors: "Sobre os Autores"
   w_about_book: "Sobre o Livro"

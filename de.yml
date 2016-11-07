@@ -142,7 +142,7 @@ de:
   w_government_earns: "Das Finanzamt bekommt (Umsatzsteuer)"
   w_grand_total: "Gesamt-Betrag"
   w_happiness_guarantee: "Zufriedenheits-Garantie"
-  w_100_pc_happiness_guarantee_html: "<span class="pc">100%</span> Zufriedenheits-Garantie"
+  w_100_pc_happiness_guarantee_html: "<span class='pc'>100%</span> Zufriedenheits-Garantie"
   w_happiness_guarantee_book_html: "Wenn du ein Leanpub-Buch kaufst, bekommst du <strong>alle Updates dieses Buches umsonst!</strong> Alle Bücher sind verfügbar als <strong>PDF</strong>, <strong>EPUB</strong> (für iOS) und <strong>MOBI</strong> (für Kindle). <strong>Kein DRM</strong>. <strong>Kein Risiko</strong>, nur <strong>garantierte Zufriedenheit</strong>, oder du bekommst dein Geld zurück."
   w_happiness_guarantee_bundle_html: "Wenn du ein Leanpub-Paket kaufst, bekommst du <strong>alle Updates der enthaltenen Bücher umsonst!</strong> Alle Bücher sind verfügbar als <strong>PDF</strong>, <strong>EPUB</strong> (für iOS) und <strong>MOBI</strong> (für Kindle). <strong>Kein DRM</strong>. <strong>Kein Risiko</strong>, nur <strong>garantierte Zufriedenheit</strong>, oder du bekommst dein Geld zurück."
   w_happiness_guarantee_days_html: "Innerhalb von <strong>45 Tagen ab Kauf</strong> kannst du dein Geld zu <strong>100% zurückverlangen</strong>, bei jedem Leanpub-Kauf, in nur <strong>zwei Klicks</strong>. Wir bearbeiten die Erstattungen manuell, daher dauert es ein paar Tage, bis der Betrag ankommt. <br><a href=\"/terms#returns\">Lese die kompletten Bedingungen</a>."

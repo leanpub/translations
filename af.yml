@@ -141,7 +141,7 @@ af:
   w_government_earns: "Regering kry (BTW)"
   w_grand_total: "Somtotaal"
   w_happiness_guarantee: Tevredenheidswaarborg
-  w_100_pc_happiness_guarantee_html: <span class="pc">100%</span> Tevredenheidswaarborg
+  w_100_pc_happiness_guarantee_html: "<span class='pc'>100%</span> Tevredenheidswaarborg"
   w_happiness_guarantee_book_html: "Indien u 'n Leanpubboek koop, kry u <strong>al die opdaterings vir die boek verniet!</strong> Alle boeke is beskikbaar in <strong>PDF</strong>, <strong>EPUB</strong> (vir iPad) en <strong>MOBI</strong> (vir Kindle). Daar is <strong>geen DRM< nie/strong>. Daar is <strong>geen risiko nie</strong>, net <strong>gewaarborgde tevredenheid</strong> of u geld terug."
   w_happiness_guarantee_bundle_html: "Indien u 'n Leanpubbundel koop, kry u <strong>al die opdaterings vir die boeke in die bundel verniet!</strong> Al die boeke is beskikbaar in <strong>PDF</strong>, <strong>EPUB</strong> (vir iPad) en <strong>MOBI</strong> (vir Kindle). Daar is <strong>geen DRM< nie/strong>. Daar is <strong>geen risiko nie</strong>, net <strong>gewaarborgde tevredenheid</strong> of u geld terug."
   w_happiness_guarantee_days_html: "U kan binne <strong>45 dae vanaf aankoop</strong> 'n <strong>100% terugbetaling</strong> bekom op enige Leanpubaankope, met <strong>twe klieks</strong>. Ons prosesseer terugbetalings met die hand, so hulle mag dalk 'n paar dae neem om te voorskyn te kom. <br><a href=\"/terms#returns\">See volledige terme</a>"

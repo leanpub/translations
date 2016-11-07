@@ -30,7 +30,7 @@ fr:
 ############################################
 # With plurals above, without plurals below.
 ############################################
-  w_100_pc_happiness_guarantee_html: "Satisfaction <span class=\"pc\">100%</span> garantie"
+  w_100_pc_happiness_guarantee_html: "Satisfaction <span class='pc'>100%</span> garantie"
   w_about_author: "À propos de l'auteur"
   w_about_authors: "À propos des auteurs"
   w_about_book: "À propos du livre"
@@ -95,7 +95,7 @@ fr:
   w_coming_soon: "Prochainement"
   w_comments: "Commentaires"
   w_complete: "Complet"
-  w_complete_amount: "Ce livre est complète à %{percent_complete}%"
+  w_complete_amount: "Ce livre est complet à %{percent_complete}%"
   w_copied_embed_code: "Un code d'intégration a été copié dans votre presse-papiers, il vous suffit de le coller dans le code HTML de votre site web."
   w_copies: "Copies"
   w_copy_embed: "Copier le code d’intégration"
@@ -233,7 +233,7 @@ fr:
   w_type_your_message_to_the_author: "Enter ci-dessous votre message pour l'auteur"
   w_unpublished: "Non publié"
   w_unpublished_tweet_text: "Je suis impatient de lire %{title}"
-  w_updated: Mise à jour
+  w_updated: "Mis à jour"
   w_uses_leanpub_plural: "Ces auteurs utilisent Leanpub pour publier ce livre de façon indépendante. Vous le pouvez aussi !"
   w_uses_leanpub_singular_html: "%{author} utilise Leanpub pour publier ce livre de façon indépendante. Vous le pouvez aussi !"
   w_verification_value: "CVV/CSC"

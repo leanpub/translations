@@ -38,7 +38,7 @@ ro:
   p_leanpub_empowers_long_markdown: "This is a [Leanpub](http://leanpub.com) book. Leanpub empowers authors and publishers with the Lean Publishing process. [Lean Publishing](http://leanpub.com/manifesto) is the act of publishing an in-progress ebook using lightweight tools and many iterations to get reader feedback, pivot until you have the right book and build traction once you do."
   p_published_on: "Această versiune a fost publicată pe %{published_on}"
   p_title_page: "Title Page"
-  w_100_pc_happiness_guarantee_html: "garantează fericirea <span class=\"pc\">100%</span>"
+  w_100_pc_happiness_guarantee_html: "garantează fericirea <span class='pc'>100%</span>"
   w_about_author: "Despre autor"
   w_about_authors: "Despre autori"
   w_about_book: "Despre carte"

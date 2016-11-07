@@ -29,7 +29,7 @@ hr:
 ############################################
 # With plurals above, without plurals below.
 ############################################
-  w_100_pc_happiness_guarantee_html: <span class="pc">100%</span> Happiness guarantee
+  w_100_pc_happiness_guarantee_html: "<span class='pc'>100%</span> Happiness guarantee"
   w_about_author: "O autoru"
   w_about_authors: "O autorima"
   w_about_book: "O knjizi"

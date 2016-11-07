@@ -32,7 +32,7 @@ nl:
   p_leanpub_empowers_long_markdown: "Dit is een [Leanpub](http://leanpub.com) boek. Leanpub stelt auteurs en uitgevers in staat om volgens het Lean uitgeefproces te werken. [Lean Publishing](http://leanpub.com/manifesto) is het uitgeven van een boek dat nog onderhanden is met lichtgewicht gereedschap en vele iteraties om feedback te krijgen van de lezers. Op deze manier kun je aanpassingen maken tot je het juiste boek hebt, en als je zover bent helpt het om te zorgen dat je een positie krijgt in de markt."
   p_published_on: "Deze versie is gepubliceerd op %{published_on}"
   p_title_page: "Titelblad"
-  w_100_pc_happiness_guarantee_html: <span class="pc">100%</span> Geluk garantie
+  w_100_pc_happiness_guarantee_html: "<span class='pc'>100%</span> Geluk garantie"
   w_about_author: "Over de auteur"
   w_about_authors: "Over de auteurs"
   w_about_book: "Over het boek"

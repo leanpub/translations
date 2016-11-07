@@ -29,7 +29,7 @@ nn:
 ############################################
 # With plurals above, without plurals below.
 ############################################
-  w_100_pc_happiness_guarantee_html: <span class="pc">100%</span> lykke garanti
+  w_100_pc_happiness_guarantee_html: "<span class='pc'>100%</span> lykke garanti"
   w_about_author: "Om forfatter"
   w_about_authors: "Om forfatterne"
   w_about_book: "Om bøken"

@@ -138,7 +138,7 @@ id:
   w_government_earns: "Pemerintah memperoleh (VAT)"
   w_grand_total: "Jumlah Total"
   w_happiness_guarantee: Jaminan kepuasan
-  w_100_pc_happiness_guarantee_html: Jaminan kepuasan <span class="pc">100%</span>
+  w_100_pc_happiness_guarantee_html: "Jaminan kepuasan <span class='pc'>100%</span>"
   w_happiness_guarantee_book_html: "Dengan membeli buku Leanpub, Anda akan mendapatkan <strong>seluruh pembaruan atas buku secara cuma-cuma!</strong> Semua buku tersedia dalam format <strong>PDF</strong>, <strong>EPUB</strong> (untuk iPad) dan <strong>MOBI</strong> (untuk Kindle). Semua buku <strong>bebas DRM</strong>. Semua buku <strong>bebas resiko</strong>, dengan <strong>jaminan kepuasan</strong> atau uang kembali."
   w_happiness_guarantee_bundle_html: "Dengan membeli bundel Leanpub, Anda akan mendapatkan <strong>seluruh pembaruan atas buku dalam bundel secara cuma-cuma!</strong> Semua buku tersedia dalam format <strong>PDF</strong>, <strong>EPUB</strong> (untuk iPad) dan <strong>MOBI</strong> (untuk Kindle). Semua buku <strong>bebas DRM</strong>. Semua buku <strong>bebas resiko</strong>, dengan <strong>jaminan kepuasan</strong> atau uang kembali."
   w_happiness_guarantee_days_html: "Dalam <strong>45 hari sesudah pembelian</strong> Anda bisa memperoleh <strong>100% refund</strong> atas pembelian di Leanpub dengan <strong>dua klik</strong>. Kami memproses refund secara manual, sehingga mungkin butuh beberapa hari sampai selesai. <br><a href=\"/terms#returns\">Lihat ketentuan lengkap</a>"

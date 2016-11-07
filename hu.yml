@@ -32,7 +32,7 @@ hu:
 ############################################
   p_book_for_sale_at: "Ez a könyv eladó \\url{http://leanpub.com/%{slug}}"
   p_published_on: "Ez a verzió került közzétételre %{published_on}"
-  w_100_pc_happiness_guarantee_html: <span class="pc">100%</span> Happiness garancia
+  w_100_pc_happiness_guarantee_html: "<span class='pc'>100%</span> Happiness garancia"
   w_about_author: "A szerzőről"
   w_about_authors: "A szerzőkről"
   w_about_book: "A könyvről"

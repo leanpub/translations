@@ -30,7 +30,7 @@ es:
 ############################################
 # With plurals above, without plurals below.
 ############################################
-  w_100_pc_happiness_guarantee_html: Felicidad <span class="pc">100%</span> garantizada
+  w_100_pc_happiness_guarantee_html: "Felicidad <span class='pc'>100%</span> garantizada"
   w_about_author: "Sobre el autor"
   w_about_authors: "Acerca de los autores"
   w_about_book: "Acerca de este libro"

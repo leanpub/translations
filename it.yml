@@ -31,7 +31,7 @@ it:
   p_endnotes_title: "Notes"
   p_published_on: "Questa versione è stata pubblicata il %{published_on}"
   p_title_page: "Title Page"
-  w_100_pc_happiness_guarantee_html: garanzia Felicità <span class="pc">100%</span>
+  w_100_pc_happiness_guarantee_html: "garanzia Felicità <span class='pc'>100%</span>"
   w_about_author: "Sull'autore"
   w_about_authors: "Sulgli autori"
   w_about_book: "Sul libro"

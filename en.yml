@@ -143,7 +143,7 @@ en:
   w_government_earns: "Government earns (VAT)"
   w_grand_total: "Grand Total"
   w_happiness_guarantee: "Happiness guarantee"
-  w_100_pc_happiness_guarantee_html: "<span class=\"pc\">100%</span> Happiness guarantee"
+  w_100_pc_happiness_guarantee_html: "<span class='pc'>100%</span> Happiness guarantee"
   w_happiness_guarantee_book_html: "If you buy a Leanpub book you get <strong>all the updates to the book for free!</strong> All books are available in <strong>PDF</strong>, <strong>EPUB</strong> (for iPad) and <strong>MOBI</strong> (for Kindle). There is <strong>no DRM</strong>. There is <strong>no risk</strong>, just <strong>guaranteed happiness</strong> or your money back."
   w_happiness_guarantee_bundle_html: "If you buy a Leanpub bundle you get <strong>all the updates to the books in the bundle for free!</strong> All books are available in <strong>PDF</strong>, <strong>EPUB</strong> (for iPad) and <strong>MOBI</strong> (for Kindle). There is <strong>no DRM</strong>. There is <strong>no risk</strong>, just <strong>guaranteed happiness</strong> or your money back."
   w_happiness_guarantee_days_html: "Within <strong>45 days of purchase</strong> you can get a <strong>100% refund</strong> on any Leanpub purchase, in <strong>two clicks</strong>. <br><a href=\"/terms#returns\">See full terms</a>"

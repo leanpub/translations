@@ -27,7 +27,7 @@ tr:
 ############################################
 # With plurals above, without plurals below.
 ############################################
-  w_100_pc_happiness_guarantee_html: <span class="pc">100%</span> Mutluluk garantisi
+  w_100_pc_happiness_guarantee_html: "<span class='pc'>100%</span> Mutluluk garantisi"
   w_about_author: "Yazar Hakkında"
   w_about_authors: "Yazarlar Hakkında"
   w_about_book: "Kitap Hakkında"

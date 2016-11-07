@@ -31,7 +31,7 @@ sv:
 ############################################
 # With plurals above, without plurals below.
 ############################################
-  w_100_pc_happiness_guarantee_html: <span class="pc">100%</span> lycka garanti
+  w_100_pc_happiness_guarantee_html: "<span class='pc'>100%</span> lycka garanti"
   w_about_author: "Om författaren"
   w_about_authors: "Om författarna"
   w_about_book: "Om boken"
