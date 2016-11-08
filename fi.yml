@@ -197,7 +197,8 @@ fi:
   w_reader_feedback: "Reader Feedback"
   w_readers: Lukijat
   w_recipient_email_or_username: "Vastaanottajan sähköpostiosoite"
-  w_retired: "Retired"
+  w_retired: "Eläkkeellä"
+  w_retired_message: "Tämä kirja ei ole enää myynnissä."
   w_share_book: "Jaa tämä kirja"
   w_share_email: "Jaa sähköposti?"
   w_suggested: Ehdotetut

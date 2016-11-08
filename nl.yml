@@ -197,7 +197,8 @@ nl:
   w_reader_feedback: "Reader Feedback"
   w_readers: Readers
   w_recipient_email_or_username: "E-mail Ontvanger"
-  w_retired: "Retired"
+  w_retired: "Rustend"
+  w_retired_message: "Dit boek is niet meer beschikbaar voor de verkoop."
   w_share_book: "Deel dit boek"
   w_share_email: "Delen E-mail?"
   w_suggested: Suggested

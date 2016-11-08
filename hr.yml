@@ -194,6 +194,7 @@ hr:
   w_readers: Readers
   w_recipient_email_or_username: "Email primaoca"
   w_retired: "Nije u opticaju"
+  w_retired_message: "Ova knjiga je više nije dostupan za prodaju."
   w_share_book: "Podijeli ovu knjigu"
   w_share_email: "Podijeli Email?"
   w_suggested: Suggested

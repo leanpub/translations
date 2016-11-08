@@ -207,6 +207,7 @@ id:
   w_reader_feedback: "Masukan Pembaca"
   w_recipient_email_or_username: "Email atau Username Leanpub Penerima"
   w_retired: "Diberhentikan"
+  w_retired_message: "Buku ini tidak lagi tersedia untuk dijual."
   w_return_to_book: "Kembali ke laman buku"
   w_return_to_bundle: "Kembali ke laman bundel"
   w_royalties_going_to_html: "<strong>%{royalty_percentage}%</strong> dari royalti <strong>%{author}'s</strong> langsung diberikan untuk <strong>%{cause}</strong>."

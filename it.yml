@@ -194,7 +194,8 @@ it:
   w_reader_feedback: "Reader Feedback"
   w_readers: Lettori
   w_recipient_email_or_username: "Email Destinatario"
-  w_retired: "Retired"
+  w_retired: "Ritirato"
+  w_retired_message: "Questo libro non è più disponibile per la vendita."
   w_share_book: "Condividi questo libro"
   w_share_email: "Condividi E-mail"
   w_suggested: consigliato

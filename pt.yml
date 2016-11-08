@@ -197,6 +197,7 @@ pt:
   w_readers: Leitores
   w_recipient_email_or_username: "E-mail do destinatário"
   w_retired: "Indisponível"
+  w_retired_message: "Este livro não está mais disponível para venda."
   w_share_book: "Compartilhe este livro"
   w_share_email: "Compartilhar E-mail?"
   w_suggested: Sugestão

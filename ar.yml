@@ -215,6 +215,7 @@ ar:
   w_readers: "Readers"
   w_recipient_email_or_username: "مستلم البريد الإلكترونى"
   w_retired: "مٌتقاعد"
+  w_retired_message: "هذا الكتاب لم يعد متاحا للبيع."
   w_royalties_going_to_html: "<strong>%{royalty_percentage}%</strong> of <strong>%{author}'s</strong> royalties are going directly to <strong>%{cause}</strong>."
   w_share_book: "مشاركة هذا الكتاب"
   w_share_email: "مشاركة البريد الإلكترونى؟"

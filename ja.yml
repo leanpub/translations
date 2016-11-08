@@ -196,6 +196,7 @@ ja:
   w_readers: "人の読者"
   w_recipient_email_or_username: "受信者のメールアドレス"
   w_retired: "廃版"
+  w_retired_message: "この本は、もはや販売のため利用できません。"
   w_share_book: "本書をシェアする"
   w_share_email: "メールアドレスを知らせますか？"
   w_suggested: "希望価格"

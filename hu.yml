@@ -198,6 +198,7 @@ hu:
   w_readers: olvasók
   w_recipient_email_or_username: "Címzett email címe"
   w_retired: "Visszavont"
+  w_retired_message: "Ez a könyv már nem megvásárolható."
   w_share_book: "Könyv megosztása"
   w_share_email: "Megosztás emailben"
   w_suggested: Javasolt

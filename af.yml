@@ -212,6 +212,7 @@ af:
   w_reader_feedback: "Leserterugvoer"
   w_recipient_email_or_username: "Onvanger se e-posadres of Leanpubgebruikersnaam"
   w_retired: "Afgetree"
+  w_retired_message: "Hierdie boek is nie meer beskikbaar vir verkoop."
   w_return_to_book: "Terug na boektuiste"
   w_return_to_bundle: "Terug na bundeltuiste"
   w_royalties_going_to_html: "<strong>%{royalty_percentage}%</strong> van <strong>%{author} se</strong> tantieme gaan direk na <strong>%{cause}</strong>."

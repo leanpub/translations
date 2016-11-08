@@ -197,6 +197,7 @@ he:
   w_readers: Readers
   w_recipient_email_or_username: "כתובת האימייל של המקבל"
   w_retired: "ירד מהמדפים"
+  w_retired_message: "הספר הזה הוא כבר לא זמין למכירה."
   w_share_book: "שתפו את הספר הזה"
   w_share_email: "לשתף את כתובת האימייל שלכם?"
   w_suggested: Suggested

@@ -208,6 +208,7 @@ ru:
   w_readers: Читатели
   w_recipient_email_or_username: "Адрес электронной почты получателя"
   w_retired: "Отозвана"
+  w_retired_message: "Эта книга не больше недоступна для продажи."
   w_share_book: "Поделиться информацией о книге"
   w_share_email: "Поделиться"
   w_suggested: Рекомендуемая

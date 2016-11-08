@@ -206,6 +206,7 @@ sr:
   w_readers: Readers
   w_recipient_email_or_username: "Email примаоца"
   w_retired: "Није у оптицају"
+  w_retired_message: "Ова књига више није доступан за продају."
   w_share_book: "Поделите ову књигу са другима"
   w_share_email: "Желите ли да поделите свој еmail?"
   w_suggested: Suggested

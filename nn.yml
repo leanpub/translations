@@ -199,6 +199,7 @@ nn:
   w_readers: "Leserne"
   w_recipient_email_or_username: "Mottakerens epost"
   w_retired: "Utgått"
+  w_retired_message: "Denne boken er ikke lenger tilgjengelig for salg."
   w_royalties_going_to_html: "<strong>%{royalty_percentage}%</strong> of <strong>%{author}'s</strong> royalties are going directly to <strong>%{cause}</strong>."
   w_share_book: "Del denne boken"
   w_share_email: "Del epost?"

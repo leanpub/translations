@@ -217,6 +217,7 @@ en:
   w_reader_feedback: "Reader Feedback"
   w_recipient_email_or_username: "Recipient Email or Leanpub Username"
   w_retired: "Retired"
+  w_retired_message: "This book is no longer available for sale."
   w_return_to_book: "Return to book page"
   w_return_to_bundle: "Return to bundle page"
   w_royalties_going_to_html: "<strong>%{royalty_percentage}%</strong> of <strong>%{author}'s</strong> royalties are going directly to <strong>%{cause}</strong>."

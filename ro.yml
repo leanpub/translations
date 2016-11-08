@@ -201,7 +201,8 @@ ro:
   w_reader_feedback: "Reader Feedback"
   w_readers: Cititorii
   w_recipient_email_or_username: "E-mail destinatar"
-  w_retired: "Retired"
+  w_retired: "Retras"
+  w_retired_message: "Această carte nu mai este disponibil pentru vânzare."
   w_share_book: "Împărtășește această carte"
   w_share_email: "? Email Share"
   w_suggested: Sugestii

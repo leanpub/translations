@@ -181,6 +181,7 @@ tr:
   w_reader_count: "Bu kitabın mevcut okuyucu sayısı %{num_readers} !"
   w_recipient_email: "Alıcı Eposta"
   w_retired: "Pasif"
+  w_retired_message: "Bu kitap artık satışa sunulmuştur."
   w_share_book: "Bu kitabı Paylaş"
   w_share_email: "Eposta Paylaş?"
   w_suggested_price2: "Önerilen Fiyat"

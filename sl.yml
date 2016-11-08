@@ -203,7 +203,8 @@ sl:
   w_reader_feedback: "Reader Feedback"
   w_readers: Bralci
   w_recipient_email_or_username: "Prejemnik e-pošta"
-  w_retired: "Retired"
+  w_retired: "Upokojeni"
+  w_retired_message: "Ta knjiga ni več na voljo za prodajo."
   w_share_book: "Razširite vest"
   w_share_email: "Share Email"
   w_suggested: Predlagan

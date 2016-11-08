@@ -206,7 +206,7 @@ es:
   w_readers: Lectores
   w_recipient_email_or_username: "Correo electrónico del destinatario"
   w_retired: "Retirado"
-  w_retired: "Retired"
+  w_retired_message: "Este libro ya no está disponible para la venta."
   w_share_book: "Comparta este libro"
   w_share_email: "Compartir por correo electrónico"
   w_suggested: Sugerido

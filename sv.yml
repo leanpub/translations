@@ -197,6 +197,7 @@ sv:
   w_readers: Läsare
   w_recipient_email_or_username: "Mottagarens epost"
   w_retired: "Utgått"
+  w_retired_message: "Den här boken är inte längre tillgänglig för försäljning."
   w_royalties_going_to_html: "<strong>%{royalty_percentage}%</strong> of <strong>%{author}'s</strong> royalties are going directly to <strong>%{cause}</strong>."
   w_share_book: "Dela denna bok"
   w_share_email: "Dela epost?"
