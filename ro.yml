@@ -142,7 +142,7 @@ ro:
   w_government_earns: "Guvernul câștiă (TVA)"
   w_grand_total: "Total absolut"
   w_happiness_guarantee: "Fericire garantată"
-  w_100_pc_happiness_guarantee_html: "<span class="pc">100%</span> Fericire garantată"
+  w_100_pc_happiness_guarantee_html: "<span class='pc'>100%</span> Fericire garantată"
   w_happiness_guarantee_book_html: "Dacă cumperi o carte Leanpub <strong> primești toate actualizările gratuit!</strong> Toate cărțile sunt disponibile în formatele <strong>PDF</strong>, <strong>EPUB</strong> (for iPad) și <strong>MOBI</strong> (for Kindle). Cărție nu sunt protejate <strong> DRM</strong>. Nu există <strong>nici un risc</strong>, doar <strong>satisfacție garantată </strong> sau primești banii înapoi."
   w_happiness_guarantee_bundle_html: "Dacă cumperi acest pachet Leanpub <strong> toate actualizările cărților din pachet sunt gratuite!</strong> Toate cărțile sunt disponibile în formatele <strong>PDF</strong>, <strong>EPUB</strong> (for iPad) și <strong>MOBI</strong> (for Kindle). Cărție nu sunt protejate <strong> DRM</strong>. Nu există <strong>nici un risc</strong>, doar <strong>satisfacție garantată </strong> sau primești banii înapoi."
   w_happiness_guarantee_days_html: "În primele <strong>45 de zile de la cumpărare</strong> vei putea primi <strong>100% bani înapoi</strong> pentru orice cumpărătură Leanpub, cu numai <strong>două click-uri</strong>. Procesă returnările manual așa că va dura câteva zile până banii vor fi virați in cont. <br><a href=\"/terms#returns\">Vezi toate termenele.</a>"
