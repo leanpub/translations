@@ -43,6 +43,9 @@ af:
   w_about_the_publisher: "Aangaande die uitgewers"
   w_add_bundle_to_cart: "Sit bundel in mandjie"
   w_add_ebook_to_cart: "Sit e-boek in mandjie"
+  w_add_to_wishlist: "Voeg by wens-lysie by"
+  w_remove_from_wishlist: "Verwyder van lys"
+  w_add_to_cart: "Sit in mandjie"
   w_also_by: "Ook deur"
   w_also_by_the_author: "Ook deur hierdie outeur"
   w_also_by_the_authors: "Ook deur hierdie outeurs"
@@ -98,6 +101,7 @@ af:
   w_coming_soon: Binnekort
   w_comments: "Kommentaar"
   w_complete: Voltooid
+  w_completed_on: "Voltooi op %{updated_at}"
   w_complete_amount: "Hierdie boek is %{percent_complete}% voltooi"
   w_copied_embed_code: "'n Inplaaskode is na die knipbord gekopieër; plak dit in u webwerf se HTML, en siedaar!"
   w_copies: "Kopieë"
@@ -176,7 +180,7 @@ af:
   w_language_options: "Taalkeuses"
   w_language_options_body: "Hierdie boek is ook beskikbaar vir aankoop in (of word tans vertaal na) die volgende tale :"
   w_last_name: "Van"
-  w_last_updated_time: "Laaste opdatering %{updated_at}"
+  w_last_updated_time: "Laaste opgedateer op %{updated_at}"
   w_learn_more: "Leer meer"
   w_library_note: "Biblioteekagente: Hierdie boek is in-wording en die outeur het versoek dat dit nog nie aan biblioteke beskikbaar gemaak word ter aankoop nie."
   w_license: License

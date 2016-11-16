@@ -3,10 +3,14 @@
 # Copyright (c) 2010-2016 Ruboss Technology Corporation.
 #
 # Norwegian (inclusive code)
-# This is in Nynorsk. We are fixing our language support;
-# in the meantime this is a copy-paste of the nn.yml file.
-# 2 letter code = no. 3 letter code = nor.
-# The Bokmål version is in nb.yml.
+#
+# Since we use Google Translate for translating words and phrases for which we have no
+# author-provided translation, and since Google Translate appears to use Norwegian Bokmål
+# and not Norwegian Nynorsk, Leanpub is only going to support Norwegian Bokmål in its
+# language files, and will use it regardless of whether the book is in Nynorsk or Bokmål.
+#
+# THE CONTENTS OF THIS FILE ARE COPIED AND PASTED INTO THE nb.yml AND nn.yml FILES.
+# EDIT THIS FILE, NOT THOSE ONES.
 ###
 "no":
   support:
@@ -40,7 +44,10 @@
   w_about_the_contributors: "Om bidragsytere"
   w_about_the_publisher: "Om utgiveren"
   w_add_bundle_to_cart: "Legg Bundle i handlevognen"
-  w_add_ebook_to_cart: "Legg eBok i handlevognen"
+  w_add_ebook_to_cart: "Legg e-bok i handlevognen"
+  w_add_to_cart: "Legg til i handlevogn"
+  w_add_to_wishlist: "Legg til ønskeliste"
+  w_remove_from_wishlist: "Fjern fra ønskelisten"
   w_also_by: "Også av"
   w_also_by_the_author: "Også av forfatter"
   w_also_by_the_authors: "Også av forfatterne"
@@ -86,6 +93,7 @@
   w_coming_soon: "Kommer snart"
   w_comments: "Kommentarer"
   w_complete: "Komplett"
+  w_completed_on: "Fullført på %{updated_at}"
   w_complete_amount: "Denne boken er %{percent_complete}% fullført"
   w_copied_embed_code: "En del av koden er kopiert til utklippstavlen; lime den inn i nettsidens HTML slik at alt er klart!"
   w_copies: "Kopier"
@@ -158,14 +166,13 @@
   w_lang_srp: "Serbisk"
   w_lang_swe: "Svensk"
   w_lang_tur: "Tyrkisk"
-  w_lang_nno: "Nynorsk"
+  w_lang_nno: "Norwegian Nynorsk"
   w_lang_nob: "Norwegian Bokmål"
   w_lang_nor: "Norsk"
   w_language_options: "Språkalternativer"
   w_language_options_body: "Denne boken er oversatt (eller blir oversatt) inn i følgende språk:"
   w_last_name: "Etternavn"
-  w_last_updated_time: "Denne boken ble sist oppdatert %{updated_at}."
-  w_last_updated_time: "Sist oppdatert: %{updated_at}"
+  w_last_updated_time: "Sist oppdatert %{updated_at}"
   w_learn_more: "Les mer"
   w_library_note: "Bibliotek Kjøpere: Denne boken er ikke komplett ennå, og forfatteren ikke ønsker det er kjøpt av biblioteket ennå."
   w_license: License

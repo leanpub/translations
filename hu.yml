@@ -41,7 +41,10 @@ hu:
   w_about_the_contributors: "A közreműködőkről"
   w_about_the_publisher: "A kiadóról"
   w_add_bundle_to_cart: "Add Bundle to Cart"
-  w_add_ebook_to_cart: "Add Ebook to Cart"
+  w_add_ebook_to_cart: "Tegye az e-könyv a kosárban"
+  w_add_to_cart: "Tegye a kosárban"
+  w_add_to_wishlist: "Hozzáadni a Kívánságlistához"
+  w_remove_from_wishlist: "Vegyük le a kívánságlista"
   w_also_by: "További kiadványok"
   w_also_by_the_author: "A szerző további kiadványai"
   w_also_by_the_authors: "A szerzők további kiadványai"
@@ -86,7 +89,8 @@ hu:
   w_charge_card: "Fizetés"
   w_coming_soon: Hamarosan
   w_comments: "Hozzászólások"
-  w_complete: Teljes
+  w_complete: "Teljes"
+  w_completed_on: "Elkészült %{updated_at}"
   w_complete_amount: "Ez a könyv %{percent_complete}% kész"
   w_copied_embed_code: "Az embed kódod a vágólapra került, egyszerűen illeszd be a weboldalad HTML kódjába és készen is vagy!"
   w_copies: "Példány(ok)"
@@ -161,8 +165,7 @@ hu:
   w_language_options: "Nyelvi beállítások"
   w_language_options_body: "Ez a könyv már le lett fordítva (vagy jelenleg is fordítás alatt áll) az alábbi nyelvekre:"
   w_last_name: "Vezetéknév"
-  w_last_updated_time: "A könyv utolsó frissítésének időpontja: %{updated_at}."
-  w_last_updated_time: "Utolsó frissítés: %{updated_at}"
+  w_last_updated_time: "Utolsó frissítés %{updated_at}"
   w_learn_more: "Olvass tovább"
   w_library_note: "Könyvtári beszerzők figyelmébe: Ez a könyv jelenleg írás alatt van és a szerző azt kéri, hogy könyvtárak egyenlőre ne vásárolják még meg."
   w_license: License

@@ -47,7 +47,10 @@ sl:
   w_about_the_contributors: "About the Contributors"
   w_about_the_publisher: "About the Publisher"
   w_add_bundle_to_cart: "Add Bundle to Cart"
-  w_add_ebook_to_cart: "Add Ebook to Cart"
+  w_add_ebook_to_cart: "Dodajanje e-knjigo v košarico"
+  w_add_to_cart: "Dodaj v voziček"
+  w_add_to_wishlist: "Dodaj na seznam želja"
+  w_remove_from_wishlist: "Odstrani s seznama želja"
   w_also_by: "Also by"
   w_also_by_the_author: "Tudi po avtorju"
   w_also_by_the_authors: "Tudi po avtorjih"
@@ -92,7 +95,8 @@ sl:
   w_charge_card: "Plačaj s kartico"
   w_coming_soon: Kmalu
   w_comments: "Komentarji"
-  w_complete: Complete
+  w_complete: "Complete"
+  w_completed_on: "Zaključena %{updated_at}"
   w_complete_amount: "Ta knjiga je %{percent_complete}% popolna"
   w_copied_embed_code: "je embed kodo kopiral v odložišče, ga enostavno prilepite v HTML vaše spletne strani, in ste končali!"
   w_copies: "Število izvodov"
@@ -167,8 +171,7 @@ sl:
   w_language_options: "Jezikovne možnosti"
   w_language_options_body: "Ta knjiga je bila prevedena (ali je trenutno preveden) v naslednjih jezikih:"
   w_last_name: "Priimek"
-  w_last_updated_time: "Knjiga je bila nazadnje posodobljena dne %{updated_at}."
-  w_last_updated_time: "Zadnja posodobitev: %{updated_at}"
+  w_last_updated_time: "Zadnja posodobitev %{updated_at}"
   w_learn_more: "Izvedite več"
   w_library_note: "Bibliotečni agenti: Knjiga še ni dokončana, zato je avtor poprosil, naj je knjižnice še ne kupujejo."
   w_license: License

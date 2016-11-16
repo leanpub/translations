@@ -38,7 +38,10 @@ he:
   w_about_the_contributors: "אודות המשתתפים"
   w_about_the_publisher: "אודות המוציא לאור"
   w_add_bundle_to_cart: "Add Bundle to Cart"
-  w_add_ebook_to_cart: "Add Ebook to Cart"
+  w_add_ebook_to_cart: "הוסף ספר אלקטרוני לסל"
+  w_add_to_cart: "הוסף לעגלה"
+  w_add_to_wishlist: "הוסף לרשימת המשאלות"
+  w_remove_from_wishlist: "הסר מרשימת המשאלות"
   w_also_by: "עוד מאת"
   w_also_by_the_author: "עוד מאת הסופר/ת"
   w_also_by_the_authors: "עוד מאת הסופרים"
@@ -83,7 +86,8 @@ he:
   w_charge_card: "בצע תשלום בכרטיס אשראי"
   w_coming_soon: Coming soon
   w_comments: "תגובות"
-  w_complete: Complete
+  w_complete: "לְהַשְׁלִים"
+  w_completed_on: "%{updated_at} הושלם על"
   w_complete_amount: "ספר זה הוא  %{percent_complete}% מלא"
   w_copied_embed_code: "קוד EMBED הועתק ללוח שלכם. כל שעליכם לעשות הוא להדביק אותו ל- HTML של האתר שלכם, וזהו!"
   w_copies: "עותקים"
@@ -160,8 +164,7 @@ he:
   w_language_options: "אפשרויות שפה"
   w_language_options_body: "ספר זה תורגם (או עדיין נמצא בתהליך תרגום) לשפות הבאות:"
   w_last_name: "שם משפחה"
-  w_last_updated_time: "Last updated: %{updated_at}"
-  w_last_updated_time: "ספר זה עודכן לאחרונה ב %{updated_at}."
+  w_last_updated_time: "ספר זה עודכן לאחרונה ב %{updated_at}"
   w_learn_more: "פרטים נוספים"
   w_library_note: "נציגי ספריות: ספר זה עדיין בשלבי כתיבה, והסופר/ת ביקש/ה שספריות לא ירכשו אותו עדיין."
   w_license: License

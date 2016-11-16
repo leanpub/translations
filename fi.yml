@@ -41,7 +41,10 @@ fi:
   w_about_the_contributors: "About the Contributors"
   w_about_the_publisher: "About the Publisher"
   w_add_bundle_to_cart: "Add Bundle to Cart"
-  w_add_ebook_to_cart: "Add Ebook to Cart"
+  w_add_ebook_to_cart: "Lisää e-kirja koriin"
+  w_add_to_cart: "Lisää ostoskoriin"
+  w_add_to_wishlist: "Lisää toivelistaan"
+  w_remove_from_wishlist: "Poista toivelistasta"
   w_also_by: "Also by"
   w_also_by_the_author: "Myös samalta kirjailijalta"
   w_also_by_the_authors: "Myös samoilta kirjailijoilta"
@@ -86,7 +89,8 @@ fi:
   w_charge_card: "Hyväksy maksu"
   w_coming_soon: Tulossa pian
   w_comments: "Kommentit"
-  w_complete: Complete
+  w_complete: "Täydellinen"
+  w_completed_on: "Valmistunut %{updated_at}"
   w_complete_amount: "Tämä kirja on %{percent_complete}% valmis"
   w_copied_embed_code: "Embed - koodi on kopioitu leikepöydällesi, liitä se kotisivusi HTML:ään ja olet valmis!"
   w_copies: "Kopiot"

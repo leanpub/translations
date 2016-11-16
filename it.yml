@@ -40,7 +40,10 @@ it:
   w_about_the_contributors: "Sui collaboratori"
   w_about_the_publisher: "Sull'editore"
   w_add_bundle_to_cart: "Add Bundle to Cart"
-  w_add_ebook_to_cart: "Add Ebook to cart"
+  w_add_ebook_to_cart: "Aggiungere il e-libro al carrello"
+  w_add_to_cart: "Aggiungi nel carrello"
+  w_add_to_wishlist: "Aggiungi alla lista dei desideri"
+  w_remove_from_wishlist: "Rimuovi dalla lista dei desideri"
   w_also_by: "Altri di"
   w_also_by_the_author: "Altro dell'autore"
   w_also_by_the_authors: "Altro degli autori"
@@ -85,7 +88,8 @@ it:
   w_charge_card: "Paga con la carta"
   w_coming_soon: Coming soon
   w_comments: "Commenti"
-  w_complete: Complete
+  w_complete: "Completare"
+  w_completed_on: "Completato il %{updated_at}"
   w_complete_amount: "Questo libro è completo al %{percent_complete}%"
   w_copied_embed_code: "Il codice è stato copiato negli Appunti: basta incollarlo nel codice HTML del tuo sito web, ed il gioco è fatto!"
   w_copies: "Copie"
@@ -158,8 +162,7 @@ it:
   w_language_options: "Lingua opzioni"
   w_language_options_body: "Questo libro è una traduzione in italiano di %{title}, che è stato scritto in inglese. %{title} è stato tradotto in altre 5 lingue"
   w_last_name: "Cognome"
-  w_last_updated_time: "L'ultimo aggiornamento di questo libro è del %{updated_at}."
-  w_last_updated_time: "Ultimo aggiornamento: %{updated_at}"
+  w_last_updated_time: "Ultimo aggiornamento %{updated_at}"
   w_learn_more: "Clicca per saperne di più"
   w_library_note: "Per acquirenti di biblioteche: il libro è tuttora in sviluppo , e l'autore chiede che non venga ancora acquistato dalle biblioteche"
   w_license: License

@@ -44,6 +44,9 @@ de:
   w_about_the_publisher: "Über den Verlag"
   w_add_bundle_to_cart: "Paket in den Warenkorb legen"
   w_add_ebook_to_cart: "E-Book in den Warenkorb legen"
+  w_add_to_wishlist: "Zur Wunschliste hinzufügen"
+  w_remove_from_wishlist: "Aus Wunschliste entfernen"
+  w_add_to_cart: "In den Warenkorb legen"
   w_also_by: "Ebenfalls von"
   w_also_by_the_author: "Ebenfalls von diesem Autor"
   w_also_by_the_authors: "Ebenfalls von diesen Autoren"
@@ -99,6 +102,7 @@ de:
   w_coming_soon: In Kürze
   w_comments: "Kommentare"
   w_complete: "Vollständig"
+  w_completed_on: "Abgeschlossen am %{updated_at}"
   w_complete_amount: "Dieses Buch ist %{percent_complete}% vollständig"
   w_copied_embed_code: "Ein Code zum einbetten wurde in deine Zwischenablage kopiert. Füge in einfach ins HTML deiner website ein und du bist fertig!"
   w_copies: "Kopien"

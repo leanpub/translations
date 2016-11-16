@@ -59,7 +59,10 @@ ar:
   w_about_the_contributors: "نبذه عن المساهمين"
   w_about_the_publisher: "نبذه عن الناشر"
   w_add_bundle_to_cart: "Add Bundle to Cart"
-  w_add_ebook_to_cart: "Add Ebook to Cart"
+  w_add_ebook_to_cart: "إضافة إلى العربة يبوك"
+  w_add_to_wishlist: "أضف إلى سلة"
+  w_remove_from_wishlist: "إزالة من مفضلة"
+  w_add_to_cart: "أضف إلى السلة"
   w_also_by: "أيضا بواسطة"
   w_also_by_the_author: "أيضا بواسطة المؤلف"
   w_also_by_the_authors: "أيضا بواسطة المؤلفين"
@@ -104,7 +107,8 @@ ar:
   w_charge_card: "اعد شحن البطاقة"
   w_coming_soon: Coming soon
   w_comments: "تعليقات"
-  w_complete: Complete
+  w_complete: "كامل"
+  w_completed_on: "%{updated_at} اكتمل في"
   w_complete_amount: "هذا الكتاب هو %{percent_complete}% كاملة"
   w_copied_embed_code: "تم نسخ الكود فى الذاكره المؤقته, ببساطه قم بلصقه فى أى صفحة إتش تى إم إل خاصه بموقعك"
   w_copies: "نُسخ"
@@ -179,7 +183,7 @@ ar:
   w_language_options: "خيارات اللغة"
   w_language_options_body: "هذا الكتاب تٌرجم (أو يٌجرى ترجمته) الى اللغات التاليه:"
   w_last_name: "الإسم الأخير"
-  w_last_updated_time: "أخر تحديث لهذا الكتاب كان فى %{updated_at}."
+  w_last_updated_time: "أخر تحديث لهذا الكتاب كان فى %{updated_at}"
   w_learn_more: "معرفة المزيد"
   w_library_note: "وكلاء الشراء للمكتبات : هذا الكتاب قيد التنفيذ, و المؤلف قد طلب أنه لا يمكن شراؤه من قِبل المكتبات حتى الآن."
   w_license: License

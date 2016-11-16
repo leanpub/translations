@@ -86,7 +86,8 @@ nl:
   w_charge_card: "Betaal met creditcard"
   w_coming_soon: Binnenkort
   w_comments: "Reacties"
-  w_complete: Compleet
+  w_complete: "Compleet"
+  w_completed_on: "Voltooid op %{updated_at}"
   w_complete_amount: "Dit boek is %{percent_complete}% compleet"
   w_copied_embed_code: "Een embed code is gekopieerd naar uw klembord, plak deze simpelweg in de HTML van uw website, en u bent klaar!"
   w_copies: "Exemplaren"
@@ -161,8 +162,7 @@ nl:
   w_language_options: "Taal-opties"
   w_language_options_body: "Dit boek is vertaald (of wordt momenteel vertaald) naar de volgende talen:"
   w_last_name: "Achternaam"
-  w_last_updated_time: "De laatste wijziging aan dit boek was op %{updated_at}."
-  w_last_updated_time: "Laatst bijgewerkt: %{updated_at}"
+  w_last_updated_time: "Laatst bijgewerkt %{updated_at}"
   w_learn_more: "Leer meer"
   w_library_note: "Bibliotheekaankopers: dit boek is in uitvoering en kan op verzoek van de auteur nog niet door bibliotheken gekocht worden."
   w_license: License

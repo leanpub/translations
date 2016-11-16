@@ -38,7 +38,10 @@ hr:
   w_about_the_contributors: "O saradnicima"
   w_about_the_publisher: "O izdavaču"
   w_add_bundle_to_cart: "Add Bundle to Cart"
-  w_add_ebook_to_cart: "Add Ebook to Cart"
+  w_add_ebook_to_cart: "Dodaj e-knjiga u košaricu"
+  w_add_to_cart: "Dodaj u košaricu"
+  w_add_to_wishlist: "Dodaj na listu želja"
+  w_remove_from_wishlist: "Ukloni s popisa želja"
   w_also_by: "Također od"
   w_also_by_the_author: "Od istog autora"
   w_also_by_the_authors: "Od istih autora"
@@ -83,7 +86,8 @@ hr:
   w_charge_card: "Naplati sa kartice"
   w_coming_soon: Coming soon
   w_comments: "Komentari"
-  w_complete: Complete
+  w_complete: "Kompletan"
+  w_completed_on: "Dovršeno %{updated_at}"
   w_complete_amount: "Ova knjiga je %{percent_complete}% potpuna"
   w_copied_embed_code: "Ugrađeni KOD je kopiran na Vaš clipboard; samo ga zalijepite na  HTML Vaše web strane, i to je to!"
   w_copies: "količina"
@@ -157,8 +161,7 @@ hr:
   w_language_options: "Jezičke opcije"
   w_language_options_body: "Ova knjiga je prevedana (ili se trenutno prevodi) na sljedeće jezike:"
   w_last_name: "Prezime"
-  w_last_updated_time: "Last updated: %{updated_at}"
-  w_last_updated_time: "Ova knjiga je poslednji put ažurirana %{updated_at}."
+  w_last_updated_time: "Ova knjiga je poslednji put ažurirana %{updated_at}"
   w_learn_more: "Saznajte više"
   w_library_note: "Agentima nabavke za knjižnice: Ova knjiga je u procesu pisanja, i autor je zatražio da knjižnice još uvek ne kupuju knjigu."
   w_license: License
