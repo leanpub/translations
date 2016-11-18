@@ -20,7 +20,7 @@ fr:
     other: "langues"
   w_other_books_by_this_author:
     one: "Autres livres de cet auteur"
-    other: «Autres livres de ces auteurs"
+    other: "Autres livres de ces auteurs"
   w_other_language:
     one: "autre langue"
     other: "autres langues"
@@ -38,8 +38,8 @@ fr:
   w_about_editors: "À propos des editeurs"
   w_about_the_contributors: "À propos des contributeurs"
   w_about_the_publisher: "À propos de l'éditeur"
-  w_add_bundle_to_cart: "Add Bundle to Cart"
-  w_add_ebook_to_cart: "Ajouter Ebook au Panier"
+  w_add_bundle_to_cart: "Ajouter ce lot au panier"
+  w_add_ebook_to_cart: "Ajout ce livre électronique au panier"
   w_add_to_cart: "Ajouter au Panier"
   w_add_to_wishlist: "Ajouter à la liste de souhaits"
   w_remove_from_wishlist: "Supprimer de la liste de souhaits"
@@ -54,14 +54,14 @@ fr:
   w_book_dialect: "Dialecte"
   w_book_formats: "En achetant ce livre, vous pourrez le recevoir aux formats PDF, EPUB ou MOBI de façon à pouvoir le lire sur votre ordinateur, votre iPad, votre Kindle ou tout autre liseuse."
   w_book_freshness_timestamp:
-    lt_1_minute: Juste maintenant!
-    lt_2_minutes: Une minute
+    lt_1_minute: "Juste maintenant!"
+    lt_2_minutes: "Une minute"
     lt_45_minutes: "%{minutes} minutes"
-    lt_90_minutes: ~1 heur
+    lt_90_minutes: "~1 heure"
     lt_24_hours: "%{hours} heurs"
-    lt_48_hours: Hier
+    lt_48_hours: "Hier"
     lt_30_days: "%{days} jours"
-    lt_60_days: Le mois dernier
+    lt_60_days: "Le mois dernier"
     lt_1_year: "%{months} mois"
   w_book_is_done_html: "L'auteur considère ce livre <strong>fini</strong>!"
   w_book_is_translation_html: "Ce livre est une traduction en %{lang} de %{orig_book}, qui a été écrit en %{written_in}."
@@ -73,7 +73,7 @@ fr:
   w_bundle_about_bundle: "À propos du lot"
   w_bundle_buy_now: "Acheter maintenant le lot !"
   w_bundle_description: "À propos du lot"
-  w_bundle_price: "Bundle Price"
+  w_bundle_price: "Prix du lot"
   w_bundle_royalty_max: "You may not allocate more than 100% royalties"
   w_bundle_separate_price_html: "Vendu séparément, ces livres ont un prix minimum de <strong>%{minimum}</strong> et un prix suggéré de <strong>%{suggested}</strong>..."
   w_bundle_share: "Partagez ce lot :"
@@ -108,8 +108,8 @@ fr:
   w_credit_card_number: "Card Number"
   w_debit_card_fee: "Avec certaines cartes Visa ou MasterCard de débit, il peut y avoir un petit supplément (généralement environ 10 cents) qui est facturé par notre prestataire de paiement Cette parce que nous sommes domiciliés au Canada et que la plupart des transactions par cartes Visa ou MasterCard proviennent d'autres pays."
   w_discuss_this_book: "Discuter de ce livre"
-  w_discuss_this_book_with_the_author: Discuter de ce livre avec l'auteur
-  w_discuss_this_book_with_the_author_and_its_readers: Discuter de ce livre avec l'auteur et sa %{kind_of_readers}
+  w_discuss_this_book_with_the_author: "Discuter de ce livre avec l'auteur"
+  w_discuss_this_book_with_the_author_and_its_readers: "Discuter de ce livre avec l'auteur et sa %{kind_of_readers}"
   w_download: "Télécharger"
   w_download_sample: "Télécharger un extrait au format PDF"
   w_drag_slider_html_click: "Faites glisser le curseur ou cliquez sur le prix (jusqu'à 500$)"
@@ -120,17 +120,17 @@ fr:
   w_embargo: "EMBARGO !"
   w_embargo_message_1: "Merci aux journalistes et blogueurs de rien publier au sujet de ce livre avant que l'embargo soit levé."
   w_embargo_message_2: "Merci de contacter l'auteur pour plus d'informations sur la date de levée."
-  w_embed_code_copy_instructions: Cliquer sur (Control/⌘)-C pour copier ce code dans votre presse-papiers
+  w_embed_code_copy_instructions: "Cliquer sur (Control/⌘)-C pour copier ce code dans votre presse-papiers"
   w_expiry_date: "Date d'expiration"
   w_fanfic_always_free: "Les fan fictions sont toujours gratuites sur Leanpub."
   w_fanfic_of: "Ce livre est une fan fiction basé sur %{work} par %{author}."
   w_feedback: "Commentaires"
   w_feedback_blurb_html: "Merci de poster ci-dessous vos commentaires et suggestions sur le livre. Qu'il s'agisse de fautes de frappes ou de retours sur le fond, vos commentaires permettront à %{authors} d'encore plus améliorer le livre pour l'ensemble de lecteurs."
   w_first_name: "Prénom"
-  w_country_code: "Residing Country"
-  w_free_to: Gratuit pour
+  w_country_code: "Pays de résidence"
+  w_free_to: "Gratuit pour"
   w_formats_included: "Formats Included"
-  w_free_sample: Échantillon gratuit
+  w_free_sample: "Échantillon gratuit"
   w_free_updates: "En achetant le livre, vous recevrez gratuitement toutes les mises à jour du livre."
   w_get_it_for_free: "Obtenir gratuitement"
   w_get_it_for_free: "Obtenir gratuitement"
@@ -140,7 +140,7 @@ fr:
   w_gift_note_hint: "Vous pouvez saisir une commentaire à envoyer avec votre don ou laisser ce champ vide si vous le souhaitez."
   w_give_as_a_gift: "Faire un cadeau !"
   w_grand_total: "Total général"
-  w_happiness_guarantee: satisfaction garantie
+  w_happiness_guarantee: "satisfaction garantie"
   w_happiness_guarantee_book_html: "Après l'achat d'un livre Leanpub, vous obtiendrez <strong>gratuitement toutes les mises à jour de l'ouvrage</strong>. Tous les livres sont disponibles aux formats <strong>PDF</strong>, <strong>EPUB</strong> (pour l'iPad) et <strong>MOBI</strong> (pour Kindle). Il sont strictement <strong>sans DRM et verrous numériques</strong>. <strong>Un achat chez Leanpub est sans aucun risque,</strong>, vous êtes soit satisfait, soit intégralement remboursé."
   w_happiness_guarantee_bundle_html: "Après l'achat d'un lot Leanpub, vous obtiendrez <strong>gratuitement toutes les mises à jour des livres.</strong> Tous les livres sont disponibles aux formats <strong>PDF</strong>, <strong>EPUB</strong> (pour l'iPad) et <strong>MOBI</strong> (pour Kindle). Il sont strictement <strong>sans DRM et verrous numériques</strong>. <strong>Un achat chez Leanpub est sans aucun risque,</strong>, vous êtes soit satisfait, soit intégralement remboursé."
   w_happiness_guarantee_days_html: "<strong>Durant les 45 jours suivant l'achat</strong>, vous pouvez obtenir un remboursement <strong>à 100%</strong> de la part de Leanpub, <strong>en moins de deux clics</strong>. Nous traitons les remboursements manuellement, un délai de quelques jours est nécessaire. Voir <a href=\"/terms#returns\">nos conditions générales</a>."
@@ -148,7 +148,7 @@ fr:
   w_if_buy_ebook: "En achetant ce livre, vous l'obtiendrez aux formats :"
   w_if_no_visa_mastercard: "Si votre carte de crédit n'est pas une carte Visa ou une Mastercard, vous pouvez toujours acheter ce livre en utilisant PayPal. Il suffit de cliquer sur le bouton jaune ci-dessus."
   w_installment_count: "Ce livre fait partie d'une série. %{installments_completed} tomes sur %{installments_planned} sont actuellement disponibles."
-  w_installments_completed: Tomes terminés
+  w_installments_completed: "Tomes terminés"
   w_interested_in_book: "Ce livre vous interesse ? Encouragez l'auteur en indiquant votre nom, votre adresse électronique et combien vous seriez prêt à payer pour le livre quand il sera publié."
   w_interested_short: "Ce livre vous interesse ? Encouragez l'auteur en lui indiquant le prix que vous êtes prêts à payer !"
   w_lang_afr: "Afrikaans"
@@ -181,17 +181,17 @@ fr:
   w_license: "Licence"
   w_mailchimp_interested_short: "Interested in this book? Sign up for the author's personal mailing list!"
   w_matching_bundles: "Matching Leanpub Bundles"
-  w_minimum: Minimum
+  w_minimum: "Minimum"
   w_minimum_price2: "Prix minimum"
   w_minimum_price: "Prix minimum"
   w_multiple_explanation: "Vous pouvez acheter plusieurs copies d'un livre et les partager avec des amis ou des collègues de travail. Si vous achetez plusieurs copies, les curseurs ci-dessus montrent ce que vous payez et ce que l'auteur gagne pour chaque copie."
   w_name: "Nom"
   w_set_price_html: "Donnez votre prix (en US Dollars)"
-  w_name_your_price: Donnez votre prix
+  w_name_your_price: "Donnez votre prix"
   w_notify_when: "Me prévenir quand le livre sera publié"
   w_number: "Numéro"
   w_number_of_copies_purchased: "Nombre de copies achetées"
-  w_online: En ligne
+  w_online: "En ligne"
   w_or: "ou"
   w_or_click_to: "ou cliquez dessus pour"
   w_packages: "Packages"
@@ -204,32 +204,32 @@ fr:
   w_publisher_earns: "L'éditeur gagne"
   w_purchase_hint: "Vous pouvez maintenant offrir des livres Leanpub comme cadeau. Il vous suffit de fournir l'adresse e-mail du destinataire du cadeau. Il pourra télécharger le livreaux formats PDF, EPUB et MOBI sans inscription sur Leanpub. Ils pourront aussi recevoir les mises à jour gratuitement."
   w_purchase_is_gift: "Cet achat est un cadeau"
-  w_read: Lire
-  w_read_less: Voir moins
-  w_read_more: Voir plus
-  w_read_online: Lecture en ligne
-  w_reader: Lecteur
+  w_read: "Lire"
+  w_read_less: "Voir moins"
+  w_read_more: "Voir plus"
+  w_read_online: "Lecture en ligne"
+  w_reader: "Lecteur"
   w_reader_count: "Ce livre a  %{num_readers} lecteurs!"
   w_reader_feedback: "Commentaires"
-  w_readers: lecteurs
+  w_readers: "lecteurs"
   w_recipient_email_or_username: "Email du destinataire"
   w_retired: "Retiré"
   w_retired_message: "Ce livre n'est plus disponible à la vente."
   w_share_book: "Partager ce livre"
   w_share_email: "Partager le mail"
-  w_suggested: suggérée
+  w_suggested: "suggérée"
   w_suggested_price2: "Prix conseillé"
   w_suggested_price: "Prix conseillé:"
-  w_teaser_text: texte du teaser
-  w_teaser_text_hint: 1à 3 phrases pour résumer votre livre et attirer vos lecteurs potentiels.
+  w_teaser_text: "texte du teaser"
+  w_teaser_text_hint: "1 à 3 phrases pour résumer votre livre et attirer vos lecteurs potentiels."
   w_these_books_included: "Ces livres sont inclus dans ce lot ..."
-  w_these_bundles_match: "These published Leanpub bundles match your search."
-  w_time_ago: Il ya %{time}
+  w_these_bundles_match: "Ces lots publiés par Leanpub correspondent à votre recherche."
+  w_time_ago: "Il ya %{time}"
   w_toc: "Table des matières"
   w_token_or_password: "Jeton or mot de passe"
   w_total: "Total"
-  w_translation: Traduction
-  w_translations_available: Traductions disponibles
+  w_translation: "Traduction"
+  w_translations_available: "Traductions disponibles"
   w_tweet_just_bought_bundle_text: "Je viens d'acheter le lot %{title}"
   w_tweet_just_bought_text: "Je viens d'acheter %{title}"
   w_tweet_text: "Lire %{title}"
