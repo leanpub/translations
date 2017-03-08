@@ -96,6 +96,7 @@ pt:
   w_fanfic_of: "Este é um livro de ficção de fãs baseado no %{work} de %{author}."
   w_feedback: "Feedback"
   w_feedback_blurb_html: "Sinta-se à vontade para deixar abaixo seus comentários sobre o livro! Desde identificar erros a escrever resenhas, seu feedback pode ajudar %{authors} a aprimorar esse livro para você e para os demais leitores."
+  w_free: "Free!"
   w_free_sample: "Amostra Grátis"
   w_free_to: "Grátis"
   w_get_my_free_book: "Receber Meu Livro Grátis"

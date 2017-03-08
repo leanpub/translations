@@ -96,6 +96,7 @@ hu:
   w_fanfic_of: "Ez a könyv egy fan fiction kiadvány, amely a(z) %{work} könyvön alapul és %{author} írta."
   w_feedback: "Feedback"
   w_feedback_blurb_html: "Please feel free to post your comments about this book below! From identifying typos to writing reviews, your feedback can help %{authors} improve this book for you and your fellow readers."
+  w_free: "Free!"
   w_free_sample: Ingyenes minta
   w_free_to: Ingyenesen
   w_get_my_free_book: "Kérem az ingyenes könyvem!"
