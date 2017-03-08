@@ -97,6 +97,7 @@ sv:
   w_fanfic_of: "Denna bok är fan fiction baserad på %{work} av %{author}."
   w_feedback: "Feedback"
   w_feedback_blurb_html: "Please feel free to post your comments about this book below! From identifying typos to writing reviews, your feedback can help %{authors} improve this book for you and your fellow readers."
+  w_free: "Free!"
   w_free_sample: Gratis exemplar
   w_free_to: Gratis att
   w_get_my_free_book: "Få din gratis ebok!"

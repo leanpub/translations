@@ -96,6 +96,7 @@ nl:
   w_fanfic_of: "Dit boek is fanfiction gebaseerd op %{work} van %{author}."
   w_feedback: "Feedback"
   w_feedback_blurb_html: "Please feel free to post your comments about this book below! From identifying typos to writing reviews, your feedback can help %{authors} improve this book for you and your fellow readers."
+  w_free: "Free!"
   w_free_sample: Gratis sample
   w_free_to: Gratis naar
   w_get_my_free_book: "Ontvang gratis mijn boek"

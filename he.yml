@@ -97,6 +97,7 @@ he:
   w_fanfic_of: "This book is fan fiction based on %{work} by %{author}."
   w_feedback: "Feedback"
   w_feedback_blurb_html: "Please feel free to post your comments about this book below! From identifying typos to writing reviews, your feedback can help %{authors} improve this book for you and your fellow readers."
+  w_free: "Free!"
   w_free_sample: Free sample
   w_free_to: Free to
   w_get_my_free_book: "שלחו לי את הספר שלי בחינם!"

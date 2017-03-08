@@ -96,6 +96,7 @@ ja:
   w_fanfic_of: "本書は %{author} 著 %{work} の二次創作物です。"
   w_feedback: "フィードバック"
   w_feedback_blurb_html: "本書に関するコメントがあれば、お気軽に投稿してください。誤字脱字の指摘から本書の感想まで、あなたからのフィードバックであれば何でも本書の改善に役立ちます。 %{authors}や他の読者のためにもぜひお願いします。"
+  w_free: "Free!"
   w_free_sample: "サンプル"
   w_free_to: "次の方は無料です"
   w_get_my_free_book: "無料で本書をダウンロードできます"
