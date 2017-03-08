@@ -96,6 +96,7 @@ de:
   w_fanfic_of: "Dieses Buch ist Fan-Fiction, basierend auf %{work} von %{author}."
   w_feedback: "Feedback"
   w_feedback_blurb_html: "Bitte hinterlasse weiter unten deine Kommentare zu diesem Buch! Von Hinweisen auf Rechtschreibfehler bis hin zu kompletten Rezensionen, dein Feedback hilft %{authors}, das Buch für dich und die anderen Leser zu verbessern."
+  w_free: "Free!"
   w_free_sample: "Leseprobe"
   w_free_to: "Kostenfrei"
   w_get_my_free_book: "Hol dir dein kostenloses Exemplar!"
@@ -144,9 +145,9 @@ de:
   w_pages: "Seiten"
   w_please_wait: "Bitte warten…"
   w_read: "Lesen"
-  w_read_more: "Read More"
-  w_read_less: "Read Less"
-  w_read_online: "Online Lesen"
+  w_read_more: "Mehr lesen"
+  w_read_less: "Weniger lesen"
+  w_read_online: "Online lesen"
   w_reader: "Leser"
   w_readers: "Leser"
   w_reader_feedback: "Leser-Feedback"
@@ -154,11 +155,11 @@ de:
   w_retired_message: "Dieses Buch ist nicht mehr erhältlich."
   w_royalties_going_to_html: "<strong>%{royalty_percentage}%</strong> von <strong>%{author}'s</strong> Einnahmen gehen direkt an <strong>%{cause}</strong>."
   w_share_book: "Teile dieses Buch"
-  w_shipping_confirmation: "shipping confirmation"
+  w_shipping_confirmation: "Versand-Bestätigung"
   w_suggested: "Empfohlen"
   w_suggested_price: "Empfohlener Preis:"
   w_toc: "Inhaltsverzeichnis"
-  w_token_or_password: "Login oder Passwort"
+  w_token_or_password: "Login Token oder Passwort"
   w_total: "Gesamt"
   w_translation: "Übersetzung"
   w_tweet_text: "Lese jetzt %{title}"
@@ -169,8 +170,8 @@ de:
   w_view_bundle: "Paket ansehen"
   w_words: "Wörter"
   w_you_pay: "Du bezahlst"
-  w_your_order_sent_to: "Your order will be sent to:"
-  w_your_shipping_address_review: "Your book will be shipped as soon as it rolls off the press. Please review the shipping address below:"
+  w_your_order_sent_to: "Deine Bestellung wird versendet an:"
+  w_your_shipping_address_review: "Dein Buch wird versendet werden sobald es beendet wurde. Bitte prüfe unten deine Versand-Adresse:"
 
 #######################
 # Fields for books
@@ -196,7 +197,7 @@ de:
 #######################
   views:
     pagination:
-      first: "First"
-      previous: "Previous"
-      next: "Next"
-      last: "Last"
+      first: "Erste"
+      previous: "Vorherige"
+      next: "Nächste"
+      last: "Letzte"
