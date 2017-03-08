@@ -99,7 +99,7 @@ it:
   w_copied_embed_code: "Il codice è stato copiato negli Appunti: basta incollarlo nel codice HTML del tuo sito web, ed il gioco è fatto!"
   w_copy_embed: "Copia codice embed"
   w_coupon_price: "Coupon price"
-  w_discuss_this_book: "Discuss this Book"
+  w_discuss_this_book: "Discuti questo Libro"
   w_download_sample: "Scarica un PDF di esempio"
   w_email: "Email"
   w_email_the_author: "Invia una mail all'autore"
@@ -108,7 +108,7 @@ it:
   w_embargo_message_1: "Journalists and bloggers: please do not publish anything about this until the embargo is lifted!"
   w_embargo_message_2: "Please contact the author for more information about when this is."
   w_embed_code_copy_instructions: Comunicato (Control/⌘)-C per copiare il codice negli Appunti
-  w_fanfic_always_free: "I libri di Fan fiction sono sempre e solo gratuiti su Leanpub."
+  w_fanfic_always_free: "I libri di Fan fiction sono sempre gratuiti su Leanpub."
   w_fanfic_of: "Questo libro è una fan fiction basata su %{work} di %{author}."
   w_feedback: "Feedback"
   w_feedback_blurb_html: "Please feel free to post your comments about this book below! From identifying typos to writing reviews, your feedback can help %{authors} improve this book for you and your fellow readers."
