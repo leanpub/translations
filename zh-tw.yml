@@ -1,0 +1,256 @@
+###
+# Leanpub Text Version 1.0, effective 2012-09-13. Copyright (c) 2010-2012 Ruboss Technology Corporation.
+#
+# English
+# 2 letter code = zh. 3 letter code = zht.
+###
+zh:
+  support:
+    array:
+      last_word_connector: " and " # Used in to_sentence
+  w_author_earns:
+    one: "作者收入"
+    other: "作者收入"
+  w_lang_srp: "Serbian"
+  w_lang_swe: "Swedish"
+  w_lang_tur: "Turkish"
+  w_language:
+    one: "language"
+    other: "languages"
+  w_other_books_by_this_author:
+    one: "此作者的其他著作"
+    other: "這些作者的其他著作"
+  w_other_language:
+    one: "other language"
+    other: "other languages"
+  w_share_email_with_author:
+    one: "也跟這位作者分享你的 email 地址。"
+    other: "也跟這些作者分享你的 email 地址。"
+############################################
+# With plurals above, without plurals below.
+############################################
+  w_about_author: "關於作者"
+  w_about_authors: "關於作者"
+  w_about_book: "關於本書"
+  w_about_editor: "關於編輯"
+  w_about_editors: "關於編輯"
+  w_about_leanpub_bookstore_html: "Leanpub 有大量進行中和已完成的書籍可供瀏覽、選購、與閱讀."
+  w_about_leanpub_html: "這本書的特價優惠至 %{home_anchor} 截止"
+  w_about_leanpub_write_html: "Leanpub 沒有對作者與出版社收取額外費用. 我們付給作者或出版社每一筆交易金額的 90% 再扣掉 50 美分。"
+  w_about_leanpub_slogan: "作者和出版社透過 Leanpub 來出版像這本書to publish amazing in-progress and completed books like this one."
+  w_about_the_contributors: "關於貢獻者"
+  w_about_the_publisher: "關於出版社"
+  w_also_by: "Also by"
+  w_also_by_the_author: "此作者的其他著作"
+  w_also_by_the_authors: "作者的其他著作"
+  w_also_by_the_editor: "Also by the Editor"
+  w_also_by_the_editors: "Also by the Editors"
+  w_and_min_price: "最低價格是"
+  w_author_letting_bundle: "作者讓你自行決定要付多少錢來購買這組商品!  建議售價是"
+  w_author_letting_you_set_price_html: "作者讓你自行決定要付多少錢來購買這本書! 建議售價是 <strong>%{suggested}</strong>, 最低售價 is %{minimum}."
+  w_book_dialect: "語言:"
+  w_book_formats: "買了這本書之後, 你可以取得 PDF、EPUB、和 MOBI 格式的電子書, 這樣你就可以使用電腦、iPad、Kindle、或其他電子書閱讀器上看書了!"
+  w_book_is_done_html: "作者認為這本書已經<strong>寫完了</strong>!"
+  w_book_is_translation_html: "This book is a translation into %{lang} of %{orig_book}, which was originally written in %{written_in}."
+  w_book_language: "語言:"
+  w_book_num_translations_html: "<em>%{orig_book}</em> has been translated into %{num_translations} %{other_langs}."
+  w_book_published_on_leanpub_by: "本書由 Leanpub 出版，作者："
+  w_book_freshness_timestamp:
+    lt_1_minute: 剛才!
+    lt_2_minutes: 一分鐘以前
+    lt_45_minutes: "%{minutes} 分鐘以前"
+    lt_90_minutes: ～一小時以前
+    lt_24_hours: "%{hours} 小時以前"
+    lt_48_hours: 昨天
+    lt_30_days: "%{days} 天以前"
+    lt_60_days: 上個月
+    lt_1_year: "%{months} 個月以前"
+  w_books_included: "包含的書籍"
+  w_bundle_about_books: "關於這些書"
+  w_bundle_about_bundle: "關於此同捆包"
+  w_bundle_buy_now: "現在就買這個同捆包!"
+  w_bundle_description: "關於此同捆包"
+  w_bundle_separate_price_html: "Sold separately, these books have a minimum price of <strong>%{minimum}</strong> and a suggested price of <strong>%{suggested}</strong>…"
+  w_bundle_share: "Share this bundle:"
+  w_bundle_suggested_price_html: "The suggested bundle price is <strong>%{suggested}</strong>, and the minimum bundle price is…"
+  w_bundles_available: "有同捆包"
+  w_bundles_included: "這本書也包含在這些同捆包裡:"
+  w_buy_a_bundle_and_save: Buy a bundle and save
+  w_buy_as_a_gift: "Buy as a Gift!"
+  w_buy_ebook: "購買電子書"
+  w_buy_for: "I'd buy it for…"
+  w_buy_now: "現在就買!"
+  w_buy_now_terse: "現在就買"
+  w_buying: "Buying %{book}"
+  w_buying_bundle: "Buying %{bundle}"
+  w_by: "by"
+  w_by_author: " by %{author_string}"
+  w_cause_gets: "Cause gets"
+  w_causes_get: "Causes get"
+  w_causes_supported: "Causes Supported"
+  w_cc_me: "Cc me on the email so the author can reply."
+  w_charge_card: "Charge Card"
+  w_coming_soon: 即將推出
+  w_comments: "評論"
+  w_complete: 完成
+  w_copied_embed_code: "An embed code has been copied to your clipboard; simply paste it into your website's HTML, and you're done!"
+  w_copies: "Copies"
+  w_copy_embed: "Copy embed code"
+  w_coupon_code: "優惠券代碼"
+  w_coupon_price: "優惠券金額"
+  w_credit_card_help: "Leanpub 只接受 Visa 與 MasterCard。我們絕對不會在伺服器上保存您的信用卡資料。我們會將這些資料透過 SSL 加密機制傳送至付款機構，就跟 PayPal 一樣安全。"
+  w_credit_card_number: "信用卡號"
+  w_debit_card_fee: "If you use a Visa or MasterCard debit card, there may be a small fee (typically about 10 cents) which is charged by our payment processor. This is because we are a Canadian merchant, and most Visa or MasterCard debit card transactions we have seen are from the US."
+  w_discuss_this_book_with_the_author: 與作者討論這本書
+  w_discuss_this_book_with_the_author_and_its_readers: "與作者和%{kind_of_readers}一起討論這本書"
+  w_download: 下載
+  w_download_sample: "PDF 樣章"
+  w_drag_slider_html_click: "拖曳滑動杆, 或點一下價格來輸入任意金額 (最多 $500)"
+  w_drag_slider_html_tap: "拖曳滑動杆, 或點一下價格來輸入任意金額 (最多 $500)"
+  w_email: "電子郵件"
+  w_email_the_author: "寫信給作者"
+  w_embargo: "EMBARGO!"
+  w_embargo_message_1: "Journalists and bloggers: please do not publish anything about this until the embargo is lifted!"
+  w_embargo_message_2: "Please contact the author for more information about when this is."
+  w_embed_code_copy_instructions: "Press (Control/⌘)-C to copy this code to your clipboard"
+  w_expiry_date: "有效期限"
+  w_fanfic_always_free: "Fan fiction books are always free on Leanpub."
+  w_fanfic_of: "This book is fan fiction based on %{work} by %{author}."
+  w_feedback: "回饋意見"
+  w_feedback_blurb_html: "歡迎提供您的意見! 無論是錯字還是書評，您的意見可以幫 %{authors} 改進這本書，而其他讀者也能一併受惠。"
+  w_first_name: "名字"
+  w_country_code: "Residing Country"
+  w_formats_included: "Formats Included"
+  w_free_sample: 免費樣章
+  w_free_to: Free to
+  w_free_updates: "一旦購買此書，往後作者每一次改版時，您都能夠免費取得新版電子書!"
+  w_get_it_for_free: "Get it, for free!"
+  w_get_my_free_book: "領取免費書籍!"
+  w_get_my_free_bundle: "領取免費套書!"
+  w_gift_note: "Gift Note"
+  w_gift_note_hint: "You can send a note along with the gift. Or simply leave this field blank if you wish."
+  w_give_as_a_gift: "Give as a Gift!"
+  w_government_earns: "政府收取金額 (VAT)"
+  w_grand_total: "總計"
+  w_happiness_guarantee: Happiness guarantee
+  w_100_pc_happiness_guarantee_html: <span class="pc">100%</span> Happiness guarantee
+  w_happiness_guarantee_book_html: ""在 Leanpub 購買的書籍，每當作者改版時，您都能夠<strong>免費取得新版電子書!</strong> 所有的電子書都提供了 <strong>PDF</strong>、<strong>EPUB</strong> (可用 iPad 閱讀) 和 <strong>MOBI</strong> (可用 Kindle 閱讀)。<strong>沒有 DRM 限制</strong>，沒有任何<strong>風險</strong>，因為鑑賞期內<strong>保證</strong>您支付的金額皆可退還。"
+  w_happiness_guarantee_bundle_html: "如果您在 Leanpub 購買了同捆包，您將可以<strong>免費取得同捆包內所有書籍的更新版本!</strong> 所有的電子書都提供了 <strong>PDF</strong>、<strong>EPUB</strong> (可用 iPad 閱讀) 和 <strong>MOBI</strong> (可用 Kindle 閱讀)。<strong>沒有 DRM 限制</strong>，沒有任何<strong>風險</strong>，因為鑑賞期內<strong>保證</strong>您支付的金額皆可退還。"
+  w_happiness_guarantee_days_html: "從<strong>購買之後的 45 天內</strong>，只要<strong>點個兩下</strong>，你就可以完成退書並且<strong>取回先前支付的全數金額</strong>。退書是採用人工作業，因此可能需要花幾天的時間才能完成整個程序。 <br><a href=\"/terms#returns\">See full terms</a>."
+  w_happiness_guarantee_title: "Leanpub 無條件、無風險的 100% 滿意保證"
+  w_if_buy_ebook: "購買此書，您將可以取得這些格式的電子書:"
+  w_if_no_visa_mastercard: "If your credit card is not a Visa or a Mastercard, you can still buy this book using PayPal. Just click on the yellow button above."
+  w_installment_count: "This book is being written as serial fiction. %{installments_completed} of %{installments_planned} installments are available."
+  w_installments_completed: Installments completed
+  w_interested_in_book: "Interested in this book? Encourage the author by entering your name, email address, and how much you’d likely pay for the ebook when it's published."
+  w_interested_short: "Interested in this book? Show your support by saying what you'd like to pay for it!"
+  w_lang_ara: "Arabic"
+  w_lang_dut: "Dutch"
+  w_lang_eng: "English"
+  w_lang_fin: "Finnish"
+  w_lang_fre: "French"
+  w_lang_ger: "German"
+  w_lang_hrv: "Croatian"
+  w_lang_hun: "Hungarian"
+  w_lang_ita: "Italian"
+  w_lang_jpn: "Japanese"
+  w_lang_por: "Portuguese"
+  w_lang_rum: "Romanian"
+  w_lang_rus: "Russian"
+  w_lang_slv: "Slovenian"
+  w_lang_spa: "Spanish"
+  w_lang_heb: "Hebrew"
+  w_language_options: "語言選項"
+  w_language_options_body: "本書有提供下列幾種語言的版本 (或目前正在翻譯) :"
+  w_last_name: "姓氏"
+  w_last_updated: 上一次更新
+  w_last_updated_time: "上次更新時間: %{updated_at}"
+  w_learn_more: "了解更多"
+  w_library_note: "Library purchasing agents: This book is in-progress, and the author has requested that it not be purchased by libraries yet."
+  w_mailchimp_interested_short: "Interested in this book? Sign up for the author's personal mailing list!"
+  w_minimum: Minimum
+  w_minimum_price2: "最低售價"
+  w_minimum_price: "最低售價:"
+  w_multiple_explanation: "You can buy multiple copies of a book if you want to share it with friends or coworkers. If you're buying multiple copies, the sliders above show what you pay and what the author(s) and/or cause(s) earn (combined) for each copy."
+  w_name: "Name"
+  w_name_your_price: 設定你想付的金額
+  w_set_price_html: "設定你想付的金額 <small>(USD)</small>"
+  w_notify_when: "出版時請通知我"
+  w_number: "Number"
+  w_number_of_copies_purchased: "Number of Copies Purchased"
+  w_online: 線上
+  w_or: "或"
+  w_or_click_to: "or click to"
+  w_pages: "Pages"
+  w_pay_by_credit_card: "信用卡支付"
+  w_pay_by_credit_card_or_click_to_html: "信用卡支付 <small class=\"option\">或點一下 %{paypal}</small>"
+  w_percent_done_html: "作者認為這本書的完成進度大約是 <strong>%{percent_complete}%</strong>!"
+  w_please_wait: "請稍候…"
+  w_publisher_earns: "出版社收入"
+  w_purchase_hint: "You can buy Leanpub books as gifts! You just need the email address or Leanpub username of who you're giving the book to. The recipient will be able to download the book in PDF, EPUB and MOBI without signing up to Leanpub, and they will also be able to sign up to get free updates. Leanpub books make great, sustainable gifts!"
+  w_purchase_is_gift: "This purchase is a gift"
+  w_read: 閱讀
+  w_read_online: 線上閱讀
+  w_reader_count: "本書目前有 %{num_readers} 名讀者!"
+  w_reader: 讀者
+  w_readers: 讀者
+  w_reader_feedback: "讀者回饋意見"
+  w_recipient_email_or_username: "Recipient Email or Leanpub Username"
+  w_retired: "Retired"
+  w_return_to_book: "回到書籍頁面"
+  w_return_to_bundle: "回到同捆包頁面"
+  w_royalties_going_to_html: "<strong>%{royalty_percentage}%</strong> of <strong>%{author}'s</strong> royalties are going directly to <strong>%{cause}</strong>."
+  w_share_book: "分享此書"
+  w_share_email: "分享電子郵件信箱?"
+  w_suggested: 建議的
+  w_suggested_price2: "建議售價"
+  w_suggested_price: "建議售價:"
+  w_teaser_text: Teaser text
+  w_teaser_text_hint: 1–3 sentences to summarize your book and excite your prospective readers.
+  w_these_books_included: "These books are included in this bundle…"
+  w_time_ago: "%{time} 之前"
+  w_toc: "目錄"
+  w_token_or_password: "登入權杖或帳戶密碼"
+  w_total: "總計"
+  w_translation: Translation
+  w_translations_available: Translations available
+  w_tweet_just_bought_bundle_text: "我剛剛買了同捆包：%{title}"
+  w_tweet_just_bought_text: "我剛剛買了 %{title}"
+  w_tweet_text: "Read %{title}"
+  w_type_own_amount_click: "Click to type in your own amount"
+  w_type_own_amount_tap: "Tap to type in your own amount"
+  w_type_your_message_to_the_author: "Type your message to the author below"
+  w_unpublished: "Unpublished"
+  w_unpublished_tweet_text: "Looking forward to reading %{title}"
+  w_updated: Updated
+  w_uses_leanpub_plural: "這些作者都使用 Leanpub 來獨立出版。你也可以！"
+  w_uses_leanpub_singular_html: "%{author} 使用 Leanpub 來獨立出版。你也可以！"
+  w_vat_number: "EU VAT Number"
+  w_verification_value: "CVV/CSC"
+  w_verification_value_hint: "The CVV, or Card Verification Value, is a 3 or 4 digit code on the back of your credit card. It's also called the CSC, or Card Security Code."
+  w_very_early_stage_html: "<strong>Note from Leanpub:</strong> This book appears to be <strong>very early stage</strong>. (It's currently about <strong>%{pages} pages and %{words} words</strong>.) If you are buying it now, you are doing so <strong>primarily to encourage the author</strong>. (If you buy the book, you get all the author's Leanpub updates to the book for free, of course!)"
+  w_view_bundle: "View the Bundle"
+  w_whats_bundle: "同捆包是一些相關書籍的組合，通常比單買每一本書更划算。"
+  w_words: "Words"
+  w_you_pay: "支付金額"
+  w_your_account: "你的帳戶"
+  w_youre_buying: "您正在購買"
+
+#######################
+# Fields for books
+#######################
+  p_book_for_sale_at: "本書的銷售平台是 \\url{http://leanpub.com/%{slug}}"
+  p_book_for_sale_at_html: "This book is for sale at <a href=\"http://leanpub.com/%{slug}\">http://leanpub.com/%{slug}</a>"
+  p_leanpub_empowers_long_html: "這是 <a href=\"http://leanpub.com\">Leanpub</a> 電子書。Leanpub empowers authors and publishers with the Lean Publishing process. <a href=\"http://leanpub.com/manifesto\">Lean Publishing</a> is the act of publishing an in-progress ebook using lightweight tools and many iterations to get reader feedback, pivot until you have the right book and build traction once you do."
+  p_published_on: "This version was published on %{published_on}"
+  p_title_page: "標題頁"
+  p_toc: "目錄"
+  p_isbn_for: "ISBN for %{format_type} version"
+  p_tweet_this_book: "在推特上分享此書!"
+  p_tweet_spread_word: "請幫 %{author} 在 \\href{http://twitter.com}{Twitter} 上面宣傳這本書!"
+  p_tweet_suggested_tweet: "The suggested tweet for this book is:"
+  p_tweet_suggested_hashtag: "The suggested hashtag for this book is \\href{https://twitter.com/search?q=%23%{suggested_hashtag}}{\\#%{suggested_hashtag}}."
+  p_tweet_find_out_what: "Find out what other people are saying about the book by clicking on this link to search for this hashtag on Twitter:"
+  p_also_by_multi_authors_title: "Also By These Authors"
+  p_also_by_multi_authors_item: "Books by \\href{http://leanpub.com/u/%{username}}{%{name}}"
+  p_also_by_single_author_title: "Also By \\href{http://leanpub.com/u/%{username}}{%{name}}"
