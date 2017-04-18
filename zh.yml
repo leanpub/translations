@@ -32,7 +32,7 @@ zh:
   w_about_book: "關於本書"
   w_about_editor: "關於編輯"
   w_about_editors: "關於編輯群"
-  w_about_leanpub_slogan: "不論是攥寫中還是以完成的書籍，作者和出版社都使用 Leanpub 來出版如本書一樣棒的書"。
+  w_about_leanpub_slogan: "不論是攥寫中還是以完成的書籍，作者和出版社都使用 Leanpub 來出版如本書一樣棒的書。"
   w_about_the_contributors: "關於貢獻者"
   w_about_the_publisher: "關於出版社"
   w_add_bundle_to_cart: "將電子書同捆包加入購物車"
@@ -57,7 +57,7 @@ zh:
     lt_60_days: "上個月"
     lt_1_year: "%{months} 個月以前"
   w_bundle_about_books: "關於書籍"
-  w_bundle_about_bundle: "關於此優惠組合”
+  w_bundle_about_bundle: "關於此優惠組合"
   w_bundle_buy_now: "立即購買此優惠組合！"
   w_bundle_description: "關於此優惠組合"
   w_bundle_price: "優惠組合售價"
@@ -90,7 +90,7 @@ zh:
   w_email_the_authors: "Email 給作者（們）"
   w_embargo: "EMBARGO!"
   w_embargo_message_1: "Journalists and bloggers: please do not publish anything about this until the embargo is lifted!"
-  w_embargo_message_2: "把請聯繫作者以了解更多相關信息。“
+  w_embargo_message_2: "把請聯繫作者以了解更多相關信息。"
   w_embed_code_copy_instructions: "按下 (Control/⌘)-C 把代碼複製到剪貼簿"
   w_fanfic_always_free: "同人誌在Leanpub上都是免費出售"
   w_fanfic_of: "This book is fan fiction based on %{work} by %{author}."
@@ -103,36 +103,36 @@ zh:
   w_get_my_free_bundle: "領取免費優惠組合！"
   w_grand_total: "總計"
   w_100_pc_happiness_guarantee_html: "<span class='pc'>100%</span> 滿意保證"
-  w_happiness_guarantee_book_html: ""在 Leanpub 購買的書籍，每當作者改版時，您都能夠<strong>免費取得新版電子書!</strong> 所有的電子書都提供了 <strong>PDF</strong>、<strong>EPUB</strong> (可用 iPad 閱讀) 和 <strong>MOBI</strong> (可用 Kindle 閱讀)。<strong>沒有 DRM 限制</strong>，沒有任何<strong>風險</strong>，因為鑑賞期內<strong>保證</strong>您支付的金額皆可退還。"
+  w_happiness_guarantee_book_html: "在 Leanpub 購買的書籍，每當作者改版時，您都能夠<strong>免費取得新版電子書!</strong> 所有的電子書都提供了 <strong>PDF</strong>、<strong>EPUB</strong> (可用 iPad 閱讀) 和 <strong>MOBI</strong> (可用 Kindle 閱讀)。<strong>沒有 DRM 限制</strong>，沒有任何<strong>風險</strong>，因為鑑賞期內<strong>保證</strong>您支付的金額皆可退還。"
   w_happiness_guarantee_bundle_html: "如果您在 Leanpub 購買了優惠組合，您將可以<strong>免費取得優惠組合內所有書籍的更新版本!</strong> 所有的電子書都提供了 <strong>PDF</strong>、<strong>EPUB</strong> (可用 iPad 閱讀) 和 <strong>MOBI</strong> (可用 Kindle 閱讀)。<strong>沒有 DRM 限制</strong>，沒有任何<strong>風險</strong>，因為鑑賞期內<strong>保證</strong>您支付的金額皆可退還。"
   w_happiness_guarantee_days_html: "從<strong>付款之後的 45 天內</strong>，只要<strong>點個兩下</strong>，你就可以完成退書並且<strong>取回先前支付的全數金額</strong>。退書是採用人工作業，因此可能需要花幾天的時間才能完成整個程序。 <br><a href=\"/terms#returns\">See full terms</a>."
   w_happiness_guarantee_title: "Leanpub 無條件、無風險的 100% 滿意保證"
-  w_installments_completed: Installments completed
+  w_installments_completed: "Installments completed"
   w_interested_short: "對這本書有興趣嗎？ 請說說你願意用多少錢來買這本書！"
-  w_lang_afr: "南非語”
-  w_lang_ara: "阿拉伯語”
-  w_lang_hrv: “克羅埃西雅語”
-  w_lang_dut: “荷蘭語”
-  w_lang_eng: “英語“
-  w_lang_fin: “芬蘭語“
-  w_lang_fre: “法語”
-  w_lang_ger: “德語”
-  w_lang_heb: “希伯來語”
-  w_lang_hun: “匈牙利語”
-  w_lang_ind: “印尼語”
-  w_lang_ita: “義大利語”
-  w_lang_jpn: “日語”
-  w_lang_nob: “挪威語”
-  w_lang_nno: “新挪威語“
-  w_lang_pol: “波蘭語”
-  w_lang_por: “葡萄牙語”
-  w_lang_rum: “羅馬尼雅語”
-  w_lang_rus: “俄語”
-  w_lang_srp: “塞爾維亞雅語”
+  w_lang_afr: "南非語"
+  w_lang_ara: "阿拉伯語"
+  w_lang_hrv: "克羅埃西雅語"
+  w_lang_dut: "荷蘭語"
+  w_lang_eng: "英語"
+  w_lang_fin: "芬蘭語"
+  w_lang_fre: "法語"
+  w_lang_ger: "德語"
+  w_lang_heb: "希伯來語"
+  w_lang_hun: "匈牙利語"
+  w_lang_ind: "印尼語"
+  w_lang_ita: "義大利語"
+  w_lang_jpn: "日語"
+  w_lang_nob: "挪威語"
+  w_lang_nno: "新挪威語"
+  w_lang_pol: "波蘭語"
+  w_lang_por: "葡萄牙語"
+  w_lang_rum: "羅馬尼雅語"
+  w_lang_rus: "俄語"
+  w_lang_srp: "塞爾維亞雅語"
   w_lang_slv: "斯洛文尼亞語"
-  w_lang_spa: “西班牙語”
-  w_lang_swe: “瑞典語”
-  w_lang_tur: “土耳其語”
+  w_lang_spa: "西班牙語"
+  w_lang_swe: "瑞典語"
+  w_lang_tur: "土耳其語"
   w_language_options_body: "本書有提供下列幾種語言的版本 (或目前正在翻譯)："
   w_last_updated_time: "上次更新時間：%{updated_at}"
   w_learn_more: "了解更多"
@@ -145,8 +145,8 @@ zh:
   w_pages: "頁數"
   w_please_wait: "請稍候……"
   w_read: "閱讀"
-  w_read_more: “繼續閱讀”
-  w_read_less: “隱藏內文”
+  w_read_more: "繼續閱讀"
+  w_read_less: "隱藏內文"
   w_read_online: "線上閱讀"
   w_reader: "讀者"
   w_readers: "讀者"
@@ -188,10 +188,10 @@ zh:
   p_tweet_suggested_tweet: "對此書所建議的 tweet 是："
   p_tweet_suggested_hashtag: "針對此書的建議 hashtag 是 \\href{https://twitter.com/search?q=%23%{suggested_hashtag}}{\\#%{suggested_hashtag}}."
   p_tweet_find_out_what: "若想知道其他人對這本書的看法，可點此連結來搜尋 Twitter 上的 hashtag："
-  p_teaser_text: "該內容沒有包含在樣本書中。您可以在Leanpub上購買到這本書，網址為<%{url}>"
   p_also_by_multi_authors_title: "這些作者的相關著作"
   p_also_by_multi_authors_item: "Books by \\href{http://leanpub.com/u/%{username}}{%{name}}"
   p_also_by_single_author_title: "Also By \\href{http://leanpub.com/u/%{username}}{%{name}}"
+  p_teaser_text: "該內容沒有包含在樣本書中。您可以在Leanpub上購買到這本書，網址為<%{url}>"
 
 #######################
 # Kaminari Pagination
