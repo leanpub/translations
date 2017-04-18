@@ -191,6 +191,7 @@ tr:
   p_also_by_multi_authors_title: "Bu Yazarlardan Ayrıca"
   p_also_by_multi_authors_item: " \\href{http://leanpub.com/u/%{username}}{%{name}} Kitapları"
   p_also_by_single_author_title: "Ayrıca \\href{http://leanpub.com/u/%{username}}{%{name}} tarafından"
+  p_teaser_text: "This content is not available in the sample book. The book can be purchased on Leanpub at <%{url}>."
 
 #######################
 # Kaminari Pagination

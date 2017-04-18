@@ -191,6 +191,7 @@ ro:
   p_also_by_multi_authors_title: "De aceiași autori"
   p_also_by_multi_authors_item: "Cărți de \\href{http://leanpub.com/u/%{username}}{%{name}}"
   p_also_by_single_author_title: "Tot de \\href{http://leanpub.com/u/%{username}}{%{name}}"
+  p_teaser_text: "This content is not available in the sample book. The book can be purchased on Leanpub at <%{url}>."
 
 #######################
 # Kaminari Pagination

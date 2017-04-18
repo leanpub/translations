@@ -191,6 +191,7 @@ ta:
   p_also_by_multi_authors_title: "Also By These Authors"
   p_also_by_multi_authors_item: "Books by \\href{http://leanpub.com/u/%{username}}{%{name}}"
   p_also_by_single_author_title: "Also By \\href{http://leanpub.com/u/%{username}}{%{name}}"
+  p_teaser_text: "This content is not available in the sample book. The book can be purchased on Leanpub at <%{url}>."
 
 #######################
 # Kaminari Pagination

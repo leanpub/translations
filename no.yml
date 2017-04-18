@@ -199,6 +199,7 @@
   p_also_by_multi_authors_title: "Også ved disse forfatterne"
   p_also_by_multi_authors_item: "Bøker av \\href{http://leanpub.com/u/%{username}}{%{name}}"
   p_also_by_single_author_title: "Også av \\href{http://leanpub.com/u/%{username}}{%{name}}"
+  p_teaser_text: "This content is not available in the sample book. The book can be purchased on Leanpub at <%{url}>."
 
 #######################
 # Kaminari Pagination

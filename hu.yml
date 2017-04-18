@@ -191,6 +191,7 @@ hu:
   p_also_by_multi_authors_title: "A szerzők további könyvei"
   p_also_by_multi_authors_item: "A szerzők további könyvei: \\href{http://leanpub.com/u/%{username}}{%{name}}"
   p_also_by_single_author_title: "A szerző további könyvei: \\href{http://leanpub.com/u/%{username}}{%{name}}"
+  p_teaser_text: "This content is not available in the sample book. The book can be purchased on Leanpub at <%{url}>."
 
 #######################
 # Kaminari Pagination
