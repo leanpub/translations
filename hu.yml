@@ -170,9 +170,10 @@ hu:
   w_very_early_stage_html: "<strong>Note from Leanpub:</strong> This book appears to be <strong>very early stage</strong>. (It's currently about <strong>%{pages} pages and %{words} words</strong>.) If you are buying it now, you are doing so <strong>primarily to encourage the author</strong>. (If you buy the book, you get all the author's Leanpub updates to the book for free, of course!)"
   w_view_bundle: "Csomag megtekintése"
   w_words: "Words"
+  w_write_on_leanpub_learn_more: "Tudjon meg többet a Leanpub-ral való írásról"
+  w_write_on_leanpub_title: "Írjon és tegyen közzé a Leanpub-ot"
+  w_write_on_leanpub_html: "A szerzők és a kiadók a Leanpubot használják, hogy olyan csodálatos előrehaladást és befejezett e-könyveket tegyen közzé, mint ez. Használhatja a Leanpub-ot a könyv írásához, kiadásához és eladásához is! A Leanpub egy komolyabb szerzők számára egy hatékony platform, amely egy egyszerű, elegáns írás-és kiadói munkafolyamatot ötvöz egy olyan áruházzal, amelynek középpontjában az előrelépett e-könyvek értékesítése áll. A Leanpub egy mágikus írógép a szerzőknek: egyszerűen írjon egyszerű szöveget, és tegye közzé e-könyvét, csak kattintson egy gombra. Ez tényleg olyan egyszerű."
   w_you_pay: "Fizetendő"
-  w_your_order_sent_to: "Your order will be sent to:"
-  w_your_shipping_address_review: "Your book will be shipped as soon as it rolls off the press. Please review the shipping address below:"
 
 #######################
 # Fields for books

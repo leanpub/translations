@@ -170,9 +170,10 @@ fi:
   w_very_early_stage_html: "<strong>Note from Leanpub:</strong> This book appears to be <strong>very early stage</strong>. (It's currently about <strong>%{pages} pages and %{words} words</strong>.) If you are buying it now, you are doing so <strong>primarily to encourage the author</strong>. (If you buy the book, you get all the author's Leanpub updates to the book for free, of course!)"
   w_view_bundle: "Katso kokoelmaa"
   w_words: "Sanat"
+  w_write_on_leanpub_learn_more: "Lisätietoja Leanpubista kirjoittamisesta"
+  w_write_on_leanpub_title: "Kirjoita ja julkaise Leanpubissa"
+  w_write_on_leanpub_html: "Tekijät ja julkaisijat käyttävät Leanpubia julkaisemaan hämmästyttäviä käynnissä olevia ja valmiita e-kirjoja aivan kuten tämä. Voit käyttää Leanpubia kirjojen kirjoittamiseen, julkaisemiseen ja myyntiin myös! Leanpub on voimakas foorumi vakaville tekijöille yhdistämällä yksinkertaisen ja tyylikkään kirjoitus- ja julkaisutoiminnan, jossa myymälä keskittyy myymään jatkuvia e-kirjoja. Leanpub on maaginen kirjoituskone kirjoittajille: kirjoita vain tekstiin ja julkaise eBook, paina yhtä painiketta. Se on todella helppoa."
   w_you_pay: "Sinä maksat"
-  w_your_order_sent_to: "Your order will be sent to:"
-  w_your_shipping_address_review: "Your book will be shipped as soon as it rolls off the press. Please review the shipping address below:"
 
 #######################
 # Fields for books

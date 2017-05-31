@@ -170,9 +170,10 @@ af:
   w_very_early_stage_html: "<strong>Leanpubkennisgewing:</strong> Hierdie boek blyk in 'n <strong>baie vroeë stadium</strong> te wees. (Dit het huidiglik omtrent <strong>%{pages} bladsye en %{words} woorde</strong>.) Indien u dit nou koop, doen u dit om <strong>hoofsaaklik die outeur aan te moedig</strong>. (Indien u die boek koop, kry u natuurlik al die outeur se opdaterings verniet!)"
   w_view_bundle: "Bekyk die bundel"
   w_words: "Woorde"
+  w_write_on_leanpub_learn_more: "Kom meer te wete oor die skryf van Leanpub"
+  w_write_on_leanpub_title: "Skryf en publiseer op Leanpub"
+  w_write_on_leanpub_html: "Skrywers en uitgewers gebruik Leanpub om ongelooflike in-vordering en voltooide e-boeke te publiseer, net soos hierdie een. U kan Leanpub ook gebruik om u boek te skryf, te publiseer en te verkoop. Leanpub is 'n kragtige platform vir ernstige skrywers. Dit kombineer 'n eenvoudige, elegante skryfwerk en publiseer werkstroom met 'n winkel wat daarop gemik is om e-boeke te verkoop. Leanpub is 'n magiese tikmasjien vir skrywers: skryf net in gewone teks en om jou ebook te publiseer, klik net op 'n knoppie. Dit is regtig so maklik."
   w_you_pay: "U betaal"
-  w_your_order_sent_to: "Your order will be sent to:"
-  w_your_shipping_address_review: "Your book will be shipped as soon as it rolls off the press. Please review the shipping address below:"
 
 #######################
 # Fields for books

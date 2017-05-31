@@ -170,9 +170,10 @@ cs:
   w_very_early_stage_html: "<strong>Poznámka od Leanpub:</strong> Tato kniha je, zdá se, <strong>teprve v začátcích</strong>. (Má nyní kolem <strong>%{pages} stran a %{words} slov</strong>.) Jestliže si ji právě kupujete, děláte to zejména proto, abyste <strong>povzbudili autora</strong>. (Když si knihu koupíte, získáte všechny autorovy aktualizace této knihy na Leanpub zadarmo!)"
   w_view_bundle: "Zobrazit balíček knih"
   w_words: "Slova"
+  w_write_on_leanpub_learn_more: "Další informace o psaní na Leanpub"
+  w_write_on_leanpub_title: "Napište a publikujte na Leanpub"
+  w_write_on_leanpub_html: "Autoři a vydavatelé používají Leanpub k publikování úžasných průběžných a dokončených e-knih, stejně jako tento. Leanpub můžete použít k psaní, publikování a prodeji knihy také! Leanpub je silná platforma pro seriózní autory, která kombinuje jednoduchý, elegantní psaní a publikování workflow s obchodem zaměřeným na prodej e-knih. Leanpub je magický psací stroj pro autory: stačí napsat jednoduchý text a publikovat svůj ebook, stačí kliknout na tlačítko. Je to opravdu tak snadné."
   w_you_pay: "Platíte"
-  w_your_order_sent_to: "Vaše objednávka bude zaslána:"
-  w_your_shipping_address_review: "Vaše kniha bude doručena, jakmile vyjede z tisku. Níže, prosím, zkontrolujte vaši adresu:"
 
 #######################
 # Fields for books

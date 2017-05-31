@@ -170,9 +170,10 @@ de:
   w_very_early_stage_html: "<strong>Hinweis von Leanpub:</strong> Dieses Buch befindet sich scheinbar noch <strong>in einer sehr frühen Phase</strong>. (Es hat momentan ungefähr <strong>%{pages} Seiten und %{words} Wörter</strong>.) Wenn du es jetzt kaufst, tust du dies <strong>hauptsächlich, um den Autor zu motivieren</strong>. (Wenn du das Buch kaufst, erhälst du selbstverständlich alle Leanpub-Updates dieses Buches umsonst!)"
   w_view_bundle: "Paket ansehen"
   w_words: "Wörter"
+  w_write_on_leanpub_learn_more: "Erfahren Sie mehr über das Schreiben mit Leanpub"
+  w_write_on_leanpub_title: "Schreiben und veröffentlichen mit Leanpub"
+  w_write_on_leanpub_html: "Autoren und Verlage nutzen Leanpub, um erstaunliche Fortschritte zu veröffentlichen und ebooks zu vervollständigen. Sie können Leanpub auch schreiben, veröffentlichen und verkaufen! Leanpub ist eine leistungsstarke Plattform für ernsthafte Autoren und kombiniert einen einfachen, eleganten Schreib- und Publishing-Workflow mit einem Laden, der sich auf den Verkauf von ebooks konzentriert. Leanpub ist eine magische Schreibmaschine für Autoren: Schreiben Sie einfach in Klartext, und um Ihr ebook zu veröffentlichen, klicken Sie einfach auf eine Schaltfläche. Es ist wirklich so einfach."
   w_you_pay: "Du bezahlst"
-  w_your_order_sent_to: "Deine Bestellung wird versendet an:"
-  w_your_shipping_address_review: "Dein Buch wird versendet werden sobald es beendet wurde. Bitte prüfe unten deine Versand-Adresse:"
 
 #######################
 # Fields for books

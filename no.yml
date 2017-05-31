@@ -178,9 +178,10 @@
   w_very_early_stage_html: "<strong>Note from Leanpub:</strong> This book appears to be <strong>very early stage</strong>. (It's currently about <strong>%{pages} pages and %{words} words</strong>.) If you are buying it now, you are doing so <strong>primarily to encourage the author</strong>. (If you buy the book, you get all the author's Leanpub updates to the book for free, of course!)"
   w_view_bundle: "Vis pakke"
   w_words: "Orden"
+  w_write_on_leanpub_learn_more: "Learn more about writing on Leanpub"
+  w_write_on_leanpub_title: "Write and Publish on Leanpub"
+  w_write_on_leanpub_html: "Authors and publishers use Leanpub to publish amazing in-progress and completed ebooks, just like this one. You can use Leanpub to write, publish and sell your book as well! Leanpub is a powerful platform for serious authors, combining a simple, elegant writing and publishing workflow with a store focused on selling in-progress ebooks. Leanpub is a magical typewriter for authors: just write in plain text, and to publish your ebook, just click a button. It really is that easy."
   w_you_pay: "Du betaler"
-  w_your_order_sent_to: "Your order will be sent to:"
-  w_your_shipping_address_review: "Your book will be shipped as soon as it rolls off the press. Please review the shipping address below:"
 
 #######################
 # Fields for books
