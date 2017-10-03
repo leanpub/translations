@@ -178,18 +178,18 @@ de:
 #######################
 # Fields for books
 #######################
-  p_book_for_sale_at: "Dieses Buch wird verkauft, unter \\url{http://leanpub.com/%{slug}}"
-  p_book_for_sale_at_html: "Dieses Buch wird verkauft, unter <a href=\"http://leanpub.com/%{slug}\">http://leanpub.com/%{slug}</a>"
+  p_book_for_sale_at: "Dieses Buch wird verkauft unter \\url{http://leanpub.com/%{slug}}"
+  p_book_for_sale_at_html: "Dieses Buch wird verkauft unter <a href=\"http://leanpub.com/%{slug}\">http://leanpub.com/%{slug}</a>"
   p_leanpub_empowers_long_markdown: "Dies ist ein [Leanpub](http://leanpub.com)-Buch. Leanpub bietet Autoren und Verlagen, mit Hilfe von Lean-Publishing, neue Möglichkeiten des Publizierens. [Lean Publishing](http://leanpub.com/manifesto) bedeutet die wiederholte Veröffentlichung neuer Beta-Versionen eines eBooks unter der Zuhilfenahme schlanker Werkzeuge. Das Feedback der Erstleser hilft dem Autor bei der Finalisierung und der anschließenden Vermarktung des Buches. Lean Publishing unterstützt den Autor darin ein Buch zu schreiben, das auch gelesen wird."
   p_published_on: "Diese Version wurde veröffentlicht am %{published_on}"
   p_title_page: "Buch-Cover"
   p_endnotes_title: "Anmerkungen"
   p_isbn_for: "ISBN für die %{format_type}-Version"
   p_tweet_this_book: "Twittere dieses Buch!"
-  p_tweet_spread_word: "Bitte unterstütze %{author}, indem du über dieses Buch auf \\href{http://twitter.com}{Twitter} weiterempfiehlst!"
+  p_tweet_spread_word: "Bitte unterstütze %{author}, indem du dieses Buch auf \\href{http://twitter.com}{Twitter} weiterempfiehlst!"
   p_tweet_suggested_tweet: "Hier ein Vorschlag für einen Tweet:"
   p_tweet_suggested_hashtag: "Vorschlag: Verwende den folgenden Hashtag, wenn du über dieses Buch twitterst: \\href{https://twitter.com/search?q=%23%{suggested_hashtag}}{\\#%{suggested_hashtag}}."
-  p_tweet_find_out_what: "Was sagen Andere über dieses Buch? Klick hier, um nach diesem Hashtag auf Twitter zu suchen:"
+  p_tweet_find_out_what: "Was sagen andere über dieses Buch? Klicke hier, um nach diesem Hashtag auf Twitter zu suchen:"
   p_also_by_multi_authors_title: "Ebenfalls von diesen Autoren"
   p_also_by_multi_authors_item: "Bücher von \\href{http://leanpub.com/u/%{username}}{%{name}}"
   p_also_by_single_author_title: "Ebenfalls von \\href{http://leanpub.com/u/%{username}}{%{name}}"
