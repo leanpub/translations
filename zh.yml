@@ -102,7 +102,6 @@ zh:
   w_get_my_free_book: "領取免費書籍！"
   w_get_my_free_bundle: "領取免費優惠組合！"
   w_grand_total: "總計"
-  w_100_pc_happiness_guarantee_html: "<span class='pc'>100%</span> 滿意保證"
   w_happiness_guarantee_book_html: "在 Leanpub 購買的書籍，每當作者改版時，您都能夠<strong>免費取得新版電子書!</strong> 所有的電子書都提供了 <strong>PDF</strong>、<strong>EPUB</strong> (可用 iPad 閱讀) 和 <strong>MOBI</strong> (可用 Kindle 閱讀)。<strong>沒有 DRM 限制</strong>，沒有任何<strong>風險</strong>，因為鑑賞期內<strong>保證</strong>您支付的金額皆可退還。"
   w_happiness_guarantee_bundle_html: "如果您在 Leanpub 購買了優惠組合，您將可以<strong>免費取得優惠組合內所有書籍的更新版本!</strong> 所有的電子書都提供了 <strong>PDF</strong>、<strong>EPUB</strong> (可用 iPad 閱讀) 和 <strong>MOBI</strong> (可用 Kindle 閱讀)。<strong>沒有 DRM 限制</strong>，沒有任何<strong>風險</strong>，因為鑑賞期內<strong>保證</strong>您支付的金額皆可退還。"
   w_happiness_guarantee_days_html: "從<strong>付款之後的 45 天內</strong>，只要<strong>點個兩下</strong>，你就可以完成退書並且<strong>取回先前支付的全數金額</strong>。退書是採用人工作業，因此可能需要花幾天的時間才能完成整個程序。 <br><a href=\"/terms#returns\">See full terms</a>."

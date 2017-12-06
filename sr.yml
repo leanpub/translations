@@ -112,7 +112,6 @@ sr:
   w_get_my_free_book: "Узмите свој бесплатан примерак књиге!"
   w_get_my_free_bundle: "Узмите свој бесплатни комплет!"
   w_grand_total: "Укупно"
-  w_100_pc_happiness_guarantee_html: "<span class='pc'>100%</span> Happiness guarantee"
   w_happiness_guarantee_book_html: "Уколико купите Leanpub књигу добијате <strong>сва ажурирања књиге бесплатно!</strong> Све књиге су доступне <strong>у PDF-у</strong>, <strong>EPUB-у</strong> (за iPad) и <strong>MOBI-у</strong> (за Kindle). Не постоји <strong> DRM</strong>. Не постоји <strong>ризик</strong>, само <strong>загарантовано задовољство</strong> или Вам враћамо Ваш новац."
   w_happiness_guarantee_bundle_html: "Уколико купите Leanpub комплет књига добијате <strong>сва ажурирања књига у комплету бесплатно!</strong> Све књиге су доступне <strong>у PDF-у</strong>, <strong>EPUB-у</strong> (за iPad) и <strong>MOBI-у</strong> (за Kindle). Не постоји <strong>DRM</strong>. Не постоји <strong>ризик</strong>, само <strong>загарантовано задовољство</strong> или Вам враћамо Ваш новац."
   w_happiness_guarantee_days_html: "У року од <strong>45 дана од куповине</strong> може Вам бити враћен<strong>сав новац</strong> од било које куповине на Leanpub-у, са само <strong>два клика</strong>. С обзиром да ручно обрађујемо поврат новца, биће потребно неколико дана да се новац појави на Вашем рачуну. Прочитајте <a href=\"/terms#returns\">full terms</a>."

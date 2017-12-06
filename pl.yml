@@ -112,11 +112,10 @@ pl:
   w_get_my_free_book: "Get Your Free Book!"
   w_get_my_free_bundle: "Get Your Free Bundle!"
   w_grand_total: "Grand Total"
-  w_100_pc_happiness_guarantee_html: "<span class='pc'>100%</span> Happiness guarantee"
   w_happiness_guarantee_book_html: "If you buy a Leanpub book you get <strong>all the updates to the book for free!</strong> All books are available in <strong>PDF</strong>, <strong>EPUB</strong> (for iPad) and <strong>MOBI</strong> (for Kindle). There is <strong>no DRM</strong>. There is <strong>no risk</strong>, just <strong>guaranteed happiness</strong> or your money back."
   w_happiness_guarantee_bundle_html: "If you buy a Leanpub bundle you get <strong>all the updates to the books in the bundle for free!</strong> All books are available in <strong>PDF</strong>, <strong>EPUB</strong> (for iPad) and <strong>MOBI</strong> (for Kindle). There is <strong>no DRM</strong>. There is <strong>no risk</strong>, just <strong>guaranteed happiness</strong> or your money back."
   w_happiness_guarantee_days_html: "Within <strong>45 days of purchase</strong> you can get a <strong>100% refund</strong> on any Leanpub purchase, in <strong>two clicks</strong>. We process the refunds manually, so they may take a few days to show up. See <a href=\"/terms#returns\">full terms</a>."
-  w_happiness_guarantee_title: "The Leanpub Unconditional, No Risk, 100% Happiness Guarantee"
+  w_happiness_guarantee_title: "The Leanpub 45-day 100% Happiness Guarantee"
   w_installments_completed: Installments completed
   w_interested_short: "Interested in this book? Show your support by saying what you'd like to pay for it!"
   w_lang_afr: "Afrikaans"

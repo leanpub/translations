@@ -102,7 +102,6 @@ fr:
   w_get_my_free_book: "Obtenir mon livre gratuit"
   w_get_my_free_bundle: "Obtenir mon lot gratuit"
   w_grand_total: "Total général"
-  w_100_pc_happiness_guarantee_html: "Satisfaction <span class='pc'>100%</span> garantie"
   w_happiness_guarantee_book_html: "Après l'achat d'un livre Leanpub, vous obtiendrez <strong>gratuitement toutes les mises à jour de l'ouvrage</strong>. Tous les livres sont disponibles aux formats <strong>PDF</strong>, <strong>EPUB</strong> (pour l'iPad) et <strong>MOBI</strong> (pour Kindle). Il sont strictement <strong>sans DRM et verrous numériques</strong>. <strong>Un achat chez Leanpub est sans aucun risque,</strong>, vous êtes soit satisfait, soit intégralement remboursé."
   w_happiness_guarantee_bundle_html: "Après l'achat d'un lot Leanpub, vous obtiendrez <strong>gratuitement toutes les mises à jour des livres.</strong> Tous les livres sont disponibles aux formats <strong>PDF</strong>, <strong>EPUB</strong> (pour l'iPad) et <strong>MOBI</strong> (pour Kindle). Il sont strictement <strong>sans DRM et verrous numériques</strong>. <strong>Un achat chez Leanpub est sans aucun risque,</strong>, vous êtes soit satisfait, soit intégralement remboursé."
   w_happiness_guarantee_days_html: "<strong>Durant les 45 jours suivant l'achat</strong>, vous pouvez obtenir un remboursement <strong>à 100%</strong> de la part de Leanpub, <strong>en moins de deux clics</strong>. Nous traitons les remboursements manuellement, un délai de quelques jours est nécessaire. Voir <a href=\"/terms#returns\">nos conditions générales</a>."

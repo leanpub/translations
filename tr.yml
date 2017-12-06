@@ -102,7 +102,6 @@ tr:
   w_get_my_free_book: "Ücretsiz Kitabını Al!"
   w_get_my_free_bundle: "Ücretsiz Demetini Al!"
   w_grand_total: "Tüm Toplam"
-  w_100_pc_happiness_guarantee_html: "<span class='pc'>100%</span> Mutluluk garantisi"
   w_happiness_guarantee_book_html: "Eğer Leanpub'tan kitap satın alırsanız, <strong>kitabın tüm güncellemeleri ücretsizdir!</strong> Tüm kitaplar <strong>PDF</strong>, <strong>EPUB</strong> (iPad için) ve <strong>MOBI</strong> (Kindle için) formatlarında mevcuttur. <strong>DRM yok</strong>. <strong>Risk yok</strong>, sadece <strong>garantili mutluluk</strong> veya iade garantisi mevcut."
   w_happiness_guarantee_bundle_html: "Eğer Leanpub'tan demet satın alırsanız, <strong>demetin tüm güncellemeleri ücretsizdir!</strong> Tüm demetler/kitaplar <strong>PDF</strong>, <strong>EPUB</strong> (iPad için) ve <strong>MOBI</strong> (Kindle için) formatlarında mevcuttur. <strong>DRM yok</strong>. <strong>Risk yok</strong>, sadece <strong>garantili mutluluk</strong> veya iade garantisi mevcut."
   w_happiness_guarantee_days_html: "Leanpub'tan yaptığınız alışverişlerde, <strong>45 günlük</strong> sürede <strong>%100 iade garantisi</strong> mevcut, bunun için sadece <strong>iki tıklama</strong> yeterli. İade talepleri elden işlenmektedir, aktifleşmesi birkaç gün alabilir. Detaylar için <a href=\"/terms#returns\"><em>(ingilizce)</em> kullanım sözleşmesini</a> okuyunuz."

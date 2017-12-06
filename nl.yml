@@ -102,11 +102,10 @@ nl:
   w_get_my_free_book: "Ontvang gratis mijn boek"
   w_get_my_free_bundle: "Ontvang gratis mijn bundel"
   w_grand_total: "Totaal"
-  w_100_pc_happiness_guarantee_html: "<span class='pc'>100%</span> Geluk garantie"
   w_happiness_guarantee_book_html: "Als je een Leanpub boek krijg je <strong>alle updates om het boek gratis</strong> Alle boeken zijn verkrijgbaar in <strong>PDF</strong>, <strong>EPUB</strong> (! voor iPad) en <strong>MOBI</strong> (voor de Kindle). Er is <strong>geen DRM</strong>. Er is <strong>geen risico</strong>, net <strong>gegarandeerd geluk</strong> of uw geld terug."
   w_happiness_guarantee_bundle_html: "Als je een Leanpub bundel je <strong>alle updates om de boeken te krijgen in de bundel gratis</strong> Alle boeken zijn verkrijgbaar in <strong>PDF</strong>, <strong>EPUB</strong> (voor iPad) en <strong>MOBI</strong> (voor de Kindle). Er is <strong>geen DRM</strong>. Er is <strong>geen risico</strong>, net <strong>gegarandeerd geluk</strong> of uw geld terug."
   w_happiness_guarantee_days_html: "Binnen <strong>45 dagen na aankoop</strong> kunt u een <strong>100% restitutie</strong> op elke Leanpub aankoop, in <strong>twee klikken</strong> We de restituties handmatig verwerken. , dus maken ze een paar dagen duren om te verschijnen. Zie <a href=\"/terms#returns\">volledige voorwaarden</a>."
-  w_happiness_guarantee_title: "De Leanpub Onvoorwaardelijke, No Risk, 100% Geluk garantie"
+  w_happiness_guarantee_title: "The Leanpub 45-day 100% Happiness Guarantee"
   w_installments_completed: termijnen voltooid
   w_interested_short: "Interesse in dit boek Toon uw steun door te zeggen wat je wilt betalen?!"
   w_lang_afr: "Afrikaans"

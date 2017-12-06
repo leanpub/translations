@@ -103,7 +103,6 @@ sv:
   w_get_my_free_book: "Få din gratis ebok!"
   w_get_my_free_bundle: "Få ditt gratis paket!"
   w_grand_total: "Totalt"
-  w_100_pc_happiness_guarantee_html: "<span class='pc'>100%</span> lycka garanti"
   w_happiness_guarantee_book_html: "Om du köper en Leanpub bok får du <strong>ingår alla uppdateringar av boken!</strong> Alla böcker finns som <strong>PDF</strong>, <strong>EPUB</strong> (för iPad) och <strong>MOBI</strong> (för Kindle). Det finns <strong>inget DRM</strong>. Det finns <strong>inga risker</strong>, bara <strong>garanterad nöjdhet</strong> eller pengarna tillbaka."
   w_happiness_guarantee_bundle_html: "Om du köper ett Leanpub paket får du <strong>ingår alla uppdateringar av böckerna i paketet!</strong> Alla böcker finns som <strong>PDF</strong>, <strong>EPUB</strong> (för iPad) och <strong>MOBI</strong> (för Kindle). Det finns <strong>inget DRM</strong>. Det finns <strong>ingen risk</strong>, bara <strong>garanterad lycka</strong> eller pengarna tillbaka."
   w_happiness_guarantee_days_html: "Upp till <strong>45 dagar efter ett köp</strong> kan du få tillbaka <strong>100%</strong> av det du betalat med <strong>två klick</strong>. Vi processar alla återbetalningar manuellt, så det kan ta ett par dagar innan pengarna dyker upp. Se de <a href=\"/terms#returns\">fullständiga villkoren</a>."

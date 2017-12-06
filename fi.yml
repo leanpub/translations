@@ -102,7 +102,6 @@ fi:
   w_get_my_free_book: "Hanki ilmainen kirjani!"
   w_get_my_free_bundle: "Hanki ilmainen kokoelmani!"
   w_grand_total: "Loppusumma"
-  w_100_pc_happiness_guarantee_html: "<span class='pc'>100%</span> Happiness takuu"
   w_happiness_guarantee_book_html: "Kun ostat Leanpub - kirjan, saat <strong>kaikki kirjan päivitykset ilmaiseksi!</strong> Kaikki kirjat ovat saatavilla muodoissa <strong>PDF</strong>, <strong>EPUB</strong> (iPadille) ja <strong>MOBI</strong> (Kindlelle). Kirjoissa <strong>ei ole DRM:ää</strong>. Ostamisessa <strong>ei ole riskejä</strong>, ainoastaan <strong>taattu tyytyväisyys</strong> tai rahasi takaisin."
   w_happiness_guarantee_bundle_html: "Kun ostat Leanpub - kokoelman, saat <strong>kaikki päivitykset kaikkiin kokoelman kirjoihin ilmaiseksi!</strong> Kaikki kirjat ovat saatavilla muodoissa <strong>PDF</strong>, <strong>EPUB</strong> (iPadille) and <strong>MOBI</strong> (Kindlelle). Kirjoissa <strong>ei ole DRM:ää</strong>. Ostamisessa <strong>ei ole riskiä</strong>, ainoastaan <strong>taattu tyytyväisyys</strong> tai rahasi takaisin."
   w_happiness_guarantee_days_html: "<strong>45 päivän sisällä ostosta</strong> voit palauttaa kirjasi <strong>täyttä hyvitystä vastaan</strong> minkä tahansa Leanpub - oston osalta, <strong>kahdella napsautuksella</strong>. Käsittelemme palautukset manuaalisesti, joten he tekevät kestää muutaman päivän näy. Katso <a href=\"/terms#returns\">täydelliset ehdot</a>."
