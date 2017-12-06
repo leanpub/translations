@@ -185,7 +185,7 @@ fr:
   p_endnotes_title: "Notes"
   p_isbn_for: "ISBN pour la version %{format_type}"
   p_tweet_this_book: "Tweet ce livre!"
-  p_tweet_spread_word: "S'il vous plaît aider %{author} en parlant de ce livre sur \\href{http://twitter.com}{Twitter}!"
+  p_tweet_spread_word: "S'il vous plaît aidez %{author} en parlant de ce livre sur \\href{http://twitter.com}{Twitter}!"
   p_tweet_suggested_tweet: "Le tweet suggéré pour ce livre est:"
   p_tweet_suggested_hashtag: "Le hashtag suggéré pour ce livre est \\href{https://twitter.com/search?q=%23%{suggested_hashtag}}{\\#%{suggested_hashtag}}."
   p_tweet_find_out_what: "Découvrez ce que les gens disent à propos du livre en cliquant sur ce lien pour rechercher ce hashtag sur Twitter:"
