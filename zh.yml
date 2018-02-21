@@ -90,7 +90,7 @@ zh:
   w_email_the_authors: "Email 給作者（們）"
   w_embargo: "EMBARGO!"
   w_embargo_message_1: "記者與網誌寫手：在禁令解除之前，請勿對大眾發布與此有關的任何消息！"
-  w_embargo_message_2: "把請聯繫作者以獲得更多相關訊息。"
+  w_embargo_message_2: "請聯繫作者以獲得更多相關訊息。"
   w_embed_code_copy_instructions: "按下 (Control/⌘)-C 把代碼複製到剪貼簿"
   w_fanfic_always_free: "同人誌在 Leanpub 上都是免費出售"
   w_fanfic_of: "這是同人小說，創作基礎源自於 %{author} 所撰寫的 %{work}。."
