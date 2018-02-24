@@ -108,6 +108,7 @@ fr:
   w_happiness_guarantee_title: "Aucun risque ! Satisfait ou remboursé !"
   w_installments_completed: "Tomes terminés"
   w_interested_short: "Ce livre vous interesse ? Encouragez l'auteur en lui indiquant le prix que vous êtes prêts à payer !"
+  w_interested_course_short: "Interested in this course? Show your support by saying what you'd like to pay for it!"
   w_lang_afr: "Afrikaans"
   w_lang_ara: "arabe"
   w_lang_hrv: "croate"
@@ -177,8 +178,8 @@ fr:
 #######################
 # Fields for books
 #######################
-  p_book_for_sale_at: "Ce livre est en vente à \\url{http://leanpub.com/%{slug}}"
-  p_book_for_sale_at_html: "Ce livre est en vente à <a href=\"http://leanpub.com/%{slug}\">http://leanpub.com/%{slug}</a>"
+  p_book_for_sale_at: "Ce livre est en vente à \\url{%{url}}"
+  p_book_for_sale_at_html: "Ce livre est en vente à <a href=\"%{url}\">%{url}</a>"
   p_leanpub_empowers_long_markdown: "Ce livre est publié par [Leanpub](http://leanpub.com). Leanpub permet aux auteurs et aux éditeurs de bénéficier du Lean Publishing. [Lean Publishing](http://leanpub.com/manifesto) consiste à publier à l'aide d'outils très simples de nombreuses itérations d'un livre électronique en cours de rédaction, d'obtenir des retours et commentaires des lecteurs afin d'améliorer le livre."
   p_published_on: "Version publiée le %{published_on}"
   p_title_page: "Page de titre"

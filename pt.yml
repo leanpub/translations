@@ -108,6 +108,7 @@ pt:
   w_happiness_guarantee_title: "A garantia Leanpub incondicional, sem riscos, de 100% de satisfação"
   w_installments_completed: "Parcelas concluídas"
   w_interested_short: "Interessado neste livro? Mostre o seu apoio dizendo quanto você gostaria de pagar por ele!"
+  w_interested_course_short: "Interested in this course? Show your support by saying what you'd like to pay for it!"
   w_lang_afr: "Afrikaans"
   w_lang_ara: "Arabic"
   w_lang_hrv: "Croatian"
@@ -177,8 +178,8 @@ pt:
 #######################
 # Fields for books
 #######################
-  p_book_for_sale_at: "Esse livro está à venda em \\url{http://leanpub.com/%{slug}}"
-  p_book_for_sale_at_html: "Esse livro está à venda em <a href=\"http://leanpub.com/%{slug}\">http://leanpub.com/%{slug}</a>"
+  p_book_for_sale_at: "Esse livro está à venda em \\url{%{url}}"
+  p_book_for_sale_at_html: "Esse livro está à venda em <a href=\"%{url}\">%{url}</a>"
   p_leanpub_empowers_long_markdown: "Esse é um livro [Leanpub](http://leanpub.com). A Leanpub dá poderes aos autores e editores a partir do processo de Publicação Lean. [Publicação Lean](http://leanpub.com/manifesto) é a ação de publicar um ebook em desenvolvimento com ferramentas leves e muitas iterações para conseguir feedbacks dos leitores, pivotar até que você tenha o livro ideal e então conseguir tração."
   p_published_on: "Essa versão foi publicada em %{published_on}"
   p_title_page: "Folha de Rosto"

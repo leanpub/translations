@@ -108,6 +108,7 @@ cs:
   w_happiness_guarantee_title: "Leanpub bez podmínek, žádné riziko, 100% záruka spokojenosti"
   w_installments_completed: Plně splaceno
   w_interested_short: "Máte zájem o tuto knihu? Vyjádřete svoji podporu tak, že řeknete, kolik byste za ni zaplatil/a!"
+  w_interested_course_short: "Interested in this course? Show your support by saying what you'd like to pay for it!"
   w_lang_afr: "Afrikaans"
   w_lang_ara: "Arabic"
   w_lang_hrv: "Croatian"
@@ -177,8 +178,8 @@ cs:
 #######################
 # Fields for books
 #######################
-  p_book_for_sale_at: "Tato kniha se prodává na \\url{http://leanpub.com/%{slug}}"
-  p_book_for_sale_at_html: "Tato kniha se prodává na <a href=\"http://leanpub.com/%{slug}\">http://leanpub.com/%{slug}</a>"
+  p_book_for_sale_at: "Tato kniha se prodává na \\url{%{url}}"
+  p_book_for_sale_at_html: "Tato kniha se prodává na <a href=\"%{url}\">%{url}</a>"
   p_leanpub_empowers_long_markdown: "Toto je [Leanpub](http://leanpub.com) kniha. Leanpub umožňuje autorům a vydavatelům postupný proces publikování. [Lean Publishing](http://leanpub.com/manifesto) je způsob vydávání rozpracovaných elektronických knih za použití jednoduchých nástrojů a mnohých opakování (iterací), abyste získali zpětnou vazbu od čtenářů, a ti vám tak pomohli napsat tu správnou knihu a získat úspěch na trhu, hned jak ji dokončíte."
   p_published_on: "Tato verze byla publikována %{published_on}"
   p_title_page: "Titulní strana"

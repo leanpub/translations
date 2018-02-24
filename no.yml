@@ -116,6 +116,7 @@
   w_happiness_guarantee_title: "Ubetinget Leanpub: ingen risiko, 100% tilfredshet garantert"
   w_installments_completed: "avdrag fullført"
   w_interested_short: "Er du interessert i denne boken? Vis din støtte ved å fortelle oss hva du vil betale for det!"
+  w_interested_course_short: "Interested in this course? Show your support by saying what you'd like to pay for it!"
   w_lang_afr: "Afrikaans"
   w_lang_ara: "Arabisk"
   w_lang_hrv: "Kroatisk"
@@ -185,8 +186,8 @@
 #######################
 # Fields for books
 #######################
-  p_book_for_sale_at: "Denne boken er til salgs på \\url{http://leanpub.com/%{slug}}"
-  p_book_for_sale_at_html: "Denne boken er til salgs på <a href=\"http://leanpub.com/%{slug}\">http://leanpub.com/%{slug}</a>"
+  p_book_for_sale_at: "Denne boken er til salgs på \\url{%{url}}"
+  p_book_for_sale_at_html: "Denne boken er til salgs på <a href=\"%{url}\">%{url}</a>"
   p_leanpub_empowers_long_markdown: "Dette er en [Leanpub](http://leanpub.com) bok. Leanpub utdanner forfattere og utgivere med \"Lean Publisering\"-prosessen. [Lean Publisering](http://leanpub.com/manifesto) hjelper med å publisere arbeidsversjoner av en bok, bruker lette verktøy og mange iterasjoner for å få leserens tilbakemeldinger til du har den rette boken og bygger interesse mens du gjør det."
   p_published_on: "Denne versjonen ble publisert %{published_on}"
   p_title_page: "Tittelside"

@@ -128,6 +128,7 @@ ar:
   w_happiness_guarantee_title: "Leanpub بدون شروط, بدون مجازفه, 100% ضمان لسعادتك معنا"
   w_installments_completed: Installments completed
   w_interested_short: "مهتم بهذا الكتاب؟ أظهر دعمك و أخبرنا كم تريد أن تدفع ثمنا لهذا الكتاب!"
+  w_interested_course_short: "Interested in this course? Show your support by saying what you'd like to pay for it!"
   w_lang_afr: "Afrikaans"
   w_lang_ara: "العربية"
   w_lang_hrv: "الكرواتية"
@@ -197,8 +198,8 @@ ar:
 #######################
 # Fields for books
 #######################
-  p_book_for_sale_at: "هذا الكتاب للبيع على \\url{http://leanpub.com/%{slug}}"
-  p_book_for_sale_at_html: "هذا الكتاب للبيع على <a href=\"http://leanpub.com/%{slug}\">http://leanpub.com/%{slug}</a>"
+  p_book_for_sale_at: "هذا الكتاب للبيع على \\url{%{url}}"
+  p_book_for_sale_at_html: "هذا الكتاب للبيع على <a href=\"%{url}\">%{url}</a>"
   p_leanpub_empowers_long_markdown: "This is a [Leanpub](http://leanpub.com) book. Leanpub empowers authors and publishers with the Lean Publishing process. [Lean Publishing](http://leanpub.com/manifesto) is the act of publishing an in-progress ebook using lightweight tools and many iterations to get reader feedback, pivot until you have the right book and build traction once you do."
   p_published_on: "هذه النسخه نٌشرت فى %{published_on}"
   p_title_page: "عنوان الصفحة"

@@ -108,6 +108,7 @@ ja:
   w_happiness_guarantee_title: "Leanpubは無条件かつノーリスクで100%の満足を保証します"
   w_installments_completed: "冊まで執筆済み"
   w_interested_short: "本書に興味をお持ちですか？購入したい方は希望購入金額を教えてください！"
+  w_interested_course_short: "Interested in this course? Show your support by saying what you'd like to pay for it!"
   w_lang_afr: "Afrikaans"
   w_lang_ara: "アラビア語"
   w_lang_hrv: "クロアチア語"
@@ -177,8 +178,8 @@ ja:
 #######################
 # Fields for books
 #######################
-  p_book_for_sale_at: "本書はこちらで販売中です \\url{http://leanpub.com/%{slug}}"
-  p_book_for_sale_at_html: "This book is for sale at <a href=\"http://leanpub.com/%{slug}\">http://leanpub.com/%{slug}</a>"
+  p_book_for_sale_at: "本書はこちらで販売中です \\url{%{url}}"
+  p_book_for_sale_at_html: "This book is for sale at <a href=\"%{url}\">%{url}</a>"
   p_leanpub_empowers_long_markdown: "本書は [Leanpub](http://leanpub.com) の電子書籍です。Leanpubはリーンパブリッシングプロセスで著者や出版社を支援します。 [リーンパブリッシング](http://leanpub.com/manifesto) は新しい出版スタイルです。軽量なツールを使って執筆中の電子書籍を出版し、読者のフィードバックをもらいながら魅力的な本に仕上がるまでピボットを繰り返すことができます。"
   p_published_on: "この版は %{published_on} に発行されました。"
   p_title_page: "タイトルページ"

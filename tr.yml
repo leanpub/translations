@@ -108,6 +108,7 @@ tr:
   w_happiness_guarantee_title: "Leanpub Önkoşulsuz, Risksiz, %100 Mutluluk Garantilidir"
   w_installments_completed: "Tamamlanan yüklemeler"
   w_interested_short: "Kitap ilginizi mi çekti? Yayınlandığında ödemek istediğiniz fiyatı belirterek desteğinizi gösterebilirsiniz!"
+  w_interested_course_short: "Interested in this course? Show your support by saying what you'd like to pay for it!"
   w_lang_afr: "Afrikaans"
   w_lang_ara: "Arapça"
   w_lang_hrv: "Hırvatça"
@@ -177,8 +178,8 @@ tr:
 #######################
 # Fields for books
 #######################
-  p_book_for_sale_at: "Bu kitap \\url{http://leanpub.com/%{slug}} adresinde satıştadır."
-  p_book_for_sale_at_html: "Bu kitap <a href=\"http://leanpub.com/%{slug}\">http://leanpub.com/%{slug}</a> adresinde satıştadır."
+  p_book_for_sale_at: "Bu kitap \\url{%{url}} adresinde satıştadır."
+  p_book_for_sale_at_html: "Bu kitap <a href=\"%{url}\">%{url}</a> adresinde satıştadır."
   p_leanpub_empowers_long_markdown: "Bu bir [Leanpub](http://leanpub.com) kitabıdır. Leanpub, yazar ve yayımcıları Lean Yayımlama sistemi ile destekleyen bir kuruluştur. [Lean Yayımlama](http://leanpub.com/manifesto), henüz çalışma aşamasında olan bir kitabı kullanışlı yollarla destekleyerek, okuyucu geri dönüşünü sağlayan ve prosesi kolaylaştıran bir yöntemdir."
   p_published_on: "Bu versiyon, %{published_on} tarihinde yayınlanmıştır"
   p_title_page: "Başlık Sayfası"

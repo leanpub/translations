@@ -118,6 +118,7 @@ ru:
   w_happiness_guarantee_title: "Безусловная 100% гарантия счастья без риска от Leanpub"
   w_installments_completed: Платеж завершен
   w_interested_short: "Желаете приобрести книгу и поддержать тем самым авторов? Укажите стоимость, которую вы готовы за неё заплатить, когда она будет опубликована."
+  w_interested_course_short: "Interested in this course? Show your support by saying what you'd like to pay for it!"
   w_lang_afr: "Afrikaans"
   w_lang_ara: "Арабский"
   w_lang_hrv: "Хорватский"
@@ -187,8 +188,8 @@ ru:
 #######################
 # Fields for books
 #######################
-  p_book_for_sale_at: "Эта книга предназначена для продажи на \\url{http://leanpub.com/%{slug}}"
-  p_book_for_sale_at_html: "This book is for sale at <a href=\"http://leanpub.com/%{slug}\">http://leanpub.com/%{slug}</a>"
+  p_book_for_sale_at: "Эта книга предназначена для продажи на \\url{%{url}}"
+  p_book_for_sale_at_html: "This book is for sale at <a href=\"%{url}\">%{url}</a>"
   p_leanpub_empowers_long_markdown: "Это книга с [Leanpub](http://leanpub.com) book. Leanpub позволяет авторам и издателям участвовать в так называемом [Lean Publishing](http://leanpub.com/manifesto) - процессе, при котором электронная книга становится доступна читателям ещё до её завершения. Это помогает собрать отзывы и пожелания для скорейшего улучшения книги. Мы призываем авторов публиковать свои работы как можно раньше и чаще, постепенно улучшая качество и объём материала. Тем более, что с нашими удобными инструментами этот процесс превращается в удовольствие."
   p_published_on: "Эта версия была опубликована на %{published_on}"
   p_title_page: "Заглавная страница"

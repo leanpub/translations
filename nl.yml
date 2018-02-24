@@ -108,6 +108,7 @@ nl:
   w_happiness_guarantee_title: "The Leanpub 45-day 100% Happiness Guarantee"
   w_installments_completed: termijnen voltooid
   w_interested_short: "Interesse in dit boek Toon uw steun door te zeggen wat je wilt betalen?!"
+  w_interested_course_short: "Interested in this course? Show your support by saying what you'd like to pay for it!"
   w_lang_afr: "Afrikaans"
   w_lang_ara: "Arabisch"
   w_lang_hrv: "Croatian"
@@ -177,8 +178,8 @@ nl:
 #######################
 # Fields for books
 #######################
-  p_book_for_sale_at: "Dit boek is te koop bij \\url{http://leanpub.com/%{slug}}"
-  p_book_for_sale_at_html: "This book is for sale at <a href=\"http://leanpub.com/%{slug}\">http://leanpub.com/%{slug}</a>"
+  p_book_for_sale_at: "Dit boek is te koop bij \\url{%{url}}"
+  p_book_for_sale_at_html: "This book is for sale at <a href=\"%{url}\">%{url}</a>"
   p_leanpub_empowers_long_markdown: "Dit is een [Leanpub](http://leanpub.com) boek. Leanpub stelt auteurs en uitgevers in staat om volgens het Lean uitgeefproces te werken. [Lean Publishing](http://leanpub.com/manifesto) is het uitgeven van een boek dat nog onderhanden is met lichtgewicht gereedschap en vele iteraties om feedback te krijgen van de lezers. Op deze manier kun je aanpassingen maken tot je het juiste boek hebt, en als je zover bent helpt het om te zorgen dat je een positie krijgt in de markt."
   p_published_on: "Deze versie is gepubliceerd op %{published_on}"
   p_title_page: "Titelblad"

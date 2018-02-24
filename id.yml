@@ -108,6 +108,7 @@ id:
   w_happiness_guarantee_title: "Jaminan Kepuasan 100%, Bebas Resiko, Tanpa Syarat ala Leanpub"
   w_installments_completed: Seri telah lengkap
   w_interested_short: "Tertarik dengan buku ini? Tunjukkan dukungan Anda dengan menyebutkan harga yang sedia Anda bayarkan untuknya!"
+  w_interested_course_short: "Interested in this course? Show your support by saying what you'd like to pay for it!"
   w_lang_afr: "Afrikaans"
   w_lang_ara: "Arab"
   w_lang_hrv: "Kroasia"
@@ -177,8 +178,8 @@ id:
 #######################
 # Fields for books
 #######################
-  p_book_for_sale_at: "Buku ini dijual di \\url{http://leanpub.com/%{slug}}"
-  p_book_for_sale_at_html: "Buku ini dijual di <a href=\"http://leanpub.com/%{slug}\">http://leanpub.com/%{slug}</a>"
+  p_book_for_sale_at: "Buku ini dijual di \\url{%{url}}"
+  p_book_for_sale_at_html: "Buku ini dijual di <a href=\"%{url}\">%{url}</a>"
   p_leanpub_empowers_long_markdown: "Ini adalah sebuah buku [Leanpub](http://leanpub.com). Leanpub memberdayakan penulis dan penerbit dengan proses Lean Publishing. [Lean Publishing](http://leanpub.com/manifesto) adalah model penerbitan ebook dalam-proses menggunakan piranti ringan dan sejumlah iterasi untuk memperoleh masukan dari pembaca, menerapkan pivot hingga Anda dapat mewujudkan komposisi buku yang pas dan menarik."
   p_published_on: "Versi ini diterbitkan pada %{published_on}"
   p_title_page: "Halaman Judul"

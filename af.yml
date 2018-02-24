@@ -108,6 +108,7 @@ af:
   w_happiness_guarantee_title: "The Leanpub Onvoorwaardelike, Geen Risiko, 100% Tevredenheidswaarborg"
   w_installments_completed: Voltooide aflewerings
   w_interested_short: "Geïnteresseerd in hierdie boek? Wys u ondersteuning en sê hoeveel u bereid is om te betaal!"
+  w_interested_course_short: "Interested in this course? Show your support by saying what you'd like to pay for it!"
   w_lang_afr: "Afrikaans"
   w_lang_ara: "Arabies"
   w_lang_hrv: "Kroaties"
@@ -177,8 +178,8 @@ af:
 #######################
 # Fields for books
 #######################
-  p_book_for_sale_at: "Hierdie boek is te koop by \\url{http://leanpub.com/%{slug}}"
-  p_book_for_sale_at_html: "Hierdie boek is te koop by <a href=\"http://leanpub.com/%{slug}\">http://leanpub.com/%{slug}</a>"
+  p_book_for_sale_at: "Hierdie boek is te koop by \\url{%{url}}"
+  p_book_for_sale_at_html: "Hierdie boek is te koop by <a href=\"%{url}\">%{url}</a>"
   p_leanpub_empowers_long_markdown: "Hierdie is 'n boek van [Leanpub](http://leanpub.com). Leanpub bemagtig outeurs en uitgewers d.m.v. die Lean Publikasieproses. [Lean Publikasies](http://leanpub.com/manifesto) is die metodiek van publisering and in-wordende e-boeke d.m.v. liggewig methodes en vele iterasies om leserterugvoer te bekom, en te spil totdat die regte boek vorendag kom en sodoende momentum te verkry."
   p_published_on: "Hierdie weergawe was vrygestel op %{published_on}"
   p_title_page: "Titelbladsy"

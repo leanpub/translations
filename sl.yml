@@ -114,6 +114,7 @@ sl:
   w_happiness_guarantee_title: "Leanpub brezpogojno, brez tveganja 100% garancija Sreča"
   w_installments_completed: obrokih končan
   w_interested_short: "Zanima me v tej knjigi Pokažite svojo podporo z besedami, kaj bi želeli plačati za to?"
+  w_interested_course_short: "Interested in this course? Show your support by saying what you'd like to pay for it!"
   w_lang_afr: "Afrikaans"
   w_lang_ara: "Arabic"
   w_lang_hrv: "Croatian"
@@ -183,8 +184,8 @@ sl:
 #######################
 # Fields for books
 #######################
-  p_book_for_sale_at: "Ta knjiga je naprodaj \\url{http://leanpub.com/%{slug}}"
-  p_book_for_sale_at_html: "This book is for sale at <a href=\"http://leanpub.com/%{slug}\">http://leanpub.com/%{slug}</a>"
+  p_book_for_sale_at: "Ta knjiga je naprodaj \\url{%{url}}"
+  p_book_for_sale_at_html: "This book is for sale at <a href=\"%{url}\">%{url}</a>"
   p_leanpub_empowers_long_markdown: "This is a [Leanpub](http://leanpub.com) book. Leanpub empowers authors and publishers with the Lean Publishing process. [Lean Publishing](http://leanpub.com/manifesto) is the act of publishing an in-progress ebook using lightweight tools and many iterations to get reader feedback, pivot until you have the right book and build traction once you do."
   p_published_on: "Ta izdaja je bila objavljena na %{published_on}"
   p_title_page: "Title Page"
