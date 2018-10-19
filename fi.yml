@@ -139,7 +139,8 @@ fi:
   w_learn_more: "Lue lisää"
   w_mailchimp_interested_short: "Interested in this book? Sign up for the author's personal mailing list!"
   w_minimum: Minimi
-  w_minimum_price: "Minimihinta:"
+  w_minimum_price_colon: "Minimihinta:"
+  w_minimum_price: "Minimihinta"
   w_name: "Nimi"
   w_notify_when: "Ilmoita minulle kun tämä on julkaistu"
   w_packages: "Packages"
@@ -158,7 +159,8 @@ fi:
   w_share_book: "Jaa tämä kirja"
   w_shipping_confirmation: "shipping confirmation"
   w_suggested: Ehdotetut
-  w_suggested_price: "Suositeltu hinta:"
+  w_suggested_price_colon: "Suositeltu hinta:"
+  w_suggested_price: "Suositeltu hinta"
   w_toc: "Sisällysluettelo"
   w_token_or_password: "Token or Password"
   w_total: "Yhteensä"

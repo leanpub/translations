@@ -149,6 +149,7 @@ ru:
   w_learn_more: "Узнать больше"
   w_mailchimp_interested_short: "Вам интересна эта книга? Тогда подпишитесь на персональную рассылку автора, чтобы первым узнать о всех обновлениях!"
   w_minimum: Минимальная
+  w_minimum_price_colon: "Минимальная цена"
   w_minimum_price: "Минимальная цена"
   w_name: "имя"
   w_notify_when: "Уведомить меня о публикации этой книги"
@@ -168,6 +169,7 @@ ru:
   w_share_book: "Поделиться информацией о книге"
   w_shipping_confirmation: "подтверждение доставки"
   w_suggested: "Рекомендуемая"
+  w_suggested_price_colon: "Рекомендуемая цена"
   w_suggested_price: "Рекомендуемая цена"
   w_toc: "Оглавление"
   w_token_or_password: "Токен или пароль"

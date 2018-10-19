@@ -159,7 +159,8 @@ ar:
   w_learn_more: "معرفة المزيد"
   w_mailchimp_interested_short: "Interested in this book? Sign up for the author's personal mailing list!"
   w_minimum: Minimum
-  w_minimum_price: "الحد الأدنى للسعر :"
+  w_minimum_price_colon: "الحد الأدنى للسعر :"
+  w_minimum_price: "الحد الأدنى للسعر "
   w_name: "الإسم"
   w_notify_when: "أخبرنى عندما ينشر الكتاب"
   w_packages: "Packages"
@@ -178,6 +179,7 @@ ar:
   w_share_book: "مشاركة هذا الكتاب"
   w_shipping_confirmation: "shipping confirmation"
   w_suggested: "Suggested"
+  w_suggested_price_colon: "سعر مٌقترح"
   w_suggested_price: "سعر مٌقترح"
   w_toc: "قائمة المحتويات"
   w_token_or_password: "Token or Password"

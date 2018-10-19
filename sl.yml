@@ -145,7 +145,8 @@ sl:
   w_learn_more: "Izvedite več"
   w_mailchimp_interested_short: "Interested in this book? Sign up for the author's personal mailing list!"
   w_minimum: Minimalni
-  w_minimum_price: "Najmanjša cena:"
+  w_minimum_price_colon: "Najmanjša cena:"
+  w_minimum_price: "Najmanjša cena"
   w_name: "Ime"
   w_notify_when: "Obvestite me, ko bo knjiga izšla"
   w_packages: "Packages"
@@ -164,7 +165,8 @@ sl:
   w_share_book: "Razširite vest"
   w_shipping_confirmation: "shipping confirmation"
   w_suggested: Predlagan
-  w_suggested_price: "Priporočena cena:"
+  w_suggested_price_colon: "Priporočena cena:"
+  w_suggested_price: "Priporočena cena"
   w_toc: "Kazalo"
   w_token_or_password: "Token or Password"
   w_total: "Cena"

@@ -149,7 +149,8 @@ sr:
   w_learn_more: "Сазнај више"
   w_mailchimp_interested_short: "Interested in this book? Sign up for the author's personal mailing list!"
   w_minimum: Minimum
-  w_minimum_price: "Минимална цена:"
+  w_minimum_price_colon: "Минимална цена:"
+  w_minimum_price: "Минимална цена"
   w_name: "Назив"
   w_notify_when: "Обавестите ме када ова књига буде објављена"
   w_packages: "Packages"
@@ -168,7 +169,8 @@ sr:
   w_share_book: "Поделите ову књигу са другима"
   w_shipping_confirmation: "shipping confirmation"
   w_suggested: Suggested
-  w_suggested_price: "Предложена цена:"
+  w_suggested_price_colon: "Предложена цена:"
+  w_suggested_price: "Предложена цена"
   w_toc: "Садржај"
   w_token_or_password: "Token or Password"
   w_total: "Укупно"

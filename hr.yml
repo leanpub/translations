@@ -141,7 +141,8 @@ hr:
   w_learn_more: "Saznajte više"
   w_mailchimp_interested_short: "Interested in this book? Sign up for the author's personal mailing list!"
   w_minimum: Minimum
-  w_minimum_price: "Minimalna cijena:"
+  w_minimum_price_colon: "Minimalna cijena:"
+  w_minimum_price: "Minimalna cijena"
   w_name: "Naziv"
   w_notify_when: "Obavijestite me kada ova knjiga bude objavljena"
   w_packages: "Packages"
@@ -160,7 +161,8 @@ hr:
   w_share_book: "Podijeli ovu knjigu"
   w_shipping_confirmation: "shipping confirmation"
   w_suggested: Suggested
-  w_suggested_price: "sugerirana cijena:"
+  w_suggested_price_colon: "sugerirana cijena:"
+  w_suggested_price: "sugerirana cijena"
   w_toc: "Sadržaj"
   w_token_or_password: "Token or Password"
   w_total: "Ukupno"

@@ -140,7 +140,8 @@ sv:
   w_learn_more: "Läs mer"
   w_mailchimp_interested_short: "Interested in this book? Sign up for the author's personal mailing list!"
   w_minimum: Minst
-  w_minimum_price: "Lägstapris:"
+  w_minimum_price_colon: "Lägstapris:"
+  w_minimum_price: "Lägstapris"
   w_name: "Namn"
   w_notify_when: "Underrätta mig när denna publiceras"
   w_packages: "Packages"
@@ -159,7 +160,8 @@ sv:
   w_share_book: "Dela denna bok"
   w_shipping_confirmation: "shipping confirmation"
   w_suggested: Föreslagna
-  w_suggested_price: "Föreslaget pris:"
+  w_suggested_price_colon: "Föreslaget pris:"
+  w_suggested_price: "Föreslaget pris"
   w_toc: "Innehållsförteckning"
   w_token_or_password: "Token or Password"
   w_total: "Totalt"
