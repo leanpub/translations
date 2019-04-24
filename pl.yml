@@ -107,14 +107,16 @@ pl:
   w_feedback: "Feedback"
   w_feedback_blurb_html: "Please feel free to post your comments about this book below! From identifying typos to writing reviews, your feedback can help %{authors} improve this book for you and your fellow readers."
   w_free: "Za darmo!"
-  w_free_sample: "Darmowy fragment"
+  w_free_updates_title: "Free Updates. Free App. DRM Free."
+  w_free_updates_html: "If you buy a Leanpub book, you get free updates for as long as the author updates the book! Many authors use Leanpub to publish their books in-progress, while they are writing them. All readers get free updates, regardless of when they bought the book or how much they paid (including free).<br/><br/>Most Leanpub books are available in PDF (for computers), EPUB (for phones and tablets), MOBI (for Kindle) and in the free Leanpub App (for Mac, Windows, iOS and Android). The formats that a book includes are shown at the top right corner of this page.<br/><br/>Finally, Leanpub books don't have any DRM copy-protection nonsense, so you can easily read them on any supported device."
+  w_free_updates_learn_more: "Learn more about Leanpub's ebook formats and where to read them"
+  w_read_free_sample: "Przeczytaj bezpłatną próbkę"
   w_free_to: "Free to"
   w_get_my_free_book: "Pobierz darmową książkę!"
   w_get_my_free_bundle: "Pobierz darmowy pakiet!"
   w_grand_total: "Grand Total"
   w_happiness_guarantee_book_html: "If you buy a Leanpub book you get <strong>all the updates to the book for free!</strong> All books are available in <strong>PDF</strong>, <strong>EPUB</strong> (for iPad) and <strong>MOBI</strong> (for Kindle). There is <strong>no DRM</strong>. There is <strong>no risk</strong>, just <strong>guaranteed happiness</strong> or your money back."
   w_happiness_guarantee_bundle_html: "If you buy a Leanpub bundle you get <strong>all the updates to the books in the bundle for free!</strong> All books are available in <strong>PDF</strong>, <strong>EPUB</strong> (for iPad) and <strong>MOBI</strong> (for Kindle). There is <strong>no DRM</strong>. There is <strong>no risk</strong>, just <strong>guaranteed happiness</strong> or your money back."
-  w_happiness_guarantee_days_html: "Within <strong>45 days of purchase</strong> you can get a <strong>100% refund</strong> on any Leanpub purchase, in <strong>two clicks</strong>. We process the refunds manually, so they may take a few days to show up. See <a href=\"/terms#returns\">full terms</a>."
   w_happiness_guarantee_days_html: "Leanpub posiada <strong>45-dniową</strong> gwarancję bezwarunkowego zwrotu pieniędzy na każdy zakup <strong>w dwóch prostych krokach</strong>. Zwroty obsługujemy ręcznie więc środki mogą się pojawić na twoim koncie po kilku dniach. <a href=\"/terms#returns\">Zobacz warunki świadczenia usług.</a>."
   w_happiness_guarantee_title: "45-dniowa gwarancja zwrotu pieniędzy"
   w_installments_completed: Odcinki ukończone
@@ -191,8 +193,8 @@ pl:
 #######################
 # Fields for books
 #######################
-  p_book_for_sale_at: "Ta książka jest do kupienia \\url{%{url}}"
-  p_book_for_sale_at_html: "Ta książka jest do kupienia <a href=\"%{url}\">%{url}</a>"
+  p_book_for_sale_at: "Ta książka jest do kupienia na \\url{%{url}}"
+  p_book_for_sale_at_html: "Ta książka jest do kupienia na <a href=\"%{url}\">%{url}</a>"
   p_leanpub_empowers_long_markdown: "This is a [Leanpub](http://leanpub.com) book. Leanpub empowers authors and publishers with the Lean Publishing process. [Lean Publishing](http://leanpub.com/manifesto) is the act of publishing an in-progress ebook using lightweight tools and many iterations to get reader feedback, pivot until you have the right book and build traction once you do."
   p_published_on: "Wersja opublikowana %{published_on}"
   p_title_page: "Strona tytułowa"
