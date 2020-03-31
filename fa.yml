@@ -4,7 +4,7 @@
 # Copyright (c) 2010-2020 Ruboss Technology Corporation.
 #
 # Farsi
-# 2 letter code = fa. 3 letter code = per.
+# 2 letter code = fa. 3 letter code = fas/per.
 ###
 en:
   support:
@@ -46,7 +46,7 @@ en:
   w_also_by_the_editor: "دیگر آثار این ویراستار"
   w_also_by_the_editors: "دیگر آثار این ویراستاران"
   w_book_num_translations_html: "<em>%{orig_book}</em> به %{num_translations} زبان دیگر شامل %{other_langs} ترجمه شده است."
-  w_book_published_on_leanpub_by: "زمان انتشار کتاب در لیت‌پاب"
+  w_book_published_on_leanpub_by: "زمان انتشار کتاب در لین‌پاب"
   w_book_freshness_timestamp:
     lt_1_minute: "همین الان!"
     lt_2_minutes: "یک دقیقه پیش"
@@ -67,17 +67,17 @@ en:
   w_bundle_share: "این بسته را شیر کنید"
   w_bundle_suggested_price_html: "قیمت پیشنهادی این بسته <strong>%{suggested}</strong> و حداقل قیمت این بسته برابر است با ..."
   w_bundles_available: "بسته‌های موجود"
-  w_bundles_included: "همچنین این کتاب در بسته‌های زیر نیز موجود است:"
-  w_buy_for: "قیمت پرداختی من…"
+  w_bundles_included: "همچنین این کتاب در بسته‌های زیر هم موجود است:"
+  w_buy_for: "قیمت پرداختی من …"
   w_buy_now: "همین حالا کتاب را بخرید!"
   w_buy_now_terse: "همین حالا بخرید"
   w_buying: "خرید کتاب %{book}"
   w_buying_bundle: "خرید بسته‌ی %{bundle}"
   w_by: "توسط"
   w_by_author: " نوشته‌ی %{author_string}"
-  w_cause_gets: "Cause gets"
-  w_causes_get: "Causes get"
-  w_causes_supported: "Causes Supported"
+  w_cause_gets: "دریافتی انجمن‌ها"
+  w_causes_get: "دریافتی انجمن"
+  w_causes_supported: "انجمن پشتیبانی کننده"
   w_complete: "تکمیل"
   w_completed_on: "در تاریخ %{updated_at} تکمیل شده است"
   w_complete_amount: "%{percent_complete}% درصد این کتاب تکمیل شده است"
@@ -147,9 +147,9 @@ en:
   w_minimum_price: "حداقل قیمت"
   w_name: "نام"
   w_notify_when: "وقتی این کتاب منتشر شد خبرم کن"
-  w_packages: "بسته‌ها"
+  w_packages: "بسته"
   w_pages: "صفحه"
-  w_please_wait: "لطفا منتظر بمانید…"
+  w_please_wait: "لطفا منتظر بمانید …"
   w_read: "بخوانید"
   w_read_more: "بیشتر بخوانید"
   w_read_less: "کمتر بخوانید"
@@ -186,7 +186,7 @@ en:
 #######################
   p_book_for_sale_at: "این کتاب از آدرس \\url{%{url}} قابل خرید است"
   p_book_for_sale_at_html: "این کتاب از آدرس <a href=\"%{url}\">%{url}</a> قابل خرید است"
-  p_leanpub_empowers_long_markdown: "این کتاب توسط [Leanpub](http://leanpub.com) منتشر شده است. انتشارات Leanpub empowers authors and publishers with the Lean Publishing process. [Lean Publishing](http://leanpub.com/manifesto) is the act of publishing an in-progress ebook using lightweight tools and many iterations to get reader feedback, pivot until you have the right book and build traction once you do."
+  p_leanpub_empowers_long_markdown: "این یک کتاب [لین‌پابی](http://leanpub.com) است. لین‌پاب با فراهم کردن پروسه‌ی ویژه‌ای به نام لین پابلیشینگ یا انتشار ساده و روان به برای نویسندگان و ناشران قدرت می‌دهد. [لین پابلیشینگ](http://leanpub.com/manifesto) به این معنی است که می‌وانید کتاب را در حین نگارش با استفاده از ابزارهای ساده و سبک لین‌پاب منتشر کرده و هر چقدر می‌خواهید بازخورد خوانندگان را گرفته و کتاب را به روز کنید تا آن زمان که کتاب شما به کمال برسد و بتوانید فروشی را که مد نظر دارید از آن به دست بیاورید."
   p_published_on: "این نسخه در تاریخ %{published_on} منتشر شده است"
   p_title_page: "عنوان صفحه"
   p_endnotes_title: "یادداشت"
