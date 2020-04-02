@@ -1,12 +1,15 @@
-
 ###
 # Leanpub website text portions.
 # Copyright (c) 2010-2020 Ruboss Technology Corporation.
 #
-# Farsi
+# Persian / Farsi
 # 2 letter code = fa. 3 letter code = fas/per.
+#
+# We use the English name Persian in English, instead of the endonym Farsi, per
+# convention (e.g. Persian / Farsi is referred to as Persian by Google
+# Translate). In other languages, we use Farsi, since there is less ambiguity.
 ###
-en:
+fa:
   support:
     array:
       last_word_connector: " و " # Used in to_sentence
@@ -119,6 +122,7 @@ en:
   w_lang_ces: "چک"
   w_lang_dut: "هلندی"
   w_lang_eng: "انگلیسی"
+  w_lang_fas: "فارسی"
   w_lang_fin: "فنلاندی"
   w_lang_fre: "فرانسوی"
   w_lang_ger: "آلمانی"
