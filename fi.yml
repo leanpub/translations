@@ -38,6 +38,7 @@ fi:
   w_add_bundle_to_cart: "Add Bundle to Cart"
   w_add_ebook_to_cart: "Lisää e-kirja koriin"
   w_add_to_wishlist: "Lisää toivelistaan"
+  w_already_on_wishlist: "Already on Wish List"
   w_remove_from_wishlist: "Poista toivelistasta"
   w_add_to_cart: "Lisää ostoskoriin"
   w_also_by_the_author: "Myös samalta kirjailijalta"

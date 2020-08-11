@@ -38,6 +38,7 @@ fr:
   w_add_bundle_to_cart: "Ajouter ce lot au panier"
   w_add_ebook_to_cart: "Ajouter ce livre électronique au panier"
   w_add_to_wishlist: "Ajouter à la liste de souhaits"
+  w_already_on_wishlist: "Already on Wish List"
   w_remove_from_wishlist: "Supprimer de la liste de souhaits"
   w_add_to_cart: "Ajouter au Panier"
   w_also_by_the_author: "Autre auteur"

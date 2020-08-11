@@ -44,6 +44,7 @@ sl:
   w_add_bundle_to_cart: "Add Bundle to Cart"
   w_add_ebook_to_cart: "Dodajanje e-knjigo v košarico"
   w_add_to_wishlist: "Dodaj na seznam želja"
+  w_already_on_wishlist: "Already on Wish List"
   w_remove_from_wishlist: "Odstrani s seznama želja"
   w_add_to_cart: "Dodaj v voziček"
   w_also_by_the_author: "Tudi po avtorju"

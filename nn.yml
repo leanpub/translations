@@ -39,6 +39,7 @@ nn:
   w_add_bundle_to_cart: "Legg pakken i handlevognen"
   w_add_ebook_to_cart: "Legg e-boken i handlevognen"
   w_add_to_wishlist: "Legg til ønskeliste"
+  w_already_on_wishlist: "Already on Wish List"
   w_remove_from_wishlist: "Fjern fra ønskelisten"
   w_add_to_cart: "Legg til i handlevognen"
   w_also_by_the_author: "Også av forfatteren"

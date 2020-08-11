@@ -39,6 +39,7 @@ sv:
   w_add_bundle_to_cart: "Add Bundle to Cart"
   w_add_ebook_to_cart: "Lägg e-bok i varukorgen"
   w_add_to_wishlist: "Lägg till i önskelista"
+  w_already_on_wishlist: "Already on Wish List"
   w_remove_from_wishlist: "Ta bort från önskelistan"
   w_add_to_cart: "Lägg till i kundvagn"
   w_also_by_the_author: "Också av författaren"

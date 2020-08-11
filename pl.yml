@@ -48,6 +48,7 @@ pl:
   w_add_bundle_to_cart: "Dodaj pakiet do koszyka"
   w_add_ebook_to_cart: "Dodaj e-booka do koszyka"
   w_add_to_wishlist: "Dodaj do listy życzeń"
+  w_already_on_wishlist: "Already on Wish List"
   w_remove_from_wishlist: "Usuń z listy życzeń"
   w_add_to_cart: "Dodaj do koszyka"
   w_also_by_the_author: "Inne pozycje autora"

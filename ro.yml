@@ -38,6 +38,7 @@ ro:
   w_add_bundle_to_cart: "Adaugă pachetul în coș"
   w_add_ebook_to_cart: "Adaugă cartea în coș"
   w_add_to_wishlist: "Adaugă în lista de cărți dorite"
+  w_already_on_wishlist: "Already on Wish List"
   w_remove_from_wishlist: "Eliminați din listă de dorințe"
   w_add_to_cart: "Adaugă în coș"
   w_also_by_the_author: "De același autor"

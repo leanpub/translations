@@ -38,6 +38,7 @@ pt:
   w_add_bundle_to_cart: "Adicionar o Pacote ao Carrinho de Compras"
   w_add_ebook_to_cart: "Adicionar o Ebook ao Carrinho de Compras"
   w_add_to_wishlist: "Adicionar a lista de desejos"
+  w_already_on_wishlist: "Already on Wish List"
   w_remove_from_wishlist: "Remover da lista de desejos"
   w_add_to_cart: "Adicionar ao cartão"
   w_also_by_the_author: "Também do Autor"

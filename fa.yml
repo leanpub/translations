@@ -42,6 +42,7 @@ fa:
   w_add_bundle_to_cart: "افزودن بسته‌ی چند کتابی به سبد خرید"
   w_add_ebook_to_cart: "افزودن کتاب به سبد خرید"
   w_add_to_wishlist: "افزودن به لیست مورد علاقه‌ها"
+  w_already_on_wishlist: "Already on Wish List"
   w_remove_from_wishlist: "حذف از لیست مورد علاقه‌ها"
   w_add_to_cart: "افزودن به سبد خرید"
   w_also_by_the_author: "دیگر آثار این پدیدآورنده"
@@ -204,6 +205,7 @@ fa:
   p_also_by_multi_authors_item: "کتاب‌های \\href{http://leanpub.com/u/%{username}}{%{name}}"
   p_also_by_single_author_title: "دیگر کتاب‌های \\href{http://leanpub.com/u/%{username}}{%{name}}"
   p_teaser_text: "این محتوا در نسخه‌ی نمونه‌ی کتاب وجود ندارد. می‌توانید کتاب را از سایت لین‌پاب از آدرس <%{url}> خریداری کنید."
+
 #######################
 # Kaminari Pagination
 #######################

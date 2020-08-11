@@ -38,6 +38,7 @@ cs:
   w_add_bundle_to_cart: "Přidejte balíček elektronických knih do nákupního košíku"
   w_add_ebook_to_cart: "Přidejte elektronickou knihu do nákupního košíku"
   w_add_to_wishlist: "Přidejte na seznam přání"
+  w_already_on_wishlist: "Already on Wish List"
   w_remove_from_wishlist: "Odeberte ze seznamu přání"
   w_add_to_cart: "Přidejte do nákupního košíku"
   w_also_by_the_author: "Autor také napsal"

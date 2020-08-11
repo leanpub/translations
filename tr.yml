@@ -38,6 +38,7 @@ tr:
   w_add_bundle_to_cart: "Demeti Sepete Ekle"
   w_add_ebook_to_cart: "E-kitabı sepete ekle"
   w_add_to_wishlist: "İstek listesine ekle"
+  w_already_on_wishlist: "Already on Wish List"
   w_remove_from_wishlist: "İstek listesinden kaldır"
   w_add_to_cart: "Sepete ekle"
   w_also_by_the_author: "Yazarın Ayrıca"
