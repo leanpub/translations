@@ -114,6 +114,7 @@ pl:
   w_read_free_sample: "Przeczytaj bezpłatną próbkę"
   w_free_to: "Free to"
   w_get_my_free_book: "Pobierz darmową książkę!"
+  w_get_free_terse: "Get It Free!"
   w_get_my_free_bundle: "Pobierz darmowy pakiet!"
   w_grand_total: "Grand Total"
   w_happiness_guarantee_book_html: "If you buy a Leanpub book you get <strong>all the updates to the book for free!</strong> All books are available in <strong>PDF</strong>, <strong>EPUB</strong> (for iPad) and <strong>MOBI</strong> (for Kindle). There is <strong>no DRM</strong>. There is <strong>no risk</strong>, just <strong>guaranteed happiness</strong> or your money back."
