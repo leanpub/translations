@@ -140,6 +140,7 @@ fr:
   w_lang_spa: "espagnol"
   w_lang_swe: "Suédois"
   w_lang_tur: "Turc"
+  w_lang_uig: "Uyghur"
   w_language_options_body: "Ce livre a été traduit (ou est en cours de traduction) dans les langues suivantes :"
   w_last_updated_time: "Le livre a été mis à jour pour la dernière fois le %{updated_at}"
   w_learn_more: "En savoir plus"

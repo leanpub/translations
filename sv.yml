@@ -141,6 +141,7 @@ sv:
   w_lang_spa: "Spanska"
   w_lang_swe: "Swedish"
   w_lang_tur: "Turkish"
+  w_lang_uig: "Uyghur"
   w_language_options_body: "Denna bok är översatt (eller håller på att översättas) till följande språk:"
   w_last_updated_time: "Senast uppdaterad %{updated_at}"
   w_learn_more: "Läs mer"
