@@ -99,7 +99,7 @@ nl:
   w_feedback_blurb_html: "Voel je vrij om hieronder je opmerkingen over dit boek te plaatsen! Van het identificeren van typefouten tot het schrijven van recensies, uw feedback kan %{auteurs} helpen dit boek te verbeteren voor u en uw medelezers."
   w_free: "Gratis!"
   w_free_updates_title: "Gratis Updates. DRM-vrij."
-  w_free_updates_html: "If you buy a Leanpub book, you get free updates for as long as the author updates the book! Many authors use Leanpub to publish their books in-progress, while they are writing them. All readers get free updates, regardless of when they bought the book or how much they paid (including free).<br/><br/>Most Leanpub books are available in PDF (for computers), EPUB (for phones and tablets) and MOBI (for Kindle). The formats that a book includes are shown at the top right corner of this page.<br/><br/>Finally, Leanpub books don't have any DRM copy-protection nonsense, so you can easily read them on any supported device."
+  w_free_updates_html: "Als je een Leanpub boek koopt, krijg je gratis aanpassingen aan het boek, zolang de auteur het boek aanpast! Veel auteurs gebruiken Leanpub om hun in wording boeken te publiceren, terwijl ze deze aan het schrijven zijn. Alle lezers krijgen gratis updates, onafhankelijk van het tijdstip wanneer ze het boek kochten of hoeveel ze betaalden (dus ook als ze niets betaalden).<br/><br/>De meeste Leanpub boeken zijn beschikbaar in PDF (voor computers), EPUB (voor telefoon of tablets) en MOBI (voor Kindle). De formaten die bij een boek beschikbaar zijn, worden getoond in de rechter bovenhoek van deze pagina. <br/><br/>Tenslotte, Leanpub boeken hebben geen DRM anti-kopieer nonsense, zodat je de boeken makkelijk kan lezen op elk toestel dat ondersteund wordt.” 
   w_free_updates_learn_more: "Lees meer over de e-boekformaten van Leanpub en waar u ze kunt lezen"
   w_read_free_sample: "Lees gratis sample"
   w_free_to: Gratis naar
@@ -176,12 +176,12 @@ nl:
   w_type_your_message_to_the_author: "Typ hieronder uw bericht aan de auteur"
   w_unpublished: "Niet gepubliceerd"
   w_unpublished_tweet_text: "Ik kijk er naar uit om %{title} te lezen"
-  w_very_early_stage_html: "<strong>Note from Leanpub:</strong> This book appears to be <strong>very early stage</strong>. (It's currently about <strong>%{pages} pages and %{words} words</strong>.) If you are buying it now, you are doing so <strong>primarily to encourage the author</strong>. (If you buy the book, you get all the author's Leanpub updates to the book for free, of course!)"
+  w_very_early_stage_html: "<strong>Nota van Leanpub:</strong> Dit boek is in een <strong>zeer vroege fase</strong>. (Het is momenteel <strong>%{pages} paginas en %{words} woorden</strong>.) Als je het nu koopt, doe je dat <strong>voornamelijk om de auteur te ondersteunen.</strong>. (Als je het boek koopt, krijg je natuurlijk gratis de auteurs Leanpub updates van het boek!)"
   w_view_bundle: "Bekijk de bundel"
   w_words: "Woorden"
   w_write_on_leanpub_learn_more: "Lees meer over boeken schrijven op Leanpub"
   w_write_on_leanpub_title: "Schrijf en publiceer op Leanpub"
-  w_write_on_leanpub_html: "Authors and publishers use Leanpub to publish amazing in-progress and completed ebooks, just like this one. You can use Leanpub to write, publish and sell your book as well! Leanpub is a powerful platform for serious authors, combining a simple, elegant writing and publishing workflow with a store focused on selling in-progress ebooks. Leanpub is a magical typewriter for authors: just write in plain text, and to publish your ebook, just click a button. It really is that easy."
+  w_write_on_leanpub_html: "Auteurs en uitgevers gebruiken Leanpub om in-progress en volledige e-boeken te publiceren, net als dit. Je kan Leanpub ook gebruiken om je eigen boeken te schrijven, publiceren en verkopen! Leanpub is een krachtige platform voor ernstige auteurs, het combineert een werkwijze om op een eenvoudige manier elegant te schrijven en uit te geven met een winkel gericht op het verkopen van ebooks in wording. Leanpub is een magische typemachine voor auteurs: je schrijft enkel in platte tekst, en je geeft je ebook uit met een eenvoudige klik op een knop. Eenvoudiger kan niet."
   w_you_pay: "U betaalt"
 
 #######################
