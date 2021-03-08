@@ -92,17 +92,17 @@ nl:
   w_embargo: "EMBARGO!"
   w_embargo_message_1: "Journalisten en bloggers: we verzoeken jullie om nog niets te publiceren hierover tot het embargo opgeheven is!"
   w_embargo_message_2: "Gelieve de auteur de contacteren om meer informatie te weten wanneer dat zal gebeuren."
-  w_embed_code_copy_instructions: Druk (Control/⌘)-C om deze code te kopiëren naar het klembord
+  w_embed_code_copy_instructions: "Druk (Control/⌘)-C om deze code te kopiëren naar het klembord"
   w_fanfic_always_free: "Fanfiction boeken zijn altijd gratis op Leanpub."
   w_fanfic_of: "Dit boek is fanfiction gebaseerd op %{work} van %{author}."
   w_feedback: "Feedback"
   w_feedback_blurb_html: "Voel je vrij om hieronder je opmerkingen over dit boek te plaatsen! Van het identificeren van typefouten tot het schrijven van recensies, uw feedback kan %{auteurs} helpen dit boek te verbeteren voor u en uw medelezers."
   w_free: "Gratis!"
   w_free_updates_title: "Gratis Updates. DRM-vrij."
-  w_free_updates_html: "Als je een Leanpub boek koopt, krijg je gratis aanpassingen aan het boek, zolang de auteur het boek aanpast! Veel auteurs gebruiken Leanpub om hun in wording boeken te publiceren, terwijl ze deze aan het schrijven zijn. Alle lezers krijgen gratis updates, onafhankelijk van het tijdstip wanneer ze het boek kochten of hoeveel ze betaalden (dus ook als ze niets betaalden).<br/><br/>De meeste Leanpub boeken zijn beschikbaar in PDF (voor computers), EPUB (voor telefoon of tablets) en MOBI (voor Kindle). De formaten die bij een boek beschikbaar zijn, worden getoond in de rechter bovenhoek van deze pagina. <br/><br/>Tenslotte, Leanpub boeken hebben geen DRM anti-kopieer nonsense, zodat je de boeken makkelijk kan lezen op elk toestel dat ondersteund wordt.” 
+  w_free_updates_html: "Als je een Leanpub boek koopt, krijg je gratis aanpassingen aan het boek, zolang de auteur het boek aanpast! Veel auteurs gebruiken Leanpub om hun in wording boeken te publiceren, terwijl ze deze aan het schrijven zijn. Alle lezers krijgen gratis updates, onafhankelijk van het tijdstip wanneer ze het boek kochten of hoeveel ze betaalden (dus ook als ze niets betaalden).<br/><br/>De meeste Leanpub boeken zijn beschikbaar in PDF (voor computers), EPUB (voor telefoon of tablets) en MOBI (voor Kindle). De formaten die bij een boek beschikbaar zijn, worden getoond in de rechter bovenhoek van deze pagina. <br/><br/>Tenslotte, Leanpub boeken hebben geen DRM anti-kopieer nonsense, zodat je de boeken makkelijk kan lezen op elk toestel dat ondersteund wordt."
   w_free_updates_learn_more: "Lees meer over de e-boekformaten van Leanpub en waar u ze kunt lezen"
   w_read_free_sample: "Lees gratis sample"
-  w_free_to: Gratis naar
+  w_free_to: "Gratis naar"
   w_get_my_free_book: "Ontvang gratis mijn boek"
   w_get_free_terse: "Krijg het gratis!"
   w_get_my_free_bundle: "Ontvang gratis mijn bundel"
@@ -111,7 +111,7 @@ nl:
   w_happiness_guarantee_bundle_html: "Als je een Leanpub bundel je <strong>alle updates om de boeken te krijgen in de bundel gratis</strong> Alle boeken zijn verkrijgbaar in <strong>PDF</strong>, <strong>EPUB</strong> (voor iPad) en <strong>MOBI</strong> (voor de Kindle). Er is <strong>geen DRM</strong>. Er is <strong>geen risico</strong>, net <strong>gegarandeerd geluk</strong> of uw geld terug."
   w_happiness_guarantee_days_html: "Binnen <strong>45 dagen na aankoop</strong> kunt u een <strong>100% restitutie</strong> op elke Leanpub aankoop krijgen in <strong>twee klikken</strong>. We verwerken deze restituties handmatig. Het zal dus een paar dagen duren voor ze verschijnen. Zie <a href=\"/terms#returns\">volledige voorwaarden</a>."
   w_happiness_guarantee_title: "De Leanpub 45-dagen 100% Geluksgarantie"
-  w_installments_completed: termijnen voltooid
+  w_installments_completed: "termijnen voltooid"
   w_interested_short: "Interesse in dit boek? Toon uw steun door te zeggen wat je wilt betalen?!"
   w_interested_course_short: "Interesse in deze cursus? Toon uw steun door te zeggen wat je wilt betalen!"
   w_lang_afr: "Afrikaans"
@@ -145,7 +145,7 @@ nl:
   w_last_updated_time: "Laatst bijgewerkt %{updated_at}"
   w_learn_more: "Leer meer"
   w_mailchimp_interested_short: "Interese in dit boek? Schrijf je in voor de peroonlijke mailinglijst van de auteur!"
-  w_minimum: Minimum
+  w_minimum: "Minimum"
   w_minimum_price_colon: "Minimum prijs:"
   w_minimum_price: "Minimum prijs"
   w_name: "Naam"
@@ -153,25 +153,25 @@ nl:
   w_packages: "Pakketten"
   w_pages: "Pagina's"
   w_please_wait: "Even geduld..."
-  w_read: Lees
+  w_read: "Lees"
   w_read_more: "Lees meer"
   w_read_less: "Lees minder"
-  w_read_online: Lees online
-  w_reader: Lezer
-  w_readers: Lezers
+  w_read_online: "Lees online"
+  w_reader: "Lezer"
+  w_readers: "Lezers"
   w_reader_feedback: "Feedback van lezers"
   w_retired: "Rustend"
   w_retired_message: "Dit boek is niet meer beschikbaar voor de verkoop."
   w_royalties_going_to_html: "<strong>%{royalty_percentage}%</strong> van <strong>%{author}'s</strong> royalties gaan onmiddellijk naar <strong>%{cause}</strong>."
   w_share_book: "Deel dit boek"
   w_shipping_confirmation: "verzendbevestiging"
-  w_suggested: Voorgesteld
+  w_suggested: "Voorgesteld"
   w_suggested_price_colon: "Voorgestelde prijs:"
   w_suggested_price: "Voorgestelde prijs"
   w_toc: "Inhoudsopgave"
   w_token_or_password: "Token of wachtwoord"
   w_total: "Totaal"
-  w_translation: Vertaling
+  w_translation: "Vertaling"
   w_tweet_text: "Lees %{title}"
   w_type_your_message_to_the_author: "Typ hieronder uw bericht aan de auteur"
   w_unpublished: "Niet gepubliceerd"
