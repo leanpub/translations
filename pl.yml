@@ -207,7 +207,7 @@ pl:
   p_leanpub_empowers_long_markdown: "This is a [Leanpub](http://leanpub.com) book. Leanpub empowers authors and publishers with the Lean Publishing process. [Lean Publishing](http://leanpub.com/manifesto) is the act of publishing an in-progress ebook using lightweight tools and many iterations to get reader feedback, pivot until you have the right book and build traction once you do."
   p_published_on: "Wersja opublikowana %{published_on}"
   p_title_page: "Strona tytułowa"
-  p_endnotes_title: "Notatki"
+  p_endnotes_title: "Przypisy końcowe"
   p_isbn_for: "ISBN %{format_type}"
   p_tweet_this_book: "Tweet'nij tę książkę"
   p_tweet_spread_word: "Proszę pomóż %{author}  rozpowszechniać informację o tej książce na \\href{http://twitter.com}{Twitter'ze}!"
