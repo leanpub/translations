@@ -68,7 +68,7 @@ ko:
   w_bundle_suggested_price_html: "The suggested bundle price is <strong>%{suggested}</strong>, and the minimum bundle price is…"
   w_bundles_available: "이용 가능한 패키지"
   w_bundles_included: "이 책은 다음 패키지로도 제공됩니다:"
-  w_buy_for: "I'd buy it for…"
+  w_buy_for: "I would pay…"
   w_buy_now: "지금 바로 e-Book을 구매하세요!"
   w_buy_now_terse: "바로 구매"
   w_buying: "%{book} 구매하기"

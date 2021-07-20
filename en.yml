@@ -68,7 +68,7 @@ en:
   w_bundle_suggested_price_html: "The suggested bundle price is <strong>%{suggested}</strong>, and the minimum bundle price is…"
   w_bundles_available: "Bundles Available"
   w_bundles_included: "This book is also available in these bundles:"
-  w_buy_for: "I'd buy it for…"
+  w_buy_for: "I would pay…"
   w_buy_now: "Buy the ebook now!"
   w_buy_now_terse: "Buy Now"
   w_buying: "Buying %{book}"
