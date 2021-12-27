@@ -84,7 +84,7 @@ hu:
   w_copied_embed_code: "Az embed kódod a vágólapra került, egyszerűen illeszd be a weboldalad HTML kódjába és készen is vagy!"
   w_copy_embed: "Embed kód másolása"
   w_coupon_price: "Coupon price"
-  w_45_days: "45 nap"
+  w_60_days: "60 nap"
   w_discuss_this_book: "Discuss this Book"
   w_do_well_do_good: "Do Well. Do Good."
   w_download_sample: "Minta PDF letöltése"
@@ -112,7 +112,7 @@ hu:
   w_guarantee: "garancia"
   w_happiness_guarantee_book_html: "Amennyiben megvásárolsz egy Leanpub kiadványt, annak <strong>összes frissítését ingyen megkapod!</strong> Minden könyvünk elérhető <strong>PDF</strong>, <strong>EPUB</strong> (iPad-hez) and <strong>MOBI</strong> (Kindle-höz) formátumokban. A könyvek <strong>nem tartalmaznak DRM védelmet</strong>. Nincs <strong>kockázat</strong>, csak <strong>garantált boldogság</strong> vagy visszaadjuk a pénzedet."
   w_happiness_guarantee_bundle_html: "Amennyiben megvásárolsz egy Leanpub csomagot, annak <strong>összes frissítését ingyen megkapod!</strong> Minden könyvünk elérhető <strong>PDF</strong>, <strong>EPUB</strong> (iPad-hez) and <strong>MOBI</strong> (Kindle-höz) formátumokban. A könyvek <strong>nem tartalmaznak DRM védelmet</strong>. Nincs <strong>kockázat</strong>, csak <strong>garantált boldogság</strong> vagy visszaadjuk a pénzedet."
-  w_happiness_guarantee_days_html: "<strong>A vásárlástól számított 45 napon belül</strong>, mindössze <strong>két kattintással</strong> visszakaphatod <strong>a vásárlás összegének 100%-át</strong> bármely Leanpubnál történt vásárlás esetében. A visszafizetéseket kézzel kezeljük, úgyhogy eltelhet néhány napba mire visszajut hozzád az összeg. Kérjük tekintsd át <a href=\"/terms#returns\">részletes felhasználási feltételeinket</a>."
+  w_happiness_guarantee_days_html: "<strong>A vásárlástól számított 60 napon belül</strong>, mindössze <strong>két kattintással</strong> visszakaphatod <strong>a vásárlás összegének 100%-át</strong> bármely Leanpubnál történt vásárlás esetében. A visszafizetéseket kézzel kezeljük, úgyhogy eltelhet néhány napba mire visszajut hozzád az összeg. Kérjük tekintsd át <a href=\"/refunds\">részletes felhasználási feltételeinket</a>."
   w_happiness_guarantee_title: "A Leanpubnál nincs kockázat, csak 100% boldogsággarancia"
   w_installments_completed: Részletben befejeződött
   w_interested_short: "Érdekelne ez a könyv? Mutasd ki a támogatásodat azzal, hogy elmondod miért fizetnél szívesen!"

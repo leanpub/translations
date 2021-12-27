@@ -84,7 +84,7 @@ fi:
   w_copied_embed_code: "Embed - koodi on kopioitu leikepöydällesi, liitä se kotisivusi HTML:ään ja olet valmis!"
   w_copy_embed: "Kopioi embed - koodi"
   w_coupon_price: "Coupon price"
-  w_45_days: "45 päivää"
+  w_60_days: "60 päivää"
   w_discuss_this_book: "Discuss this Book"
   w_do_well_do_good: "Do Well. Do Good."
   w_download_sample: "Tutustu ilmaiseksi ja lataa PDF"
@@ -112,7 +112,7 @@ fi:
   w_guarantee: "takuu"
   w_happiness_guarantee_book_html: "Kun ostat Leanpub - kirjan, saat <strong>kaikki kirjan päivitykset ilmaiseksi!</strong> Kaikki kirjat ovat saatavilla muodoissa <strong>PDF</strong>, <strong>EPUB</strong> (iPadille) ja <strong>MOBI</strong> (Kindlelle). Kirjoissa <strong>ei ole DRM:ää</strong>. Ostamisessa <strong>ei ole riskejä</strong>, ainoastaan <strong>taattu tyytyväisyys</strong> tai rahasi takaisin."
   w_happiness_guarantee_bundle_html: "Kun ostat Leanpub - kokoelman, saat <strong>kaikki päivitykset kaikkiin kokoelman kirjoihin ilmaiseksi!</strong> Kaikki kirjat ovat saatavilla muodoissa <strong>PDF</strong>, <strong>EPUB</strong> (iPadille) and <strong>MOBI</strong> (Kindlelle). Kirjoissa <strong>ei ole DRM:ää</strong>. Ostamisessa <strong>ei ole riskiä</strong>, ainoastaan <strong>taattu tyytyväisyys</strong> tai rahasi takaisin."
-  w_happiness_guarantee_days_html: "<strong>45 päivän sisällä ostosta</strong> voit palauttaa kirjasi <strong>täyttä hyvitystä vastaan</strong> minkä tahansa Leanpub - oston osalta, <strong>kahdella napsautuksella</strong>. Käsittelemme palautukset manuaalisesti, joten he tekevät kestää muutaman päivän näy. Katso <a href=\"/terms#returns\">täydelliset ehdot</a>."
+  w_happiness_guarantee_days_html: "<strong>60 päivän sisällä ostosta</strong> voit palauttaa kirjasi <strong>täyttä hyvitystä vastaan</strong> minkä tahansa Leanpub - oston osalta, <strong>kahdella napsautuksella</strong>. Käsittelemme palautukset manuaalisesti, joten he tekevät kestää muutaman päivän näy. Katso <a href=\"/refunds\">täydelliset ehdot</a>."
   w_happiness_guarantee_title: "Leanpubin ehdoton ja riskitön 100% tyytyväisyystakuu"
   w_installments_completed: Erässä päätökseen
   w_interested_short: "Oletko kiinnostunut tästä kirjasta? Osoita tukesi kertomalla, kuinka paljon olisit valmis maksamaan siitä!"

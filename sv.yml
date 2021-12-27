@@ -85,7 +85,7 @@ sv:
   w_copied_embed_code: "En kodsnutt har kopierats till ditt klippbord; klistra in den i din webbsidas HTML så är allt klart!"
   w_copy_embed: "Kopiera kod"
   w_coupon_price: "Coupon price"
-  w_45_days: "45 dagar"
+  w_60_days: "60 dagar"
   w_discuss_this_book: "Discuss this Book"
   w_do_well_do_good: "Do Well. Do Good."
   w_download_sample: "Ladda ner ett smakprov som PDF"
@@ -113,7 +113,7 @@ sv:
   w_guarantee: "garanti"
   w_happiness_guarantee_book_html: "Om du köper en Leanpub bok får du <strong>ingår alla uppdateringar av boken!</strong> Alla böcker finns som <strong>PDF</strong>, <strong>EPUB</strong> (för iPad) och <strong>MOBI</strong> (för Kindle). Det finns <strong>inget DRM</strong>. Det finns <strong>inga risker</strong>, bara <strong>garanterad nöjdhet</strong> eller pengarna tillbaka."
   w_happiness_guarantee_bundle_html: "Om du köper ett Leanpub paket får du <strong>ingår alla uppdateringar av böckerna i paketet!</strong> Alla böcker finns som <strong>PDF</strong>, <strong>EPUB</strong> (för iPad) och <strong>MOBI</strong> (för Kindle). Det finns <strong>inget DRM</strong>. Det finns <strong>ingen risk</strong>, bara <strong>garanterad lycka</strong> eller pengarna tillbaka."
-  w_happiness_guarantee_days_html: "Upp till <strong>45 dagar efter ett köp</strong> kan du få tillbaka <strong>100%</strong> av det du betalat med <strong>två klick</strong>. Vi processar alla återbetalningar manuellt, så det kan ta ett par dagar innan pengarna dyker upp. Se de <a href=\"/terms#returns\">fullständiga villkoren</a>."
+  w_happiness_guarantee_days_html: "Upp till <strong>60 dagar efter ett köp</strong> kan du få tillbaka <strong>100%</strong> av det du betalat med <strong>två klick</strong>. Vi processar alla återbetalningar manuellt, så det kan ta ett par dagar innan pengarna dyker upp. Se de <a href=\"/refunds\">fullständiga villkoren</a>."
   w_happiness_guarantee_title: "Ovillkorliga Leanpub: ingen risk, 100% garanterat nöjd"
   w_installments_completed: avbetalningar slutförts
   w_interested_short: "Intresserad av den här boken? Visa ditt stöd genom att berätta vad du skulle betala för den!"

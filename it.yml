@@ -84,7 +84,7 @@ it:
   w_copied_embed_code: "Il codice è stato copiato negli Appunti: basta incollarlo nel codice HTML del tuo sito web, ed il gioco è fatto!"
   w_copy_embed: "Copia codice embed"
   w_coupon_price: "Coupon price"
-  w_45_days: "45 giorni"
+  w_60_days: "60 giorni"
   w_discuss_this_book: "Discuti questo Libro"
   w_do_well_do_good: "Do Well. Do Good."
   w_download_sample: "Scarica un PDF di esempio"
@@ -112,7 +112,7 @@ it:
   w_guarantee: "garanzia"
   w_happiness_guarantee_book_html: "Se si acquista un libro Leanpub ricevono gratuitamente <strong>tutti gli aggiornamenti del libro</strong>. Tutti i libri sono disponibili in <strong>PDF</strong>, <strong>EPUB</strong> (! per iPad) e <strong>MOBI</strong> (per Kindle). Non c'è <strong>alcun DRM</strong>. Non c'è <strong>alcun rischio</strong>, ed inoltre tutto il processo è garantito dalla condizione di <strong>soddisfatti o rimborsati</strong>."
   w_happiness_guarantee_bundle_html: "Se si acquista un libro Leanpub ricevono gratuitamente <strong>tutti gli aggiornamenti del libro</strong>. Tutti i libri sono disponibili in <strong>PDF</strong>, <strong>EPUB</strong> (! per iPad) e <strong>MOBI</strong> (per Kindle). Non c'è <strong>alcun DRM</strong>. Non c'è <strong>alcun rischio</strong>, ed inoltre tutto il processo è garantito dalla condizione di <strong>soddisfatti o rimborsati</strong>."
-  w_happiness_guarantee_days_html: "Entro 45 giorni dall'<strong>acquisto</strong> è possibile ottenere un rimborso completo del <strong>100%</strong> del valore su qualsiasi acquisto Leanpub. Vedi <a termini href=\"/terms#returns\">completi</a>."
+  w_happiness_guarantee_days_html: "Entro 60 giorni dall'<strong>acquisto</strong> è possibile ottenere un rimborso completo del <strong>100%</strong> del valore su qualsiasi acquisto Leanpub. Vedi <a termini href=\"/refunds\">completi</a>."
   w_happiness_guarantee_title: "Leanpub è garantito dalla formula soddisfatti o rimborsati. Nessun rischio, garanzia di Felicità al 100%"
   w_installments_completed: Rate completate
   w_interested_short: "Ti interessa questo libro? Mostra il tuo sostegno indicando quanto ti piacerebbe pagarlo!"

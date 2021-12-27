@@ -90,7 +90,7 @@ sl:
   w_copied_embed_code: "je embed kodo kopiral v odložišče, ga enostavno prilepite v HTML vaše spletne strani, in ste končali!"
   w_copy_embed: "Kopiraj HTML kodo"
   w_coupon_price: "Coupon price"
-  w_45_days: "45 dni"
+  w_60_days: "60 dni"
   w_discuss_this_book: "Discuss this Book"
   w_do_well_do_good: "Do Well. Do Good."
   w_download_sample: "Prenesite vzorčne PDF"
@@ -118,7 +118,7 @@ sl:
   w_guarantee: "garancija"
   w_happiness_guarantee_book_html: "Če kupite Leanpub knjigo boste dobili <strong>vse posodobitve za knjigo za brezplačno</strong> Vse knjige so na voljo v <strong>PDF</strong>, <strong>EPUB</strong> (za iPad) in <strong>MOBI</strong> (za Kindle). je <strong>ni DRM</strong>. je <strong>ni nevarnosti</strong>, samo <strong>zagotovljena sreča</strong> ali svoj denar nazaj."
   w_happiness_guarantee_bundle_html: "Če kupite Leanpub snop dobiš <strong>vse posodobitve knjig v paketu za brezplačno</strong> Vse knjige so na voljo v <strong>PDF</strong>, <strong>EPUB</strong> (za iPad) in <strong>MOBI</strong> (za Kindle). je <strong>brez DRM</strong>. je <strong>ni nevarnosti</strong>, samo <strong>zagotovljena sreča</strong> ali svoj denar nazaj."
-  w_happiness_guarantee_days_html: "V <strong>lahko 45 dni po nakupu</strong> boste dobili <strong>100% vračilo</strong> Leanpub vsakem nakupu, v <strong>dva klika</strong>. smo obdelali nadomestil ročno, tako da bi trajalo nekaj dni, da se pokažejo. Oglejte si <a href=\"/terms#returns\">vse izraze</a>."
+  w_happiness_guarantee_days_html: "V <strong>lahko 60 dni po nakupu</strong> boste dobili <strong>100% vračilo</strong> Leanpub vsakem nakupu, v <strong>dva klika</strong>. smo obdelali nadomestil ročno, tako da bi trajalo nekaj dni, da se pokažejo. Oglejte si <a href=\"/refunds\">vse izraze</a>."
   w_happiness_guarantee_title: "Leanpub brezpogojno, brez tveganja 100% garancija Sreča"
   w_installments_completed: obrokih končan
   w_interested_short: "Zanima me v tej knjigi Pokažite svojo podporo z besedami, kaj bi želeli plačati za to?"

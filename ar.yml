@@ -104,7 +104,7 @@ ar:
   w_copied_embed_code: "تم نسخ الكود فى الذاكره المؤقته, ببساطه قم بلصقه فى أى صفحة إتش تى إم إل خاصه بموقعك"
   w_copy_embed: "نسخ الكود المٌتضمن"
   w_coupon_price: "Coupon price"
-  w_45_days: "45 يوما"
+  w_60_days: "60 يوما"
   w_discuss_this_book: "Discuss this Book"
   w_do_well_do_good: "Do Well. Do Good."
   w_download_sample: "تحميل عينه PDF"
@@ -132,7 +132,7 @@ ar:
   w_guarantee: "ضمان"
   w_happiness_guarantee_book_html: "إذا إشتريت كتاب من Leanpub سوف تحصل على <strong>كل التحديثات للكتاب مجانا!</strong> كل الكتب متاحه على هيئة <strong>PDF</strong>, <strong>EPUB</strong> و <strong>MOBI</strong>. ليس هناك<strong> أدارة للقيود الرقمية</strong>. ليس هناك <strong>مجازفه</strong>, فقط <strong>نضمن لك السعاده معنا</strong> أو نرجع لك مالك."
   w_happiness_guarantee_bundle_html: "إذا إشتريت حزمه من Leanpub سوف تحصل على <strong>كل التحديثات للكتب فى الحزمه مجانا!</strong> كل الكتب متاحه على هيئة <strong>PDF</strong>, <strong>EPUB</strong> و <strong>MOBI</strong>. ليس هناك<strong> DRM</strong>. ليس هنا <strong>مجازفه</strong>, فقط <strong>نضمن لك السعاده معنا</strong> أو نرجع لك مالك."
-  w_happiness_guarantee_days_html: "فى خلال <strong>45 يوم من الشراء</strong> تستطيع أن <strong>تسترد 100%</strong> من الذى دفعته فى أى مشتريات من Leanpub , <strong>بنقرتين من الماوس</strong>. نحن نعالج عملية الإسترداد يدويا , لذا فإن عملية الإسترداد تأخذ أيام قليله لتتم. ألقى نظره على <a href=\"/terms#returns\">كامل الشروط</a>."
+  w_happiness_guarantee_days_html: "فى خلال <strong>60 يوم من الشراء</strong> تستطيع أن <strong>تسترد 100%</strong> من الذى دفعته فى أى مشتريات من Leanpub , <strong>بنقرتين من الماوس</strong>. نحن نعالج عملية الإسترداد يدويا , لذا فإن عملية الإسترداد تأخذ أيام قليله لتتم. ألقى نظره على <a href=\"/refunds\">كامل الشروط</a>."
   w_happiness_guarantee_title: "Leanpub بدون شروط, بدون مجازفه, 100% ضمان لسعادتك معنا"
   w_installments_completed: Installments completed
   w_interested_short: "مهتم بهذا الكتاب؟ أظهر دعمك و أخبرنا كم تريد أن تدفع ثمنا لهذا الكتاب!"

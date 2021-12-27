@@ -86,7 +86,7 @@ hr:
   w_copied_embed_code: "Ugrađeni KOD je kopiran na Vaš clipboard; samo ga zalijepite na  HTML Vaše web strane, i to je to!"
   w_copy_embed: "kopiraj ugrađeni KOD"
   w_coupon_price: "Coupon price"
-  w_45_days: "45 dana"
+  w_60_days: "60 dana"
   w_discuss_this_book: "Discuss this Book"
   w_do_well_do_good: "Do Well. Do Good."
   w_download_sample: "Preuzmite uzorak u PDF"
@@ -114,7 +114,7 @@ hr:
   w_guarantee: "jamčiti"
   w_happiness_guarantee_book_html: "Ukoliko kupite Leanpub knjigu dobijate <strong>sva ažuriranja knjige besplatno!</strong> Sve knjige su dostupne u <strong>PDF</strong>, <strong>EPUB</strong> (za iPad) i <strong>MOBI</strong> (za Kindle). Bez <strong> DRM</strong>. Bez <strong>rizika</strong>, samo <strong>zagarantovano zadovoljstvo</strong> ili Vam vraćamo Vaš novac."
   w_happiness_guarantee_bundle_html: "Ukoliko kupite Leanpub komplet dobijate <strong>sva ažuriranja svih knjiga u kompletu besplatno!</strong> Sve knjige su dostupne u <strong>PDF</strong>, <strong>EPUB</strong> (za iPad) i <strong>MOBI</strong> (za Kindle). Bez <strong>DRM</strong>. Bez <strong>rizika</strong>, samo <strong>zagarantovano zadovoljstvo</strong> ili Vam vraćamo Vaš novac."
-  w_happiness_guarantee_days_html: "U roku od <strong>45 dana od dana kupovine</strong> možete dobiti <strong>100% povrat novca</strong> za bilo koju Leanpub kupovinu, sa samo <strong>dva klika</strong>. Ručno obrađujemo povrat novca, pa se može desiti da protekne nekoliko dana da se novac pokaže na Vašem računu. Pročitajte <a href=\"/terms#returns\">full terms</a>."
+  w_happiness_guarantee_days_html: "U roku od <strong>60 dana od dana kupovine</strong> možete dobiti <strong>100% povrat novca</strong> za bilo koju Leanpub kupovinu, sa samo <strong>dva klika</strong>. Ručno obrađujemo povrat novca, pa se može desiti da protekne nekoliko dana da se novac pokaže na Vašem računu. Pročitajte <a href=\"/refunds\">full terms</a>."
   w_happiness_guarantee_title: "Leanpub bez uvjeta, bez rizika, 100% zagarantovano zadovoljstvo"
   w_installments_completed: Installments completed
   w_interested_short: "Zanima Vas ova knjiga? Pružite podršku tako što ćete napisati koliko biste bili voljni platiti za nju!"

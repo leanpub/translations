@@ -94,7 +94,7 @@ sr:
   w_copied_embed_code: "Уграђени КОД је копиран на Ваш clipboard, довољно је да га залепите на HTML Ваше интернет странице и то је то!"
   w_copy_embed: "копирај уграђени КОД"
   w_coupon_price: "Coupon price"
-  w_45_days: "45 дана"
+  w_60_days: "60 дана"
   w_discuss_this_book: "Discuss this Book"
   w_do_well_do_good: "Do Well. Do Good."
   w_download_sample: "Преузми узорак у PDF-у"
@@ -122,7 +122,7 @@ sr:
   w_guarantee: "гаранција"
   w_happiness_guarantee_book_html: "Уколико купите Leanpub књигу добијате <strong>сва ажурирања књиге бесплатно!</strong> Све књиге су доступне <strong>у PDF-у</strong>, <strong>EPUB-у</strong> (за iPad) и <strong>MOBI-у</strong> (за Kindle). Не постоји <strong> DRM</strong>. Не постоји <strong>ризик</strong>, само <strong>загарантовано задовољство</strong> или Вам враћамо Ваш новац."
   w_happiness_guarantee_bundle_html: "Уколико купите Leanpub комплет књига добијате <strong>сва ажурирања књига у комплету бесплатно!</strong> Све књиге су доступне <strong>у PDF-у</strong>, <strong>EPUB-у</strong> (за iPad) и <strong>MOBI-у</strong> (за Kindle). Не постоји <strong>DRM</strong>. Не постоји <strong>ризик</strong>, само <strong>загарантовано задовољство</strong> или Вам враћамо Ваш новац."
-  w_happiness_guarantee_days_html: "У року од <strong>45 дана од куповине</strong> може Вам бити враћен<strong>сав новац</strong> од било које куповине на Leanpub-у, са само <strong>два клика</strong>. С обзиром да ручно обрађујемо поврат новца, биће потребно неколико дана да се новац појави на Вашем рачуну. Прочитајте <a href=\"/terms#returns\">full terms</a>."
+  w_happiness_guarantee_days_html: "У року од <strong>60 дана од куповине</strong> може Вам бити враћен<strong>сав новац</strong> од било које куповине на Leanpub-у, са само <strong>два клика</strong>. С обзиром да ручно обрађујемо поврат новца, биће потребно неколико дана да се новац појави на Вашем рачуну. Прочитајте <a href=\"/refunds\">full terms</a>."
   w_happiness_guarantee_title: "Leanpub безусловно, без ризика, 100% загарантовано задовољство"
   w_installments_completed: Installments completed
   w_interested_short: "Заинтересовани сте за ову књигу? Пружите подршку тако што ћете рећи колико бисте били вољни да платите за њу!"

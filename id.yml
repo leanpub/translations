@@ -84,7 +84,7 @@ id:
   w_copied_embed_code: "Kode embed telah tersalin ke papan klip Anda; cukup tempelkan ke HTML website Anda, beres!"
   w_copy_embed: "Salin kode embed"
   w_coupon_price: "Harga kupon"
-  w_45_days: "45 hari"
+  w_60_days: "60 hari"
   w_discuss_this_book: "Discuss this Book"
   w_do_well_do_good: "Do Well. Do Good."
   w_download_sample: "PDF Sampel"
@@ -112,7 +112,7 @@ id:
   w_guarantee: "menjamin"
   w_happiness_guarantee_book_html: "Dengan membeli buku Leanpub, Anda akan mendapatkan <strong>seluruh pembaruan atas buku secara cuma-cuma!</strong> Semua buku tersedia dalam format <strong>PDF</strong>, <strong>EPUB</strong> (untuk iPad) dan <strong>MOBI</strong> (untuk Kindle). Semua buku <strong>bebas DRM</strong>. Semua buku <strong>bebas resiko</strong>, dengan <strong>jaminan kepuasan</strong> atau uang kembali."
   w_happiness_guarantee_bundle_html: "Dengan membeli bundel Leanpub, Anda akan mendapatkan <strong>seluruh pembaruan atas buku dalam bundel secara cuma-cuma!</strong> Semua buku tersedia dalam format <strong>PDF</strong>, <strong>EPUB</strong> (untuk iPad) dan <strong>MOBI</strong> (untuk Kindle). Semua buku <strong>bebas DRM</strong>. Semua buku <strong>bebas resiko</strong>, dengan <strong>jaminan kepuasan</strong> atau uang kembali."
-  w_happiness_guarantee_days_html: "Dalam <strong>45 hari sesudah pembelian</strong> Anda bisa memperoleh <strong>100% refund</strong> atas pembelian di Leanpub dengan <strong>dua klik</strong>. Kami memproses refund secara manual, sehingga mungkin butuh beberapa hari sampai selesai. <br><a href=\"/terms#returns\">Lihat ketentuan lengkap</a>"
+  w_happiness_guarantee_days_html: "Dalam <strong>60 hari sesudah pembelian</strong> Anda bisa memperoleh <strong>100% refund</strong> atas pembelian di Leanpub dengan <strong>dua klik</strong>. Kami memproses refund secara manual, sehingga mungkin butuh beberapa hari sampai selesai. <br><a href=\"/refunds\">Lihat ketentuan lengkap</a>"
   w_happiness_guarantee_title: "Jaminan Kepuasan 100%, Bebas Resiko, Tanpa Syarat ala Leanpub"
   w_installments_completed: Seri telah lengkap
   w_interested_short: "Tertarik dengan buku ini? Tunjukkan dukungan Anda dengan menyebutkan harga yang sedia Anda bayarkan untuknya!"
