@@ -8,7 +8,7 @@
 nl:
   support:
     array:
-      last_word_connector: " and " # Used in to_sentence
+      last_word_connector: " en " # Used in to_sentence
   w_author_earns:
     one: "Auteur verdient"
     other: "Auteurs verdienen"
