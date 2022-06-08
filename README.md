@@ -21,6 +21,6 @@ The Leanpub Team
 
 # Legal Stuff
 
-The text of this repository, both the original English language text and all translations of it, is all copyright © 2010-2021 Ruboss Technology Corporation. All rights reserved.
+The text of this repository, both the original English language text and all translations of it, is all copyright © 2010-2022 Ruboss Technology Corporation. All rights reserved.
 
 The text here may be translated for the sole purpose of it being used in Leanpub (http://leanpub.com/). This Git repository is publicly available on GitHub so that volunteer translators can easily provide fixes and improvements to Leanpub. Any volunteer translation provided immediately becomes the property of and copyright of Ruboss Technology Corporation upon submitting a pull request or submitting the translation information via email.
