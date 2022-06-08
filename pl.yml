@@ -1,6 +1,6 @@
 ###
 # Leanpub website text portions.
-# Copyright (c) 2010-2017 Ruboss Technology Corporation.
+# Copyright (c) 2010-2022 Ruboss Technology Corporation.
 #
 # Polish
 # 2 letter code = pl. 3 letter code = pol.
@@ -31,6 +31,7 @@ pl:
     other: "Udostępnij autorom adres e-mail."
   w_included_in_bundle:
     one: "The following book is included in this bundle..."
+    few: "The following %{count} books are included in this bundle..."
     other: "The following %{count} books are included in this bundle..."
 ############################################
 # With plurals above, without plurals below.
@@ -49,9 +50,9 @@ pl:
   w_add_course_to_cart: "Add Course to Cart"
   w_add_course_set_to_cart: "Add Track to Cart"
   w_add_to_wishlist: "Dodaj do listy życzeń"
-  w_all_prices_in_us_paypal_only_html: "All prices are shown in <strong>US $</strong>. You can use <strong>a credit card or a PayPal account</strong> to complete your purchase."
-  w_all_prices_in_us_stripe_only_html: "All prices are shown in <strong>US $</strong>. You can use <strong>a credit card</strong> to complete your purchase using Stripe."
-  w_all_prices_in_us_paypal_and_stripe_html: "All prices are shown in <strong>US $</strong>. You can use <strong>a credit card or a PayPal account</strong> to complete your purchase using PayPal or Stripe."
+  w_all_prices_in_us_paypal_only_html: "All prices are shown in <strong>US $</strong>. You can use <strong>a credit card or a PayPal account</strong> to complete your purchase.<br/><br/>Either way, your payment information is processed securely, and your credit card number is not shared with Leanpub."
+  w_all_prices_in_us_stripe_only_html: "All prices are shown in <strong>US $</strong>. You can use <strong>a credit card</strong> to complete your purchase using Stripe.<br/><br/>Your payment information is handled securely, and your credit card number is not shared with Leanpub."
+  w_all_prices_in_us_paypal_and_stripe_html: "All prices are shown in <strong>US $</strong>. You can use <strong>a credit card or a PayPal account</strong> to complete your purchase using PayPal or Stripe.<br/><br/>Either way, your payment information is processed securely, and your credit card number is not shared with Leanpub."
   w_all_prices_in_us_paypal_and_stripe_long_html: "All prices are shown in <strong>US $</strong>. You can use <strong>a credit card or a PayPal account</strong> to complete your purchase.<br/><br/>If you click \"Checkout with Credit Card\" above, you can pay with a <strong>credit card</strong> using <strong>Stripe</strong>.<br/><br/>If you click \"Checkout with PayPal\" above, you can pay using a <strong>PayPal account or a credit card</strong>.<br/><br/>Either way, your payment information is processed securely, and your credit card number is not shared with Leanpub."
   w_already_on_wishlist: "Already on Wish List"
   w_remove_from_wishlist: "Usuń z listy życzeń"
@@ -61,8 +62,9 @@ pl:
   w_also_by_the_editor: "Inne pozycje edytora"
   w_also_by_the_editors: "Inne pozycje edytorów"
   w_book_num_translations_html: "<em>%{orig_book}</em> została przetłumaczona na %{num_translations} %{other_langs}."
-  w_book_price_tip: "The author is letting you set the price you'll pay for this book! The minimum price is %{minimum} and the suggested price is %{suggested}"
-  w_book_free_price_tip: "The author is letting you set the price you'll pay for this book! The book is free with a Leanpub reader subscription ($19/year), or can be purchased without a subscription for $7.99 and up. The suggested price is %{suggested}."
+  w_book_price_tip_html: "The author is letting you set the price you'll pay for this book!<br/><br/>The minimum price is %{minimum} and the suggested price is %{suggested}."
+  w_book_free_price_tip_html: "The author is letting you set the price you'll pay for this book!<br/><br/>The suggested price is %{suggested}, and the minimum price the book can be purchased for without a membership is $7.99.<br/><br/>The book is free with a Reader Membership, which is $3.79/month or $19/year. If you add the book to your cart with a free price, we'll add a Reader Membership to your cart for you."
+  w_book_free_reader_price_tip_html: "The author is letting you set the price you'll pay for this book!<br/><br/>The suggested price is %{suggested}, and the minimum price the book can be purchased for without a membership is $7.99.<br/><br/>This book is free with your membership. Thanks for supporting Leanpub and our authors!"
   w_book_published_on_leanpub_by: "Ta książka jest opublikowana na platformie Leanpub przez"
   w_book_freshness_timestamp:
     lt_1_minute: "Przed chwilą!"
@@ -80,8 +82,9 @@ pl:
   w_bundle_buy_now: "Kup pakiet teraz!"
   w_bundle_description: "O pakiecie"
   w_bundle_price: "Cena pakietu"
-  w_bundle_price_tip: "The author is letting you set the price you'll pay for this bundle! The minimum price is %{minimum}"
-  w_bundle_free_price_tip: "The author is letting you set the price you'll pay for this bundle! The bundle is free with a Leanpub reader subscription ($19/year), or can be purchased without a subscription for $9.99 and up."
+  w_bundle_price_tip_html: "The author is letting you set the price you'll pay for this bundle! The minimum price is %{minimum}."
+  w_bundle_free_price_tip_html: "The author is letting you set the price you'll pay for this bundle! The bundle is free with a Reader Membership, or can be purchased without a membership for $9.99 and up.<br/><br/>A Reader Membership is $3.79/month or $19/year. If you add the bundle to your cart with a free price, we'll add a Reader Membership to your cart for you."
+  w_bundle_free_reader_price_tip_html: "The author is letting you set the price you'll pay for this bundle!<br/><br/>This bundle is free with your Leanpub Reader membership. Thanks for supporting Leanpub and our authors!"
   w_bundle_royalty_max: "Nie możesz przydzielić więcej niż 100% tantiem"
   w_bundle_separate_price_html: "Sprzedawane osobno, te książki mają minimalną cenę <strong>%{minimum}</strong> i sugerowaną cenę <strong>%{suggested}</strong>…"
   w_bundle_share: "Podziel się pakietem:"
@@ -118,11 +121,14 @@ pl:
   w_coupon_price: "Cena kuponu"
   w_course_info: "Course Info"
   w_course_material: "Course Material"
-  w_course_price_tip: "The instructor is letting you set the price you'll pay for this course! The minimum price is %{minimum} and the suggested price is %{suggested}"
-  w_course_free_price_tip: "The instructor is letting you set the price you'll pay for this course! The course is free with a Leanpub reader subscription ($19/year), or can be purchased without a subscription for $19 and up. The suggested price is %{suggested}."
-  w_course_set_price_tip: "The instructor is letting you set the price you'll pay for this Track! The minimum price is %{minimum} and the suggested price is %{suggested}"
-  w_course_set_free_price_tip: "The instructor is letting you set the price you'll pay for this Track! The Track is free with a Leanpub reader subscription ($19/year), or can be purchased without a subscription for $29 and up. The suggested price is %{suggested}."
+  w_course_price_tip_html: "The instructor is letting you set the price you'll pay for this course!<br/><br/>The minimum price is %{minimum} and the suggested price is %{suggested}."
+  w_course_free_price_tip_html: "The instructor is letting you set the price you'll pay for this course!<br/><br/>The suggested price is %{suggested}, and the minimum price the course can be purchased for without a membership is $19.00.<br/><br/>The course is also free with a Reader Membership, which is $3.79/month or $19/year. If you add the course to your cart with a free price, we'll add a Reader Membership to your cart for you."
+  w_course_free_reader_price_tip_html: "The instructor is letting you set the price you'll pay for this course!<br/><br/>The suggested price is %{suggested}, and the minimum price the course can be purchased for without a membership is $19.00.<br/><br/>This course is free with your Leanpub Reader membership. Thanks for supporting Leanpub and our authors!"
+  w_course_set_price_tip_html: "The instructor is letting you set the price you'll pay for this Track! The minimum price is %{minimum} and the suggested price is %{suggested}"
+  w_course_set_free_price_tip_html: "The instructor is letting you set the price you'll pay for this Track!<br/><br/>The suggested price is %{suggested}, and the minimum price the Track can be purchased for without a membership is $29.00.<br/><br/>The Track is also free with a Reader Membership, which is $3.79/month or $19/year. If you add the Track to your cart with a free price, we'll add a Reader Membership to your cart for you."
+  w_course_set_free_reader_price_tip_html: "The instructor is letting you set the price you'll pay for this Track!<br/><br/>The suggested price is %{suggested}, and the minimum price the Track can be purchased for without a membership is $29.00.<br/><br/>This track is free with your Leanpub Reader membership. Thanks for supporting Leanpub and our authors!"
   w_60_days: "60 dni"
+  w_delete: "Delete"
   w_discuss_this_book: "Podziel się opinią o książce"
   w_do_not_ask: "Do not ask"
   w_do_well_do_good: "Do Well. Do Good."
@@ -192,13 +198,15 @@ pl:
   w_lang_uig: "Uyghur"
   w_language_options_body: "Ta pozycja jest także dostępna w zakupie (lub w trakcie tłumaczenia) w następujących językach:"
   w_last_updated_time: "Ostatnia aktualizacja %{updated_at}"
+  w_leanpub_reader_membership_benefits_html: "Your cart contains one or more books, bundles, courses or tracks which require a <strong>Reader Membership</strong> to be purchased for free.<br/><br/><strong>A Reader Membership gives you free access to all Leanpub books, bundles, courses and tracks which have free minimum prices.</strong> Books, bundles, courses and tracks which have paid minimum prices need to be purchased separately.<br/><br/>A Reader Membership can be <strong>purchased monthly</strong> (<strong>$3.79/month</strong>, auto-renew) from <strong><a href='/membership'>this page</a></strong> or <strong>annually</strong> (<strong>$19/year</strong>, no auto-renew) by leaving this item in your cart. We currently have about <strong>2,000 books and 50 courses</strong> with free minimum prices, so this is an amazing deal! You can find them by choosing the Free Minimum Price filter in the bookstore search, or by clicking <a href='/bookstore?type=book&sort=free_minimum_price'>here</a> and then searching.<br/><br/>Even better, <strong>50% of the money from your Reader Membership</strong> will be paid to the authors of the books and courses which you got for free with your Reader Membership. So, by buying a Reader membership, <strong>you are directly supporting the authors</strong> of the books you read and the courses you take.<br/><br/>Finally, <strong>if you do not want a Reader Membership</strong>, simply click the Edit link(s) above to edit the price you are paying. Authors set their minimum and suggested prices, but when a minimum price is free, <strong>books can also be purchased for $7.99 and up</strong>, bundles for $9.99 and up, courses for $19 and up and tracks for $29 and up. We pay our authors <strong>80% royalties</strong>, so you are supporting our authors with your paid purchase!"
   w_learn_more: "Więcej informacji"
   w_license: "License"
   w_mailchimp_interested_short: "Zainteresowała cię ta pozycja? Zapisz się do listy mailingowej autora!"
   w_minimum: "Minimalna"
   w_minimum_price_colon: "Minimalna cena:"
   w_minimum_price: "Minimalna cena"
-  w_free_with_subscription: "With Subscription"
+  w_with_membership: "With Membership"
+  w_without_membership: "Without Membership"
   w_min_price_change_tooltip: "Leanpub authors can change their minimum and suggested prices whenever they want."
   w_min_price_change_warning_html: "The minimum price has now been increased to <strong>%{updatedPrice}</strong>.<br /> We have set the price to this amount. "
   w_move_to_wishlist: "Move To Wishlist"
@@ -207,6 +215,8 @@ pl:
   w_newsletter_signup_banner_content_html: "This page has a lot of words on it. Our newsletters have a lot of words in them. Clearly, you're a person who likes words!<br/><br/>Our <strong>weekly and monthly sale newsletters</strong> also have <strong>amazing deals on books, bundles and courses</strong>.<br/><br/><a href=\"/newsletters\">Learn more about our weekly and monthly newsletters here</a>"
   w_notify_when: "Poinformuj mnie kiedy jest ukończona"
   w_now_only: "Get them now for only"
+  w_one_year_reader_membership: "One Year Reader Membership"
+  w_one_year_reader_membership_thanks: "Thanks for supporting Leanpub authors, and Leanpub, with your 1-year Leanpub Reader membership!"
   w_optional: "Optional"
   w_ownership_book_hint_html: "You own this book! You can view it in your <a href='/user_dashboard/library'> Library </a>"
   w_ownership_course_hint_html: "You own this course! You can view it in your <a href='/user_dashboard/courses'> Library </a>"
