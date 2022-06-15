@@ -27,6 +27,7 @@ ta:
   w_included_in_bundle:
     one: "The following book is included in this bundle..."
     other: "The following %{count} books are included in this bundle..."
+
 ############################################
 # With plurals above, without plurals below.
 ############################################
@@ -227,6 +228,8 @@ ta:
   w_reader: "Reader"
   w_readers: "Readers"
   w_reader_feedback: "Reader Feedback"
+  w_reader_testimonial: "Reader Testimonial"
+  w_reader_testimonials: "Reader Testimonials"
   w_retired: "Retired"
   w_retired_message: "This book is no longer available for sale."
   w_required: "Required"

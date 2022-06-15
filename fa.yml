@@ -31,6 +31,7 @@ fa:
   w_included_in_bundle:
     one: "The following book is included in this bundle..."
     other: "The following %{count} books are included in this bundle..."
+
 ############################################
 # With plurals above, without plurals below.
 ############################################
@@ -231,6 +232,8 @@ fa:
   w_reader: "خواننده"
   w_readers: "خوانندگان"
   w_reader_feedback: "بازخورد خوانننده"
+  w_reader_testimonial: "Reader Testimonial"
+  w_reader_testimonials: "Reader Testimonials"
   w_retired: "توقف انتشار"
   w_retired_message: "این کتاب دیگر برای فروش عرضه نمی‌شود."
   w_required: "Required"

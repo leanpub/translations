@@ -33,6 +33,7 @@ pl:
     one: "The following book is included in this bundle..."
     few: "The following %{count} books are included in this bundle..."
     other: "The following %{count} books are included in this bundle..."
+
 ############################################
 # With plurals above, without plurals below.
 ############################################
@@ -233,6 +234,8 @@ pl:
   w_reader: "Czytelnik"
   w_readers: "Czytelnicy"
   w_reader_feedback: "Opinie"
+  w_reader_testimonial: "Reader Testimonial"
+  w_reader_testimonials: "Reader Testimonials"
   w_retired: "Wycofana pozycja"
   w_retired_message: "Ta książka nie jest już dostępna w sprzedaży."
   w_required: "Required"

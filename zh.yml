@@ -27,6 +27,7 @@ zh:
   w_included_in_bundle:
     one: "The following book is included in this bundle..."
     other: "The following %{count} books are included in this bundle..."
+
 ############################################
 # With plurals above, without plurals below.
 ############################################
@@ -227,6 +228,8 @@ zh:
   w_reader: "讀者"
   w_readers: "讀者"
   w_reader_feedback: "讀者意見回饋"
+  w_reader_testimonial: "Reader Testimonial"
+  w_reader_testimonials: "Reader Testimonials"
   w_retired: "已下架"
   w_retired_message: "這本書已經不再銷售。"
   w_required: "Required"

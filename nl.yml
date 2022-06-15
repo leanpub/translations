@@ -27,6 +27,7 @@ nl:
   w_included_in_bundle:
     one: "The following book is included in this bundle..."
     other: "The following %{count} books are included in this bundle..."
+
 ############################################
 # With plurals above, without plurals below.
 ############################################
@@ -227,6 +228,8 @@ nl:
   w_reader: "Lezer"
   w_readers: "Lezers"
   w_reader_feedback: "Feedback van lezers"
+  w_reader_testimonial: "Reader Testimonial"
+  w_reader_testimonials: "Reader Testimonials"
   w_retired: "Rustend"
   w_retired_message: "Dit boek is niet meer beschikbaar voor de verkoop."
   w_required: "Required"

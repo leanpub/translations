@@ -27,6 +27,7 @@ ja:
   w_included_in_bundle:
     one: "書籍セットにはこの本が入っています..."
     other: "書籍セットには%{count}本の本が入っています..."
+
 ############################################
 # With plurals above, without plurals below.
 ############################################
@@ -227,6 +228,8 @@ ja:
   w_reader: "読者"
   w_readers: "人の読者"
   w_reader_feedback: "読者によるフィードバック"
+  w_reader_testimonial: "Reader Testimonial"
+  w_reader_testimonials: "Reader Testimonials"
   w_retired: "廃版"
   w_retired_message: "この本は、もう販売しておりません。"
   w_required: "Required"

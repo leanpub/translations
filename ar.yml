@@ -252,6 +252,8 @@ ar:
   w_reader: "Reader"
   w_readers: "Readers"
   w_reader_feedback: "Reader Feedback"
+  w_reader_testimonial: "Reader Testimonial"
+  w_reader_testimonials: "Reader Testimonials"
   w_retired: "مٌتقاعد"
   w_retired_message: "هذا الكتاب لم يعد متاحا للبيع."
   w_required: "Required"

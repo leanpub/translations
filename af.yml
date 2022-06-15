@@ -27,6 +27,7 @@ af:
   w_included_in_bundle:
     one: "The following book is included in this bundle..."
     other: "The following %{count} books are included in this bundle..."
+
 ############################################
 # With plurals above, without plurals below.
 ############################################
@@ -227,6 +228,8 @@ af:
   w_reader: Leser
   w_readers: Lesers
   w_reader_feedback: "Leserterugvoer"
+  w_reader_testimonial: "Reader Testimonial"
+  w_reader_testimonials: "Reader Testimonials"
   w_retired: "Afgetree"
   w_retired_message: "Hierdie boek is nie meer beskikbaar vir verkoop."
   w_required: "Required"

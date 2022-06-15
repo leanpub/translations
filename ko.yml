@@ -27,6 +27,7 @@ ko:
   w_included_in_bundle:
     one: "이 패키지에 포함된 책들은 다음과 같습니다."
     other: "이 패키지에 포함된 %{count}권의 책들은 다음과 같습니다."
+
 ############################################
 # With plurals above, without plurals below.
 ############################################
@@ -227,6 +228,8 @@ ko:
   w_reader: "독자"
   w_readers: "독자 수"
   w_reader_feedback: "독자들의 피드백"
+  w_reader_testimonial: "Reader Testimonial"
+  w_reader_testimonials: "Reader Testimonials"
   w_retired: "폐지됨"
   w_retired_message: "이 책은 더 이상 판매되지 않습니다."
   w_required: "Required"

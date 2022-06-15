@@ -27,6 +27,7 @@ fr:
   w_included_in_bundle:
     one: "Le livre suivant est inclus dans ce lot..."
     other: "Les %{count} livres suivants sont inclus dans ce lot..."
+
 ############################################
 # With plurals above, without plurals below.
 ############################################
@@ -227,6 +228,8 @@ fr:
   w_reader: "Lecteur"
   w_readers: "Lecteurs"
   w_reader_feedback: "Commentaires des lecteurs"
+  w_reader_testimonial: "Reader Testimonial"
+  w_reader_testimonials: "Reader Testimonials"
   w_retired: "Retiré"
   w_retired_message: "Ce livre n'est plus disponible à la vente."
   w_required: "Required"

@@ -32,6 +32,7 @@ hr:
     one: "The following book is included in this bundle..."
     few: "The following %{count} books are included in this bundle..."
     other: "The following %{count} books are included in this bundle..."
+
 ############################################
 # With plurals above, without plurals below.
 ############################################
@@ -232,6 +233,8 @@ hr:
   w_reader: Reader
   w_readers: Readers
   w_reader_feedback: "Reader Feedback"
+  w_reader_testimonial: "Reader Testimonial"
+  w_reader_testimonials: "Reader Testimonials"
   w_retired: "Nije u opticaju"
   w_retired_message: "Ova knjiga je više nije dostupan za prodaju."
   w_required: "Required"

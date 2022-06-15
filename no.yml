@@ -35,6 +35,7 @@
   w_included_in_bundle:
     one: "The following book is included in this bundle..."
     other: "The following %{count} books are included in this bundle..."
+
 ############################################
 # With plurals above, without plurals below.
 ############################################
@@ -235,6 +236,8 @@
   w_reader: "Leseren"
   w_readers: "Leserne"
   w_reader_feedback: "Lesertilbakemelding"
+  w_reader_testimonial: "Reader Testimonial"
+  w_reader_testimonials: "Reader Testimonials"
   w_retired: "Utgått"
   w_retired_message: "Denne boken er ikke lenger tilgjengelig for salg."
   w_required: "Required"

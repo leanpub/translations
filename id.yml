@@ -27,6 +27,7 @@ id:
   w_included_in_bundle:
     one: "The following book is included in this bundle..."
     other: "The following %{count} books are included in this bundle..."
+
 ############################################
 # With plurals above, without plurals below.
 ############################################
@@ -227,6 +228,8 @@ id:
   w_reader: Pembaca
   w_readers: Para pembaca
   w_reader_feedback: "Masukan Pembaca"
+  w_reader_testimonial: "Reader Testimonial"
+  w_reader_testimonials: "Reader Testimonials"
   w_retired: "Diberhentikan"
   w_retired_message: "Buku ini tidak lagi tersedia untuk dijual."
   w_required: "Required"

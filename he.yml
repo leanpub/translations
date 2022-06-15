@@ -28,6 +28,7 @@ he:
   w_included_in_bundle:
     one: "The following book is included in this bundle..."
     other: "The following %{count} books are included in this bundle..."
+
 ############################################
 # With plurals above, without plurals below.
 ############################################
@@ -228,6 +229,8 @@ he:
   w_reader: Reader
   w_readers: Readers
   w_reader_feedback: "Reader Feedback"
+  w_reader_testimonial: "Reader Testimonial"
+  w_reader_testimonials: "Reader Testimonials"
   w_retired: "ירד מהמדפים"
   w_retired_message: "הספר הזה הוא כבר לא זמין למכירה."
   w_required: "Required"
