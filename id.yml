@@ -61,6 +61,7 @@ id:
   w_book_free_price_tip_html: "The author is letting you set the price you'll pay for this book!<br/><br/>The suggested price is %{suggested}, and the minimum price the book can be purchased for without a membership is $7.99.<br/><br/>The book is free with a Reader Membership, which is $3.79/month or $19/year. If you add the book to your cart with a free price, we'll add a Reader Membership to your cart for you."
   w_book_free_reader_price_tip_html: "The author is letting you set the price you'll pay for this book!<br/><br/>The suggested price is %{suggested}, and the minimum price the book can be purchased for without a membership is $7.99.<br/><br/>This book is free with your membership. Thanks for supporting Leanpub and our authors!"
   w_book_published_on_leanpub_by: "Buku ini diterbitkan di Leanpub oleh"
+  w_book_published_on_leanpub_by_publisher: "This book is published on Leanpub by %{publisher}"
   w_book_freshness_timestamp:
     lt_1_minute: Baru saja!
     lt_2_minutes: Semenit yang lalu
@@ -72,6 +73,7 @@ id:
     lt_60_days: Sebulan yang lalu
     lt_1_year: "%{months} bulan yang lalu"
   w_book_translation_info_html: "This book is a translation into %{newLanguage} of <a href='/%{slug}'>%{title}</a> which was originally written in %{oldLanguage}."
+  w_browse_leanpub: "You can browse books, bundles, courses, and tracks to purchase on our <a href='/bookstore'>bookstore</a>."
   w_bundle_about_books: "Tentang Buku-buku Ini"
   w_bundle_about_bundle: "Tentang Bundel Ini"
   w_bundle_buy_now: "Beli bundel ini sekarang!"
@@ -100,9 +102,12 @@ id:
   w_causes_supported: "Gerakan-gerakan yang Didukung"
   w_checkout: "Checkout"
   w_checkout_with_credit_card: "Checkout with Credit Card"
+  w_checkout_with_free_purchase: "Checkout with Free Purchase"
   w_checkout_with_paypal: "Checkout with PayPal"
+  w_close: "Close"
   w_combined_suggested_price: "These books have a combined suggested price of"
   w_community: "Community"
+  w_community_edition: "Get Community Edition"
   w_community_edition_about_the_book: "About the Community Edition Book"
   w_community_callout_quote: "Callout Quote"
   w_community_teaser_text: "Community Edition Teaser Text"
@@ -150,6 +155,7 @@ id:
   w_free_updates_learn_more: "Learn more about Leanpub's ebook formats and where to read them"
   w_read_free_sample: "Baca sampel gratis"
   w_free_to: "Bebas untuk"
+  w_free_to_read_online: "Free To Read Online"
   w_get_my_free_book: "Dapatkan Buku Gratis!"
   w_get_free_terse: "Dapatkan Secara Gratis!"
   w_get_my_free_bundle: "Dapatkan Bundel Gratis!"
@@ -180,6 +186,7 @@ id:
   w_lang_ita: "Italia"
   w_lang_jpn: "Jepang"
   w_lang_nob: "Norwegian Bokmål"
+  w_lang_nor: "Norwegian"
   w_lang_nno: "Nynorsk"
   w_lang_pol: "Polish"
   w_lang_por: "Portugis"
@@ -206,6 +213,7 @@ id:
   w_min_price_change_warning_html: "The minimum price has now been increased to <strong>%{updatedPrice}</strong>.<br /> We have set the price to this amount. "
   w_move_to_wishlist: "Move To Wishlist"
   w_name: "Nama"
+  w_name_your_price: "Name Your Price"
   w_newsletter_signup_banner_title: "If You're Still Reading This, You'll Love Our Newsletters"
   w_newsletter_signup_banner_content_html: "This page has a lot of words on it. Our newsletters have a lot of words in them. Clearly, you're a person who likes words!<br/><br/>Our <strong>weekly and monthly sale newsletters</strong> also have <strong>amazing deals on books, bundles and courses</strong>.<br/><br/><a href=\"/newsletters\">Learn more about our weekly and monthly newsletters here</a>"
   w_notify_when: "Beritahu Saya Saat Ini Diterbitkan"
@@ -219,6 +227,8 @@ id:
   w_pages: "Halaman"
   w_please_wait: "Mohon tunggu…"
   w_previous_editions: "Previous Editions"
+  w_previous_editions_count: "%{count} Previous %{edition}"
+  w_product_complete: "This %{product} is %{percent_complete} complete."
   w_podcast_episode: "Episode %{episode_number}"
   w_podcast_interview: "An Interview with %{interviewee_name}"
   w_read: Baca
@@ -227,7 +237,10 @@ id:
   w_read_online: Baca secara online
   w_reader: Pembaca
   w_readers: Para pembaca
+  w_reader_count: "with %{count} Readers"
   w_reader_feedback: "Masukan Pembaca"
+  w_reader_list_blurb: "You've also encouraged this author and given them valuable information about the interest in this book!"
+  w_reader_list_successful: "You've successfully signed up to be notified when this book is published."
   w_reader_testimonial: "Reader Testimonial"
   w_reader_testimonials: "Reader Testimonials"
   w_retired: "Diberhentikan"
@@ -240,6 +253,7 @@ id:
   w_share: "Share"
   w_share_book: "Bagikan buku ini"
   w_shipping_confirmation: "shipping confirmation"
+  w_shopping_cart_empty: "Your shopping cart is empty!"
   w_subtotal: "Subtotal"
   w_successfully_signed_up: "You've successfully signed up to be notified when this course is published"
   w_suggested: Disarankan
@@ -260,12 +274,20 @@ id:
   w_unpublished_tweet_text: "Ingin segera membaca %{title}"
   w_very_early_stage_html: "<strong>Catatan dari Leanpub:</strong> Buku ini nampaknya berada dalam <strong>tahap sangat dini</strong>. (Saat ini memiliki sekitar <strong>%{pages} halaman dan %{words} kata</strong>.) Jika Anda membelinya sekarang, Anda melakukannya <strong>terutama untuk mendorong semangat penulis</strong>. (Jika Anda membeli buku ini, Anda akan memperoleh seluruh update buku via Leanpub secara cuma-cuma, tentu saja!)"
   w_view_bundle: "Tampilkan Bundel"
+  w_wishlist_empty: "Your Wish List is empty!"
   w_words: "Kata"
   w_write_on_leanpub_learn_more: "Learn more about writing on Leanpub"
   w_write_on_leanpub_title: "Write and Publish on Leanpub"
   w_write_on_leanpub_html: "Authors and publishers use Leanpub to publish amazing in-progress and completed ebooks, just like this one. You can use Leanpub to write, publish and sell your book as well! Leanpub is a powerful platform for serious authors, combining a simple, elegant writing and publishing workflow with a store focused on selling in-progress ebooks. Leanpub is a magical typewriter for authors: just write in plain text, and to publish your ebook, just click a button. It really is that easy."
   w_you_pay: "Anda membayar"
   w_your_shopping_cart: "Your Shopping Cart"
+  w_your_wishlist: "Your Wish List"
+
+#########################
+# Fields for aria-labels
+#########################
+  a_add_title_to_cart: "Add %{title} to Cart"
+  a_visit_publisher: "Visit %{publisher}'s page"
 
 #######################
 # Fields for books
