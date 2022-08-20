@@ -6,11 +6,11 @@
 #
 # Since we use Google Translate for translating words and phrases for which we have no
 # author-provided translation, and since Google Translate appears to use Norwegian Bokmål
-# and not Norwegian Nynorsk, Leanpub is only going to support Norwegian Bokmål in its
+# and not Norwegian Nynorsk, for now Leanpub is only going to support Norwegian Bokmål in its
 # language files, and will use it regardless of whether the book is in Nynorsk or Bokmål.
+# If we get authors who are willing to localize Leanpub into Nynorsk, then this can change.
 #
-# THE CONTENTS OF THIS FILE ARE COPIED AND PASTED INTO THE nb.yml AND nn.yml FILES.
-# EDIT THIS FILE, NOT THOSE ONES.
+# FOR NOW THE CONTENTS OF THIS FILE SHOULD BE COPIED AND PASTED INTO THE nb.yml AND nn.yml FILES.
 ###
 "no":
   support:

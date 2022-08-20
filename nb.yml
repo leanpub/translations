@@ -1,7 +1,9 @@
 ###
 # Leanpub website text portions.
 # Copyright (c) 2010-2022 Ruboss Technology Corporation.
-# EDITS TO THIS FILE SHOULD ALSO BE PORTED TO no.yml FOR NOW.
+#
+# TODO: This is currently copied and pasted from no.yml. See that file for more information.
+#
 # Norwegian Bokmål
 # 2 letter code = nb. 3 letter code = nob.
 ###
@@ -185,7 +187,7 @@ nb:
   w_lang_ita: "Italiensk"
   w_lang_jpn: "Japansk"
   w_lang_nob: "Norwegian Bokmål"
-  w_lang_nor: "Norwegian"
+  w_lang_nor: "Norsk"
   w_lang_nno: "Norwegian Nynorsk"
   w_lang_pol: "Polish"
   w_lang_por: "Portugisisk"

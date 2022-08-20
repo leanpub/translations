@@ -1,7 +1,9 @@
 ###
 # Leanpub website text portions.
 # Copyright (c) 2010-2022 Ruboss Technology Corporation.
-# TODO - THIS IS CURRENTLY Bokmål (WE THINK), NOT Nynorsk. WE NEED HELP FROM AUTHORS TO CONVERT THIS TO Nynorsk, SINCE GOOGLE TRANSLATE USES Bokmål (WE THINK), NOT Nynorsk.
+#
+# TODO: This is currently copied and pasted from no.yml. See that file for more information.
+#
 # Norwegian Nynorsk
 # 2 letter code = nn. 3 letter code = nno.
 ###
@@ -263,7 +265,7 @@ nn:
   w_suspended_coupon_tooltip_html: "Leanpub often includes coupons in weekly and monthly sale newsletters.<br/>These coupons typically last a week, but authors can edit them to expire as well.<br/>Authors can also create their own coupons."
   w_suspended_coupon_warning_html: "The coupon for <strong>%{unitPrice}</strong> is now suspended.<br/>We have set the price to the minimum price of <strong>%{updatedPrice}</strong>. "
   w_this_is_a_gift: "This is a gift"
-  w_toc: "Innhald"
+  w_toc: "Innhold"
   w_toc_and_privacy_policy_html: "By continuing, you agree to our <a rel='noopener noreferrer' target='_blank' href='/terms' className='link'>Terms of Service</a> and acknowledge our <a rel='noopener noreferrer' target='_blank' href='/privacy' className='link'>Privacy Policy</a>."
   w_token_or_password: "Token eller Passord"
   w_total: "Totalt"
