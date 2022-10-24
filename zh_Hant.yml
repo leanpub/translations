@@ -7,7 +7,10 @@
 # using it to uniquely identify the language and locale. This way we can just have languages instead of dealing with
 # locales, dialects, topolects, etc.
 #
-# Custom code2 = zh_Hant. 3 letter ISO code = zht.
+# Custom code2 = zh_Hant. custom code3 = zho_Hant.
+# NOTE: ISO 639-1 code2 = zh; ISO 639-2/T code3 = zho.
+# https://en.wikipedia.org/wiki/ISO_639-2#B_and_T_codes
+# https://en.wikipedia.org/wiki/ISO_639-3
 ###
 zh_Hant:
   support:
@@ -188,18 +191,21 @@ zh_Hant:
   w_lang_ita: "義大利語"
   w_lang_jpn: "日語"
   w_lang_nob: "挪威語"
-  w_lang_nor: "Norwegian"
   w_lang_nno: "新挪威語"
   w_lang_pol: "波蘭語"
-  w_lang_por: "葡萄牙語"
+  w_lang_por_BR: "葡萄牙語"
+  w_lang_por_PT: "葡萄牙語"
   w_lang_rum: "羅馬尼雅語"
   w_lang_rus: "俄語"
-  w_lang_srp: "塞爾維亞雅語"
+  w_lang_srp_Cyrl: "塞爾維亞雅語"
+  w_lang_srp_Latn: "塞爾維亞雅語"
   w_lang_slv: "斯洛文尼亞語"
   w_lang_spa: "西班牙語"
   w_lang_swe: "瑞典語"
   w_lang_tur: "土耳其語"
   w_lang_uig: "Uyghur"
+  w_lang_zh_Hans: "Chinese (Simplified)"
+  w_lang_zh_Hant: "Chinese (Traditional)"
   w_language_options_body: "本書有提供下列幾種語言的版本 (或目前正在翻譯)："
   w_last_updated_time: "上次更新時間：%{updated_at}"
   w_leanpub_reader_membership_required_html: "Your cart contains one or more books, bundles, courses or tracks which require a <strong>Reader Membership</strong> to be purchased for free."
