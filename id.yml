@@ -5,10 +5,11 @@
 # Indonesian
 # 2 letter code = id. 3 letter code = ind.
 ###
+---
 id:
   support:
     array:
-      last_word_connector: " dan " # Used in to_sentence
+      last_word_connector: " dan "
   w_author_earns:
     one: "Penulis mendapatkan"
     other: "Para penulis mendapatkan"
@@ -27,10 +28,6 @@ id:
   w_included_in_bundle:
     one: "The following book is included in this bundle..."
     other: "The following %{count} books are included in this bundle..."
-
-############################################
-# With plurals above, without plurals below.
-############################################
   w_about_author: "Tentang Penulis"
   w_about_authors: "Tentang Para Penulis"
   w_about_book: "Tentang Buku"
@@ -63,14 +60,14 @@ id:
   w_book_published_on_leanpub_by: "Buku ini diterbitkan di Leanpub oleh"
   w_book_published_on_leanpub_by_publisher: "This book is published on Leanpub by %{publisher}"
   w_book_freshness_timestamp:
-    lt_1_minute: Baru saja!
-    lt_2_minutes: Semenit yang lalu
+    lt_1_minute: "Baru saja!"
+    lt_2_minutes: "Semenit yang lalu"
     lt_45_minutes: "%{minutes} menit yang lalu"
-    lt_90_minutes: ~1 jam yang lalu
+    lt_90_minutes: "~1 jam yang lalu"
     lt_24_hours: "%{hours} jam yang lalu"
-    lt_48_hours: Kemarin
+    lt_48_hours: "Kemarin"
     lt_30_days: "%{days} hari yang lalu"
-    lt_60_days: Sebulan yang lalu
+    lt_60_days: "Sebulan yang lalu"
     lt_1_year: "%{months} bulan yang lalu"
   w_book_translation_info_html: "This book is a translation into %{newLanguage} of <a href='/%{slug}'>%{title}</a> which was originally written in %{oldLanguage}."
   w_browse_leanpub: "You can browse books, bundles, courses, and tracks to purchase on our <a href='/bookstore'>bookstore</a>."
@@ -145,8 +142,6 @@ id:
   w_eu_vat_hint_html: "<span class='text-bold'>EU customers:</span> Price excludes VAT.<br/> VAT is added during checkout."
   w_expired_coupon_tooltip_html: "Leanpub often includes coupons in weekly and monthly sale newsletters.<br/>These coupons typically last a week, but authors can edit them to expire as well.<br/>Authors can also create their own coupons."
   w_expired_coupon_warning_html: "The coupon for <strong>%{unitPrice}</strong> is now expired.<br/>We have set the price to the minimum price of <strong>%{updatedPrice}</strong>. "
-  w_fanfic_always_free: "Buku-buku fan fiction selalu gratis di Leanpub."
-  w_fanfic_of: "Buku ini adalah fan fiction dari %{work} karya %{author}."
   w_feedback: "Masukan"
   w_feedback_blurb_html: "Silakan memposkan komentar Anda mengenai buku ini di bawah ini! Mulai dari temuan typo hingga memberi ulasan, masukan Anda bisa membantu %{authors} memperbaiki buku ini untuk Anda dan para pembaca lainnya."
   w_free: "Free!"
@@ -164,7 +159,7 @@ id:
   w_happiness_guarantee_days_html: "Dalam <strong>60 hari sesudah pembelian</strong> Anda bisa memperoleh <strong>100% refund</strong> atas pembelian di Leanpub dengan <strong>dua klik</strong>. Kami memproses refund secara manual, sehingga mungkin butuh beberapa hari sampai selesai. <br><a href=\"/refunds\">Lihat ketentuan lengkap</a>"
   w_happiness_guarantee_title: "Jaminan Kepuasan 100%, Bebas Resiko, Tanpa Syarat ala Leanpub"
   w_hero_categories: "Categories"
-  w_installments_completed: Seri telah lengkap
+  w_installments_completed: "Seri telah lengkap"
   w_instructors: "Instructors"
   w_interested_short: "Tertarik dengan buku ini? Tunjukkan dukungan Anda dengan menyebutkan harga yang sedia Anda bayarkan untuknya!"
   w_interested_course_short: "Interested in this course? Show your support by saying what you'd like to pay for it!"
@@ -207,7 +202,7 @@ id:
   w_learn_more: "Pelajari selengkapnya"
   w_license: "License"
   w_mailchimp_interested_short: "Tertarik dengan buku ini? Mendaftarlah ke milis pribadi penulisnya!"
-  w_minimum: Minimum
+  w_minimum: "Minimum"
   w_minimum_price_colon: "Harga minimum:"
   w_minimum_price: "Harga minimum"
   w_with_membership: "With Membership"
@@ -234,12 +229,12 @@ id:
   w_product_complete: "This %{product} is %{percent_complete} complete."
   w_podcast_episode: "Episode %{episode_number}"
   w_podcast_interview: "An Interview with %{interviewee_name}"
-  w_read: Baca
+  w_read: "Baca"
   w_read_more: "Read More"
   w_read_less: "Read Less"
-  w_read_online: Baca secara online
-  w_reader: Pembaca
-  w_readers: Para pembaca
+  w_read_online: "Baca secara online"
+  w_reader: "Pembaca"
+  w_readers: "Para pembaca"
   w_reader_count: "with %{count} Readers"
   w_reader_feedback: "Masukan Pembaca"
   w_reader_list_blurb: "You've also encouraged this author and given them valuable information about the interest in this book!"
@@ -259,7 +254,7 @@ id:
   w_shopping_cart_empty: "Your shopping cart is empty!"
   w_subtotal: "Subtotal"
   w_successfully_signed_up: "You've successfully signed up to be notified when this course is published"
-  w_suggested: Disarankan
+  w_suggested: "Disarankan"
   w_suggested_price_colon: "Harga yang disarankan:"
   w_suggested_price: "Harga yang disarankan"
   w_suspended_coupon_tooltip_html: "Leanpub often includes coupons in weekly and monthly sale newsletters.<br/>These coupons typically last a week, but authors can edit them to expire as well.<br/>Authors can also create their own coupons."
@@ -269,7 +264,7 @@ id:
   w_toc_and_privacy_policy_html: "By continuing, you agree to our <a rel='noopener noreferrer' target='_blank' href='/terms' className='link'>Terms of Service</a> and acknowledge our <a rel='noopener noreferrer' target='_blank' href='/privacy' className='link'>Privacy Policy</a>."
   w_token_or_password: "Token Login atau Password Akun"
   w_total: "Total"
-  w_translation: Terjemahan
+  w_translation: "Terjemahan"
   w_tweet_text: "Baca %{title}"
   w_type_your_message_to_the_author: "Tuliskan pesan Anda untuk penulis di bawah ini"
   w_unit_price_in_usd: "Unit Price in US $"
@@ -285,16 +280,8 @@ id:
   w_you_pay: "Anda membayar"
   w_your_shopping_cart: "Your Shopping Cart"
   w_your_wishlist: "Your Wish List"
-
-#########################
-# Fields for aria-labels
-#########################
   a_add_title_to_cart: "Add %{title} to Cart"
   a_visit_publisher: "Visit %{publisher}'s page"
-
-#######################
-# Fields for books
-#######################
   p_book_edition: "This is the %{edition} of this Leanpub book, which may not include all of the content of the full book. The full book is available at \\url{%{url}}"
   p_book_edition_html: "This is the %{edition} of this Leanpub book, which may not include all of the content of the full book. The full book is available at <a href=\"%{url}\">%{url}</a>"
   p_book_for_sale_at: "Buku ini dijual di \\url{%{url}}"
@@ -314,10 +301,6 @@ id:
   p_also_by_single_author_title: "Juga Oleh \\href{https://leanpub.com/u/%{username}}{%{name}}"
   p_teaser_text: "This content is not available in the sample book. The book can be purchased on Leanpub at <%{url}>."
   p_teaser_text_with_edition: "This content is not available in the %{edition}. The book can be purchased on Leanpub at <%{url}>."
-
-#######################
-# Kaminari Pagination
-#######################
   views:
     pagination:
       first: "Pertama"

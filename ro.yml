@@ -5,10 +5,11 @@
 # Română (Romanian, Latin alphabet)
 # 2 letter code = ro. 3 letter code = rom.
 ###
+---
 ro:
   support:
     array:
-      last_word_connector: " și " # Used in to_sentence
+      last_word_connector: " și "
   w_author_earns:
     one: "Autorul câștigă"
     few: "Autorii câștigă"
@@ -33,10 +34,6 @@ ro:
     one: "The following book is included in this bundle..."
     few: "The following %{count} books are included in this bundle..."
     other: "The following %{count} books are included in this bundle..."
-
-############################################
-# With plurals above, without plurals below.
-############################################
   w_about_author: "Despre autor"
   w_about_authors: "Despre autori"
   w_about_book: "Despre carte"
@@ -151,8 +148,6 @@ ro:
   w_eu_vat_hint_html: "<span class='text-bold'>EU customers:</span> Price excludes VAT.<br/> VAT is added during checkout."
   w_expired_coupon_tooltip_html: "Leanpub often includes coupons in weekly and monthly sale newsletters.<br/>These coupons typically last a week, but authors can edit them to expire as well.<br/>Authors can also create their own coupons."
   w_expired_coupon_warning_html: "The coupon for <strong>%{unitPrice}</strong> is now expired.<br/>We have set the price to the minimum price of <strong>%{updatedPrice}</strong>. "
-  w_fanfic_always_free: "Cărțile fanilor sunt gratuite pe Leanpub."
-  w_fanfic_of: "Această carte este o variantă de fan care are la bază %{work} de %{author}."
   w_feedback: "Observații"
   w_feedback_blurb_html: "Poți posta comentarii despre această carte mai jos! De la identificarea de greșeli de scriere la oferirea unei analize complete, feed-bacl-ul tău va ajuta pe %{authors} să îmbunătățescă această carte pentru tine și ceilalți cititori."
   w_free: "Free!"
@@ -291,16 +286,8 @@ ro:
   w_you_pay: "Plătești"
   w_your_shopping_cart: "Your Shopping Cart"
   w_your_wishlist: "Your Wish List"
-
-#########################
-# Fields for aria-labels
-#########################
   a_add_title_to_cart: "Add %{title} to Cart"
   a_visit_publisher: "Visit %{publisher}'s page"
-
-#######################
-# Fields for books
-#######################
   p_book_edition: "This is the %{edition} of this Leanpub book, which may not include all of the content of the full book. The full book is available at \\url{%{url}}"
   p_book_edition_html: "This is the %{edition} of this Leanpub book, which may not include all of the content of the full book. The full book is available at <a href=\"%{url}\">%{url}</a>"
   p_book_for_sale_at: "Această carte se poate achiziționa de pe \\url{%{url}}"
@@ -320,10 +307,6 @@ ro:
   p_also_by_single_author_title: "Tot de \\href{https://leanpub.com/u/%{username}}{%{name}}"
   p_teaser_text: "This content is not available in the sample book. The book can be purchased on Leanpub at <%{url}>."
   p_teaser_text_with_edition: "This content is not available in the %{edition}. The book can be purchased on Leanpub at <%{url}>."
-
-#######################
-# Kaminari Pagination
-#######################
   views:
     pagination:
       first: "Prima"

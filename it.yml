@@ -5,10 +5,11 @@
 # Italian
 # 2 letter code = it. 3 letter code = ita.
 ###
+---
 it:
   support:
     array:
-      last_word_connector: " and " # Used in to_sentence
+      last_word_connector: " and "
   w_author_earns:
     one: "L'autore guadagna"
     other: "Gli autori guadagnano"
@@ -27,10 +28,6 @@ it:
   w_included_in_bundle:
     one: "The following book is included in this bundle..."
     other: "The following %{count} books are included in this bundle..."
-
-############################################
-# With plurals above, without plurals below.
-############################################
   w_about_author: "Info sull'autore"
   w_about_authors: "Info sugli autori"
   w_about_book: "Info sul libro"
@@ -140,13 +137,11 @@ it:
   w_embargo: "EMBARGO!"
   w_embargo_message_1: "Journalists and bloggers: please do not publish anything about this until the embargo is lifted!"
   w_embargo_message_2: "Please contact the author for more information about when this is."
-  w_embed_code_copy_instructions: Comunicato (Control/⌘)-C per copiare il codice negli Appunti
+  w_embed_code_copy_instructions: "Comunicato (Control/⌘)-C per copiare il codice negli Appunti"
   w_encouraged_author: "You've also encouraged this author and given them valuable information about the interest in this course!"
   w_eu_vat_hint_html: "<span class='text-bold'>EU customers:</span> Price excludes VAT.<br/> VAT is added during checkout."
   w_expired_coupon_tooltip_html: "Leanpub often includes coupons in weekly and monthly sale newsletters.<br/>These coupons typically last a week, but authors can edit them to expire as well.<br/>Authors can also create their own coupons."
   w_expired_coupon_warning_html: "The coupon for <strong>%{unitPrice}</strong> is now expired.<br/>We have set the price to the minimum price of <strong>%{updatedPrice}</strong>. "
-  w_fanfic_always_free: "I libri di Fan fiction sono sempre gratuiti su Leanpub."
-  w_fanfic_of: "Questo libro è una fan fiction basata su %{work} di %{author}."
   w_feedback: "Feedback"
   w_feedback_blurb_html: "Please feel free to post your comments about this book below! From identifying typos to writing reviews, your feedback can help %{authors} improve this book for you and your fellow readers."
   w_free: "Free!"
@@ -154,7 +149,7 @@ it:
   w_free_updates_html: "If you buy a Leanpub book, you get free updates for as long as the author updates the book! Many authors use Leanpub to publish their books in-progress, while they are writing them. All readers get free updates, regardless of when they bought the book or how much they paid (including free).<br/><br/>Most Leanpub books are available in PDF (for computers) and EPUB (for phones, tablets, and Kindle). The formats that a book includes are shown at the top right corner of this page.<br/><br/>Finally, Leanpub books don't have any DRM copy-protection nonsense, so you can easily read them on any supported device."
   w_free_updates_learn_more: "Learn more about Leanpub's ebook formats and where to read them"
   w_read_free_sample: "Leggi il campione gratuito"
-  w_free_to: Free to
+  w_free_to: "Free to"
   w_free_to_read_online: "Free To Read Online"
   w_get_my_free_book: "Scarica il mio libro gratis"
   w_get_free_terse: "Scarica gratis!"
@@ -164,7 +159,7 @@ it:
   w_happiness_guarantee_days_html: "Entro 60 giorni dall'<strong>acquisto</strong> è possibile ottenere un rimborso completo del <strong>100%</strong> del valore su qualsiasi acquisto Leanpub. Vedi <a termini href=\"/refunds\">completi</a>."
   w_happiness_guarantee_title: "Leanpub è garantito dalla formula soddisfatti o rimborsati. Nessun rischio, garanzia di Felicità al 100%"
   w_hero_categories: "Categories"
-  w_installments_completed: Rate completate
+  w_installments_completed: "Rate completate"
   w_instructors: "Instructors"
   w_interested_short: "Ti interessa questo libro? Mostra il tuo sostegno indicando quanto ti piacerebbe pagarlo!"
   w_interested_course_short: "Interested in this course? Show your support by saying what you'd like to pay for it!"
@@ -285,16 +280,8 @@ it:
   w_you_pay: "Tu paghi"
   w_your_shopping_cart: "Your Shopping Cart"
   w_your_wishlist: "Your Wish List"
-
-#########################
-# Fields for aria-labels
-#########################
   a_add_title_to_cart: "Add %{title} to Cart"
   a_visit_publisher: "Visit %{publisher}'s page"
-
-#######################
-# Fields for books
-#######################
   p_book_edition: "This is the %{edition} of this Leanpub book, which may not include all of the content of the full book. The full book is available at \\url{%{url}}"
   p_book_edition_html: "This is the %{edition} of this Leanpub book, which may not include all of the content of the full book. The full book is available at <a href=\"%{url}\">%{url}</a>"
   p_book_for_sale_at: "Questo libro è in vendita presso \\url{%{url}}"
@@ -314,10 +301,6 @@ it:
   p_also_by_single_author_title: "Sempre di \\href{https://leanpub.com/u/%{username}}{%{name}}"
   p_teaser_text: "This content is not available in the sample book. The book can be purchased on Leanpub at <%{url}>."
   p_teaser_text_with_edition: "This content is not available in the %{edition}. The book can be purchased on Leanpub at <%{url}>."
-
-#######################
-# Kaminari Pagination
-#######################
   views:
     pagination:
       first: "Prima"

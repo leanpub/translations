@@ -5,10 +5,11 @@
 # Swedish
 # 2 letter code = sv. 3 letter code = swe.
 ###
+---
 sv:
   support:
     array:
-      last_word_connector: " och " # Used in to_sentence
+      last_word_connector: " och "
       two_words_connector: " och "
   w_author_earns:
     one: "Författare erhåller"
@@ -28,10 +29,6 @@ sv:
   w_included_in_bundle:
     one: "The following book is included in this bundle..."
     other: "The following %{count} books are included in this bundle..."
-
-############################################
-# With plurals above, without plurals below.
-############################################
   w_about_author: "Om författaren"
   w_about_authors: "Om författarna"
   w_about_book: "Om boken"
@@ -141,13 +138,11 @@ sv:
   w_embargo: "EMBARGO!"
   w_embargo_message_1: "Journalists and bloggers: please do not publish anything about this until the embargo is lifted!"
   w_embargo_message_2: "Please contact the author for more information about when this is."
-  w_embed_code_copy_instructions: Press (Control/⌘)-C att kopiera koden till dina urklipp
+  w_embed_code_copy_instructions: "Press (Control/⌘)-C att kopiera koden till dina urklipp"
   w_encouraged_author: "You've also encouraged this author and given them valuable information about the interest in this course!"
   w_eu_vat_hint_html: "<span class='text-bold'>EU customers:</span> Price excludes VAT.<br/> VAT is added during checkout."
   w_expired_coupon_tooltip_html: "Leanpub often includes coupons in weekly and monthly sale newsletters.<br/>These coupons typically last a week, but authors can edit them to expire as well.<br/>Authors can also create their own coupons."
   w_expired_coupon_warning_html: "The coupon for <strong>%{unitPrice}</strong> is now expired.<br/>We have set the price to the minimum price of <strong>%{updatedPrice}</strong>. "
-  w_fanfic_always_free: "Fan fiction-böcker är alltid gratis på Leanpub."
-  w_fanfic_of: "Denna bok är fan fiction baserad på %{work} av %{author}."
   w_feedback: "Feedback"
   w_feedback_blurb_html: "Please feel free to post your comments about this book below! From identifying typos to writing reviews, your feedback can help %{authors} improve this book for you and your fellow readers."
   w_free: "Free!"
@@ -155,7 +150,7 @@ sv:
   w_free_updates_html: "If you buy a Leanpub book, you get free updates for as long as the author updates the book! Many authors use Leanpub to publish their books in-progress, while they are writing them. All readers get free updates, regardless of when they bought the book or how much they paid (including free).<br/><br/>Most Leanpub books are available in PDF (for computers) and EPUB (for phones, tablets, and Kindle). The formats that a book includes are shown at the top right corner of this page.<br/><br/>Finally, Leanpub books don't have any DRM copy-protection nonsense, so you can easily read them on any supported device."
   w_free_updates_learn_more: "Learn more about Leanpub's ebook formats and where to read them"
   w_read_free_sample: "Läs gratis exemplar"
-  w_free_to: Gratis att
+  w_free_to: "Gratis att"
   w_free_to_read_online: "Free To Read Online"
   w_get_my_free_book: "Få din gratis ebok!"
   w_get_free_terse: "Få det gratis!"
@@ -165,7 +160,7 @@ sv:
   w_happiness_guarantee_days_html: "Upp till <strong>60 dagar efter ett köp</strong> kan du få tillbaka <strong>100%</strong> av det du betalat med <strong>två klick</strong>. Vi processar alla återbetalningar manuellt, så det kan ta ett par dagar innan pengarna dyker upp. Se de <a href=\"/refunds\">fullständiga villkoren</a>."
   w_happiness_guarantee_title: "Ovillkorliga Leanpub: ingen risk, 100% garanterat nöjd"
   w_hero_categories: "Categories"
-  w_installments_completed: avbetalningar slutförts
+  w_installments_completed: "avbetalningar slutförts"
   w_instructors: "Instructors"
   w_interested_short: "Intresserad av den här boken? Visa ditt stöd genom att berätta vad du skulle betala för den!"
   w_interested_course_short: "Interested in this course? Show your support by saying what you'd like to pay for it!"
@@ -208,7 +203,7 @@ sv:
   w_learn_more: "Läs mer"
   w_license: "License"
   w_mailchimp_interested_short: "Interested in this book? Sign up for the author's personal mailing list!"
-  w_minimum: Minst
+  w_minimum: "Minst"
   w_minimum_price_colon: "Lägstapris:"
   w_minimum_price: "Lägstapris"
   w_with_membership: "With Membership"
@@ -235,12 +230,12 @@ sv:
   w_product_complete: "This %{product} is %{percent_complete} complete."
   w_podcast_episode: "Episode %{episode_number}"
   w_podcast_interview: "An Interview with %{interviewee_name}"
-  w_read: Läs
+  w_read: "Läs"
   w_read_more: "Read More"
   w_read_less: "Read Less"
-  w_read_online: Läs nätet
-  w_reader: Reader
-  w_readers: Läsare
+  w_read_online: "Läs nätet"
+  w_reader: "Reader"
+  w_readers: "Läsare"
   w_reader_count: "with %{count} Readers"
   w_reader_feedback: "Reader Feedback"
   w_reader_list_blurb: "You've also encouraged this author and given them valuable information about the interest in this book!"
@@ -260,7 +255,7 @@ sv:
   w_shopping_cart_empty: "Your shopping cart is empty!"
   w_subtotal: "Subtotal"
   w_successfully_signed_up: "You've successfully signed up to be notified when this course is published"
-  w_suggested: Föreslagna
+  w_suggested: "Föreslagna"
   w_suggested_price_colon: "Föreslaget pris:"
   w_suggested_price: "Föreslaget pris"
   w_suspended_coupon_tooltip_html: "Leanpub often includes coupons in weekly and monthly sale newsletters.<br/>These coupons typically last a week, but authors can edit them to expire as well.<br/>Authors can also create their own coupons."
@@ -270,7 +265,7 @@ sv:
   w_toc_and_privacy_policy_html: "By continuing, you agree to our <a rel='noopener noreferrer' target='_blank' href='/terms' className='link'>Terms of Service</a> and acknowledge our <a rel='noopener noreferrer' target='_blank' href='/privacy' className='link'>Privacy Policy</a>."
   w_token_or_password: "Token or Password"
   w_total: "Totalt"
-  w_translation: Översättning
+  w_translation: "Översättning"
   w_tweet_text: "Läs %{title}"
   w_type_your_message_to_the_author: "Type your message to the author below"
   w_unit_price_in_usd: "Unit Price in US $"
@@ -286,16 +281,8 @@ sv:
   w_you_pay: "Du betalar"
   w_your_shopping_cart: "Your Shopping Cart"
   w_your_wishlist: "Your Wish List"
-
-#########################
-# Fields for aria-labels
-#########################
   a_add_title_to_cart: "Add %{title} to Cart"
   a_visit_publisher: "Visit %{publisher}'s page"
-
-#######################
-# Fields for books
-#######################
   p_book_edition: "This is the %{edition} of this Leanpub book, which may not include all of the content of the full book. The full book is available at \\url{%{url}}"
   p_book_edition_html: "This is the %{edition} of this Leanpub book, which may not include all of the content of the full book. The full book is available at <a href=\"%{url}\">%{url}</a>"
   p_book_for_sale_at: "Denna bok är till salu på \\url{%{url}}"
@@ -315,10 +302,6 @@ sv:
   p_also_by_single_author_title: "Också av \\href{https://leanpub.com/u/%{username}}{%{name}}"
   p_teaser_text: "This content is not available in the sample book. The book can be purchased on Leanpub at <%{url}>."
   p_teaser_text_with_edition: "This content is not available in the %{edition}. The book can be purchased on Leanpub at <%{url}>."
-
-#######################
-# Kaminari Pagination
-#######################
   views:
     pagination:
       first: "First"

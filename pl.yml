@@ -5,10 +5,11 @@
 # Polish
 # 2 letter code = pl. 3 letter code = pol.
 ###
+---
 pl:
   support:
     array:
-      last_word_connector: " i " # Used in to_sentence
+      last_word_connector: " i "
   w_author_earns:
     one: "Autor otrzymuje"
     few: "Autorzy otrzymują"
@@ -33,10 +34,6 @@ pl:
     one: "The following book is included in this bundle..."
     few: "The following %{count} books are included in this bundle..."
     other: "The following %{count} books are included in this bundle..."
-
-############################################
-# With plurals above, without plurals below.
-############################################
   w_about_author: "O autorze"
   w_about_authors: "O autorach"
   w_about_book: "O książce"
@@ -151,8 +148,6 @@ pl:
   w_eu_vat_hint_html: "<span class='text-bold'>EU customers:</span> Price excludes VAT.<br/> VAT is added during checkout."
   w_expired_coupon_tooltip_html: "Leanpub often includes coupons in weekly and monthly sale newsletters.<br/>These coupons typically last a week, but authors can edit them to expire as well.<br/>Authors can also create their own coupons."
   w_expired_coupon_warning_html: "The coupon for <strong>%{unitPrice}</strong> is now expired.<br/>We have set the price to the minimum price of <strong>%{updatedPrice}</strong>. "
-  w_fanfic_always_free: "Książki fan fiction są zawsze za darmo na platformie Leanpub"
-  w_fanfic_of: "Ta książka to fan fiction na podstawie %{work} autorstwa %{author}."
   w_feedback: "Feedback"
   w_feedback_blurb_html: "Please feel free to post your comments about this book below! From identifying typos to writing reviews, your feedback can help %{authors} improve this book for you and your fellow readers."
   w_free: "Za darmo!"
@@ -170,7 +165,7 @@ pl:
   w_happiness_guarantee_days_html: "Leanpub posiada <strong>60-dniową</strong> gwarancję bezwarunkowego zwrotu pieniędzy na każdy zakup <strong>w dwóch prostych krokach</strong>. Zwroty obsługujemy ręcznie więc środki mogą się pojawić na twoim koncie po kilku dniach. <a href=\"/refunds\">Zobacz warunki świadczenia usług.</a>."
   w_happiness_guarantee_title: "60-dniowa gwarancja zwrotu pieniędzy"
   w_hero_categories: "Categories"
-  w_installments_completed: Odcinki ukończone
+  w_installments_completed: "Odcinki ukończone"
   w_instructors: "Instructors"
   w_interested_short: "Jesteś zainteresowany tą książką? Udziel wsparcia autorowi przekazując mu za ile byś kupił książkę!"
   w_interested_course_short: "Jesteś zainteresowany tym kursem? Udziel wsparcia autorowi przekazując mu za ile byś kupił kurs!"
@@ -291,16 +286,8 @@ pl:
   w_you_pay: "Płacisz"
   w_your_shopping_cart: "Your Shopping Cart"
   w_your_wishlist: "Your Wish List"
-
-#########################
-# Fields for aria-labels
-#########################
   a_add_title_to_cart: "Add %{title} to Cart"
   a_visit_publisher: "Visit %{publisher}'s page"
-
-#######################
-# Fields for books
-#######################
   p_book_edition: "This is the %{edition} of this Leanpub book, which may not include all of the content of the full book. The full book is available at \\url{%{url}}"
   p_book_edition_html: "This is the %{edition} of this Leanpub book, which may not include all of the content of the full book. The full book is available at <a href=\"%{url}\">%{url}</a>"
   p_book_for_sale_at: "Ta książka jest do kupienia na \\url{%{url}}"
@@ -320,10 +307,6 @@ pl:
   p_also_by_single_author_title: "Pozostałe pozycje autora \\href{https://leanpub.com/u/%{username}}{%{name}}"
   p_teaser_text: "Zawartość nie jest dostępna w przykładowej książce. Książkę można zakupic na platformie Leanpub pod adresem <%{url}>."
   p_teaser_text_with_edition: "This content is not available in the %{edition}. The book can be purchased on Leanpub at <%{url}>."
-
-#######################
-# Kaminari Pagination
-#######################
   views:
     pagination:
       first: "First"

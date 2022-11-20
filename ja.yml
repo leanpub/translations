@@ -5,10 +5,11 @@
 # Japanese
 # 2 letter code = ja. 3 letter code = jpn.
 ###
+---
 ja:
   support:
     array:
-      last_word_connector: " and " # Used in to_sentence
+      last_word_connector: " and "
   w_author_earns:
     one: "著者の収益"
     other: "著者の収益"
@@ -27,10 +28,6 @@ ja:
   w_included_in_bundle:
     one: "書籍セットにはこの本が入っています..."
     other: "書籍セットには%{count}本の本が入っています..."
-
-############################################
-# With plurals above, without plurals below.
-############################################
   w_about_author: "著者について"
   w_about_authors: "著者について"
   w_about_book: "本書について"
@@ -145,8 +142,6 @@ ja:
   w_eu_vat_hint_html: "<span class='text-bold'>EUのお客様:</span> 値段にVATは含まれていません。<br/> VATは購入時に加算されます。"
   w_expired_coupon_tooltip_html: "Leanpub often includes coupons in weekly and monthly sale newsletters.<br/>These coupons typically last a week, but authors can edit them to expire as well.<br/>Authors can also create their own coupons."
   w_expired_coupon_warning_html: "The coupon for <strong>%{unitPrice}</strong> is now expired.<br/>We have set the price to the minimum price of <strong>%{updatedPrice}</strong>. "
-  w_fanfic_always_free: "Leanpubで公開中の二次創作物はすべて無料です。"
-  w_fanfic_of: "本書は %{author} 著 %{work} の二次創作物です。"
   w_feedback: "フィードバック"
   w_feedback_blurb_html: "本書に関するコメントがあれば、お気軽に投稿してください。誤字脱字の指摘から本書の感想まで、あなたからのフィードバックであれば何でも本書の改善に役立ちます。 %{authors}や他の読者のためにもぜひお願いします。"
   w_free: "無料！"
@@ -285,16 +280,8 @@ ja:
   w_you_pay: "支払額"
   w_your_shopping_cart: "Your Shopping Cart"
   w_your_wishlist: "Your Wish List"
-
-#########################
-# Fields for aria-labels
-#########################
   a_add_title_to_cart: "Add %{title} to Cart"
   a_visit_publisher: "Visit %{publisher}'s page"
-
-#######################
-# Fields for books
-#######################
   p_book_edition: "This is the %{edition} of this Leanpub book, which may not include all of the content of the full book. The full book is available at \\url{%{url}}"
   p_book_edition_html: "This is the %{edition} of this Leanpub book, which may not include all of the content of the full book. The full book is available at <a href=\"%{url}\">%{url}</a>"
   p_book_for_sale_at: "本書はこちらで販売中です \\url{%{url}}"
@@ -314,10 +301,6 @@ ja:
   p_also_by_single_author_title: "\\href{https://leanpub.com/u/%{username}}{%{name}} 共著"
   p_teaser_text: "このコンテンツはサンプル本では読めません。この本はLeanpubで購入できます　<%{url}>."
   p_teaser_text_with_edition: "This content is not available in the %{edition}. The book can be purchased on Leanpub at <%{url}>."
-
-#######################
-# Kaminari Pagination
-#######################
   views:
     pagination:
       first: "最初"

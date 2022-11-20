@@ -10,10 +10,11 @@
 # Custom code2 = pt_PT, custom code3 = por_PT.
 # NOTE: ISO code2 = pt; ISO code3 = por.
 ###
+---
 pt_PT:
   support:
     array:
-      last_word_connector: " e " # Used in to_sentence
+      last_word_connector: " e "
   w_author_earns:
     one: "O autor ganha"
     other: "Os autores ganham"
@@ -32,10 +33,6 @@ pt_PT:
   w_included_in_bundle:
     one: "O seguinte livro está incluído neste bundle..."
     other: "Os seguintes %{count} livros estão incluídos neste bundle..."
-
-############################################
-# With plurals above, without plurals below.
-############################################
   w_about_author: "Sobre o Autor"
   w_about_authors: "Sobre os Autores"
   w_about_book: "Sobre o Livro"
@@ -150,8 +147,6 @@ pt_PT:
   w_eu_vat_hint_html: "<span class='text-bold'>Clientes da Europa:</span> O preço exclui o VAT.<br/> VAT é adicionado durante o checkout."
   w_expired_coupon_tooltip_html: "Leanpub often includes coupons in weekly and monthly sale newsletters.<br/>These coupons typically last a week, but authors can edit them to expire as well.<br/>Authors can also create their own coupons."
   w_expired_coupon_warning_html: "The coupon for <strong>%{unitPrice}</strong> is now expired.<br/>We have set the price to the minimum price of <strong>%{updatedPrice}</strong>. "
-  w_fanfic_always_free: "Livros de ficção de fãs são sempre gratuitos na Leanpub."
-  w_fanfic_of: "Este é um livro de ficção de fãs baseado no %{work} de %{author}."
   w_feedback: "Feedback"
   w_feedback_blurb_html: "Sinta-se à vontade para deixar abaixo seus comentários sobre o livro! Desde identificar erros a escrever resenhas, seu feedback pode ajudar %{authors} a aprimorar esse livro para você e para os demais leitores."
   w_free: "Grátis!"
@@ -290,16 +285,8 @@ pt_PT:
   w_you_pay: "Você paga"
   w_your_shopping_cart: "Seu carrinho de compras"
   w_your_wishlist: "Your Wish List"
-
-#########################
-# Fields for aria-labels
-#########################
   a_add_title_to_cart: "Add %{title} to Cart"
   a_visit_publisher: "Visit %{publisher}'s page"
-
-#######################
-# Fields for books
-#######################
   p_book_edition: "This is the %{edition} of this Leanpub book, which may not include all of the content of the full book. The full book is available at \\url{%{url}}"
   p_book_edition_html: "This is the %{edition} of this Leanpub book, which may not include all of the content of the full book. The full book is available at <a href=\"%{url}\">%{url}</a>"
   p_book_for_sale_at: "Esse livro está à venda em \\url{%{url}}"
@@ -319,10 +306,6 @@ pt_PT:
   p_also_by_single_author_title: "Outras Obras De \\href{https://leanpub.com/u/%{username}}{%{name}}"
   p_teaser_text: "Esse conteúdo não está disponível na amostra do livro. O livro pode ser comprado na Leanpub em <%{url}>."
   p_teaser_text_with_edition: "This content is not available in the %{edition}. The book can be purchased on Leanpub at <%{url}>."
-
-#######################
-# Kaminari Pagination
-#######################
   views:
     pagination:
       first: "Primeira"

@@ -9,10 +9,11 @@
 # convention (e.g. Persian / Farsi is referred to as Persian by Google
 # Translate). In other languages, we use Farsi, since there is less ambiguity.
 ###
+---
 fa:
   support:
     array:
-      last_word_connector: " و " # Used in to_sentence
+      last_word_connector: " و "
   w_author_earns:
     one: "عایدی پدیدآورنده"
     other: "عایدی پدیدآورندگان"
@@ -31,10 +32,6 @@ fa:
   w_included_in_bundle:
     one: "The following book is included in this bundle..."
     other: "The following %{count} books are included in this bundle..."
-
-############################################
-# With plurals above, without plurals below.
-############################################
   w_about_author: "درباره پدیدآورنده"
   w_about_authors: "درباره پدیدآورندگان"
   w_about_book: "درباره کتاب"
@@ -149,8 +146,6 @@ fa:
   w_eu_vat_hint_html: "<span class='text-bold'>EU customers:</span> Price excludes VAT.<br/> VAT is added during checkout."
   w_expired_coupon_tooltip_html: "Leanpub often includes coupons in weekly and monthly sale newsletters.<br/>These coupons typically last a week, but authors can edit them to expire as well.<br/>Authors can also create their own coupons."
   w_expired_coupon_warning_html: "The coupon for <strong>%{unitPrice}</strong> is now expired.<br/>We have set the price to the minimum price of <strong>%{updatedPrice}</strong>. "
-  w_fanfic_always_free: "کتاب‌های فن فیکشن همیشه در لین‌پاب به صورت رایگان فروخته می‌شود."
-  w_fanfic_of: "این کتاب فن فیکشنی بر اساس کتاب %{work} نوشته‌ی %{author} می‌باشد."
   w_feedback: "بازخورد"
   w_feedback_blurb_html: "لطفا نظر خود را درباره‌ی این کتاب در زیر بنویسید. چه خطای تایپی در کتاب پیدا کرده یا در حال بیان نظرتان درباره‌ی کتاب باشید، بازخورد شما به %{authors} برای بهبود این کتاب برای شما و دیگر خوانندگان کمک می‌کند."
   w_free: "رایگان!"
@@ -289,16 +284,8 @@ fa:
   w_you_pay: "مبلغ پرداختی شما"
   w_your_shopping_cart: "Your Shopping Cart"
   w_your_wishlist: "Your Wish List"
-
-#########################
-# Fields for aria-labels
-#########################
   a_add_title_to_cart: "Add %{title} to Cart"
   a_visit_publisher: "Visit %{publisher}'s page"
-
-#######################
-# Fields for books
-#######################
   p_book_edition: "This is the %{edition} of this Leanpub book, which may not include all of the content of the full book. The full book is available at \\url{%{url}}"
   p_book_edition_html: "This is the %{edition} of this Leanpub book, which may not include all of the content of the full book. The full book is available at <a href=\"%{url}\">%{url}</a>"
   p_book_for_sale_at: "این کتاب از آدرس \\url{%{url}} قابل خرید است"
@@ -318,10 +305,6 @@ fa:
   p_also_by_single_author_title: "دیگر کتاب‌های \\href{https://leanpub.com/u/%{username}}{%{name}}"
   p_teaser_text: "این محتوا در نسخه‌ی نمونه‌ی کتاب وجود ندارد. می‌توانید کتاب را از سایت لین‌پاب از آدرس <%{url}> خریداری کنید."
   p_teaser_text_with_edition: "This content is not available in the %{edition}. The book can be purchased on Leanpub at <%{url}>."
-
-#######################
-# Kaminari Pagination
-#######################
   views:
     pagination:
       first: "ابتدا"

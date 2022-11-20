@@ -5,10 +5,11 @@
 # Arabic
 # 2 letter code = ar. 3 letter code = ara.
 ###
+---
 ar:
   support:
     array:
-      last_word_connector: " و " # Used in to_sentence
+      last_word_connector: " و "
   w_author_earns:
     none: "لا شيء"
     one: "مستحقات المؤلف"
@@ -51,10 +52,6 @@ ar:
     few: "The following %{count} books are included in this bundle..."
     many: "The following %{count} books are included in this bundle..."
     other: "The following %{count} books are included in this bundle..."
-
-############################################
-# With plurals above, without plurals below.
-############################################
   w_about_author: "نبذه عن المؤلف"
   w_about_authors: "نبذه عن المؤلفين"
   w_about_book: "نبذه عن الكتاب"
@@ -164,13 +161,11 @@ ar:
   w_embargo: "محظور!"
   w_embargo_message_1: "اذا كنت مدون او صحفي٬ فضلا لا تنشر اي شئ حتي يتم رفع الحظر!"
   w_embargo_message_2: "يرجي الاتصال بالمؤلف للحصول علي مزيد من المعلومات."
-  w_embed_code_copy_instructions: Press (Control/⌘)-C to copy this code to your clipboard
+  w_embed_code_copy_instructions: "Press (Control/⌘)-C to copy this code to your clipboard"
   w_encouraged_author: "You've also encouraged this author and given them valuable information about the interest in this course!"
   w_eu_vat_hint_html: "<span class='text-bold'>EU customers:</span> Price excludes VAT.<br/> VAT is added during checkout."
   w_expired_coupon_tooltip_html: "Leanpub often includes coupons in weekly and monthly sale newsletters.<br/>These coupons typically last a week, but authors can edit them to expire as well.<br/>Authors can also create their own coupons."
   w_expired_coupon_warning_html: "The coupon for <strong>%{unitPrice}</strong> is now expired.<br/>We have set the price to the minimum price of <strong>%{updatedPrice}</strong>. "
-  w_fanfic_always_free: "كتب الـ FanFiction دائما مجانيه على Leanpub."
-  w_fanfic_of: "هذا كتاب FanFiction مبنى على %{work} بواسطة %{author}."
   w_feedback: "الملاحظات"
   w_feedback_blurb_html: "فضلا لا تتردد باضافة تعليقاتك عن هذا الكتاب من ملاحظات واخطاء مطبعية وغيره٬ هذه الملاحظات تساعد  %{authors} بتحسين كتابه لك وللقراء المستقبليين."
   w_free: "Free!"
@@ -178,7 +173,7 @@ ar:
   w_free_updates_html: "If you buy a Leanpub book, you get free updates for as long as the author updates the book! Many authors use Leanpub to publish their books in-progress, while they are writing them. All readers get free updates, regardless of when they bought the book or how much they paid (including free).<br/><br/>Most Leanpub books are available in PDF (for computers), EPUB (for phones, tablets, and Kindle). The formats that a book includes are shown at the top right corner of this page.<br/><br/>Finally, Leanpub books don't have any DRM copy-protection nonsense, so you can easily read them on any supported device."
   w_free_updates_learn_more: "Learn more about Leanpub's ebook formats and where to read them"
   w_read_free_sample: "Read Free Sample"
-  w_free_to: Free to
+  w_free_to: "Free to"
   w_free_to_read_online: "Free To Read Online"
   w_get_my_free_book: "أحصل على كتابك المجانى!"
   w_get_free_terse: "احصل عليه مجانا!"
@@ -188,7 +183,7 @@ ar:
   w_happiness_guarantee_days_html: "فى خلال <strong>60 يوم من الشراء</strong> تستطيع أن <strong>تسترد 100%</strong> من الذى دفعته فى أى مشتريات من Leanpub , <strong>بنقرتين من الماوس</strong>. نحن نعالج عملية الإسترداد يدويا , لذا فإن عملية الإسترداد تأخذ أيام قليله لتتم. ألقى نظره على <a href=\"/refunds\">كامل الشروط</a>."
   w_happiness_guarantee_title: "Leanpub بدون شروط, بدون مجازفه, 100% ضمان لسعادتك معنا"
   w_hero_categories: "Categories"
-  w_installments_completed: Installments completed
+  w_installments_completed: "Installments completed"
   w_instructors: "Instructors"
   w_interested_short: "مهتم بهذا الكتاب؟ أظهر دعمك و أخبرنا كم تريد أن تدفع ثمنا لهذا الكتاب!"
   w_interested_course_short: "Interested in this course? Show your support by saying what you'd like to pay for it!"
@@ -231,7 +226,7 @@ ar:
   w_learn_more: "معرفة المزيد"
   w_license: "License"
   w_mailchimp_interested_short: "Interested in this book? Sign up for the author's personal mailing list!"
-  w_minimum: Minimum
+  w_minimum: "Minimum"
   w_minimum_price_colon: "الحد الأدنى للسعر :"
   w_minimum_price: "الحد الأدنى للسعر "
   w_with_membership: "With Membership"
@@ -309,16 +304,8 @@ ar:
   w_you_pay: "أنت تدفع"
   w_your_shopping_cart: "Your Shopping Cart"
   w_your_wishlist: "Your Wish List"
-
-#########################
-# Fields for aria-labels
-#########################
   a_add_title_to_cart: "Add %{title} to Cart"
   a_visit_publisher: "Visit %{publisher}'s page"
-
-#######################
-# Fields for books
-#######################
   p_book_edition: "This is the %{edition} of this Leanpub book, which may not include all of the content of the full book. The full book is available at \\url{%{url}}"
   p_book_edition_html: "This is the %{edition} of this Leanpub book, which may not include all of the content of the full book. The full book is available at <a href=\"%{url}\">%{url}</a>"
   p_book_for_sale_at: "هذا الكتاب للبيع على \\url{%{url}}"
@@ -338,10 +325,6 @@ ar:
   p_also_by_single_author_title: "أيضا بواسطة \\href{https://leanpub.com/u/%{username}}{%{name}}"
   p_teaser_text: "This content is not available in the sample book. The book can be purchased on Leanpub at <%{url}>."
   p_teaser_text_with_edition: "This content is not available in the %{edition}. The book can be purchased on Leanpub at <%{url}>."
-
-#######################
-# Kaminari Pagination
-#######################
   views:
     pagination:
       first: "First"

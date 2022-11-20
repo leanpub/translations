@@ -5,10 +5,11 @@
 # Korean
 # 2 letter code = ko. 3 letter code = kor.
 ###
+---
 ko:
   support:
     array:
-      last_word_connector: " and " # Used in to_sentence
+      last_word_connector: " and "
   w_author_earns:
     one: "저자의 수입"
     other: "저자들의 수입"
@@ -27,10 +28,6 @@ ko:
   w_included_in_bundle:
     one: "이 패키지에 포함된 책들은 다음과 같습니다."
     other: "이 패키지에 포함된 %{count}권의 책들은 다음과 같습니다."
-
-############################################
-# With plurals above, without plurals below.
-############################################
   w_about_author: "저자 소개"
   w_about_authors: "저자 소개"
   w_about_book: "책 소개"
@@ -145,8 +142,6 @@ ko:
   w_eu_vat_hint_html: "<span class='text-bold'>EU 고객들:</span> VAT 별도 가격입니다.<br/> VAT는 결제 단계에서 자동 합산 됩니다."
   w_expired_coupon_tooltip_html: "Leanpub often includes coupons in weekly and monthly sale newsletters.<br/>These coupons typically last a week, but authors can edit them to expire as well.<br/>Authors can also create their own coupons."
   w_expired_coupon_warning_html: "The coupon for <strong>%{unitPrice}</strong> is now expired.<br/>We have set the price to the minimum price of <strong>%{updatedPrice}</strong>. "
-  w_fanfic_always_free: "팬픽 책들은 항상 Leanpub에서 무료로 판매됩니다."
-  w_fanfic_of: "이 책은 %{work} 이야기에 기반하여 %{author}가 쓴 팬픽입니다."
   w_feedback: "피드백"
   w_feedback_blurb_html: "이 책에 대한 여러분의 의견을 아래에 마음껏 남겨주세요! 오타 확인에서부터 작품 리뷰까지 당신의 피드백은 당신과 다른 독자들을 위해 책을 개선하는데에 도움을 줄 수 있습니다."
   w_free: "무료입니다!"
@@ -164,7 +159,7 @@ ko:
   w_happiness_guarantee_days_html: "<strong>구매일로부터 60일</strong>안에 어떤 결제든 <strong>클릭 두번</strong>으로 <strong>전액 환불</strong>을 받을 수 있습니다. <br/><br/><a href=\"/refunds\">전체 약관 확인하기</a>"
   w_happiness_guarantee_title: "Leanpub의 60일 간 100%만족 보장"
   w_hero_categories: "Categories"
-  w_installments_completed: Installments completed
+  w_installments_completed: "Installments completed"
   w_instructors: "지도자"
   w_interested_short: "이 책에 관심이 있으세요? 당신의 서포트를 이 책에 얼마나 지불하고 싶은지를 통해 보여주세요!"
   w_interested_course_short: "이 코스에 관심이 있으세요? 당신의 서포트를 이 코스에 얼마나 지불하고 싶은지를 통해 보여주세요!"
@@ -285,16 +280,8 @@ ko:
   w_you_pay: "지불할 금액"
   w_your_shopping_cart: "Your Shopping Cart"
   w_your_wishlist: "Your Wish List"
-
-#########################
-# Fields for aria-labels
-#########################
   a_add_title_to_cart: "Add %{title} to Cart"
   a_visit_publisher: "Visit %{publisher}'s page"
-
-#######################
-# Fields for books
-#######################
   p_book_edition: "This is the %{edition} of this Leanpub book, which may not include all of the content of the full book. The full book is available at \\url{%{url}}"
   p_book_edition_html: "This is the %{edition} of this Leanpub book, which may not include all of the content of the full book. The full book is available at <a href=\"%{url}\">%{url}</a>"
   p_book_for_sale_at: "이 책은 \\url{%{url}}에서 할인 중입니다."
@@ -314,10 +301,6 @@ ko:
   p_also_by_single_author_title: "또한 \\href{https://leanpub.com/u/%{username}}{%{name}}가 쓴 책들"
   p_teaser_text: "이 컨텐츠는 샘플이 제공되지 않습니다. 책은 Leanpub <%{url}>에서 구매하실 수 있습니다."
   p_teaser_text_with_edition: "This content is not available in the %{edition}. The book can be purchased on Leanpub at <%{url}>."
-
-#######################
-# Kaminari Pagination
-#######################
   views:
     pagination:
       first: "처음"
