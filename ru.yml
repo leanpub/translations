@@ -5,10 +5,11 @@
 # Russian
 # 2 letter code = ru. 3 letter code = rus.
 ###
+---
 ru:
   support:
     array:
-      last_word_connector: " и " # Used in to_sentence
+      last_word_connector: " и "
   w_author_earns:
     one: "Сколько получит автор"
     few: "Сколько получат авторы"
@@ -33,10 +34,6 @@ ru:
     one: "The following book is included in this bundle"
     few: "The following %{count} books are included in this bundle..."
     other: "The following %{count} books are included in this bundle..."
-
-############################################
-# With plurals above, without plurals below.
-############################################
   w_about_author: "Об авторе"
   w_about_authors: "О авторах"
   w_about_book: "О книге"
@@ -151,8 +148,6 @@ ru:
   w_eu_vat_hint_html: "<span class='text-bold'>EU customers:</span> Price excludes VAT.<br/> VAT is added during checkout."
   w_expired_coupon_tooltip_html: "Leanpub often includes coupons in weekly and monthly sale newsletters.<br/>These coupons typically last a week, but authors can edit them to expire as well.<br/>Authors can also create their own coupons."
   w_expired_coupon_warning_html: "The coupon for <strong>%{unitPrice}</strong> is now expired.<br/>We have set the price to the minimum price of <strong>%{updatedPrice}</strong>. "
-  w_fanfic_always_free: "Книги в стиле fan fiction (они же фанфики, фанфикшн) всегда бесплатны на Leanpub."
-  w_fanfic_of: "Эта книга — фанфик по %{work} от %{author}."
   w_feedback: "Обратная связь"
   w_feedback_blurb_html: "Пожалуйста, напишите свой комментарий к книге в поле ниже. Любой ваш отзыв чрезвычайно полезен для улучшения книги, будь то исправление ошибок или же полноценная рецензия."
   w_free: "Бесплатно!"
@@ -213,7 +208,7 @@ ru:
   w_learn_more: "Узнать больше"
   w_license: "License"
   w_mailchimp_interested_short: "Вам интересна эта книга? Тогда подпишитесь на персональную рассылку автора, чтобы первым узнать о всех обновлениях!"
-  w_minimum: Минимальная
+  w_minimum: "Минимальная"
   w_minimum_price_colon: "Минимальная цена"
   w_minimum_price: "Минимальная цена"
   w_with_membership: "With Membership"
@@ -291,16 +286,8 @@ ru:
   w_you_pay: "Вы платите"
   w_your_shopping_cart: "Your Shopping Cart"
   w_your_wishlist: "Your Wish List"
-
-#########################
-# Fields for aria-labels
-#########################
   a_add_title_to_cart: "Add %{title} to Cart"
   a_visit_publisher: "Visit %{publisher}'s page"
-
-#######################
-# Fields for books
-#######################
   p_book_edition: "This is the %{edition} of this Leanpub book, which may not include all of the content of the full book. The full book is available at \\url{%{url}}"
   p_book_edition_html: "This is the %{edition} of this Leanpub book, which may not include all of the content of the full book. The full book is available at <a href=\"%{url}\">%{url}</a>"
   p_book_for_sale_at: "Эта книга предназначена для продажи на \\url{%{url}}"
@@ -320,10 +307,6 @@ ru:
   p_also_by_single_author_title: "Также \\href{https://leanpub.com/u/%{username}}{%{name}}"
   p_teaser_text: "Этот контент недоступен в образце книги. Вы можете купить на Leanpub по адресу <%{url}>."
   p_teaser_text_with_edition: "This content is not available in the %{edition}. The book can be purchased on Leanpub at <%{url}>."
-
-#######################
-# Kaminari Pagination
-#######################
   views:
     pagination:
       first: "Первая"

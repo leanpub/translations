@@ -9,10 +9,11 @@
 #
 # 2 letter code = sr_Cyrl. 3 letter code = srp.
 ###
+---
 sr_Cyrl:
   support:
     array:
-      last_word_connector: " и " # Used in to_sentence
+      last_word_connector: " и "
   w_author_earns:
     one: "зарада аутора"
     few: "зарада аутора"
@@ -37,10 +38,6 @@ sr_Cyrl:
     one: "The following book is included in this bundle..."
     few: "The following %{count} books are included in this bundle..."
     other: "The following %{count} books are included in this bundle..."
-
-############################################
-# With plurals above, without plurals below.
-############################################
   w_about_author: "О аутору"
   w_about_authors: "О ауторима"
   w_about_book: "О књизи"
@@ -150,13 +147,11 @@ sr_Cyrl:
   w_embargo: "EMBARGO!"
   w_embargo_message_1: "Journalists and bloggers: please do not publish anything about this until the embargo is lifted!"
   w_embargo_message_2: "Please contact the author for more information about when this is."
-  w_embed_code_copy_instructions: Press (Control/⌘)-C to copy this code to your clipboard
+  w_embed_code_copy_instructions: "Press (Control/⌘)-C to copy this code to your clipboard"
   w_encouraged_author: "You've also encouraged this author and given them valuable information about the interest in this course!"
   w_eu_vat_hint_html: "<span class='text-bold'>EU customers:</span> Price excludes VAT.<br/> VAT is added during checkout."
   w_expired_coupon_tooltip_html: "Leanpub often includes coupons in weekly and monthly sale newsletters.<br/>These coupons typically last a week, but authors can edit them to expire as well.<br/>Authors can also create their own coupons."
   w_expired_coupon_warning_html: "The coupon for <strong>%{unitPrice}</strong> is now expired.<br/>We have set the price to the minimum price of <strong>%{updatedPrice}</strong>. "
-  w_fanfic_always_free: "Fan fiction књиге су увек бесплатне на Leanpub-у."
-  w_fanfic_of: "Ова књига је fan fiction заснована на %{work} од %{author}."
   w_feedback: "Feedback"
   w_feedback_blurb_html: "Please feel free to post your comments about this book below! From identifying typos to writing reviews, your feedback can help %{authors} improve this book for you and your fellow readers."
   w_free: "Free!"
@@ -164,7 +159,7 @@ sr_Cyrl:
   w_free_updates_html: "If you buy a Leanpub book, you get free updates for as long as the author updates the book! Many authors use Leanpub to publish their books in-progress, while they are writing them. All readers get free updates, regardless of when they bought the book or how much they paid (including free).<br/><br/>Most Leanpub books are available in PDF (for computers), EPUB (for phones and tablets) and MOBI (for Kindle). The formats that a book includes are shown at the top right corner of this page.<br/><br/>Finally, Leanpub books don't have any DRM copy-protection nonsense, so you can easily read them on any supported device."
   w_free_updates_learn_more: "Learn more about Leanpub's ebook formats and where to read them"
   w_read_free_sample: "Read Free Sample"
-  w_free_to: Free to
+  w_free_to: "Free to"
   w_free_to_read_online: "Free To Read Online"
   w_get_my_free_book: "Узмите свој бесплатан примерак књиге!"
   w_get_free_terse: "Бесплатно!"
@@ -174,7 +169,7 @@ sr_Cyrl:
   w_happiness_guarantee_days_html: "У року од <strong>60 дана од куповине</strong> може Вам бити враћен<strong>сав новац</strong> од било које куповине на Leanpub-у, са само <strong>два клика</strong>. С обзиром да ручно обрађујемо поврат новца, биће потребно неколико дана да се новац појави на Вашем рачуну. Прочитајте <a href=\"/refunds\">full terms</a>."
   w_happiness_guarantee_title: "Leanpub безусловно, без ризика, 100% загарантовано задовољство"
   w_hero_categories: "Categories"
-  w_installments_completed: Installments completed
+  w_installments_completed: "Installments completed"
   w_instructors: "Instructors"
   w_interested_short: "Заинтересовани сте за ову књигу? Пружите подршку тако што ћете рећи колико бисте били вољни да платите за њу!"
   w_interested_course_short: "Interested in this course? Show your support by saying what you'd like to pay for it!"
@@ -217,7 +212,7 @@ sr_Cyrl:
   w_learn_more: "Сазнај више"
   w_license: "License"
   w_mailchimp_interested_short: "Interested in this book? Sign up for the author's personal mailing list!"
-  w_minimum: Minimum
+  w_minimum: "Minimum"
   w_minimum_price_colon: "Минимална цена:"
   w_minimum_price: "Минимална цена"
   w_with_membership: "With Membership"
@@ -244,12 +239,12 @@ sr_Cyrl:
   w_product_complete: "This %{product} is %{percent_complete} complete."
   w_podcast_episode: "Episode %{episode_number}"
   w_podcast_interview: "An Interview with %{interviewee_name}"
-  w_read: Read
+  w_read: "Read"
   w_read_more: "Read More"
   w_read_less: "Read Less"
-  w_read_online: Read online
-  w_reader: Reader
-  w_readers: Readers
+  w_read_online: "Read online"
+  w_reader: "Reader"
+  w_readers: "Readers"
   w_reader_count: "with %{count} Readers"
   w_reader_feedback: "Reader Feedback"
   w_reader_list_blurb: "You've also encouraged this author and given them valuable information about the interest in this book!"
@@ -269,7 +264,7 @@ sr_Cyrl:
   w_shopping_cart_empty: "Your shopping cart is empty!"
   w_subtotal: "Subtotal"
   w_successfully_signed_up: "You've successfully signed up to be notified when this course is published"
-  w_suggested: Suggested
+  w_suggested: "Suggested"
   w_suggested_price_colon: "Предложена цена:"
   w_suggested_price: "Предложена цена"
   w_suspended_coupon_tooltip_html: "Leanpub often includes coupons in weekly and monthly sale newsletters.<br/>These coupons typically last a week, but authors can edit them to expire as well.<br/>Authors can also create their own coupons."
@@ -279,7 +274,7 @@ sr_Cyrl:
   w_toc_and_privacy_policy_html: "By continuing, you agree to our <a rel='noopener noreferrer' target='_blank' href='/terms' className='link'>Terms of Service</a> and acknowledge our <a rel='noopener noreferrer' target='_blank' href='/privacy' className='link'>Privacy Policy</a>."
   w_token_or_password: "Token or Password"
   w_total: "Укупно"
-  w_translation: Translation
+  w_translation: "Translation"
   w_tweet_text: "Прочитај %{title}"
   w_type_your_message_to_the_author: "Type your message to the author below"
   w_unit_price_in_usd: "Unit Price in US $"
@@ -295,16 +290,8 @@ sr_Cyrl:
   w_you_pay: "Плаћате"
   w_your_shopping_cart: "Your Shopping Cart"
   w_your_wishlist: "Your Wish List"
-
-#########################
-# Fields for aria-labels
-#########################
   a_add_title_to_cart: "Add %{title} to Cart"
   a_visit_publisher: "Visit %{publisher}'s page"
-
-#######################
-# Fields for books
-#######################
   p_book_edition: "This is the %{edition} of this Leanpub book, which may not include all of the content of the full book. The full book is available at \\url{%{url}}"
   p_book_edition_html: "This is the %{edition} of this Leanpub book, which may not include all of the content of the full book. The full book is available at <a href=\"%{url}\">%{url}</a>"
   p_book_for_sale_at: "Ова књига се може купити на \\url{%{url}}"
@@ -324,10 +311,6 @@ sr_Cyrl:
   p_also_by_single_author_title: "такође од \\href{https://leanpub.com/u/%{username}}{%{name}}"
   p_teaser_text: "This content is not available in the sample book. The book can be purchased on Leanpub at <%{url}>."
   p_teaser_text_with_edition: "This content is not available in the %{edition}. The book can be purchased on Leanpub at <%{url}>."
-
-#######################
-# Kaminari Pagination
-#######################
   views:
     pagination:
       first: "First"

@@ -5,10 +5,11 @@
 # Afrikaans
 # 2 letter code = af. 3 letter code = afr.
 ###
+---
 af:
   support:
     array:
-      last_word_connector: " en " # Used in to_sentence
+      last_word_connector: " en "
   w_author_earns:
     one: "Outeur verdien"
     other: "Outerus verdien"
@@ -27,10 +28,6 @@ af:
   w_included_in_bundle:
     one: "The following book is included in this bundle..."
     other: "The following %{count} books are included in this bundle..."
-
-############################################
-# With plurals above, without plurals below.
-############################################
   w_about_author: "Aangaande hierdie outeur"
   w_about_authors: "Aangaande hierdie outeurs"
   w_about_book: "Aangaande hierdie boek"
@@ -63,14 +60,14 @@ af:
   w_book_published_on_leanpub_by: "Hierdie boek is gepubliseer op Leanpub deur"
   w_book_published_on_leanpub_by_publisher: "This book is published on Leanpub by %{publisher}"
   w_book_freshness_timestamp:
-    lt_1_minute: Just now!
-    lt_2_minutes: Een minuut gelede
+    lt_1_minute: "Just now!"
+    lt_2_minutes: "Een minuut gelede"
     lt_45_minutes: "%{minutes} minute gelede"
-    lt_90_minutes: ~1 uur gelede
+    lt_90_minutes: "~1 uur gelede"
     lt_24_hours: "%{hours} ure gelede"
-    lt_48_hours: Gister
+    lt_48_hours: "Gister"
     lt_30_days: "%{days} dae gelede"
-    lt_60_days: Verlede maand
+    lt_60_days: "Verlede maand"
     lt_1_year: "%{months} maande gelede"
   w_book_translation_info_html: "This book is a translation into %{newLanguage} of <a href='/%{slug}'>%{title}</a> which was originally written in %{oldLanguage}."
   w_browse_leanpub: "You can browse books, bundles, courses, and tracks to purchase on our <a href='/bookstore'>bookstore</a>."
@@ -112,7 +109,7 @@ af:
   w_community_callout_quote: "Callout Quote"
   w_community_teaser_text: "Community Edition Teaser Text"
   w_community_whats_included: "What's included in the Community Edition"
-  w_complete: Voltooid
+  w_complete: "Voltooid"
   w_completed_on: "Voltooi op %{updated_at}"
   w_complete_amount: "Hierdie boek is %{percent_complete}% voltooi"
   w_complete_course_amount: "The instructor has published %{percent_complete}% of this course."
@@ -145,8 +142,6 @@ af:
   w_eu_vat_hint_html: "<span class='text-bold'>EU customers:</span> Price excludes VAT.<br/> VAT is added during checkout."
   w_expired_coupon_tooltip_html: "Leanpub often includes coupons in weekly and monthly sale newsletters.<br/>These coupons typically last a week, but authors can edit them to expire as well.<br/>Authors can also create their own coupons."
   w_expired_coupon_warning_html: "The coupon for <strong>%{unitPrice}</strong> is now expired.<br/>We have set the price to the minimum price of <strong>%{updatedPrice}</strong>. "
-  w_fanfic_always_free: "Aanhangersfiksieboeke is altyd verniet op Leanpub."
-  w_fanfic_of: "Hierdie boek is 'n aanhangersfiksieboek gebaseer op %{work} deur %{author}."
   w_feedback: "Terugvoer"
   w_feedback_blurb_html: "Voel vry om kommentaar m.b.t hierdie boke hieronder te plaas! Van tikfoute identifiseer to skrywes van resensies, u terugvoer kan %{authors} help om dié boek te verbeter vir u en ander leesgenote."
   w_free: "Free!"
@@ -154,7 +149,7 @@ af:
   w_free_updates_html: "If you buy a Leanpub book, you get free updates for as long as the author updates the book! Many authors use Leanpub to publish their books in-progress, while they are writing them. All readers get free updates, regardless of when they bought the book or how much they paid (including free).<br/><br/>Most Leanpub books are available in PDF (for computers) and EPUB (for phones, tablets, and Kindle). The formats that a book includes are shown at the top right corner of this page.<br/><br/>Finally, Leanpub books don't have any DRM copy-protection nonsense, so you can easily read them on any supported device."
   w_free_updates_learn_more: "Learn more about Leanpub's ebook formats and where to read them"
   w_read_free_sample: "Read Free Sample"
-  w_free_to: Gratis aan
+  w_free_to: "Gratis aan"
   w_free_to_read_online: "Free To Read Online"
   w_get_my_free_book: "Kry u gratis boek!"
   w_get_free_terse: "Kry u gratis!"
@@ -164,7 +159,7 @@ af:
   w_happiness_guarantee_days_html: "U kan binne <strong>60 dae vanaf aankoop</strong> 'n <strong>100% terugbetaling</strong> bekom op enige Leanpubaankope, met <strong>twe klieks</strong>. Ons prosesseer terugbetalings met die hand, so hulle mag dalk 'n paar dae neem om te voorskyn te kom. <br><a href=\"/refunds\">See volledige terme</a>"
   w_happiness_guarantee_title: "The Leanpub Onvoorwaardelike, Geen Risiko, 100% Tevredenheidswaarborg"
   w_hero_categories: "Categories"
-  w_installments_completed: Voltooide aflewerings
+  w_installments_completed: "Voltooide aflewerings"
   w_instructors: "Instructors"
   w_interested_short: "Geïnteresseerd in hierdie boek? Wys u ondersteuning en sê hoeveel u bereid is om te betaal!"
   w_interested_course_short: "Interested in this course? Show your support by saying what you'd like to pay for it!"
@@ -207,7 +202,7 @@ af:
   w_learn_more: "Leer meer"
   w_license: "License"
   w_mailchimp_interested_short: "Geïnteresseerd in hierdie boek? Teken in op die outeur se persoonlike e-poslys!"
-  w_minimum: Minimum
+  w_minimum: "Minimum"
   w_minimum_price_colon: "Minimum prys:"
   w_minimum_price: "Minimum prys"
   w_with_membership: "With Membership"
@@ -234,12 +229,12 @@ af:
   w_product_complete: "This %{product} is %{percent_complete} complete."
   w_podcast_episode: "Episode %{episode_number}"
   w_podcast_interview: "An Interview with %{interviewee_name}"
-  w_read: Lees
+  w_read: "Lees"
   w_read_more: "Read More"
   w_read_less: "Read Less"
-  w_read_online: Lees aanlyn
-  w_reader: Leser
-  w_readers: Lesers
+  w_read_online: "Lees aanlyn"
+  w_reader: "Leser"
+  w_readers: "Lesers"
   w_reader_count: "with %{count} Readers"
   w_reader_feedback: "Leserterugvoer"
   w_reader_list_blurb: "You've also encouraged this author and given them valuable information about the interest in this book!"
@@ -259,7 +254,7 @@ af:
   w_shopping_cart_empty: "Your shopping cart is empty!"
   w_subtotal: "Subtotal"
   w_successfully_signed_up: "You've successfully signed up to be notified when this course is published"
-  w_suggested: Voorgestel
+  w_suggested: "Voorgestel"
   w_suggested_price_colon: "Voorgestelde prys:"
   w_suggested_price: "Voorgestelde prys"
   w_suspended_coupon_tooltip_html: "Leanpub often includes coupons in weekly and monthly sale newsletters.<br/>These coupons typically last a week, but authors can edit them to expire as well.<br/>Authors can also create their own coupons."
@@ -269,7 +264,7 @@ af:
   w_toc_and_privacy_policy_html: "By continuing, you agree to our <a rel='noopener noreferrer' target='_blank' href='/terms' className='link'>Terms of Service</a> and acknowledge our <a rel='noopener noreferrer' target='_blank' href='/privacy' className='link'>Privacy Policy</a>."
   w_token_or_password: "Intekenkenteken of rekeningswagwoord"
   w_total: "Totaal"
-  w_translation: Vertaling
+  w_translation: "Vertaling"
   w_tweet_text: "Lees %{title}"
   w_type_your_message_to_the_author: "Tik u boodskap aan die outeur hier onder"
   w_unit_price_in_usd: "Unit Price in US $"
@@ -285,16 +280,8 @@ af:
   w_you_pay: "U betaal"
   w_your_shopping_cart: "Your Shopping Cart"
   w_your_wishlist: "Your Wish List"
-
-#########################
-# Fields for aria-labels
-#########################
   a_add_title_to_cart: "Add %{title} to Cart"
   a_visit_publisher: "Visit %{publisher}'s page"
-
-#######################
-# Fields for books
-#######################
   p_book_edition: "This is the %{edition} of this Leanpub book, which may not include all of the content of the full book. The full book is available at \\url{%{url}}"
   p_book_edition_html: "This is the %{edition} of this Leanpub book, which may not include all of the content of the full book. The full book is available at <a href=\"%{url}\">%{url}</a>"
   p_book_for_sale_at: "Hierdie boek is te koop by \\url{%{url}}"
@@ -314,10 +301,6 @@ af:
   p_also_by_single_author_title: "Ook deur \\href{https://leanpub.com/u/%{username}}{%{name}}"
   p_teaser_text: "This content is not available in the sample book. The book can be purchased on Leanpub at <%{url}>."
   p_teaser_text_with_edition: "This content is not available in the %{edition}. The book can be purchased on Leanpub at <%{url}>."
-
-#######################
-# Kaminari Pagination
-#######################
   views:
     pagination:
       first: "Eerste"

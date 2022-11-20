@@ -5,10 +5,11 @@
 # Hungarian
 # 2 letter code = hu. 3 letter code = hun.
 ###
+---
 hu:
   support:
     array:
-      last_word_connector: " és " # Used in to_sentence
+      last_word_connector: " és "
   w_author_earns:
     one: "Szerző jutaléka"
     other: "Szerzők jutaléka"
@@ -27,10 +28,6 @@ hu:
   w_included_in_bundle:
     one: "Az alábbi könyv található ebben a csomagban..."
     other: "Az alábbi %{count} könyv található ebben a csomagban..."
-
-############################################
-# With plurals above, without plurals below.
-############################################
   w_about_author: "A szerzőről"
   w_about_authors: "A szerzőkről"
   w_about_book: "A könyvről"
@@ -145,8 +142,6 @@ hu:
   w_eu_vat_hint_html: "<span class='text-bold'>EU-beli vásárlók:</span> Az ár nem tartalmazza a forgalmi adót.<br/> A forgalmi adót a vásárlás során kell kifizetni."
   w_expired_coupon_tooltip_html: "A Leanpub gyakran ad kuponokat a heti vagy havi hírleveleiben.<br/>Ezek a kuponok jellemzően egy hétre szólnak, de a szerzők ezen tudnak rövidíteni.<br/>A szerzők saját kuponokat is létrehozhatnak."
   w_expired_coupon_warning_html: "A <strong>%{unitPrice}</strong> árra vonatkozó kupon lejárt.<br/>Az árat beállítottuk, ahol <strong>%{updatedPrice}</strong> a legalacsonyabb ár. "
-  w_fanfic_always_free: "A fan fiction könyvek mindig ingyenesek a Leanpubon."
-  w_fanfic_of: "Ez a könyv egy fan fiction kiadvány, amely a(z) %{work} könyvön alapszik és %{author} írta."
   w_feedback: "Visszajelzés"
   w_feedback_blurb_html: "Ide kérjük a könyvvel kapcsolatos véleményt! Szóljon az egy egyszerű elgépelésről vagy legyen egy kiadós kritika, a visszajelzés segít a %{authors} számára, hogy még jobbá tegye a könyvetaz olvasóknak."
   w_free: "Ingyenes!"
@@ -285,16 +280,8 @@ hu:
   w_you_pay: "Fizetendő"
   w_your_shopping_cart: "A kosár tartalma"
   w_your_wishlist: "A kívánságlista tartalma"
-
-#########################
-# Fields for aria-labels
-#########################
   a_add_title_to_cart: "%{title} hozzáadása a kosárhoz"
   a_visit_publisher: "%{publisher} honlapjának meglátogatása"
-
-#######################
-# Fields for books
-#######################
   p_book_edition: "Ez a %{edition} kiadása a Leanpubon megjelentetett könyvnek, amely tartalmilag nem feltétlenül egyezik meg a teljes könyvvel. A teljes könyv a következő címen érhető el: \\url{%{url}}"
   p_book_edition_html: "Ez a %{edition} kiadás a Leanpubon megjelentetett könyvnek, amely tartalmilag nem feltétlenül egyezik meg a teljes könyvvel. A teljes könyv a következő címen érhető el: <a href=\"%{url}\">%{url}</a>"
   p_book_for_sale_at: "Ez a könyv megvásárolható: \\url{%{url}}"
@@ -314,10 +301,6 @@ hu:
   p_also_by_single_author_title: "A szerző további könyvei: \\href{https://leanpub.com/u/%{username}}{%{name}}"
   p_teaser_text: "Ez a tartalom nem érhető el a minta részeként. A könyv megvásárolható a Leanpubon, a <%{url}> címen."
   p_teaser_text_with_edition: "Ez a tartalom nem érhető el a %{edition} változatban. A könyv megvásárolható Leanpubon, a <%{url}> címen."
-
-#######################
-# Kaminari Pagination
-#######################
   views:
     pagination:
       first: "Első"

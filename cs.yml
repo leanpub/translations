@@ -5,10 +5,11 @@
 # Czech
 # 2 letter code = cs. 3 letter code = ces.
 ###
+---
 cs:
   support:
     array:
-      last_word_connector: " a " # Used in to_sentence
+      last_word_connector: " a "
   w_author_earns:
     one: "Autor získá"
     few: "Autoři získají"
@@ -33,10 +34,6 @@ cs:
     one: "The following book is included in this bundle..."
     few: "The following %{count} books are included in this bundle..."
     other: "The following %{count} books are included in this bundle..."
-
-############################################
-# With plurals above, without plurals below.
-############################################
   w_about_author: "O autorovi"
   w_about_authors: "O autorech"
   w_about_book: "O knize"
@@ -151,8 +148,6 @@ cs:
   w_eu_vat_hint_html: "<span class='text-bold'>EU customers:</span> Price excludes VAT.<br/> VAT is added during checkout."
   w_expired_coupon_tooltip_html: "Leanpub often includes coupons in weekly and monthly sale newsletters.<br/>These coupons typically last a week, but authors can edit them to expire as well.<br/>Authors can also create their own coupons."
   w_expired_coupon_warning_html: "The coupon for <strong>%{unitPrice}</strong> is now expired.<br/>We have set the price to the minimum price of <strong>%{updatedPrice}</strong>. "
-  w_fanfic_always_free: "Knihy vytvořené z originálů na základě fikce jejich fanoušků (fanfiction) jsou na Leanpub vždy zadarmo."
-  w_fanfic_of: "Tato kniha je z %{work} fanouškovskou fikcí a z %{author} autorovým originálem."
   w_feedback: "Zpětná vazba"
   w_feedback_blurb_html: "Komentáře k této knize můžete psát níže! Od nalezených překlepů po napsání recenze, vaše zpětná vazba může pomoci %{authors} zlepšit tuto knihu pro vás i další čtenáře."
   w_free: "zdarma!"
@@ -170,7 +165,7 @@ cs:
   w_happiness_guarantee_days_html: "Do <strong>60 dní po nákupu</strong> můžete dostat <strong>100% peněz zpět</strong> z každého nákupu na Leanpub, na <strong>dvě kliknutí</strong>. <br><a href=\"/refunds\">Úplné znění podmínek</a>"
   w_happiness_guarantee_title: "Leanpub bez podmínek, žádné riziko, 100% záruka spokojenosti"
   w_hero_categories: "Categories"
-  w_installments_completed: Plně splaceno
+  w_installments_completed: "Plně splaceno"
   w_instructors: "Instructors"
   w_interested_short: "Máte zájem o tuto knihu? Vyjádřete svoji podporu tak, že řeknete, kolik byste za ni zaplatil/a!"
   w_interested_course_short: "Interested in this course? Show your support by saying what you'd like to pay for it!"
@@ -291,16 +286,8 @@ cs:
   w_you_pay: "Platíte"
   w_your_shopping_cart: "Your Shopping Cart"
   w_your_wishlist: "Your Wish List"
-
-#########################
-# Fields for aria-labels
-#########################
   a_add_title_to_cart: "Add %{title} to Cart"
   a_visit_publisher: "Visit %{publisher}'s page"
-
-#######################
-# Fields for books
-#######################
   p_book_edition: "This is the %{edition} of this Leanpub book, which may not include all of the content of the full book. The full book is available at \\url{%{url}}"
   p_book_edition_html: "This is the %{edition} of this Leanpub book, which may not include all of the content of the full book. The full book is available at <a href=\"%{url}\">%{url}</a>"
   p_book_for_sale_at: "Tato kniha se prodává na \\url{%{url}}"
@@ -320,10 +307,6 @@ cs:
   p_also_by_single_author_title: "A také od \\href{https://leanpub.com/u/%{username}}{%{name}}"
   p_teaser_text: "This content is not available in the sample book. The book can be purchased on Leanpub at <%{url}>."
   p_teaser_text_with_edition: "This content is not available in the %{edition}. The book can be purchased on Leanpub at <%{url}>."
-
-#######################
-# Kaminari Pagination
-#######################
   views:
     pagination:
       first: "První"

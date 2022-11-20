@@ -5,10 +5,11 @@
 # Dutch
 # 2 letter code = nl. 3 letter code = dut.
 ###
+---
 nl:
   support:
     array:
-      last_word_connector: " en " # Used in to_sentence
+      last_word_connector: " en "
   w_author_earns:
     one: "Auteur verdient"
     other: "Auteurs verdienen"
@@ -27,10 +28,6 @@ nl:
   w_included_in_bundle:
     one: "In deze bundle zit het volgende boek..."
     other: "In deze bundle zitten volgende %{count} boeken..."
-
-############################################
-# With plurals above, without plurals below.
-############################################
   w_about_author: "Over de auteur"
   w_about_authors: "Over de auteurs"
   w_about_book: "Over het boek"
@@ -145,8 +142,6 @@ nl:
   w_eu_vat_hint_html: "<span class='text-bold'>EU customers:</span> Price excludes VAT.<br/> VAT is added during checkout."
   w_expired_coupon_tooltip_html: "Leanpub often includes coupons in weekly and monthly sale newsletters.<br/>These coupons typically last a week, but authors can edit them to expire as well.<br/>Authors can also create their own coupons."
   w_expired_coupon_warning_html: "The coupon for <strong>%{unitPrice}</strong> is now expired.<br/>We have set the price to the minimum price of <strong>%{updatedPrice}</strong>. "
-  w_fanfic_always_free: "Fanfiction boeken zijn altijd gratis op Leanpub."
-  w_fanfic_of: "Dit boek is fanfiction gebaseerd op %{work} van %{author}."
   w_feedback: "Feedback"
   w_feedback_blurb_html: "Voel je vrij om hieronder je opmerkingen over dit boek te plaatsen! Van het identificeren van typefouten tot het schrijven van recensies, uw feedback kan %{auteurs} helpen dit boek te verbeteren voor u en uw medelezers."
   w_free: "Gratis!"
@@ -285,16 +280,8 @@ nl:
   w_you_pay: "U betaalt"
   w_your_shopping_cart: "Jouw Winkelwagen"
   w_your_wishlist: "Jouw verlanglijst"
-
-#########################
-# Fields for aria-labels
-#########################
   a_add_title_to_cart: "Voeg %{title} toe aan Winkelwagen"
   a_visit_publisher: "Bezoek %{publisher}'s pagina"
-
-#######################
-# Fields for books
-#######################
   p_book_edition: "Dit is de %{edition} van dit Leanpub book, die mogelijk niet alle inhoud van het volledige boek bevat. Het volledige boek is verkrijgbaar bij \\url{%{url}}"
   p_book_edition_html: "Dit is de %{edition} van dit Leanpub boek, die mogelijk niet alle inhoud van het volledige boek bevat. Het volledige boek is verkrijgbaar bij <a href=\"%{url}\">%{url}</a>"
   p_book_for_sale_at: "Dit boek is te koop bij \\url{%{url}}"
@@ -314,10 +301,6 @@ nl:
   p_also_by_single_author_title: "Ook door \\href{https://leanpub.com/u/%{username}}{%{name}}"
   p_teaser_text: "Deze inhoud is niet beschikbaar in het sample boek. Het boek kan aangekocht worden op deze Leanpub link: <%{url}>."
   p_teaser_text_with_edition: "Deze inhoud is niet beschikbaar in de %{edition}. Het boek kan aangekocht worden op deze Leanpub link: <%{url}>."
-
-#######################
-# Kaminari Pagination
-#######################
   views:
     pagination:
       first: "Eerste"
