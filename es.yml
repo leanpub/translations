@@ -121,7 +121,7 @@ es:
   w_download_sample: "Descargar el PDF de ejemplo"
   w_edit: "Edit"
   w_eighty_percent_royalties: "80% Royalties. Earn $16 on a $20 book."
-  w_eighty_percent_royalties_counter_message_html: "We pay <strong>80% royalties</strong>. That's not a typo: <strong>you earn $16 on a $20 sale</strong>. If we sell <strong>5000</strong> non-refunded copies of your book or course for <strong>$20</strong>, you'll earn <strong>$80,000</strong>.<br/><br/><em>(Yes, some authors have already earned much more than that on Leanpub.)</em><br/><br/>In fact, authors have earned<span class='royalties-counter__price'><a href='/authors'>%{total_royalties}</a></span>writing, publishing and selling on Leanpub.<br/><br/><strong><a href='/authors' class='link'>Learn more about writing on Leanpub</a></strong>"
+  w_eighty_percent_royalties_counter_message_html: "We pay <strong>80% royalties</strong>. That's not a typo: <strong>you earn $16 on a $20 sale</strong>. If we sell <strong>5000</strong> non-refunded copies of your book or course for <strong>$20</strong>, you'll earn <strong>$80,000</strong>.<br/><br/><em>(Yes, some authors have already earned much more than that on Leanpub.)</em><br/><br/>In fact, authors have earned<span class='royalties-counter__price'><a href='/authors'>over $12 million USD</a></span>writing, publishing and selling on Leanpub.<br/><br/><strong><a href='/authors' class='link'>Learn more about writing on Leanpub</a></strong>"
   w_email: "Email"
   w_email_the_author: "Escribe al autor"
   w_email_the_authors: "Escribe al autor / los autores"
