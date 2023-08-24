@@ -1,6 +1,6 @@
 ###
 # Leanpub website text portions.
-# Copyright (c) 2010-2022 Ruboss Technology Corporation.
+# Copyright (c) 2010-2023 Ruboss Technology Corporation.
 #
 # Korean
 # 2 letter code = ko. 3 letter code = kor.
@@ -121,7 +121,7 @@ ko:
   w_download_sample: "PDF 샘플"
   w_edit: "변경하기"
   w_eighty_percent_royalties: "80% Royalties. Earn $16 on a $20 book."
-  w_eighty_percent_royalties_counter_message_html: "We pay <strong>80% royalties</strong>. That's not a typo: <strong>you earn $16 on a $20 sale</strong>. If we sell <strong>5000</strong> non-refunded copies of your book or course for <strong>$20</strong>, you'll earn <strong>$80,000</strong>.<br/><br/><em>(Yes, some authors have already earned much more than that on Leanpub.)</em><br/><br/>In fact, authors have earned<span class='royalties-counter__price'><a href='/authors'>over $12 million USD</a></span>writing, publishing and selling on Leanpub.<br/><br/><strong><a href='/authors' class='link'>Learn more about writing on Leanpub</a></strong>"
+  w_eighty_percent_royalties_counter_message_html: "We pay <strong>80% royalties</strong>. That's not a typo: <strong>you earn $16 on a $20 sale</strong>. If we sell <strong>5000</strong> non-refunded copies of your book or course for <strong>$20</strong>, you'll earn <strong>$80,000</strong>.<br/><br/><em>(Yes, some authors have already earned much more than that on Leanpub.)</em><br/><br/>In fact, authors have earned<span class='royalties-counter__price'><a href='/authors'>over $12 million</a></span>writing, publishing and selling on Leanpub.<br/><br/><strong><a href='/authors' class='link'>Learn more about writing on Leanpub</a></strong>"
   w_email: "이메일"
   w_email_the_author: "작가의 이메일"
   w_email_the_authors: "작가들의 이메일"
@@ -183,8 +183,8 @@ ko:
   w_lang_swe: "스웨덴어"
   w_lang_tur: "터키어"
   w_lang_uig: "위구르어"
-  w_lang_zh_Hans: "Chinese (Simplified)"
-  w_lang_zh_Hant: "Chinese (Traditional)"
+  w_lang_zho_Hans: "Chinese (Simplified)"
+  w_lang_zho_Hant: "Chinese (Traditional)"
   w_language_options_body: "또한 이 책은 다음의 언어들(혹은 현재 번역이 진행중)로 구매가 가능합니다."
   w_last_updated_time: "%{updated_at}에 마지막으로 업데이트 되었습니다."
   w_leanpub_reader_membership_required_html: "Your cart contains one or more books, bundles, courses or tracks which require a <strong>Reader Membership</strong> to be purchased for free."

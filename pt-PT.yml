@@ -1,17 +1,17 @@
 ###
 # Leanpub website text portions.
-# Copyright (c) 2010-2022 Ruboss Technology Corporation.
+# Copyright (c) 2010-2023 Ruboss Technology Corporation.
 #
 # Portuguese (European)
 # For simplicity, we are modifying the code2 to be a custom non-ISO code that is more than 2 letters, and we are then
 # using it to uniquely identify the language and locale. This way we can just have languages instead of dealing with
 # locales, dialects, topolects, etc.
 #
-# Custom code2 = pt_PT, custom code3 = por_PT.
+# Custom code2 = pt-PT, custom code3 = por_PT.
 # NOTE: ISO code2 = pt; ISO code3 = por.
 ###
 ---
-pt_PT:
+pt-PT:
   support:
     array:
       last_word_connector: " e "
@@ -126,7 +126,7 @@ pt_PT:
   w_download_sample: "Download de um PDF de amostra"
   w_edit: "Editar"
   w_eighty_percent_royalties: "80% Royalties. Earn $16 on a $20 book."
-  w_eighty_percent_royalties_counter_message_html: "We pay <strong>80% royalties</strong>. That's not a typo: <strong>you earn $16 on a $20 sale</strong>. If we sell <strong>5000</strong> non-refunded copies of your book or course for <strong>$20</strong>, you'll earn <strong>$80,000</strong>.<br/><br/><em>(Yes, some authors have already earned much more than that on Leanpub.)</em><br/><br/>In fact, authors have earned<span class='royalties-counter__price'><a href='/authors'>over $12 million USD</a></span>writing, publishing and selling on Leanpub.<br/><br/><strong><a href='/authors' class='link'>Learn more about writing on Leanpub</a></strong>"
+  w_eighty_percent_royalties_counter_message_html: "We pay <strong>80% royalties</strong>. That's not a typo: <strong>you earn $16 on a $20 sale</strong>. If we sell <strong>5000</strong> non-refunded copies of your book or course for <strong>$20</strong>, you'll earn <strong>$80,000</strong>.<br/><br/><em>(Yes, some authors have already earned much more than that on Leanpub.)</em><br/><br/>In fact, authors have earned<span class='royalties-counter__price'><a href='/authors'>over $12 million</a></span>writing, publishing and selling on Leanpub.<br/><br/><strong><a href='/authors' class='link'>Learn more about writing on Leanpub</a></strong>"
   w_email: "E-mail"
   w_email_the_author: "Envie um E-mail para o autor"
   w_email_the_authors: "Envie um E-mail para os autores"
@@ -188,8 +188,8 @@ pt_PT:
   w_lang_swe: "Sueco"
   w_lang_tur: "Turco"
   w_lang_uig: "Uyghur"
-  w_lang_zh_Hans: "Chinese (Simplified)"
-  w_lang_zh_Hant: "Chinese (Traditional)"
+  w_lang_zho_Hans: "Chinese (Simplified)"
+  w_lang_zho_Hant: "Chinese (Traditional)"
   w_language_options_body: "Este livro foi traduzido (ou está sendo traduzido) para os seguintes idiomas:"
   w_last_updated_time: "Última atualização: %{updated_at}"
   w_leanpub_reader_membership_required_html: "Your cart contains one or more books, bundles, courses or tracks which require a <strong>Reader Membership</strong> to be purchased for free."

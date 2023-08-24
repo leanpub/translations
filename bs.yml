@@ -1,18 +1,12 @@
 ###
 # Leanpub website text portions.
-# Copyright (c) 2010-2022 Ruboss Technology Corporation.
+# Copyright (c) 2010-2023 Ruboss Technology Corporation.
 #
-# Serbian (Latin)
-# For simplicity, we are modifying the code2 to be a custom non-ISO code that is more than 2 letters, and we are then
-# using it to uniquely identify the language and locale. This way we can just have languages instead of dealing with
-# locales, dialects, topolects, etc.
-#
-# TODO: We do not have a localization for this yet. Either get help or use Google Translate.
-#
-# 2 letter code = sr_Latn. 3 letter code = srp.
+# Bosnian
+# 2 letter code = bs. 3 letter code = bos.
 ###
 ---
-sr_Latn:
+bs:
   support:
     array:
       last_word_connector: " and "
@@ -44,7 +38,7 @@ sr_Latn:
   w_about_the_publisher: "About the Publisher"
   w_accept_all_and_checkout: "Accept All Price Changes and Checkout"
   w_add_bundle_to_cart: "Add Ebook Bundle to Cart"
-  w_add_ebook_to_cart: "Add Ebook to Cart"
+  w_add_ebook_to_cart: "Dodaj Ebook u Korpu"
   w_add_course_to_cart: "Add Course to Cart"
   w_add_course_set_to_cart: "Add Track to Cart"
   w_add_to_wishlist: "Add to Wish List"
@@ -84,7 +78,7 @@ sr_Latn:
   w_bundle_share: "Share this bundle"
   w_bundle_suggested_price_html: "The suggested bundle price is <strong>%{suggested}</strong>, and the minimum bundle price is…"
   w_bundles_available: "Bundles Available"
-  w_bundles_included: "This book is also available in these bundles:"
+  w_bundles_included: "Bundles that include this book"
   w_buy_for: "I would pay…"
   w_buy_now: "Buy the ebook now!"
   w_buy_now_terse: "Buy Now"
@@ -127,7 +121,7 @@ sr_Latn:
   w_download_sample: "Sample PDF"
   w_edit: "Edit"
   w_eighty_percent_royalties: "80% Royalties. Earn $16 on a $20 book."
-  w_eighty_percent_royalties_counter_message_html: "We pay <strong>80% royalties</strong>. That's not a typo: <strong>you earn $16 on a $20 sale</strong>. If we sell <strong>5000</strong> non-refunded copies of your book or course for <strong>$20</strong>, you'll earn <strong>$80,000</strong>.<br/><br/><em>(Yes, some authors have already earned much more than that on Leanpub.)</em><br/><br/>In fact, authors have earned<span class='royalties-counter__price'><a href='/authors'>over $12 million USD</a></span>writing, publishing and selling on Leanpub.<br/><br/><strong><a href='/authors' class='link'>Learn more about writing on Leanpub</a></strong>"
+  w_eighty_percent_royalties_counter_message_html: "We pay <strong>80% royalties</strong>. That's not a typo: <strong>you earn $16 on a $20 sale</strong>. If we sell <strong>5000</strong> non-refunded copies of your book or course for <strong>$20</strong>, you'll earn <strong>$80,000</strong>.<br/><br/><em>(Yes, some authors have already earned much more than that on Leanpub.)</em><br/><br/>In fact, authors have earned<span class='royalties-counter__price'><a href='/authors'>over $12 million</a></span>writing, publishing and selling on Leanpub.<br/><br/><strong><a href='/authors' class='link'>Learn more about writing on Leanpub</a></strong>"
   w_email: "Email"
   w_email_the_author: "Email the Author"
   w_email_the_authors: "Email the Author(s)"
@@ -182,15 +176,15 @@ sr_Latn:
   w_lang_por_PT: "Portuguese (European)"
   w_lang_rum: "Romanian"
   w_lang_rus: "Russian"
-  w_lang_srp_Cyrl: "Srpski (ćirilica)"
-  w_lang_srp_Latn: "Srpski (latinica)"
+  w_lang_srp_Cyrl: "Serbian (Cyrillic)"
+  w_lang_srp_Latn: "Serbian (Latin)"
   w_lang_slv: "Slovenian"
   w_lang_spa: "Spanish"
   w_lang_swe: "Swedish"
   w_lang_tur: "Turkish"
   w_lang_uig: "Uyghur"
-  w_lang_zh_Hans: "Chinese (Simplified)"
-  w_lang_zh_Hant: "Chinese (Traditional)"
+  w_lang_zho_Hans: "Chinese (Simplified)"
+  w_lang_zho_Hant: "Chinese (Traditional)"
   w_language_options_body: "This book is also available for purchase in (or is currently being translated into) the following languages:"
   w_last_updated_time: "Last updated on %{updated_at}"
   w_leanpub_reader_membership_required_html: "Your cart contains one or more books, bundles, courses or tracks which require a <strong>Reader Membership</strong> to be purchased for free."
@@ -215,7 +209,7 @@ sr_Latn:
   w_notify_when: "Notify Me When This Is Published"
   w_now_only: "Get them now for only"
   w_one_year_reader_membership: "One Year Reader Membership"
-  w_one_year_reader_membership_thanks: "Thanks for supporting Leanpub authors, and Leanpub, with your 1-year Leanpub Reader membership!"
+  w_one_year_reader_membership_thanks: "Thanks for supporting Leanpub authors, and Leanpub, with your 1 year Leanpub Reader membership!"
   w_optional: "Optional"
   w_ownership_book_hint_html: "You own this book! You can view it in your <a href='/user_dashboard/library'> Library </a>"
   w_ownership_course_hint_html: "You own this course! You can view it in your <a href='/user_dashboard/courses'> Library </a>"
@@ -273,7 +267,7 @@ sr_Latn:
   w_token_or_password: "Login Token or Account Password"
   w_total: "Total"
   w_translation: "Translation"
-  w_tweet_text: "Read %{title}"
+  w_tweet_text: "Read %{title} on Leanpub!"
   w_type_your_message_to_the_author: "Type your message to the author below"
   w_unit_price_in_usd: "Unit Price in US $"
   w_unpublished: "Unpublished"

@@ -1,6 +1,6 @@
 ###
 # Leanpub website text portions.
-# Copyright (c) 2010-2022 Ruboss Technology Corporation.
+# Copyright (c) 2010-2023 Ruboss Technology Corporation.
 #
 # French
 # 2 letter code = fr. 3 letter code = fre.
@@ -121,7 +121,7 @@ fr:
   w_download_sample: "Télécharger un extrait au format PDF"
   w_edit: "Edit"
   w_eighty_percent_royalties: "80% Royalties. Earn $16 on a $20 book."
-  w_eighty_percent_royalties_counter_message_html: "We pay <strong>80% royalties</strong>. That's not a typo: <strong>you earn $16 on a $20 sale</strong>. If we sell <strong>5000</strong> non-refunded copies of your book or course for <strong>$20</strong>, you'll earn <strong>$80,000</strong>.<br/><br/><em>(Yes, some authors have already earned much more than that on Leanpub.)</em><br/><br/>In fact, authors have earned<span class='royalties-counter__price'><a href='/authors'>over $12 million USD</a></span>writing, publishing and selling on Leanpub.<br/><br/><strong><a href='/authors' class='link'>Learn more about writing on Leanpub</a></strong>"
+  w_eighty_percent_royalties_counter_message_html: "We pay <strong>80% royalties</strong>. That's not a typo: <strong>you earn $16 on a $20 sale</strong>. If we sell <strong>5000</strong> non-refunded copies of your book or course for <strong>$20</strong>, you'll earn <strong>$80,000</strong>.<br/><br/><em>(Yes, some authors have already earned much more than that on Leanpub.)</em><br/><br/>In fact, authors have earned<span class='royalties-counter__price'><a href='/authors'>over $12 million</a></span>writing, publishing and selling on Leanpub.<br/><br/><strong><a href='/authors' class='link'>Learn more about writing on Leanpub</a></strong>"
   w_email: "E-mail"
   w_email_the_author: "Envoyer un e-mail à l'auteur"
   w_email_the_authors: "Écrire à l'auteur"
@@ -183,8 +183,8 @@ fr:
   w_lang_swe: "Suédois"
   w_lang_tur: "Turc"
   w_lang_uig: "Ouïghour"
-  w_lang_zh_Hans: "Chinois (simplifié)"
-  w_lang_zh_Hant: "Chinois (traditionnel)"
+  w_lang_zho_Hans: "Chinois (simplifié)"
+  w_lang_zho_Hant: "Chinois (traditionnel)"
   w_language_options_body: "Ce livre a été traduit (ou est en cours de traduction) dans les langues suivantes :"
   w_last_updated_time: "Le livre a été mis à jour pour la dernière fois le %{updated_at}"
   w_leanpub_reader_membership_required_html: "Your cart contains one or more books, bundles, courses or tracks which require a <strong>Reader Membership</strong> to be purchased for free."
