@@ -2,13 +2,14 @@
 # Leanpub website text portions.
 # Copyright (c) 2010-2023 Ruboss Technology Corporation.
 #
-# English
-# 2 letter code = en. 3 letter code = eng.
+# Greek
+# 2 letter code = el. 3 letter code = gre.
 ###
-en:
+---
+el:
   support:
     array:
-      last_word_connector: " and " # Used in to_sentence
+      last_word_connector: " and "
   w_author_earns:
     one: "Author earns"
     other: "Authors earn"
@@ -27,10 +28,6 @@ en:
   w_included_in_bundle:
     one: "The following book is included in this bundle..."
     other: "The following %{count} books are included in this bundle..."
-
-############################################
-# With plurals above, without plurals below.
-############################################
   w_about_author: "About the Author"
   w_about_authors: "About the Authors"
   w_about_book: "About the Book"
@@ -41,7 +38,7 @@ en:
   w_about_the_publisher: "About the Publisher"
   w_accept_all_and_checkout: "Accept All Price Changes and Checkout"
   w_add_bundle_to_cart: "Add Ebook Bundle to Cart"
-  w_add_ebook_to_cart: "Add Ebook to Cart"
+  w_add_ebook_to_cart: "Προσθήκη ηλεκτρονικού βιβλίου στο καλάθι"
   w_add_course_to_cart: "Add Course to Cart"
   w_add_course_set_to_cart: "Add Track to Cart"
   w_add_to_wishlist: "Add to Wish List"
@@ -83,7 +80,7 @@ en:
   w_bundles_available: "Bundles Available"
   w_bundles_included: "Bundles that include this book"
   w_buy_for: "I would pay…"
-  w_buy_now: "Buy the ebook now!"
+  w_buy_now: "Αγόρασε το ηλεκτρονικό βιβλίο τώρα!"
   w_buy_now_terse: "Buy Now"
   w_buy_now_stripe: "Buy Now with Stripe"
   w_buy_now_paypal: "Buy Now with PayPal"
@@ -153,50 +150,50 @@ en:
   w_happiness_guarantee_days_html: "Within <strong>60 days of purchase</strong> you can get a <strong>100% refund</strong> on any Leanpub purchase, in <strong>two clicks</strong>. <br/><br/><a href=\"/refunds\">See full terms</a>"
   w_happiness_guarantee_title: "The Leanpub 60-day 100% Happiness Guarantee"
   w_hero_categories: "Categories"
-  w_installments_completed: Installments completed
+  w_installments_completed: "Installments completed"
   w_instructors: "Instructors"
   w_interested_short: "Interested in this book? Show your support by saying what you'd like to pay for it!"
   w_interested_course_short: "Interested in this course? Show your support by saying what you'd like to pay for it!"
-  w_lang_afr: "Afrikaans"
-  w_lang_ara: "Arabic"
-  w_lang_bos: "Bosnian"
-  w_lang_hrv: "Croatian"
-  w_lang_ces: "Czech"
-  w_lang_dan: "Danish"
-  w_lang_dut: "Dutch"
-  w_lang_eng: "English"
-  w_lang_fas: "Farsi"
-  w_lang_fin: "Finnish"
-  w_lang_fre: "French"
-  w_lang_ger: "German"
-  w_lang_gre: "Greek"
-  w_lang_heb: "Hebrew"
-  w_lang_hin: "Hindi"
-  w_lang_hun: "Hungarian"
-  w_lang_ind: "Indonesian"
-  w_lang_ita: "Italian"
-  w_lang_jpn: "Japanese"
-  w_lang_kor: "Korean"
-  w_lang_nob: "Norwegian (Bokmål)"
-  w_lang_nno: "Norwegian (Nynorsk)"
-  w_lang_pol: "Polish"
-  w_lang_pan: "Punjabi"
-  w_lang_por_BR: "Portuguese (Brazilian)"
-  w_lang_por_PT: "Portuguese (European)"
-  w_lang_rum: "Romanian"
-  w_lang_rus: "Russian"
-  w_lang_srp_Cyrl: "Serbian (Cyrillic)"
-  w_lang_srp_Latn: "Serbian (Latin)"
-  w_lang_slv: "Slovenian"
-  w_lang_spa: "Spanish"
-  w_lang_swe: "Swedish"
-  w_lang_tha: "Thai"
-  w_lang_tur: "Turkish"
-  w_lang_ukr: "Ukrainian"
-  w_lang_uig: "Uyghur"
-  w_lang_vie: "Vietnamese"
-  w_lang_zho_Hans: "Chinese (Simplified)"
-  w_lang_zho_Hant: "Chinese (Traditional)"
+  w_lang_afr: "Αφρικανικά"
+  w_lang_ara: "Αραβικά"
+  w_lang_bos: "Βοσνιακά"
+  w_lang_hrv: "Κροατικά"
+  w_lang_ces: "Τσεχικά"
+  w_lang_dan: "Δανικά"
+  w_lang_dut: "Ολλανδικά"
+  w_lang_eng: "Αγγλικά"
+  w_lang_fas: "Περσικά"
+  w_lang_fin: "Φινλανδικά"
+  w_lang_fre: "Γαλλικά"
+  w_lang_ger: "Γερμανικά"
+  w_lang_gre: "Ελληνικά"
+  w_lang_heb: "Εβραϊκά"
+  w_lang_hin: "Χίντι"
+  w_lang_hun: "Ουγγρικά"
+  w_lang_ind: "Ινδονησιακά"
+  w_lang_ita: "Ιταλικά"
+  w_lang_jpn: "Ιαπωνικά"
+  w_lang_kor: "Κορεατικά"
+  w_lang_nob: "Νορβηγικά (Bokmål)"
+  w_lang_nno: "Νορβηγικά (Nynorsk)"
+  w_lang_pol: "Πολωνικά"
+  w_lang_pan: "Παντζαπικά"
+  w_lang_por_BR: "Πορτογαλικά (Βραζιλίας)"
+  w_lang_por_PT: "Πορτογαλικά (Ευρώπης)"
+  w_lang_rum: "Ρουμανικά"
+  w_lang_rus: "Ρωσικά"
+  w_lang_srp_Cyrl: "Σερβικά (Κυριλλικά)"
+  w_lang_srp_Latn: "Σερβικά (Λατινικά)"
+  w_lang_slv: "Σλοβενικά"
+  w_lang_spa: "Ισπανικά"
+  w_lang_swe: "Σουηδικά"
+  w_lang_tha: "Ταϊλανδέζικα"
+  w_lang_tur: "Τουρκικά"
+  w_lang_ukr: "Ουκρανικά"
+  w_lang_uig: "Ουιγουρικά"
+  w_lang_vie: "Βιετναμέζικα"
+  w_lang_zho_Hans: "Κινεζικά (Απλοποιημένα)"
+  w_lang_zho_Hant: "Κινεζικά (Παραδοσιακά)"
   w_language_options_body: "This book is also available for purchase in (or is currently being translated into) the following languages:"
   w_last_updated_time: "Last updated on %{updated_at}"
   w_leanpub_reader_membership_required_html: "Your cart contains one or more books, bundles, courses or tracks which require a <strong>Reader Membership</strong> to be purchased for free."
@@ -295,16 +292,8 @@ en:
   w_you_pay_in_usd: "You Pay in US $"
   w_your_shopping_cart: "Your Shopping Cart"
   w_your_wishlist: "Your Wish List"
-
-#########################
-# Fields for aria-labels
-#########################
   a_add_title_to_cart: "Add %{title} to Cart"
   a_visit_publisher: "Visit %{publisher}'s page"
-
-#######################
-# Fields for books
-#######################
   p_book_edition: "This is the %{edition} of this Leanpub book, which may not include all of the content of the full book. The full book is available at \\url{%{url}}"
   p_book_edition_html: "This is the %{edition} of this Leanpub book, which may not include all of the content of the full book. The full book is available at <a href=\"%{url}\">%{url}</a>"
   p_book_for_sale_at: "This book is for sale at \\url{%{url}}"
@@ -324,10 +313,6 @@ en:
   p_also_by_single_author_title: "Also By \\href{https://leanpub.com/u/%{username}}{%{name}}"
   p_teaser_text: "This content is not available in the sample book. The book can be purchased on Leanpub at <%{url}>."
   p_teaser_text_with_edition: "This content is not available in the %{edition}. The book can be purchased on Leanpub at <%{url}>."
-
-#######################
-# Kaminari Pagination
-#######################
   views:
     pagination:
       first: "First"
