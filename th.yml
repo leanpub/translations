@@ -2,13 +2,14 @@
 # Leanpub website text portions.
 # Copyright (c) 2010-2023 Ruboss Technology Corporation.
 #
-# English
-# 2 letter code = en. 3 letter code = eng.
+# Thai
+# 2 letter code = th. 3 letter code = tha.
 ###
-en:
+---
+th:
   support:
     array:
-      last_word_connector: " and " # Used in to_sentence
+      last_word_connector: " and "
   w_author_earns:
     one: "Author earns"
     other: "Authors earn"
@@ -27,10 +28,6 @@ en:
   w_included_in_bundle:
     one: "The following book is included in this bundle..."
     other: "The following %{count} books are included in this bundle..."
-
-############################################
-# With plurals above, without plurals below.
-############################################
   w_about_author: "About the Author"
   w_about_authors: "About the Authors"
   w_about_book: "About the Book"
@@ -153,50 +150,50 @@ en:
   w_happiness_guarantee_days_html: "Within <strong>60 days of purchase</strong> you can get a <strong>100% refund</strong> on any Leanpub purchase, in <strong>two clicks</strong>. <br/><br/><a href=\"/refunds\">See full terms</a>"
   w_happiness_guarantee_title: "The Leanpub 60-day 100% Happiness Guarantee"
   w_hero_categories: "Categories"
-  w_installments_completed: Installments completed
+  w_installments_completed: "Installments completed"
   w_instructors: "Instructors"
   w_interested_short: "Interested in this book? Show your support by saying what you'd like to pay for it!"
   w_interested_course_short: "Interested in this course? Show your support by saying what you'd like to pay for it!"
-  w_lang_afr: "Afrikaans"
-  w_lang_ara: "Arabic"
-  w_lang_bos: "Bosnian"
-  w_lang_hrv: "Croatian"
-  w_lang_ces: "Czech"
-  w_lang_dan: "Danish"
-  w_lang_dut: "Dutch"
-  w_lang_eng: "English"
-  w_lang_fas: "Farsi"
-  w_lang_fin: "Finnish"
-  w_lang_fre: "French"
-  w_lang_ger: "German"
-  w_lang_gre: "Greek"
-  w_lang_heb: "Hebrew"
-  w_lang_hin: "Hindi"
-  w_lang_hun: "Hungarian"
-  w_lang_ind: "Indonesian"
-  w_lang_ita: "Italian"
-  w_lang_jpn: "Japanese"
-  w_lang_kor: "Korean"
-  w_lang_nob: "Norwegian (Bokmål)"
-  w_lang_nno: "Norwegian (Nynorsk)"
-  w_lang_pol: "Polish"
-  w_lang_pan: "Punjabi"
-  w_lang_por_BR: "Portuguese (Brazilian)"
-  w_lang_por_PT: "Portuguese (European)"
-  w_lang_rum: "Romanian"
-  w_lang_rus: "Russian"
-  w_lang_srp_Cyrl: "Serbian (Cyrillic)"
-  w_lang_srp_Latn: "Serbian (Latin)"
-  w_lang_slv: "Slovenian"
-  w_lang_spa: "Spanish"
-  w_lang_swe: "Swedish"
-  w_lang_tha: "Thai"
-  w_lang_tur: "Turkish"
-  w_lang_ukr: "Ukrainian"
-  w_lang_uig: "Uyghur"
-  w_lang_vie: "Vietnamese"
-  w_lang_zho_Hans: "Chinese (Simplified)"
-  w_lang_zho_Hant: "Chinese (Traditional)"
+  w_lang_afr: "แอฟริกานส์"
+  w_lang_ara: "อาหรับ"
+  w_lang_bos: "บอสเนีย"
+  w_lang_hrv: "โครเอเชีย"
+  w_lang_ces: "เช็ก"
+  w_lang_dan: "เดนมาร์ก"
+  w_lang_dut: "ดัตช์"
+  w_lang_eng: "อังกฤษ"
+  w_lang_fas: "เปอร์เซีย"
+  w_lang_fin: "ฟินแลนด์"
+  w_lang_fre: "ฝรั่งเศส"
+  w_lang_ger: "เยอรมัน"
+  w_lang_gre: "กรีก"
+  w_lang_heb: "ฮิบรู"
+  w_lang_hin: "ฮินดี"
+  w_lang_hun: "ฮังการี"
+  w_lang_ind: "อินโดนีเซีย"
+  w_lang_ita: "อิตาลี"
+  w_lang_jpn: "ญี่ปุ่น"
+  w_lang_kor: "เกาหลี"
+  w_lang_nob: "นอร์เวย์ (Bokmål)"
+  w_lang_nno: "นอร์เวย์ (Nynorsk)"
+  w_lang_pol: "โปแลนด์"
+  w_lang_pan: "ปัญจาบ"
+  w_lang_por_BR: "โปรตุเกส (บราซิล)"
+  w_lang_por_PT: "โปรตุเกส (ยุโรป)"
+  w_lang_rum: "โรมาเนีย"
+  w_lang_rus: "รัสเซีย"
+  w_lang_srp_Cyrl: "เซอร์เบีย (ซิริลลิก)"
+  w_lang_srp_Latn: "เซอร์เบีย (ละติน)"
+  w_lang_slv: "สโลเวเนีย"
+  w_lang_spa: "สเปน"
+  w_lang_swe: "สวีเดน"
+  w_lang_tha: "ไทย"
+  w_lang_tur: "ตุรกี"
+  w_lang_ukr: "ยูเครน"
+  w_lang_uig: "อุยกูร์"
+  w_lang_vie: "เวียดนาม"
+  w_lang_zho_Hans: "จีน (ตัวย่อ)"
+  w_lang_zho_Hant: "จีน (ตัวเต็ม)"
   w_language_options_body: "This book is also available for purchase in (or is currently being translated into) the following languages:"
   w_last_updated_time: "Last updated on %{updated_at}"
   w_leanpub_reader_membership_required_html: "Your cart contains one or more books, bundles, courses or tracks which require a <strong>Reader Membership</strong> to be purchased for free."
@@ -295,16 +292,8 @@ en:
   w_you_pay_in_usd: "You Pay in US $"
   w_your_shopping_cart: "Your Shopping Cart"
   w_your_wishlist: "Your Wish List"
-
-#########################
-# Fields for aria-labels
-#########################
   a_add_title_to_cart: "Add %{title} to Cart"
   a_visit_publisher: "Visit %{publisher}'s page"
-
-#######################
-# Fields for books
-#######################
   p_book_edition: "This is the %{edition} of this Leanpub book, which may not include all of the content of the full book. The full book is available at \\url{%{url}}"
   p_book_edition_html: "This is the %{edition} of this Leanpub book, which may not include all of the content of the full book. The full book is available at <a href=\"%{url}\">%{url}</a>"
   p_book_for_sale_at: "This book is for sale at \\url{%{url}}"
@@ -324,10 +313,6 @@ en:
   p_also_by_single_author_title: "Also By \\href{https://leanpub.com/u/%{username}}{%{name}}"
   p_teaser_text: "This content is not available in the sample book. The book can be purchased on Leanpub at <%{url}>."
   p_teaser_text_with_edition: "This content is not available in the %{edition}. The book can be purchased on Leanpub at <%{url}>."
-
-#######################
-# Kaminari Pagination
-#######################
   views:
     pagination:
       first: "First"
